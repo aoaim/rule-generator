@@ -134,8 +134,7 @@ async function outputCompiled(config, domains) {
     await new Promise((resolve) => writeStream.on('finish', resolve));
 
     // Generate MRS using mihomo
-    const localMihomoBin = resolve(__dirname, "..", "..", "mihomo");
-    const mihomoBin = fs.existsSync(localMihomoBin) ? `"${localMihomoBin}"` : "mihomo";
+    const mihomoBin = "mihomo";
     try {
         console.log(`Converting to MRS: ${mrsFileName}...`);
         execSync(`${mihomoBin} convert-ruleset domain text "${txtPath}" "${mrsPath}"`, { stdio: 'inherit' });

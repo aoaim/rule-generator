@@ -42,8 +42,7 @@ async function downloadFile(url, dest) {
   }
 }
 
-const localSingBoxBin = resolve(__dirname, "..", "..", "sing-box");
-const singBoxBin = fs.existsSync(localSingBoxBin) ? `"${localSingBoxBin}"` : "sing-box";
+const singBoxBin = "sing-box";
 
 async function convertRule(sourceName, inputPath) {
   const srsFileName = `${sourceName}.srs`;
