@@ -52,8 +52,19 @@ jobs:
           git add -f -A dist/surge/
           if ! git diff --staged --quiet; then
             git commit -m 'actions: Update AdGuard Surge domain sets'
-            git pull --rebase origin main
-            git push origin HEAD:main
+            # Retry logic for push
+            MAX_RETRIES=10
+            for ((i=1; i<=MAX_RETRIES; i++)); do
+              git pull --rebase origin main
+              if git push origin HEAD:main; then
+                echo "Push successful"
+                exit 0
+              fi
+              echo "Push failed, retrying ($i/$MAX_RETRIES)..."
+              sleep $((RANDOM % 10 + 5))
+            done
+            echo "Push failed after $MAX_RETRIES attempts"
+            exit 1
           else
             echo 'No changes to commit'
           fi
