@@ -1,0 +1,51 @@
+name: Fetch and Convert HaGeZi Surge Rules
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "0 0 */2 * *"
+  push:
+    branches:
+      - main
+    paths:
+      - ".github/workflows/hagezi-surge.yml"
+      - "tools/hagezi-surge/**"
+
+permissions:
+  contents: write
+
+jobs:
+  main:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: "20"
+
+      - name: Install Dependencies
+        working-directory: tools/hagezi-surge
+        run: npm install
+
+      - name: Generate Rules
+        working-directory: tools/hagezi-surge
+        run: npm start
+
+      - name: Commit and push changes
+        run: |
+          git config --local user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git config --local user.name "github-actions[bot]"
+
+          # Only commit if there are changes in the output directory
+          git add -f -A dist/surge/
+          if ! git diff --staged --quiet; then
+            git commit -m 'actions: Update HaGeZi Surge rule sets'
+            git pull --rebase origin main
+            git push origin HEAD:main
+          else
+            echo "No changes to commit."
+          fi

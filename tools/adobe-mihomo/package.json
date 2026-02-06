@@ -1,0 +1,14 @@
+{
+  "name": "adobe-mihomo",
+  "version": "1.0.0",
+  "description": "Generate Mihomo rules from Adobe Block Hosts",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "axios": "^1.6.7",
+    "fs-extra": "^11.2.0",
+    "@sindresorhus/slugify": "^1.1.0"
+  }
+}

@@ -1,0 +1,58 @@
+name: Fetch and Convert Adobe Surge Rules
+
+on:
+  workflow_dispatch:
+  push:
+    branches:
+      - main
+    paths:
+      - ".github/workflows/adobe-surge.yml"
+      - "tools/adobe-surge/**"
+  schedule:
+    - cron: "0 0 * * *"
+
+permissions:
+  contents: write
+
+concurrency:
+  group: rule-updates-${{ github.workflow }}-${{ github.ref }}
+  cancel-in-progress: false
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Sync with remote main
+        run: git pull --rebase origin main
+
+      - name: Set up Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: "20"
+
+      - name: Install Dependencies
+        working-directory: tools/adobe-surge
+        run: npm install
+
+      - name: Generate Rules
+        working-directory: tools/adobe-surge
+        run: npm start
+
+      - name: Commit and push changes
+        run: |
+          git config --local user.name "github-actions[bot]"
+          git config --local user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add -f -A dist/surge/
+          if ! git diff --staged --quiet; then
+            git commit -m 'actions: Update Adobe Surge rules'
+            git push origin HEAD:main
+          else
+            echo 'No changes to commit'
+          fi
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}

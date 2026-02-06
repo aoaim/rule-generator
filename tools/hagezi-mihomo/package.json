@@ -1,0 +1,14 @@
+{
+  "name": "hagezi-mihomo-rule-generator",
+  "version": "1.0.0",
+  "description": "Generate Mihomo rules from HaGeZi Wildcard and Native Tracker lists",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "@sindresorhus/slugify": "^1.1.0",
+    "axios": "^1.6.7",
+    "fs-extra": "^11.2.0"
+  }
+}

@@ -1,0 +1,65 @@
+name: Fetch and Convert AdGuard to Sing-box
+
+on:
+  workflow_dispatch:
+  push:
+    branches:
+      - main
+    paths:
+      - ".github/workflows/adguard-singbox.yml"
+      - "tools/adguard-singbox/**"
+  schedule:
+    - cron: "0 0 */2 * *"
+
+permissions:
+  contents: write
+
+concurrency:
+  group: rule-updates-${{ github.workflow }}-${{ github.ref }}
+  cancel-in-progress: false
+
+jobs:
+  main:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Download and Set Up sing-box
+        run: |
+          VERSION="1.14.3"
+          wget -O sing-box.tar.gz https://github.com/SagerNet/sing-box/releases/download/v${VERSION}/sing-box-${VERSION}-linux-amd64.tar.gz
+          tar zxvf sing-box.tar.gz && rm sing-box.tar.gz
+          cp sing-box-${VERSION}-linux-amd64/sing-box /usr/local/bin/sing-box
+          chmod +x /usr/local/bin/sing-box
+          rm -r sing-box-${VERSION}-linux-amd64
+          sing-box version
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: "20"
+
+      - name: Install Dependencies
+        working-directory: tools/adguard-singbox
+        run: npm install
+
+      - name: Generate Rules
+        working-directory: tools/adguard-singbox
+        run: npm start
+
+      - name: Commit and push changes
+        run: |
+          git config --local user.name "github-actions[bot]"
+          git config --local user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add -f -A dist/sing-box/
+          if ! git diff --staged --quiet; then
+            git commit -m 'actions: Update AdGuard SRS rule sets'
+            git pull --rebase origin main
+            git push origin HEAD:main
+          else
+            echo 'No changes to commit'
+          fi
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}

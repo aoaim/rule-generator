@@ -1,0 +1,65 @@
+name: Fetch and Convert Adobe Mihomo Rules
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "0 0 */2 * *"
+  push:
+    branches:
+      - main
+    paths:
+      - ".github/workflows/adobe-mihomo.yml"
+      - "tools/adobe-mihomo/**"
+
+permissions:
+  contents: write
+
+concurrency:
+  group: rule-updates-adobe-${{ github.workflow }}-${{ github.ref }}
+  cancel-in-progress: false
+
+jobs:
+  main:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: "20"
+
+      - name: Download and Set Up mihomo
+        run: |
+          VERSION="v1.19.19"
+          # Download using versioned filename to avoid confusion and allow easy updates
+          wget -O mihomo-${VERSION}.gz "https://github.com/MetaCubeX/mihomo/releases/download/${VERSION}/mihomo-linux-amd64-${VERSION}.gz"
+          gunzip mihomo-${VERSION}.gz
+          chmod +x mihomo-${VERSION}
+          sudo mv mihomo-${VERSION} /usr/local/bin/mihomo
+          mihomo -v
+
+      - name: Install Dependencies
+        working-directory: tools/adobe-mihomo
+        run: npm install
+
+      - name: Generate Rules
+        working-directory: tools/adobe-mihomo
+        run: npm start
+
+      - name: Commit and push changes
+        run: |
+          git config --local user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git config --local user.name "github-actions[bot]"
+
+          # Only commit if there are changes in the output directory
+          git add -f -A dist/mihomo/
+          if ! git diff --staged --quiet; then
+            git commit -m 'actions: Update Adobe Mihomo rule sets'
+            git pull --rebase origin main
+            git push origin HEAD:main
+          else
+            echo "No changes to commit."
+          fi
