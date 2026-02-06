@@ -9,7 +9,7 @@ on:
       - ".github/workflows/adobe-surge.yml"
       - "tools/adobe-surge/**"
   schedule:
-    - cron: "0 0 * * *"
+    - cron: "0 0 */2 * *"
 
 permissions:
   contents: write

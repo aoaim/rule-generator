@@ -33,7 +33,9 @@ The output files will be generated in the `dist/` directory.
 
 ## GitHub Actions
 
-This project is configured to run automatically via GitHub Actions.
+This project is configured to run automatically via GitHub Actions:
+- **Schedule**: Every 2 days at 00:00 UTC.
+- **Triggers**: Also runs on push to `main` branch (when relevant files are changed) or manual dispatch.
 
 ## Acknowledgements
 
