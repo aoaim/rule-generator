@@ -95,10 +95,11 @@ async function outputRules(domains) {
     console.log(`Generated ${txtFileName}`);
 
     // Generate MRS using mihomo
-    const mihomoBin = resolve(__dirname, "..", "..", "mihomo");
+    const localMihomoBin = resolve(__dirname, "..", "..", "mihomo");
+    const mihomoBin = fs.existsSync(localMihomoBin) ? `"${localMihomoBin}"` : "mihomo";
     try {
         console.log(`Converting to MRS: ${mrsFileName}...`);
-        execSync(`"${mihomoBin}" convert-ruleset domain text "${txtPath}" "${mrsPath}"`, { stdio: 'inherit' });
+        execSync(`${mihomoBin} convert-ruleset domain text "${txtPath}" "${mrsPath}"`, { stdio: 'inherit' });
         console.log(`Successfully generated ${mrsFileName}`);
     } catch (error) {
         console.error(`Failed to generate MRS:`, error.message);

@@ -42,7 +42,8 @@ async function downloadFile(url, dest) {
   }
 }
 
-const singBoxBin = resolve(__dirname, "..", "..", "sing-box");
+const localSingBoxBin = resolve(__dirname, "..", "..", "sing-box");
+const singBoxBin = fs.existsSync(localSingBoxBin) ? `"${localSingBoxBin}"` : "sing-box";
 
 async function convertRule(sourceName, inputPath) {
   const srsFileName = `${sourceName}.srs`;
@@ -51,7 +52,7 @@ async function convertRule(sourceName, inputPath) {
   try {
     console.log(`Converting ${sourceName} to ${srsFileName}...`);
     // sing-box rule-set convert "input" --output "output" --type adguard
-    execSync(`"${singBoxBin}" rule-set convert "${inputPath}" --output "${outputPath}" --type adguard`, { stdio: 'inherit' });
+    execSync(`${singBoxBin} rule-set convert "${inputPath}" --output "${outputPath}" --type adguard`, { stdio: 'inherit' });
     return true;
   } catch (error) {
     console.error(`Error converting ${sourceName}:`, error.message);
