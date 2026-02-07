@@ -146,7 +146,6 @@
 .adevents.msn.com
 .adi-airflow.bdp.roku.com
 .adinstantpage16-normal-useastred.tiktokv.eu
-.admin-advertising.roku.com
 .ads-aka-us-east-1.delivery.roku.com
 .ads-aka-us-west-2.delivery.roku.com
 .ads-api.tiktok.com
@@ -286,6 +285,7 @@
 .analytics-exp-i18n.tiktok.com
 .analytics-exp-ru.tiktok.com
 .analytics-exp-sg.tiktok.com
+.analytics-exp-ttp2.tiktokw.eu
 .analytics-exp.us.tiktok.com
 .analytics-i18n.tiktok.com
 .analytics-ie.tiktokw.eu
@@ -551,7 +551,6 @@
 .bugreport.xiaomi.net
 .bugs.firebat.prime-video.amazon.dev
 .bugsnag-event.monitor.core.app.alexa.a2z.com
-.bugsnag-session.monitor.core.app.alexa.a2z.com
 .bugsnag.appstore.a2z.com
 .bugsnag.shopbop.amazon.dev
 .business-api.tiktok.com
@@ -1559,6 +1558,7 @@
 .maws-aax-eu-rtb-adx.amazon-adsystem.com
 .maws-aax-eu-rtb.amazon-adsystem.com
 .maws-aax-fe-sin.amazon-adsystem.com
+.maws-aax-fe.amazon-adsystem.com
 .maws-aax-us-east-rtb-adx.amazon-adsystem.com
 .maws-aax-us-east-rtb.amazon-adsystem.com
 .maws-aax-us-east-test4.amazon-adsystem.com
@@ -2596,6 +2596,7 @@
 .storedl3f.nearme.com.cn
 .storedl4f.nearme.com.cn
 .storedl5f.nearme.com.cn
+.stream.snssdk.com
 .streamback.ff.avast.sec.miui.com
 .stsdk.vivoglobal.com
 .supportmetrics.apple.com
@@ -2847,6 +2848,7 @@
 .vaes.amazon-adsystem.com
 .vas-hl-x.snssdk.com
 .vc-ad-lgsmartad-com.aws-prd.net
+.vcl-brain.snssdk.com
 .ve-ad-lgsmartad-com.aws-prd.net
 .ve.lgsmartad.com
 .vfw-ap-gamma.amazon-adsystem.com
@@ -2859,6 +2861,7 @@
 .vfw-us-west.amazon-adsystem.com
 .vfw-us.amazon-adsystem.com
 .vfw.amazon-adsystem.com
+.vfwm-us-west.amazon-adsystem.com
 .vfwm-us.amazon-adsystem.com
 .vfwm.amazon-adsystem.com
 .vfws.amazon-adsystem.com
