@@ -45,7 +45,7 @@ const configurations = [
     name: "Hagezi Threat Intelligence Feeds",
     type: "wildcard",
     sources: [
-        "https://raw.githubusercontent.com/hagezi/dns-blocklists/main/wildcard/tif-onlydomains.txt"
+        "https://raw.githubusercontent.com/hagezi/dns-blocklists/main/wildcard/tif.medium-onlydomains.txt"
     ]
   }
 ];
