@@ -47,6 +47,13 @@ const configurations = [
     sources: [
         "https://raw.githubusercontent.com/hagezi/dns-blocklists/main/wildcard/nsfw-onlydomains.txt"
     ]
+  },
+  {
+    name: "Hagezi Threat Intelligence Feeds",
+    type: "wildcard",
+    sources: [
+        "https://raw.githubusercontent.com/hagezi/dns-blocklists/main/wildcard/tif-onlydomains.txt"
+    ]
   }
 ];
 
