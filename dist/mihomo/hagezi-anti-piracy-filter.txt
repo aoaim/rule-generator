@@ -362,6 +362,7 @@
 +.944118.xyz
 +.94hiphop.com
 +.951313113.xyz
++.958jmt7addr.com
 +.960303.xyz
 +.9993721.xyz
 +.9anime.ru
@@ -1651,6 +1652,7 @@
 +.calcio.la
 +.calcio.pub
 +.calcio.ws
++.calciostream.help
 +.calibrecompanion.co
 +.caly-film.pl
 +.cambros.tv
@@ -1788,6 +1790,7 @@
 +.cddownloadfull.org
 +.cdie.cdie.free.fr
 +.cdkeysgames.com
++.cdn-novflix.com
 +.cdn-tnmr.org
 +.cdn.livetv808.me
 +.cdn.retget.ru
@@ -4050,6 +4053,7 @@
 +.gnula.life
 +.gnula.nu
 +.gnula.su
++.gnulahd.nu
 +.gnutellaforums.com
 +.go123.stream
 +.go2load.com
@@ -4348,6 +4352,7 @@
 +.hdmatch.club
 +.hdmatch.link
 +.hdme.eu
++.hdmovic.com
 +.hdmovie14.net
 +.hdmovie2.ac
 +.hdmovie2.africa
@@ -4522,6 +4527,7 @@
 +.hdmovie2.observer
 +.hdmovie2.ooo
 +.hdmovie2.organic
++.hdmovie2.osaka
 +.hdmovie2.page
 +.hdmovie2.paris
 +.hdmovie2.parts
@@ -4954,6 +4960,7 @@
 +.iosvizor.com
 +.ip-stresser-xbox.hdxba.com
 +.ip.getcrazy.me
++.ip8ktv.com
 +.ipacrack.com
 +.ipalibrary.me
 +.ipboot.xyz
@@ -6773,6 +6780,8 @@
 +.novaopcj.icu
 +.novastream.top
 +.novatv.app
++.noveflix.vip
++.novefx.biz
 +.novelas360.com
 +.noviteti.com
 +.novusnetworkbd.com
@@ -8857,6 +8866,8 @@
 +.streamingcommunityz.mba
 +.streamingcommunityz.me
 +.streamingcommunityz.media
++.streamingcommunityz.men
++.streamingcommunityz.mobi
 +.streamingcommunityz.one
 +.streamingcommunityz.pro
 +.streamingcommunityz.qpon
@@ -10244,7 +10255,6 @@
 +.tv.crictime.is
 +.tv.fanclub.rocks
 +.tv.foorty.net
-+.tv.onefootball.com
 +.tv.pipexbd.com
 +.tv0800.com
 +.tv1337.buzz
@@ -11023,6 +11033,7 @@
 +.warez-wawa.fr.nf
 +.warez-world.org
 +.warez.com
++.warez.cx
 +.warez.ge
 +.warez.loxblog.com
 +.warez.programasfull.com
@@ -11338,6 +11349,7 @@
 +.x264.me
 +.x265movies.co
 +.x360club.pw
++.x4f7yww4ddr.com
 +.x7x.up.railway.app
 +.xalaflix.in
 +.xatab-repack.net
