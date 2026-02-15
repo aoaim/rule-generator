@@ -947,6 +947,7 @@
 +.ex-romsp-unifyconfig.vivoglobal.com
 +.excel-telemetry.officeapps.live.com
 +.excel-telemetry.wac.trafficmanager.net
++.exo.nel.measure.office.net.sw.buhl-data.com
 +.experiments.apple.com
 +.experiments.apple.com.edgekey.net
 +.extlog.snssdk.com
@@ -2632,6 +2633,7 @@
 +.tbm.snssdk.com
 +.tc.lgsmartad.com
 +.teams-events-data.trafficmanager.net
++.teams.nel.measure.office.net.sw.buhl-data.com
 +.telecommandsvc.microsoft.com
 +.telem-edge.smartscreen.microsoft.com
 +.telemetry-lcp.trafficmanager.net
