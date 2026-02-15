@@ -7,7 +7,6 @@
 .0123movie.stream
 .0123movie.ws
 .0123movies.com
-.0123movies.live
 .0123moviesfree.org
 .01streaming.click
 .01streaming.stream
@@ -24,7 +23,6 @@
 .0daycn.net
 .0mag.net
 .0magnet.com
-.0second.com
 .0vg9r.com
 .0xffff.icu
 .1-2-3movies.com
@@ -715,6 +713,7 @@
 .amerikasimperialism.2ya.com
 .amildar.beer
 .amrbd.com
+.amyflix.com
 .an1.co.in
 .an1.com
 .an1build.com
@@ -1531,7 +1530,6 @@
 .bt-chat.com
 .bt-revolution.net
 .bt-tracker.gamexp.ru
-.bt.3kb.xyz
 .bt.acg.gg
 .bt.ali213.net
 .bt.bontal.net
@@ -1998,6 +1996,7 @@
 .cloudblink91.xyz
 .cloudboxes.io
 .cloudone.com.bd
+.cloudrabbit99.online
 .cloudstream-on-fleek-co.ipns.dweb.link
 .cloudtorrents.com
 .cloudvideo.tv
@@ -2865,6 +2864,7 @@
 .ebookvortex.com
 .ebookvortex.net
 .ebox.live
+.echoowl19.live
 .echostar.ddnsfree.com
 .ectlink.com
 .eddie4.nl
@@ -3191,6 +3191,7 @@
 .f5movies.co
 .f5q.ru
 .fairytales.org
+.fandango.com
 .fano.in
 .fano.lv
 .fanqtv.cc
@@ -3244,6 +3245,7 @@
 .ffmovies.biz
 .ffmovies.ru
 .ffmovies.ws
+.fgtd.online
 .fiberlink.eu
 .fiberstresser.com
 .fiberx.me
@@ -3647,6 +3649,7 @@
 .fmoviestv.site
 .fmoviesz-to.com
 .fmoviesz.to
+.fmovietv.com
 .fmoviez.org
 .fmwhatsapp.net
 .fmytv.com
@@ -3800,6 +3803,7 @@
 .fromhot.com
 .fromhot.to
 .fromhots.com
+.frostcomet5.pro
 .frostglimmer59.xyz
 .frostshine12.wiki
 .frostwave30.xyz
@@ -4987,6 +4991,7 @@
 .ipv4.rer.lol
 .ipv6.rer.lol
 .iraniantorrents.com
+.ironwhale7.pro
 .irrenhaus.dyndns.dk
 .irwarez.com
 .iscariote.edwardk.info
@@ -5280,6 +5285,7 @@
 .kinomix.tv
 .kinomob.com
 .kinonadzor.net
+.kinoplenka.top
 .kinoradiomagia.tv
 .kinorun.com
 .kinorun.top
@@ -5640,6 +5646,7 @@
 .livesoccertv.com
 .livesx.eu
 .livetv.mirpur.online
+.livetv.ru
 .livetv.sx
 .livetv786.pro
 .livetv802.me
@@ -5816,6 +5823,7 @@
 .mangapoisk.io
 .mangareader.tv
 .mangasee123.com
+.mangasukuna.top
 .manicomio-share.com
 .manikdicommunication.com
 .mapple.tv
@@ -6607,6 +6615,7 @@
 .netemx.pl
 .netexpressbd.com
 .netfilme.com
+.netflixparty.com
 .netinfobd.com
 .netmatrixbd.com
 .netmirror.app
@@ -7158,6 +7167,7 @@
 .pinoytorrents.net
 .piraat.xyz
 .piracitoplista.ugu.pl
+.piracy.guide
 .piracy.vercel.app
 .piracyproxy.net
 .piranha.excom.us
@@ -7304,7 +7314,9 @@
 .plygig.com
 .pobieramy24.pl
 .pobieramy24.xyz
+.pobreflix.auction
 .pobreflix.com
+.pobreflixonline.com
 .podtropolis.com
 .pof.hu
 .pokemerald.com
@@ -7717,6 +7729,7 @@
 .redditsoccerstreams.watch
 .redditsoccerstreams.xyz
 .redecanais.zip
+.redirectnflix.com
 .redlist-ultimate.be
 .redskunk.org
 .redstream.online
@@ -8291,6 +8304,7 @@
 .sky-animes.com
 .sky-of-use.net
 .skybizbd.net
+.skyember44.online
 .skylinectg.com
 .skyll.net
 .skymovieshd.army
@@ -8639,6 +8653,7 @@
 .store.rg-adguard.net
 .storeplayapk.com
 .stormcurve61.site
+.stormfox27.live
 .stormshade84.live
 .stormwhirl73.site
 .stormyfield58.pro
@@ -8868,6 +8883,7 @@
 .streamingcommunityz.media
 .streamingcommunityz.men
 .streamingcommunityz.mobi
+.streamingcommunityz.money
 .streamingcommunityz.one
 .streamingcommunityz.pro
 .streamingcommunityz.qpon
@@ -9175,6 +9191,7 @@
 .telechargerjeuxtorrent.com
 .teleflix.tv
 .telegrampremiumapk.com
+.teleparty.com
 .telepisodes.org
 .telerium.lol
 .tennis.stream
@@ -9392,6 +9409,7 @@
 .tianxingjian.wiki
 .tienichmaytinh.com
 .tigerblack.net
+.tigerflare10.xyz
 .tii.la
 .tikmovies.com
 .timcityparadize.free.fr
@@ -9846,7 +9864,6 @@
 .tracker.23794.top
 .tracker.4.babico.name.tr
 .tracker.52pt.site
-.tracker.aburaya.live
 .tracker.acg.gg
 .tracker.aibt.xyz
 .tracker.alaskantf.com
@@ -10012,6 +10029,7 @@
 .tracker.lztr.me
 .tracker.m-team.cc
 .tracker.m-team.io
+.tracker.manager.v6.navy
 .tracker.marshyonline.net
 .tracker.maya.no.eu.org
 .tracker.metal-torrents.com
