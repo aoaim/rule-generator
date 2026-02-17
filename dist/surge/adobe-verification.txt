@@ -2676,6 +2676,7 @@
 .pv2ys4tjt9x.prod.cloud.adobe.io
 .pv2yt8sqmh0.prod.cloud.adobe.io
 .pv2zp87w2eo.prod.cloud.adobe.io
+.pvfc20xsp.lqn0m.adobestats.io
 .pvfnrsv09.ay6tu.adobestats.io
 .pvit0rg7db.adobestats.io
 .pvns3mrppu.adobestats.io
