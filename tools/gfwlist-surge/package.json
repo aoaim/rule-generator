@@ -1,0 +1,14 @@
+{
+  "name": "gfwlist-surge",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Fetch and convert GFWList into Surge DOMAIN-SET file.",
+  "license": "MIT",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "axios": "^1.6.7",
+    "fs-extra": "^11.2.0"
+  }
+}

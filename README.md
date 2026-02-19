@@ -6,11 +6,13 @@ A toolkit for generating proxy rulesets for Surge, Sing-Box, and Mihomo (Clash M
 
 | Tool | Output Path | Description |
 | :--- | :--- | :--- |
+| `adguard-mihomo` | `dist/mihomo` | Converts AdGuard Tracking Protection filter to Mihomo `.txt` / `.mrs` |
 | `adguard-singbox` | `dist/sing-box` | Converts AdGuard filters to Sing-Box `.srs` |
 | `adguard-surge` | `dist/surge` | Converts AdGuard filters to Surge `.txt` |
-| `adobe-mihomo` | `dist/mihomo` | Adobe blocklist to Mihomo `.mrs` |
-| `adobe-surge` | `dist/surge` | Adobe blocklist to Surge `.txt` (adobe-verification.txt) |
-| `hagezi-mihomo` | `dist/mihomo` | Hagezi filters to Mihomo `.mrs` |
+| `adobe-mihomo` | `dist/mihomo` | Adobe blocklist to Mihomo `.txt` / `.mrs` |
+| `adobe-surge` | `dist/surge` | Adobe blocklist to Surge `.txt` |
+| `gfwlist-surge` | `dist/surge` | GFWList to Surge DOMAIN-SET `.txt` |
+| `hagezi-mihomo` | `dist/mihomo` | Hagezi filters to Mihomo `.txt` / `.mrs` |
 | `hagezi-surge` | `dist/surge` | Hagezi filters to Surge `.txt` |
 
 ## Usage
