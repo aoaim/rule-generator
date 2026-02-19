@@ -1,0 +1,15 @@
+{
+  "name": "adguard-mihomo",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Fetch and convert AdGuard filter lists into Mihomo domain-set files.",
+  "license": "MIT",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "@adguard/hostlist-compiler": "^1.0.8",
+    "@sindresorhus/slugify": "^1.1.0",
+    "fs-extra": "^11.2.0"
+  }
+}
