@@ -65,7 +65,7 @@ async function processHosts() {
 }
 
 async function outputRules(domains) {
-    const fileName = "adobe-verification.txt";
+    const fileName = "adobe-verification-filter.txt";
     const filePath = join(distDir, fileName);
 
     console.log(`Writing ${fileName} (${domains.length} rules)...`);

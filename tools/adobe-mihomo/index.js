@@ -74,7 +74,7 @@ async function processHosts() {
 }
 
 async function outputRules(domains) {
-    const baseName = "adobe-filter"; // Output: adobe-filter.txt
+    const baseName = "adobe-verification-filter"; // Output: adobe-verification-filter.txt
     
     const txtFileName = `${baseName}.txt`;
     const mrsFileName = `${baseName}.mrs`;
