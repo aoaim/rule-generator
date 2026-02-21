@@ -4,6 +4,9 @@
 .ib.snssdk.com
 .xlog.snssdk.com
 .log.snssdk.com
+.byoviral.com
+.sigmob.cn
+.sdk.beizi.biz
 .cdnlibjs.com
 .wtfismyip.com
 .measureadv.com
@@ -64191,6 +64194,7 @@
 .tagman.britishairways.com
 .ct.pinterest.com
 .incoming.telemetry.mozilla.org
+.alloy-web.zvuk.com
 .tg.minfin.com.ua
 .static-mon.yandex.net
 .analytex-us.userpilot.io
@@ -67496,6 +67500,7 @@
 .int.vlancaa.site
 .int.vlancaa.fun
 .tok.vaicore.xyz
+.tracking.twelveapp.sh
 .trkcliq.com
 .stats.norton.com
 .log1.cmpassport.com
@@ -68014,7 +68019,6 @@
 .cloudconf.fengkongcloud.com
 .tracker.fengkongcloud.com
 .dm.pstatp.com
-.countly.globaldelight.net
 .log.game.qcplay.com
 .report-stats.ad.jiguang.cn
 .config.jpush.cn
