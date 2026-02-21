@@ -8528,6 +8528,7 @@
 +.byjpsr.bobags.com.br
 +.bykwtf.victoriassecret.ae
 +.bynvhb.godiva.com
++.byoviral.com
 +.byqdtp.interpark.com
 +.bysbpc.teufelaudio.nl
 +.bysfnu.bodeboca.com
@@ -10754,7 +10755,6 @@
 +.counting4free.com
 +.countino.de
 +.countit.ch
-+.countly.globaldelight.net
 +.countnow.de
 +.counto.de
 +.countok.de
@@ -42412,6 +42412,7 @@
 +.sdk.51.la
 +.sdk.airbridge.io
 +.sdk.appsflyer.com
++.sdk.beizi.biz
 +.sdk.conscent.in
 +.sdk.mrf.io
 +.sdk.optimove.net
@@ -46800,6 +46801,7 @@
 +.sig.ig.com
 +.sig.qoyod.com
 +.sigma.cases.gg
++.sigmob.cn
 +.signal.wida.sa
 +.signalayer.com
 +.signals.carrefoursa.com
@@ -65166,6 +65168,7 @@
 +.tracking.trutv.com
 +.tracking.turbowinbet.com
 +.tracking.tving.com
++.tracking.twelveapp.sh
 +.tracking.ukwm.co.uk
 +.tracking.umbrella.com
 +.tracking.umms.org
