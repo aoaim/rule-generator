@@ -180,7 +180,6 @@
 .ads.heytapmobile.com
 .ads.jp.msn.com
 .ads.lgtvcommon.com
-.ads.mi.com
 .ads.microsoft.com
 .ads.msn.com
 .ads.oppomobile.com
@@ -869,6 +868,7 @@
 .eaus2watcab02.blob.core.windows.net
 .ec-ad-lgsmartad-com.aws-prd.net
 .ec.lgsmartad.com
+.ecs.nel.measure.office.net.cn.intinfra.com
 .ee-ad-lgsmartad-com.aws-prd.net
 .ee.lgsmartad.com
 .eg-ad-lgsmartad-com.aws-prd.net
@@ -930,8 +930,6 @@
 .events-dre-op-hicloud-com-dre.appacc.dbankedge.cn
 .events-dre.op.dbankcloud.com
 .events-dre.op.hicloud.com
-.events-op-hicloud-com-drcn.appacc-region.dbankedge.net
-.events-op-hicloud-com-drcn.appacc.dbankedge.net
 .events-sandbox.data.microsoft.com
 .events-sandbox.data.msn.cn
 .events-sandbox.data.msn.com
@@ -947,6 +945,7 @@
 .ex-romsp-unifyconfig.vivoglobal.com
 .excel-telemetry.officeapps.live.com
 .excel-telemetry.wac.trafficmanager.net
+.exo.nel.measure.office.net.cn.intinfra.com
 .exo.nel.measure.office.net.sw.buhl-data.com
 .experiments.apple.com
 .experiments.apple.com.edgekey.net
@@ -1203,6 +1202,7 @@
 .id.lgsmartad.com
 .id.push.heytapmobi.com
 .identity.browserapps.amazon.de
+.identity.nel.measure.office.net.cn.intinfra.com
 .idiagnostics-mdn1.apple.com
 .idiagnostics.apple.com
 .idiagnostics.apple.com.akadns.net
@@ -1540,6 +1540,7 @@
 .ly-ad-lgsmartad-com.aws-prd.net
 .ly.lgsmartad.com
 .m.beehive.in.intl.miui.com
+.m365cdn.nel.measure.office.net.cn.intinfra.com
 .ma-ad-lgsmartad-com.aws-prd.net
 .ma.lgsmartad.com
 .mads-eu.amazon.com
@@ -1563,6 +1564,7 @@
 .maws-aax-us-east-rtb-adx.amazon-adsystem.com
 .maws-aax-us-east-rtb.amazon-adsystem.com
 .maws-aax-us-east-test4.amazon-adsystem.com
+.maws-aax-us-east.amazon-adsystem.com
 .maws-aax-us-pdx-rtb.amazon-adsystem.com
 .mazu.sec.miui.com
 .mcc.miui.com
@@ -2019,6 +2021,7 @@
 .oca.microsoft.com
 .odin-signals.apple.com
 .office-events-data.trafficmanager.net
+.officehub.nel.measure.office.net.cn.intinfra.com
 .om-ad-lgsmartad-com.aws-prd.net
 .om.lgsmartad.com
 .omes-sec.heytapmobi.com
@@ -2554,6 +2557,7 @@
 .sms-ads-ru.heytapmobile.com
 .sn-ad-lgsmartad-com.aws-prd.net
 .sn.lgsmartad.com
+.spo.nel.measure.office.net.cn.intinfra.com
 .spynet2.microsoft.com
 .spynetalt.microsoft.com
 .sq-tungsten-ts-eu.amazon-adsystem.com
@@ -2633,6 +2637,7 @@
 .tbm.snssdk.com
 .tc.lgsmartad.com
 .teams-events-data.trafficmanager.net
+.teams.nel.measure.office.net.cn.intinfra.com
 .teams.nel.measure.office.net.sw.buhl-data.com
 .telecommandsvc.microsoft.com
 .telem-edge.smartscreen.microsoft.com
@@ -2916,6 +2921,7 @@
 .wms-na.amazon-adsystem.com
 .word-telemetry.officeapps.live.com
 .word-telemetry.wac.trafficmanager.net
+.wordonline.nel.measure.office.net.cn.intinfra.com
 .ws-eu.amazon-adsystem.com
 .ws-fe.amazon-adsystem.com
 .ws-in.amazon-adsystem.com
