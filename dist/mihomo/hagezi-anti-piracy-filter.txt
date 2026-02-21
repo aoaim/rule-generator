@@ -638,6 +638,7 @@
 +.altadefinizione.world
 +.altadefinizione.ws
 +.altadefinizione.xyz
++.altadefinizione001.skin
 +.altadefinizione01.app
 +.altadefinizione01.bet
 +.altadefinizione01.cc
@@ -686,6 +687,8 @@
 +.altadefinizionegratis.watch
 +.altadefinizionegratis.wiki
 +.altadefinizioneita.me
++.altadefinizionex.click
++.altadefinizionex.skin
 +.altadefinizionez.beer
 +.altadefinizionez.forum
 +.altadefinizionez.group
@@ -1051,6 +1054,7 @@
 +.asmr-300.com
 +.asmr.one
 +.asnet.pw
++.aspirated.xyz
 +.assistir.biz
 +.assistiranimes.org
 +.assistirseriados.online
@@ -4932,6 +4936,7 @@
 +.intos382gos.com
 +.intrepidbd.com
 +.invalid.pw
++.inzarbod.site
 +.ionbooter.com
 +.ioshaven.com
 +.iosninja.io
@@ -6855,6 +6860,7 @@
 +.oakvilleorthotics.com
 +.obaflix.com
 +.obala-tracker.net
++.obstream.pro
 +.obzorovik.com
 +.oceanofapk.com
 +.oceanofepub.net
@@ -8665,6 +8671,7 @@
 +.streamflix.one
 +.streamflix.space
 +.streamgoblin.com
++.streamhls.click
 +.streamhls.to
 +.streamhunter.net
 +.streamhunter.to
@@ -10490,6 +10497,7 @@
 +.v74853.hosted-by-vdsina.com
 +.vadapav.mov
 +.valakas.rollo.dnsabr.com
++.valamhub.top
 +.valhallastream.com
 +.valhallastream.pages.dev
 +.vamos88kam.com
