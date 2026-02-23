@@ -2503,6 +2503,7 @@
 .diyar24.com
 .dizcompany.ru
 .dizilla.to
+.dizipal.bar
 .dizipal1521.com
 .dizipal1532.com
 .dizipal1936.com
@@ -3769,12 +3770,16 @@
 .freezlib.me
 .frembed.my
 .french-stream.ac
+.french-stream.al
 .french-stream.co
 .french-stream.gg
 .french-stream.mx
+.french-stream.one
 .french-stream.re
 .french-streaming.to
+.french-streaming.tv
 .french-streams.biz
+.frenchstreeam.cv
 .frenchtorrent.com
 .frendz4m.com
 .freshmoviestreams.net
@@ -3801,6 +3806,7 @@
 .frp.v2fy.com
 .fruitytuts.com
 .fs.satrong.live
+.fs12.lol
 .fs4.lol
 .fs6.lol
 .fs7.lol
@@ -3809,12 +3815,15 @@
 .fsave.net
 .fshare.vn
 .fsharetv.co
+.fstream.info
+.fstream.net
 .ftflix.com
 .ftp.com.bd
 .ftp.pet
 .ftp2web.com
 .ftpbd.net
 .ftuapps.dev
+.fubar-kinogo.cc
 .fuckbitcoin.xyz
 .fuckfbi.me
 .fucktimkuik.org
@@ -3850,6 +3859,7 @@
 .funkytorrents.com
 .funmodapk.com
 .funniermoments.net
+.funsday.cfd
 .funsharing.net
 .funtimebd.com
 .funxd.pw
@@ -3935,6 +3945,7 @@
 .gamezlinks.net
 .gamingbeasts.com
 .gamingwithplaban.weebly.com
+.gammaclown.com
 .gampower.blogspot.com
 .gaoqing.fm
 .garageforum.org
@@ -6146,9 +6157,13 @@
 .motchillfin.io
 .motchillki.fm
 .motchillr.is
+.motchillzl.tv
 .motivationalhacks.com
 .motogpstream.me
 .motorworld.net
+.motphimf.me
+.motphimfb.com
+.motphimz.sh
 .motv.top
 .movcr.cc
 .movi.ucoz.ro
@@ -6533,6 +6548,7 @@
 .nagordola.com.bd
 .nagordola.live
 .naijavault.com
+.namako.fun
 .nanikano.no-ip.org
 .nanniesofgreenhills.com
 .nantong101.ru
@@ -6690,6 +6706,7 @@
 .nicedocx.top
 .nicemoviezion.pro
 .nicoblog.org
+.nightbreeze17.site
 .nightmarestresser.com
 .niktu.com
 .nima4k.org
@@ -6726,7 +6743,9 @@
 .nod321.com
 .nod32sky.com
 .nodata.tv
+.node01.madtia.cc
 .node01.torrentonline.cc
+.node02.madtia.cc
 .node02.torrentonline.cc
 .nolatapers.org
 .nonton-movie21.com
@@ -7112,6 +7131,7 @@
 .pepecine.to
 .pesktop.com
 .peteteo.com
+.pgfiles.com
 .phantombitz.com
 .phaze.co
 .phdteam.com
@@ -7557,6 +7577,7 @@
 .quezstresser.com
 .quezstresser.in
 .quickonlineftp.com
+.quietlynx14.site
 .quitt.net
 .quorks.com
 .qvvo.com
@@ -8303,6 +8324,7 @@
 .snahp.it
 .snapany.com
 .snapins.ai
+.snappymovie.com
 .snapsave.app
 .snapvideo.app
 .snarf-it.org
@@ -8439,6 +8461,7 @@
 .spaider.net
 .spanishare2.com
 .spanishtracker.com
+.sparkdeer21.online
 .sparkle.ghostchu-services.top
 .sparklinkbd.com
 .sparknetbd.com
@@ -8639,6 +8662,7 @@
 .streamcloud.my
 .streamcloud.org
 .streamcloud.plus
+.streamcloud.press
 .streamcloud.pro
 .streamcloud.st
 .streamcloud.sx
@@ -8892,6 +8916,7 @@
 .streamsthunder.tv
 .streamtape.com
 .streamtonfoot.vercel.app
+.streamtp10.com
 .streamwatch.online
 .streamwatchfree.com
 .streamway.org
@@ -8910,6 +8935,7 @@
 .streghettaincucina.com
 .strem.fun
 .strem.io
+.stremflix.stream
 .stremiomovies.com
 .stressboss.net
 .stresser.cc
@@ -9353,6 +9379,7 @@
 .threadster.app
 .thriftmac.com
 .throughput.de
+.thunderleaf12.online
 .thunderstresser.me
 .thuvienthuthuat.net
 .thzhd.info
@@ -9360,6 +9387,7 @@
 .ti.to
 .tiansha.net
 .tianxingjian.wiki
+.tiedge1.lat
 .tienichmaytinh.com
 .tigerblack.net
 .tigerflare10.xyz
@@ -10764,6 +10792,7 @@
 .vibe.community
 .vibe.sleepyinternetfun.xyz
 .vibebd.com
+.vibemax.to
 .vibes.cc
 .victoriancrapper.com
 .victorraulrr.net

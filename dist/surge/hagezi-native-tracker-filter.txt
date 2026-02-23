@@ -1414,6 +1414,7 @@
 .lockcard-service-in.allawnos.com
 .log-abroad.avlyun.sec.miui.com
 .log-boot.capcutapi.com
+.log-boot.tiktokv.com
 .log-dra.platform.hihonorcloud.com
 .log-drcn.platform.hihonorcloud.com
 .log-dre.platform.hihonorcloud.com
