@@ -12087,6 +12087,8 @@
 +.dandyglow.com
 +.danv01ao0kdr2.cloudfront.net
 +.dap.amsterdam.nl
++.dap.livemint.com
++.dap.worldota.net
 +.dapperdiscussion.com
 +.dappervppaclassactionsettlement.e.epiqnotification.com
 +.dapxl.com
@@ -40375,7 +40377,9 @@
 +.p1.danskebank.co.uk
 +.p1.danskebank.dk
 +.p1.danskebank.ie
++.p16-ad-site-sign-sg.tiktokcdn.com
 +.p16-tiktokcdn-com.akamaized.net.iberostar.com
++.p19-ad-site-sign-sg.tiktokcdn.com
 +.p192.eastbaytimes.com
 +.p2.danskebank.co.uk
 +.p2.danskebank.dk
@@ -50187,6 +50191,7 @@
 +.signals.carrefoursa.com
 +.signals.galencollege.edu
 +.signals.instaread.co
++.signalszone.com
 +.signaturepod.com
 +.signifyd.com
 +.signup-way.com
@@ -51642,6 +51647,7 @@
 +.smetrics.ebgsolutions.com
 +.smetrics.echostar.com
 +.smetrics.ecmweb.com
++.smetrics.edb.gov.sg
 +.smetrics.edc.ca
 +.smetrics.eddiebauer.com
 +.smetrics.edge.ca
@@ -66989,6 +66995,7 @@
 +.thesoulbrand.com
 +.thestat.net
 +.thetrafficstat.net
++.thewavebeats.com
 +.thfpnn.leben-style.jp
 +.thgfp.homesick.com
 +.thhesw.tre.it
@@ -73332,6 +73339,7 @@
 +.wa.pjplace.com
 +.wa.planet-wissen.de
 +.wa.quarks.de
++.wa.scribd.com
 +.wa.sherwin-williams.com
 +.wa.st.com
 +.wa.stubhub.com
