@@ -70,6 +70,7 @@
 +.10hitmovies.click
 +.10kol.tv
 +.10mbit.com
++.111movies.net
 +.120030.xyz
 +.123-hd.com
 +.123-movies.com
@@ -1494,6 +1495,7 @@
 +.breathetheword.org.uk
 +.breedsoft.com
 +.breezeflash17.pro
++.bridgerton-lordserials.ru
 +.broadcasthe.net
 +.brocoflix.com
 +.brodownload9s.com
@@ -1566,6 +1568,7 @@
 +.btkitty.red
 +.btmet.com
 +.btmon.com
++.btmulu.live
 +.btmusic.org
 +.btnext.com
 +.btor.org
@@ -1927,6 +1930,7 @@
 +.cinemaindo.net
 +.cinemalibero.cafe
 +.cinemalux.cfd
++.cinemalux.foo
 +.cinemalux.icu
 +.cinemalux.lat
 +.cinemamovies.pl
@@ -2551,6 +2555,7 @@
 +.dontorrent.info
 +.dontorrent.org
 +.dontorrent.phd
++.dontorrent.photos
 +.dontorrent.promo
 +.dontorrents.com
 +.dontorrents.org
@@ -3280,6 +3285,7 @@
 +.film.kace.dev
 +.film01stream.ws
 +.film1k.com
++.film2mediax.top
 +.film4k.to
 +.filman.cc
 +.filmapik.autos
@@ -3553,6 +3559,8 @@
 +.flixpad.net
 +.flixpay.site
 +.flixta.cc
++.flixthor.com
++.flixthorapp.com
 +.flixtor.ch
 +.flixtor.id
 +.flixtor.life
@@ -3630,6 +3638,7 @@
 +.football-live.stream
 +.footballstream.to
 +.footdirect.ru
++.footfy.pro
 +.footy-bite.com
 +.footybite.bz
 +.footybite.cc
@@ -5358,6 +5367,7 @@
 +.kiwi-ip.tv
 +.kkant.weebly.com
 +.kkiste-io.hair
++.kkiste-io.skin
 +.kkiste-io.top
 +.kkiste.autos
 +.kkiste.boats
@@ -6226,6 +6236,7 @@
 +.moviesdvdr.com
 +.movieseriestv.net
 +.movieserver.net
++.moviesfever.org
 +.moviesflixcc.com
 +.moviesfoundonline.com
 +.moviesite.hu
@@ -6493,6 +6504,7 @@
 +.nagordola.com.bd
 +.nagordola.live
 +.naijavault.com
++.nalix.top
 +.namako.fun
 +.nanikano.no-ip.org
 +.nanniesofgreenhills.com
@@ -6598,6 +6610,7 @@
 +.newalbumreleases.unblockit.uno
 +.newcomic.info
 +.newcracks.net
++.neweras8kportal.space
 +.newerastreams.com
 +.newerteam.com
 +.newkatcr.co
@@ -8445,6 +8458,7 @@
 +.sportsbay.top
 +.sportschamp.fun
 +.sportslive.me
++.sportsnetwork.fit
 +.sportsonline.gl
 +.sportsonline.to
 +.sportstream.tv
@@ -8619,6 +8633,7 @@
 +.streamerflix.xyz
 +.streamflix.one
 +.streamflix.space
++.streamfree.app
 +.streamgoblin.com
 +.streamhls.click
 +.streamhls.to
@@ -9040,6 +9055,7 @@
 +.tapecontent.net
 +.tapedown.com
 +.tapochek.net
++.tarhex.com
 +.taringa.net
 +.tarjetaroja.me
 +.tarjetarojaenvivo.me
@@ -9302,6 +9318,7 @@
 +.tiansha.net
 +.tianxingjian.wiki
 +.tiedge1.lat
++.tiendaskin.shop
 +.tienichmaytinh.com
 +.tigerblack.net
 +.tigerflare10.xyz
@@ -11202,6 +11219,7 @@
 +.ww1-zktorrent.town
 +.ww1-zone-torrent.town
 +.ww13.manga-zip.info
++.ww2-nortorrent.com
 +.ww4.click
 +.wwereleases.com
 +.www-soap2day.pages.dev
@@ -11466,6 +11484,7 @@
 +.yts.ws
 +.yts.yt
 +.yts.zone
++.yts2.com
 +.ytsstreaming.com
 +.ytstorrent.com
 +.ytstv.me
