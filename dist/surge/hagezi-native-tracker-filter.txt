@@ -747,6 +747,14 @@
 .conn3.coloros.com
 .conn4.coloros.com
 .conn5.coloros.com
+.connect-dra.dbankcloud.cn
+.connect-dra.map.dbankcloud.com
+.connect-drcn.dbankcloud.cn
+.connect-dre.dbankcloud.cn
+.connect-dre.map.dbankcloud.com
+.connect-drru.dbankcloud.cn
+.connect-drru.hispace.dbankcloud.cn
+.connect-drru.hispace.dbankcloud.ru
 .console.admin.xmpush.xiaomi.com
 .controller.india.xiaomi.com
 .cota-service-sg.allawnos.com
@@ -786,6 +794,7 @@
 .datacollector-dra.dt.dbankcloud.cn
 .datacollector-drcn.dt.dbankcloud.cn
 .datacollector-dre.dt.dbankcloud.cn
+.dc-dragate-cn.heytapmobi.com
 .dc-stat-in.heytapmobile.com
 .dc.applicationinsights.azure.cn
 .dc.applicationinsights.azure.us
@@ -793,6 +802,7 @@
 .dc.dqa.samsung.com
 .dc.heytapmobile.com
 .dc.services.visualstudio.com
+.dcc-awareness-cn.heytapmobi.com
 .dcintl.push.heytapmobi.com
 .de-ad-lgsmartad-com.aws-prd.net
 .de-gdpr-err-up.vivoglobal.com
@@ -868,7 +878,7 @@
 .eaus2watcab02.blob.core.windows.net
 .ec-ad-lgsmartad-com.aws-prd.net
 .ec.lgsmartad.com
-.ecs.nel.measure.office.net.cn.intinfra.com
+.ecs.nel.measure.office.net.cz.intinfra.com
 .ee-ad-lgsmartad-com.aws-prd.net
 .ee.lgsmartad.com
 .eg-ad-lgsmartad-com.aws-prd.net
@@ -945,7 +955,8 @@
 .ex-romsp-unifyconfig.vivoglobal.com
 .excel-telemetry.officeapps.live.com
 .excel-telemetry.wac.trafficmanager.net
-.exo.nel.measure.office.net.cn.intinfra.com
+.exo.nel.measure.office.net.cz.intinfra.com
+.exo.nel.measure.office.net.in.intinfra.com
 .exo.nel.measure.office.net.sw.buhl-data.com
 .experiments.apple.com
 .experiments.apple.com.edgekey.net
@@ -1202,7 +1213,7 @@
 .id.lgsmartad.com
 .id.push.heytapmobi.com
 .identity.browserapps.amazon.de
-.identity.nel.measure.office.net.cn.intinfra.com
+.identity.nel.measure.office.net.cz.intinfra.com
 .idiagnostics-mdn1.apple.com
 .idiagnostics.apple.com
 .idiagnostics.apple.com.akadns.net
@@ -1541,7 +1552,7 @@
 .ly-ad-lgsmartad-com.aws-prd.net
 .ly.lgsmartad.com
 .m.beehive.in.intl.miui.com
-.m365cdn.nel.measure.office.net.cn.intinfra.com
+.m365cdn.nel.measure.office.net.cz.intinfra.com
 .ma-ad-lgsmartad-com.aws-prd.net
 .ma.lgsmartad.com
 .mads-eu.amazon.com
@@ -1721,6 +1732,7 @@
 .measure.office.com
 .measure.office.com.akamaized.net
 .measure.office.net
+.measure.office.net.cn.intinfra.com
 .measure.office.net.edgesuite.net
 .media.pre.pandora.xiaomi.com
 .mercury-sdk.snssdk.com
@@ -1798,6 +1810,7 @@
 .mon-i18n.tiktokv.com
 .mon-phx.tiktokv.com
 .mon-ru.tiktokv.com
+.mon-ru.tiktokv.com.blinkt.de
 .mon-sg.capcutapi.com
 .mon-sg.tiktokv.com
 .mon-useast2a.tiktokv.com
@@ -1998,6 +2011,7 @@
 .obus-dc-us.heytapmobile.com
 .obus-dc10-cn.heytapmobi.com
 .obus-dc121100-sg.heytapmobile.com
+.obus-dc136101-cn.heytapmobi.com
 .obus-dc2-cn.heytapmobi.com
 .obus-dc2-in.heytapmobile.com
 .obus-dc2-sg.heytapmobile.com
@@ -2014,6 +2028,8 @@
 .obus-dctech-cn.heytapmobi.com
 .obus-dctech-in.heytapmobile.com
 .obus-dctech-sg.heytapmobile.com
+.obus-dcyitai-cn.heytapmobi.com
+.obus-dcyitai-in.heytapmobi.com
 .obus-jssdk-cn.heytapmobi.com
 .obus-jssdk-fr.heytapmobile.com
 .obus-jssdk-in.heytapmobile.com
@@ -2022,7 +2038,7 @@
 .oca.microsoft.com
 .odin-signals.apple.com
 .office-events-data.trafficmanager.net
-.officehub.nel.measure.office.net.cn.intinfra.com
+.officehub.nel.measure.office.net.cz.intinfra.com
 .om-ad-lgsmartad-com.aws-prd.net
 .om.lgsmartad.com
 .omes-sec.heytapmobi.com
@@ -2049,7 +2065,9 @@
 .outlookads.live.com
 .p.sec.miui.com
 .p.www.xiaomi.com
+.p16-ad-site-sign-sg.tiktokcdn.com
 .p16-ad.byteoversea.com
+.p19-ad-site-sign-sg.tiktokcdn.com
 .pa-ad-lgsmartad-com.aws-prd.net
 .pa.lgsmartad.com
 .paa-reporting-advertising.amazon
@@ -2316,6 +2334,7 @@
 .ru-comort-stsdk.vivoglobal.com
 .ru-compnrt-stsdk.vivoglobal.com
 .ru-comprt-stsdk.vivoglobal.com
+.ru-cota.vivoglobal.com
 .ru-err-up.vivoglobal.com
 .ru-exstsdk.vivoglobal.com
 .ru-feedback.xmpush.global.xiaomi.com
@@ -2558,7 +2577,7 @@
 .sms-ads-ru.heytapmobile.com
 .sn-ad-lgsmartad-com.aws-prd.net
 .sn.lgsmartad.com
-.spo.nel.measure.office.net.cn.intinfra.com
+.spo.nel.measure.office.net.cz.intinfra.com
 .spynet2.microsoft.com
 .spynetalt.microsoft.com
 .sq-tungsten-ts-eu.amazon-adsystem.com
@@ -2638,7 +2657,7 @@
 .tbm.snssdk.com
 .tc.lgsmartad.com
 .teams-events-data.trafficmanager.net
-.teams.nel.measure.office.net.cn.intinfra.com
+.teams.nel.measure.office.net.cz.intinfra.com
 .teams.nel.measure.office.net.sw.buhl-data.com
 .telecommandsvc.microsoft.com
 .telem-edge.smartscreen.microsoft.com
@@ -2697,6 +2716,7 @@
 .tnc100-my.tiktokv.com
 .tnc100-useast1a.tiktokv.com
 .tnc100-useast2a.tiktokv.com
+.tnc16-alisg.byteoversea.com
 .tnc16-normal-ie.tiktokv.eu
 .tnc16-normal-no1a.tiktokv.eu
 .tnc16-normal-us-ttp.capcutapi.us
@@ -2712,6 +2732,7 @@
 .tnc16-platform-useast1a.tiktokv.com
 .tnc16-platform-useast2a.tiktokv.com
 .tnc16-platform-useast5.us.tiktokv.com
+.tnc16-useast1a.byteoversea.com
 .tnc19-normal-ie.tiktokv.eu
 .tnc19-normal-no1a.tiktokv.eu
 .tnc19-normal-useast5.tiktokv.us
@@ -2909,7 +2930,6 @@
 .wayfinderanalytics.servicebus.windows.net
 .weather-analytics-events.apple.com
 .web-mon-useast2a.byteoversea.com
-.westus-0.in.applicationinsights.azure.com.drandts.co.uk
 .weus2watcab01.blob.core.windows.net
 .weus2watcab02.blob.core.windows.net
 .win-global-asimov-leafs-events-data.trafficmanager.net
@@ -2922,7 +2942,6 @@
 .wms-na.amazon-adsystem.com
 .word-telemetry.officeapps.live.com
 .word-telemetry.wac.trafficmanager.net
-.wordonline.nel.measure.office.net.cn.intinfra.com
 .ws-eu.amazon-adsystem.com
 .ws-fe.amazon-adsystem.com
 .ws-in.amazon-adsystem.com
