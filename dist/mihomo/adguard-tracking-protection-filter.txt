@@ -2175,6 +2175,7 @@
 +.ackzq.beistravel.com
 +.acl.stayfriends.de
 +.aclog.itmedia.co.jp
++.acollector.wb.ru
 +.acouo.hollandcooper.com
 +.acphf.rebelstork.com
 +.acq.io
@@ -6520,7 +6521,6 @@
 +.app.portland5.com
 +.app.portlandpilots.com
 +.app.post.vertafore.com
-+.app.posthog.com
 +.app.ppacri.org
 +.app.prescan.at
 +.app.profile.purina.com
@@ -8569,6 +8569,7 @@
 +.buasmk.earthshoes.com
 +.bubblestat.com
 +.bubblyaction.com
++.bucketlistbob.com
 +.bucsh.goodcatholic.com
 +.budapest.imprenditore-vero.com
 +.buddycanvas.com
@@ -8850,6 +8851,7 @@
 +.cafe.reviewmaxavaliacoes.com
 +.cafe.trekkers.com.br
 +.cafefrench.com
++.cafejunior.net
 +.cafescampfires.com
 +.cafi.xitbazar.com
 +.cafnb.easymoneyoutlet.com
@@ -10489,6 +10491,7 @@
 +.colorfulpet.com
 +.coloringisland.com
 +.coloroptimizer.com
++.colorsonchain.com
 +.colossalclouds.com
 +.colossalcoat.com
 +.colossalcry.com
@@ -10911,6 +10914,7 @@
 +.convertbatch.com
 +.convertexperiments.com
 +.convertglobal.com
++.convertiser.com
 +.convertro.com
 +.conviva.com
 +.convtrack.bitsacademy.com.br
@@ -11486,6 +11490,7 @@
 +.cure.trueface.org
 +.curiosity-seven.vercel.app
 +.curiouschalk.com
++.curiousmetal.com
 +.curioussuccess.com
 +.curlycannon.com
 +.currentcollar.com
@@ -15615,6 +15620,7 @@
 +.de01.rayjump.com
 +.de17a.com
 +.de48cadb.eulerian.io
++.dealchocolate.com
 +.dealerrelations.cargurus.com
 +.deapi.nestads.com
 +.debjpy.globoshoes.com
@@ -16076,7 +16082,6 @@
 +.dircont3.com
 +.direct-collect.dy-api.com
 +.direct-collect.dy-api.eu
-+.direct-events-collector.spot.im
 +.direct.corporatefinanceinstitute.com
 +.direct.medicinehorizon.co.il
 +.direct.wuka.co.uk
@@ -18591,6 +18596,7 @@
 +.exhibition.edm.globalsources.com
 +.exhibitsneeze.com
 +.exitbee.com
++.exitblocked.com
 +.exitmonitor.com
 +.exlogcollector.sooplive.co.kr
 +.exmeqy.smartbuyglasses.de
@@ -18791,6 +18797,7 @@
 +.famhe.westandwillow.com
 +.familiarrod.com
 +.fancyactivity.com
++.fancycolorlist.net
 +.fancydune.com
 +.fancyrat.calebporzio.com
 +.fancyrat.flatuicolors.com
@@ -19013,6 +19020,7 @@
 +.felidae.top10partnersuche.ch
 +.fem.gprod.postmedia.digital
 +.femetrics.grammarly.io
++.fencesync.com
 +.fennecdz.petitfennec.dz
 +.feqbqn.rent.com
 +.ferias.usj.es
@@ -20415,6 +20423,7 @@
 +.gjgjl.1898leather.com
 +.gjhjo.impactdogcrates.com
 +.gjhkyh.4fresh.ru
++.gjirafa.net
 +.gjjtey.mystylebags.it
 +.gjkha.beautyandtheboutique.com
 +.gjkzt.coldwatercreek.com
@@ -25265,6 +25274,7 @@
 +.image.mdr.de
 +.image.success.bluewolf.com
 +.image2.thiagolasevicius.com
++.imagecutie.com
 +.imagehost.pics
 +.imagehub.fun
 +.imagenes.marketing.calidad.pucp.edu.pe
@@ -27485,6 +27495,7 @@
 +.joqawz.snipes.nl
 +.joqdd.madeincookware.com.au
 +.joskgw.sewingmachinesplus.com
++.journal-bt.wildberries.ru
 +.journey.bommelwonen.nl
 +.journey.onlineverf.be
 +.journey.onlineverf.nl
@@ -32652,6 +32663,7 @@
 +.lock.ottuhr.com
 +.lockuplookup.com
 +.lockview.cn
++.locolava.com
 +.locomotiva.drcristianojuliani.com.br
 +.locust.ausrebellion.earth
 +.lodjo.electrifyexpo.com
@@ -37846,6 +37858,7 @@
 +.monkeytracker.cz
 +.monorail-edge.shopifysvc.com
 +.monsetting.toutiao.com
++.monsterjokes.com
 +.monstermemes.com
 +.montelena-rcv.auction.co.kr
 +.montelena-rcv.gmarket.co.kr
@@ -38852,6 +38865,7 @@
 +.news.valawyersweekly.com
 +.news.verimatrix.com
 +.newsanalytics.com.au
++.newsbotnet.com
 +.newserv.xyz
 +.newserver.beyondgreenltd.com
 +.newsflash.elliemae.com
@@ -38877,6 +38891,7 @@
 +.nextjscms-sgtm.1800gotjunk.com
 +.nextshop.nextshopbd.online
 +.nextstat.com
++.nexttopchef.com
 +.nexus-track-ppr.dev.se.com
 +.nexus.ensighten.tiaa.org
 +.nexus.mbna.ca
@@ -39058,6 +39073,7 @@
 +.noa.yahoo.com
 +.noa0.compteczam.fr
 +.noacqq.joamom.co.kr
++.noblecables.com
 +.nocodelytics.com
 +.nod.caracda.de
 +.node.aibeacon.jp
@@ -39545,6 +39561,7 @@
 +.offshoreassets.com
 +.offshorecyclone.com
 +.offshoregeology.com
++.offshoregoods.com
 +.ofhau.mamannyc.com
 +.ofkdoq.teetee.eu
 +.ofkqiy.knowfashionstyle.com
@@ -41907,6 +41924,7 @@
 +.pop.monteur-pro.com
 +.pop.unitedgate.co.jp
 +.popdn.ehplabs.ca
++.popliquids.com
 +.popln.rci.com
 +.popmixradio.com
 +.popplantation.com
@@ -50311,6 +50329,7 @@
 +.siteintercept.qualtrics.com
 +.sitelabweb.com
 +.sitemeter.com
++.siteperformancetest.net
 +.sitereport.org
 +.sites.campaignmgr.cisco.com
 +.sites.cliente.nissan.com.mx
@@ -54289,6 +54308,7 @@
 +.society.discoverylandco.com
 +.socketviking.net
 +.sockjs-goguardian.pusher.com
++.sockpacks.com
 +.socs.hagerty.com
 +.sodoit.com
 +.soegt.candyscupcakes.co.uk
@@ -54615,6 +54635,7 @@
 +.sortext.com
 +.sortstructure.com
 +.soulclicking.com
++.soundmachine.net
 +.soundstocking.com
 +.source-66584305d5.mainpost.de
 +.sourcecodeinfo.com
@@ -64173,6 +64194,7 @@
 +.stwg.wishup.gifts
 +.style.lighthouseink.de
 +.style.onvz.nl
++.styleaffinity.com
 +.stylelockers.com
 +.styles.hautelook.com
 +.stylishbuds.com
@@ -66676,6 +66698,7 @@
 +.team.elq.coles.com.au
 +.team.moxtra.com
 +.teammate.arclogics.com
++.teamstatus.net
 +.teaolg.niedersaechsischer-jobanzeiger.de
 +.tearfulglass.com
 +.teatime.empireelectro.co.uk
@@ -67066,6 +67089,7 @@
 +.tim.nextinpact.com
 +.time-and-attendance.insperity.com
 +.timecrossed.com
++.timelessyes.com
 +.timing.whenandhowagency.com
 +.timit.mno.link
 +.timo.hotel-winzer.at
@@ -67564,6 +67588,7 @@
 +.toronto-content.cresa.com
 +.tortoise.allyinteractive.com
 +.tortoise.mdx.one
++.tortoisepage.com
 +.toru0vane.com
 +.tos.botex.dk
 +.totem.tvmaze.com
@@ -74113,6 +74138,7 @@
 +.widerplanet.com
 +.widget.perfectmarket.com
 +.widget.sparrow.ru
++.widgethouse.com
 +.wielen.boldons.nl
 +.wigkxx.jetcost.com
 +.wikia-beacon.com
