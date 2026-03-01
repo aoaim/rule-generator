@@ -1600,6 +1600,7 @@
 +.f9abdq78mr.adobestats.io
 +.f9h6xqctn.p5jr3.adobestats.io
 +.f9zugm0g.4p4bv.adobestats.io
++.f9zukyoc5j.lqn0m.adobestats.io
 +.faag4y3x73.adobestats.io
 +.fabm1dd6.bmysp.hstatic.io
 +.fbi9qaljg.p5jr3.adobestats.io
@@ -1922,6 +1923,7 @@
 +.ignl41ej07.adobestats.io
 +.ih2zgvfk.4e2id.adobestats.io
 +.ihv4ujnxkw.adobestats.io
++.iihvelujfb.adobestats.io
 +.ij0gdyrfka.adobe.io
 +.ij8ajnroc.jdr5y.adobestats.io
 +.ij8v4nutnk.adobestats.io
@@ -2104,6 +2106,7 @@
 +.jytan16luj.bmysp.hstatic.io
 +.jytx4uw601.adobestats.io
 +.jyu43b655u.adobestats.io
++.jz1gqq4k1pr.xwk4b.adobestats.io
 +.jzh1rdq07h.adobestats.io
 +.jzvyv5bb4s.adobestats.io
 +.k0at187jqk.adobestats.io
