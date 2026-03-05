@@ -3810,6 +3810,7 @@
 +.alloutdubstep.com
 +.alloy-web.zvuk.com
 +.allsunflowers.com
++.allthelogs.com
 +.alltracked.com
 +.alltypo.com
 +.alluringbucket.com
@@ -5685,6 +5686,7 @@
 +.api.danielhenriqueadv.com.br
 +.api.danielsoutoortopedista.com.br
 +.api.data-analytics.pokemon.com
++.api.datahub-srgssr.ch
 +.api.datinghelp.dk
 +.api.datingxperten.de
 +.api.dayrellcompany.com.br
@@ -7687,6 +7689,7 @@
 +.baptisttop1000.com
 +.barbadoshello.com
 +.barbarousbase.com
++.barbershirts.com
 +.barcellona.imprenditore-vero.com
 +.barddfvgkhctch11.ru
 +.barilliance.net
@@ -9501,6 +9504,7 @@
 +.carsandcovers.cabriosupply.it
 +.carsandcovers.cabriosupply.nl
 +.carsandcovers.shopforcovers.com
++.carsarace.com
 +.carteiro.altashabilidadesesuperdotacao.com
 +.carteiro.institutomapeando.com.br
 +.carteiro.rumoconcursos.com.br
@@ -10015,6 +10019,7 @@
 +.circle.am
 +.circlelevel.com
 +.cis.harris.com
++.citiservi.es
 +.citrusad.net
 +.city.cityattirebd.com
 +.cityofsanmateo.analytics.open.law
@@ -16391,7 +16396,6 @@
 +.digestiondrawer.com
 +.digiadglobal.com
 +.digidip.net
-+.diginetica.net
 +.digistat.westjet.com
 +.digistats.westjet.com
 +.digital-engineering.de
@@ -19646,6 +19650,7 @@
 +.feedperfect.com
 +.feedten.com
 +.feignedfaucet.com
++.fel-api.prod.browse.bestbuy.com
 +.felidae.mmm.page
 +.felidae.mysuperportal.com
 +.felidae.theforeignarchitect.com
@@ -21689,6 +21694,7 @@
 +.goto.firsttechfed.com
 +.goto.heartlandpaymentsystems.com
 +.goto.newmarklearning.com
++.goto.suno.com
 +.gotpiu.regenbogen.com
 +.gouoa.kineon.io
 +.gouptc.brtc.co.kr
@@ -34104,6 +34110,7 @@
 +.log.classting.com
 +.log.cleandesigner.live
 +.log.cleanertoolboxonline.live
++.log.cleanerwish.live
 +.log.cleansweepplu.com
 +.log.clearcleanerpro.live
 +.log.cloud.sbs.co.kr
@@ -34179,6 +34186,7 @@
 +.log.pdfviewerscannerstore.live
 +.log.perfecttitspics.com
 +.log.phonefreshfix.live
++.log.photorecoverypicturerecovery.com
 +.log.pinterest.com
 +.log.pipeline.datarize.io
 +.log.pngindir.com
@@ -34195,6 +34203,7 @@
 +.log.reformal.ru
 +.log.rmp.rakuten.co.jp
 +.log.rutube.ru
++.log.scanqrcodedesign.live
 +.log.shortbread.analytics.console.aws.a2z.com
 +.log.shortbread.aws.dev
 +.log.shufoo.net
@@ -34207,6 +34216,7 @@
 +.log.strawpoll.com
 +.log.strm.yandex.ru
 +.log.suddenclean.com
++.log.sweepycleanplus.com
 +.log.talkie-ai.com
 +.log.tbs.qq.com
 +.log.tf.co.kr
@@ -34843,6 +34853,7 @@
 +.m-brain.fi
 +.m-metrics.capitalone.com
 +.m-pathy.com
++.m-stratovibe.prod.suno.com
 +.m.1gr.cz
 +.m.aclk.jp
 +.m.acmgloballab.com
@@ -39325,6 +39336,7 @@
 +.mole.getfamealy.com
 +.mole.gostartupco.com
 +.mollusk.working.actor
++.mollyflow.com
 +.momentfilter.com
 +.momotaro.craigmod.com
 +.momotaro.walkkumano.com
@@ -41989,9 +42001,7 @@
 +.p1.danskebank.co.uk
 +.p1.danskebank.dk
 +.p1.danskebank.ie
-+.p16-ad-site-sign-sg.tiktokcdn.com
 +.p16-tiktokcdn-com.akamaized.net.iberostar.com
-+.p19-ad-site-sign-sg.tiktokcdn.com
 +.p192.eastbaytimes.com
 +.p2.danskebank.co.uk
 +.p2.danskebank.dk
@@ -72534,6 +72544,7 @@
 +.tracking.dev2.pepsicopartners.com
 +.tracking.di.se
 +.tracking.diet.mayoclinic.org
++.tracking.diginetica.net
 +.tracking.digitalbooker.com
 +.tracking.digitalid.co.uk
 +.tracking.digitalocean.com
