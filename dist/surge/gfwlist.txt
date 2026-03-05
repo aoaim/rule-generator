@@ -246,12 +246,14 @@
 .archives.gov
 .arctosia.com
 .areca-backup.org
+.arena.ai
 .arena.taipei
 .arethusa.su
 .arlingtoncemetery.mil
 .arte.tv
 .artstation.com
 .arvanstorage.ir
+.arweave.org
 .asacp.org
 .asiaharvest.org
 .asianage.com
@@ -986,6 +988,7 @@
 .ebtcbank.com
 .ecfa.org.tw
 .ecimg.tw
+.economist.com
 .edgecastcdn.net
 .edubridge.com
 .edx-cdn.org
@@ -3846,6 +3849,7 @@
 .wiredpen.com
 .wireguard.com
 .wisevid.com
+.wispbyte.com
 .withgoogle.com
 .withyoutube.com
 .witopia.net
@@ -4052,7 +4056,6 @@
 .z-library.sk
 .zalmos.com
 .zamimg.com
-.zaobao.com.sg
 .zaochenbao.com
 .zattoo.com
 .zb.com
