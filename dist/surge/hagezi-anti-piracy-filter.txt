@@ -327,6 +327,7 @@
 .654321.best
 .661321.xyz
 .66387795cyr.com
+.67sports.net
 .67streams.online
 .6ahddutb1ucc3cp.ru
 .6box.me
@@ -877,6 +878,7 @@
 .annas-archive.cc
 .annas-archive.gs
 .annas-archive.li
+.annas-archive.pk
 .anonboot.com
 .anonsecurityteam.com
 .anonymous-stresser.net
@@ -1012,6 +1014,7 @@
 .archivx.to
 .arconaitv.us
 .area51.to
+.areagame.net
 .arena-tr.com
 .arenabg.ch
 .arenabg.com
@@ -1908,6 +1911,7 @@
 .cineby.shop
 .cineby.wiki
 .cineby.work
+.cinecalidad.am
 .cinecalidad.is
 .cineez.com
 .cineflix.rip
@@ -2232,6 +2236,8 @@
 .cricstreams.tv
 .crictime.nl
 .crimsonfansubs.com
+.crimsonstorm18.live
+.crimsonstorm18.pro
 .critical-boot.com
 .crnaberza.com
 .crocdb.net
@@ -2533,6 +2539,7 @@
 .dlhd.link
 .dlpsgame.com
 .dlstream.com
+.dlstreams.top
 .dlxbgame.com
 .dmfk.org
 .dn42.smrsh.net
@@ -3093,6 +3100,7 @@
 .eurostreamings.store
 .eurostreamings.top
 .eurostreamings.vip
+.eurostreamings.wiki
 .ev01.net
 .ev01.to
 .evan.im
@@ -4034,6 +4042,8 @@
 .gktorrent.io
 .gktorrent.pw
 .gktorrents.cc
+.glacierfalcon72.site
+.glacierfalcon72.xyz
 .gload.cc
 .gload.to
 .global-evolve.com
@@ -4322,11 +4332,13 @@
 .hdf.world
 .hdfilme-to.my
 .hdfilme-to.top
+.hdfilme-tv.cc
 .hdfilme.blog
 .hdfilme.cloud
 .hdfilme.cx
 .hdfilme.food
 .hdfilme.io
+.hdfilme.party
 .hdfilme.press
 .hdfilme.ru
 .hdfilme.to
@@ -8751,6 +8763,7 @@
 .streamingcommunityz.download
 .streamingcommunityz.email
 .streamingcommunityz.fun
+.streamingcommunityz.gdn
 .streamingcommunityz.gold
 .streamingcommunityz.golf
 .streamingcommunityz.guru
@@ -9405,7 +9418,6 @@
 .torrent-finder.com
 .torrent-finder.info
 .torrent-games.best
-.torrent-games.co
 .torrent-games.games
 .torrent-hitz.de
 .torrent-igruha.org
@@ -9663,7 +9675,6 @@
 .totalsportek.ac
 .totalsportek.at
 .totalsportek.me
-.totalsportek.one
 .totalsporteklive.net
 .totalsporteks.net
 .totaltorrents.com
@@ -10026,7 +10037,6 @@
 .tracker.zhuqiy.top
 .tracker.zokio.net
 .tracker.zum.bi
-.tracker.zupix.online
 .tracker0.ufibox.com
 .tracker01.loveapp.com
 .tracker1.520.jp
@@ -10226,7 +10236,6 @@
 .ufs.pt
 .ugda.online
 .uhdbits.org
-.uhdmovies.beer
 .uhdmovies.cs.in
 .uhdmovies.dad
 .uhdmovies.earth
@@ -10422,7 +10431,6 @@
 .vdiiy.space
 .vdomela.com
 .vdos-s.co
-.vdos-s.com
 .veday.fun
 .vedek.pro
 .vediq.fun
@@ -10438,7 +10446,6 @@
 .vegamovies.asia
 .vegamovies.at
 .vegamovies.auction
-.vegamovies.ax
 .vegamovies.ba
 .vegamovies.band
 .vegamovies.bargains
@@ -10448,7 +10455,6 @@
 .vegamovies.bio
 .vegamovies.bj
 .vegamovies.black
-.vegamovies.blue
 .vegamovies.boo
 .vegamovies.bot
 .vegamovies.build
@@ -10480,7 +10486,6 @@
 .vegamovies.dating
 .vegamovies.day
 .vegamovies.degree
-.vegamovies.design
 .vegamovies.dev
 .vegamovies.directory
 .vegamovies.dog
@@ -10503,9 +10508,7 @@
 .vegamovies.forum
 .vegamovies.free
 .vegamovies.frl
-.vegamovies.games
 .vegamovies.gd
-.vegamovies.ge
 .vegamovies.gf
 .vegamovies.gift
 .vegamovies.gives
@@ -10606,7 +10609,6 @@
 .vegamovies.tz
 .vegamovies.uno
 .vegamovies.uy
-.vegamovies.uz
 .vegamovies.vacations
 .vegamovies.ventures
 .vegamovies.vg
@@ -10621,7 +10623,6 @@
 .vegamovies.works
 .vegamovies.wtf
 .vegamovies.xin
-.vegamovies.xxx
 .vegamovies.yoga
 .vegamovies.yt
 .vegamovies.zip
@@ -10817,7 +10818,6 @@
 .voeunblk.com
 .voidboost.tv
 .voir-seriestreaming.org
-.voirdrama.org
 .voirfilm.vip
 .voirfilms.al
 .voirfilms.io
@@ -10845,7 +10845,6 @@
 .voxfilmeonline.biz
 .voxhost.fr
 .vpn.flying-datacenter.de
-.vpnfortorrents.page
 .vpnmentor.com
 .vps02.net.orel.ru
 .vps2.avc.cx
@@ -10969,7 +10968,6 @@
 .watch.lonelil.ru
 .watch.spencerdevs.xyz
 .watch0123movies.org
-.watch32.is
 .watch32hd.co
 .watch32hd.org
 .watchanimeworld.net
@@ -11106,7 +11104,6 @@
 .win2crack.blogspot.in
 .win7dl.org
 .win7games.com
-.windcurve65.site
 .windglow99.pro
 .windows-11.net
 .windows-torrent.com
@@ -11231,7 +11228,6 @@
 .xcinema.ro
 .xcinemas.tvstream.biz
 .xd-movie.com
-.xdcc.eu
 .xducaytr.com
 .xdude.net
 .xenialbb.net
@@ -11327,12 +11323,10 @@
 .yesmovies.app
 .yesmovies.asia
 .yesmovies.at
-.yesmovies.baby
 .yesmovies.cfd
 .yesmovies.cloud
 .yesmovies.com
 .yesmovies.do
-.yesmovies.email
 .yesmovies.fun
 .yesmovies.gg
 .yesmovies.id
@@ -11340,7 +11334,6 @@
 .yesmovies.is
 .yesmovies.lat
 .yesmovies.lol
-.yesmovies.love
 .yesmovies.media
 .yesmovies.mn
 .yesmovies.my
@@ -11366,6 +11359,7 @@
 .yesnetcommunication.com
 .yeyemo.info
 .yflix.to
+.ygg.gratis
 .ygg.re
 .yggleak.top
 .yggtorrent.com
@@ -11387,7 +11381,6 @@
 .yifystatus.com
 .yifysub.net
 .yifysubtitles.me
-.yifysubtitles.vip
 .yifytorrent.cc
 .yifytorrent.vip
 .yifytv.unblckd.ist
@@ -11490,7 +11483,6 @@
 .z2999.ru
 .z8341.online
 .zajefajna.com
-.zalukaj-pl.com
 .zalukaj-pl.tv
 .zalukaj-tv.pl
 .zalukaj-vip.pl
