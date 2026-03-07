@@ -4064,6 +4064,7 @@
 +.analytics-api.gemcommerce.com
 +.analytics-api.invideo.io
 +.analytics-api.liveapp.com
++.analytics-api.penpencil.co
 +.analytics-api.samsunghealthcn.com
 +.analytics-api.sconto.cz
 +.analytics-api.smzdm.com
@@ -4082,6 +4083,7 @@
 +.analytics-dataplane.invideo.io
 +.analytics-egain.com
 +.analytics-events.inshorts.com
++.analytics-fe.digital-cloud-west.medallia.com
 +.analytics-fe.digital-cloud.medallia.eu
 +.analytics-gateway.delta.dp.lightricks.com
 +.analytics-ingestion-production.tubitv.com
@@ -6001,6 +6003,7 @@
 +.api.openingsci.com
 +.api.openmitsubishi.com.br
 +.api.openova.com.br
++.api.openpanel.dev
 +.api.openseminovos.com.br
 +.api.operacaoconcursos.com.br
 +.api.operalt.com.br
@@ -7965,6 +7968,7 @@
 +.beneficios.davivienda.hn
 +.beneficios.davivienda.sv
 +.benefits.aon.com
++.bentengine.com
 +.bentley.euroshop.com.pe
 +.beoofo.pairs.lv
 +.beppk.travelsmith.com
@@ -8444,6 +8448,7 @@
 +.bonuscomplex.com
 +.bonuscounter.de
 +.book.shop.coloringbookofshadows.com
++.bookbeef.com
 +.booking.brianwaldron.net
 +.bookprobe.com
 +.books-analytics-events.apple.com
@@ -8560,6 +8565,7 @@
 +.bremg.onnocollection.com
 +.brettdanko.marketingms.net
 +.brewing.drinknewbrew.com
++.brewthing.com
 +.brgrwd.dansko.com
 +.brhxtc.dxl.com
 +.brianwould.com
@@ -25456,6 +25462,7 @@
 +.health.brgeneral.org
 +.health.care.mclaren.org
 +.health.fishersci.com
++.health.flowplayer.com
 +.health.hillcrest.com
 +.healthcare.fishersci.com
 +.healthfirstst.mywellnessoffer.com
@@ -34829,6 +34836,7 @@
 +.lypn.net
 +.lyricshook.com
 +.lytdjv.oculosworld.com.br
++.lytics.fileditch.com
 +.lytics.findairpods.com
 +.lytics.io
 +.lytiks.com
@@ -41601,7 +41609,6 @@
 +.openlog.tapapis.com
 +.openmonitor.alipay-eco.com
 +.openmonitor.alipay.com
-+.openpanel.dev
 +.openrate.aweber.com
 +.openstat.net
 +.openstats.co
