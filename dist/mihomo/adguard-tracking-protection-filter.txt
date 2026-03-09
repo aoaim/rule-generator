@@ -5865,6 +5865,7 @@
 +.api.janainalaurentino.com
 +.api.jazzigo.com
 +.api.jetfloss.com.br
++.api.jformatter.com
 +.api.jfsun.com.br
 +.api.jgssport.com
 +.api.joaocarlosguimaraes.com
@@ -43954,6 +43955,7 @@
 +.protectcrev.com
 +.protected-api.branch.io
 +.protected-by.clarium.io
++.protectpool.com
 +.protectsubrev.com
 +.protestcopy.com
 +.protys.protys.fr
