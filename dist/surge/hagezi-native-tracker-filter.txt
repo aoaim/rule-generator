@@ -2225,7 +2225,6 @@
 .r.browser.intl.miui.com
 .r.sg.sec.miui.com
 .rad.live.com
-.rad.microsoft.com
 .radarsubmissions.apple.com
 .radarsubmissions.apple.com.akadns.net
 .rads.msn.com
@@ -2507,7 +2506,6 @@
 .sca-vcode-od.vivoglobal.com
 .sca-vcode-or.vivoglobal.com
 .sca.samsung.com
-.sconsentit9.trafficmanager.net
 .sd-ad-lgsmartad-com.aws-prd.net
 .sd.lgsmartad.com
 .sdfp.snssdk.com
