@@ -809,6 +809,7 @@
 .dc.services.visualstudio.com
 .dcc-awareness-cn.heytapmobi.com
 .dcintl.push.heytapmobi.com
+.ddf.di.atlas.samsung.com
 .de-ad-lgsmartad-com.aws-prd.net
 .de-gdpr-err-up.vivoglobal.com
 .de-gdpr-vcode-od.vivoglobal.com
