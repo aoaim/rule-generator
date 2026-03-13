@@ -9659,6 +9659,7 @@
 +.carteiro.rumoconcursos.com.br
 +.cartelsalsa.com
 +.cartkitten.com
++.cartlug.com
 +.carts.guru
 +.cartx.cloud
 +.carvecakes.com
@@ -9713,6 +9714,7 @@
 +.catfish.pressure.cooking
 +.catfish.sofatido.ch
 +.catfood.mikipetstore.com
++.catlanguage.net
 +.catng.crateandbarrel.com
 +.catpq.vitalitymedical.com
 +.catracking.cubiq.com
@@ -18353,6 +18355,7 @@
 +.elk.ritterhilgerstuetz.de
 +.elk.techphotoguy.com
 +.ellypsio.net.jumia.com.ng
++.elmasistatistik.com.tr
 +.elnbz.qualitylogic.com
 +.eloq.fiducial.fr
 +.eloqua-tracking.unity.com
@@ -21764,6 +21767,7 @@
 +.glkvw.beaumondepilates.com
 +.global-go.experian.com
 +.global-mktg.transunion.com
++.global-report.ml.youngjoygame.com
 +.global-sis.engagelab.com
 +.global.accadis.com
 +.global.ecs.arrow.com
@@ -22289,9 +22293,11 @@
 +.gpiljd.thetiebar.com
 +.gpipb.respectedroots.com
 +.gpiyhj.leopalace21.com
++.gplog-sg.byteoversea.com
 +.gplpl.dcshoes.com
 +.gpm-mon-sg.bytegsdk.com
 +.gpm-mon-sg.byteoversea.com
++.gpm-mon-va.bytegsdk.com
 +.gpm-mon-va.byteoversea.com
 +.gpukye.holabirdsports.com
 +.gqact.fleurdumal.com
@@ -22404,6 +22410,9 @@
 +.gsagz.wonsulting.com
 +.gscounters.gigya.com
 +.gsdhrj.esthermall.co.kr
++.gsdk-quic-gcp-va.bytegsdk.com
++.gsdk-va.bytegsdk.com
++.gsdk19-va.bytegsdk.com
 +.gsecondscreen.com
 +.gseip.hellojupiter.com
 +.gsftuy.nutripure.fr
@@ -35236,6 +35245,7 @@
 +.log-lb.skyperfectv.co.jp
 +.log-mediation.easemobi.net
 +.log-music-data.line-apps.com
++.log-nontt.bytegsdk.com
 +.log-player.arte.tv
 +.log-pub-hk.aoshitang.com
 +.log-sdk.ksapisrv.com
@@ -68175,6 +68185,7 @@
 +.stats.galaxyexperte.de
 +.stats.galeb.org
 +.stats.galleriacortona.com
++.stats.gastronom.ru
 +.stats.geekish.dev
 +.stats.geobox.app
 +.stats.gesund-vital-lebensfreude.com
@@ -69963,6 +69974,7 @@
 +.szsvc.adinaeden.com
 +.sztpmc.branshes.com
 +.t-ak.hulu.com
++.t-dsp.pinduoduo.com
 +.t-odx.op-mobile.opera.com
 +.t-online.met.vgwort.de
 +.t-pan.triodos.com
