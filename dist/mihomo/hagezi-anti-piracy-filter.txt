@@ -242,6 +242,7 @@
 +.24-hd.com
 +.240x320.ru
 +.24h.tv
++.24start.net
 +.24urban.com
 +.24warez.ru
 +.250412.xyz
@@ -702,6 +703,7 @@
 +.altadefinizione4k.tv
 +.altadefinizionea.com
 +.altadefinizionegratis.asia
++.altadefinizionegratis.beer
 +.altadefinizionegratis.bid
 +.altadefinizionegratis.biz
 +.altadefinizionegratis.bond
@@ -2866,6 +2868,7 @@
 +.dpstreamiz.net
 +.dqqd.org
 +.dr-farfar.com
++.dr0pstream.com
 +.draculastream.org
 +.dragonballsuperenvf.weebly.com
 +.dragons-den.net
@@ -5838,6 +5841,7 @@
 +.ln.mtahost.co
 +.lnx-bbc.org
 +.load.to
++.logansmovies.com
 +.lolokino.biz
 +.lonelyhalloween.ru
 +.lonkero.info
@@ -5862,6 +5866,7 @@
 +.lordfilmhd.lol
 +.lordfilmkxe.icu
 +.lordfilmkxr.lat
++.lordfilmuwq.ink
 +.losmovies.app
 +.losmovies.com
 +.losmovies.fun
@@ -6490,12 +6495,19 @@
 +.moviesjoy.plus
 +.moviesjoy.to
 +.moviesjoytv.to
++.moviesleech.app
++.moviesleech.eu
++.moviesleech.link
++.moviesleech.net
++.moviesleech.org
++.moviesleech.zip
 +.moviesm4u.net
 +.moviesmania.info
 +.moviesmobile.net
 +.moviesmod.build
 +.moviesmod.cards
 +.moviesmod.dev
++.moviesmod.pink
 +.moviesmod.plus
 +.moviesmod.space
 +.moviesmod.town
@@ -7487,6 +7499,7 @@
 +.playerhd.site
 +.playersklub.tv
 +.playertv.net
++.playhdmovies.com
 +.playit.pk
 +.playmods.app
 +.playmods.co
@@ -8972,6 +8985,7 @@
 +.streaming-community.trade
 +.streaming-french.com
 +.streaming-series.org
++.streamingaddons.xyz
 +.streamingcommunity.actor
 +.streamingcommunity.ag
 +.streamingcommunity.airforce
@@ -9935,6 +9949,7 @@
 +.torrentchile.org
 +.torrentcity.net
 +.torrentcity.pl
++.torrentclaw.com
 +.torrentclub.online
 +.torrentclub.space
 +.torrentclub.tech
@@ -10819,6 +10834,12 @@
 +.uniteam.co
 +.united-ddl.com
 +.unitedmods.net
++.unitvnet.app
++.unitvnet.cloud
++.unitvnet.com
++.unitvnet.net
++.unitvnet.pro
++.unitvnet.top
 +.universalmediaserver.com
 +.univisionbd.net
 +.unknownbooter.co
