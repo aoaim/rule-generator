@@ -4,6 +4,8 @@
 .ib.snssdk.com
 .xlog.snssdk.com
 .log.snssdk.com
+.t-dsp.pinduoduo.com
+.elmasistatistik.com.tr
 .analystic.365av.net
 .mollyflow.com
 .citiservi.es
@@ -75137,6 +75139,7 @@
 .tagman.britishairways.com
 .ct.pinterest.com
 .incoming.telemetry.mozilla.org
+.stats.gastronom.ru
 .dd.leboncoin.fr
 .audience-pccw.viu.com
 .ingest-api.evoto.ai
@@ -78463,6 +78466,13 @@
 .int.vlancaa.site
 .int.vlancaa.fun
 .tok.vaicore.xyz
+.log-nontt.bytegsdk.com
+.gpm-mon-va.bytegsdk.com
+.gplog-sg.byteoversea.com
+.gsdk-quic-gcp-va.bytegsdk.com
+.gsdk19-va.bytegsdk.com
+.gsdk-va.bytegsdk.com
+.global-report.ml.youngjoygame.com
 .bdtelemetry.amazon
 .rum.us-east-1.amazonaws.com
 .log.sweepycleanplus.com
@@ -79682,9 +79692,11 @@
 .carsarace.com
 .cartelsalsa.com
 .cartkitten.com
+.cartlug.com
 .carvecakes.com
 .casualphysics.com
 .catalogcake.com
+.catlanguage.net
 .catschickens.com
 .cattlecommittee.com
 .catventions.com
