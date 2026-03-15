@@ -11873,6 +11873,7 @@
 +.ctzcqz.impromptugourmet.com
 +.cuarb.cartersoshkosh.ca
 +.cubchannel.com
++.cubeglobal.net
 +.cubepins.com
 +.cuckoo.clientrock.app
 +.cuckoo.cult.supply
@@ -19218,6 +19219,7 @@
 +.etzqwj.canevas.com
 +.eu-1-id5-sync.com
 +.eu-cdn.kgm-motors.co.uk
++.eu-south-2.alb.pulse.perfmetrics.netflix.com
 +.eu-survey.com
 +.eu.cignaglobalhealth.com
 +.eu.groupondata.com
@@ -20151,6 +20153,7 @@
 +.felidae.theforeignarchitect.com
 +.felidae.top10partnersuche.ch
 +.fem.gprod.postmedia.digital
++.femalecook.com
 +.femetrics.grammarly.io
 +.fencesync.com
 +.fennecdz.petitfennec.dz
@@ -41072,6 +41075,7 @@
 +.muqke.donajobrand.com
 +.muqtti.motoin.de
 +.murjz.consumerexaminer.com
++.mushroomgods.com
 +.mushywaste.com
 +.musiccounter.ru
 +.musicflashcard.com
@@ -45542,6 +45546,7 @@
 +.pulse.parkivado.com.br
 +.pulse.parkivado.pt
 +.pulse.parkive.fr
++.pulse.perfmetrics.netflix.com
 +.pulse.porinkalustetalo.fi
 +.pulse.quaero.com
 +.pulse.rac.co.uk
