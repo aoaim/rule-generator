@@ -1,5 +1,6 @@
 .00.xxtor.com
 .003396815.xyz
+.004430.xyz
 .0123456789nonexistent.com
 .0123movie.net
 .0123movie.onl
@@ -82,7 +83,6 @@
 .123fox.net
 .123freemovies.net
 .123freemovies.show
-.123hbo.com
 .123hulu.com
 .123movie.blog
 .123movie.cc
@@ -96,7 +96,6 @@
 .123movies-apk.com
 .123movies-to.org
 .123movies.ag
-.123movies.archi
 .123movies.bio
 .123movies.coach
 .123movies.com
@@ -275,7 +274,6 @@
 .33seriestreaming.rip
 .33seriestreaming.site
 .33voirseries.com
-.345movie.net
 .365watchtv.com
 .36dm.com
 .3dmgame.com
@@ -293,7 +291,6 @@
 .42ke45r7.com
 .441001.xyz
 .456movie.com
-.456movie.net
 .47.ip-51-68-199.eu
 .480mkv.com
 .4anime.to
@@ -7682,6 +7679,7 @@
 .pseudo-flix.pro
 .psperspective.net
 .pspstrana.ru
+.pstream.net
 .pstream.org
 .psvitaiso.com
 .psvitavpk.com
