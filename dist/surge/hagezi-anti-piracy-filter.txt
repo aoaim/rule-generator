@@ -219,6 +219,7 @@
 .1stream.top
 .1street.ru
 .1tamilblasters.how
+.1tamilmv.army
 .1tamilmv.gs
 .1tamilmv.pet
 .1techno.org
@@ -565,6 +566,7 @@
 .allmacworlds.com
 .allmanga.to
 .allmodapk.de
+.allmovieland.you
 .allmoviesforyou.co
 .allmovieshub.win
 .allmyroms.net
@@ -3652,6 +3654,7 @@
 .filmze.rip
 .filmzenstream.online
 .filmzenstream.tube
+.filmzevkim.com
 .filmzie.com
 .filser.cc
 .fin101.online
@@ -6772,6 +6775,7 @@
 .nanikano.no-ip.org
 .nanniesofgreenhills.com
 .nantong101.ru
+.nartlof.com
 .naruto.a.free.fr
 .narutopie.free.fr
 .natorrent.com
@@ -7796,6 +7800,7 @@
 .putlockerz.mov
 .puzo.org
 .pwtorrents.net
+.pybittrack.retiolus.net
 .qatarstreams.me
 .qbittorrent.org
 .qg.lorzl.gq
@@ -9279,7 +9284,6 @@
 .streamsports99.tv
 .streamsports99.website
 .streamsthunder.tv
-.streamsworld.cfd
 .streamtape.com
 .streamtonfoot.vercel.app
 .streamtp10.com
@@ -11148,6 +11152,7 @@
 .vegamoviesw.com.in
 .vegamovles.com
 .vegamovles.pics
+.veidtr.com
 .velocinator.tv
 .velocity.net.bd
 .veoble.com
