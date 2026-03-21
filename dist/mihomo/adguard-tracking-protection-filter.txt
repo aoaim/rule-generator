@@ -20404,6 +20404,7 @@
 +.fjitr.malijunaki.si
 +.fjjkh.thelostestate.com
 +.fjnrh.period.co
++.fjordsand.com
 +.fjortk.braun-hamburg.com
 +.fjqtg.resthavenokc.com
 +.fjqtyu.bethowen.ru
@@ -38490,6 +38491,7 @@
 +.metrics-broker.prod.p.tf1.fr
 +.metrics-cbslocal-com.cdn.ampproject.org
 +.metrics-config.icloud.com
++.metrics-content.duckduckgo.com
 +.metrics-fe-na1.hubspot.com
 +.metrics-go.experian.com
 +.metrics-ingress-web.svc.vinted.com
@@ -47394,6 +47396,7 @@
 +.rubelhasanrokib.trustimporterbd.com
 +.rubicon.wellsfargo.com
 +.rucounter.ru
++.rudder-server-prd.arena.im
 +.rudderlabs.com
 +.rudr-events.joybird.com
 +.ruehg.dotcompliancegroup.com
@@ -59041,6 +59044,7 @@
 +.squidlogic.com
 +.squirrel.laravel-mix.com
 +.squishybears.com
++.squishykiosk.com
 +.squjvr.modamerve.com
 +.sqvnf.sneakerpolitics.com
 +.sqzfj.landmarkathletics.com
@@ -61364,6 +61368,7 @@
 +.ssgamf.stories.com
 +.ssgan.tera.ma
 +.ssgi.roserx.health
++.ssgmanual.snov.io
 +.ssgri.grupporefrattivoitaliano.it
 +.ssgt.flavianasser.com.br
 +.ssgt.mychildbenefit.co.uk
@@ -68917,6 +68922,7 @@
 +.stehly.justfashionnow.com
 +.stehz.bullybunches.ca
 +.stel.telegraaf.nl
++.stellarduel.com
 +.stellaservice.com
 +.stem.cellmedicine.com
 +.sten.buenaonda-holidays.com
