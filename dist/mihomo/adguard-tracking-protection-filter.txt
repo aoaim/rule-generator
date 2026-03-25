@@ -4044,7 +4044,7 @@
 +.analysis.aws.locondo.jp
 +.analysis.chatglm.cn
 +.analysis.fi
-+.analysis.sooplive.co.kr
++.analysis.sooplive.com
 +.analysis.sozialversicherung.at
 +.analysis.vesync.com
 +.analysis.wangtwothree.com
@@ -10863,7 +10863,7 @@
 +.collector.xhamster.com
 +.collector.xhofficial.com
 +.collector.xhwide1.com
-+.collector1.sooplive.co.kr
++.collector1.sooplive.com
 +.collector1.xhamster.com
 +.collectorj.tvsquared.com
 +.collects.lightinthebox.com
@@ -16539,7 +16539,7 @@
 +.delivery.lululemon.com
 +.dell.compellent.com
 +.delog.nestads.com
-+.delog.sooplive.co.kr
++.delog.sooplive.com
 +.deltadna.net
 +.deltafault.com
 +.deluxecrate.com
@@ -19407,7 +19407,7 @@
 +.event.webcollage.net
 +.event.wondershare.com
 +.event1.thermofisher.com
-+.eventapi.sooplive.co.kr
++.eventapi.sooplive.com
 +.eventbus.intuit.com
 +.eventcollector.mcf-prod.a.intuit.com
 +.eventcollectorv2-1131000179.us-east-1.elb.amazonaws.com
@@ -19707,7 +19707,7 @@
 +.exitbee.com
 +.exitblocked.com
 +.exitmonitor.com
-+.exlogcollector.sooplive.co.kr
++.exlogcollector.sooplive.com
 +.exmeqy.smartbuyglasses.de
 +.exnsar.raiton.ru
 +.exovueplatform.com
@@ -20375,6 +20375,7 @@
 +.fishersfinds.com
 +.fishhoo.com
 +.fishing.bucketbro.com.au
++.fishingtoolsbox.com
 +.fit.bedrijfsfitnessnederland.nl
 +.fit.fitpen.com
 +.fitanalytics.com
@@ -28625,6 +28626,7 @@
 +.ingest.m2catalyst.com
 +.ingest.make.rvohealth.com
 +.ingest.metzler-electronics.com
++.ingest.skarb.work
 +.ingest.webcol.sdp.peacocktv.com
 +.ingestion.webanalytics.italia.it
 +.ingress.linktr.ee
@@ -45586,6 +45588,7 @@
 +.puppytooth.com
 +.purchasesupremo.tiadoingles.com.br
 +.pure.naqia.com.bd
++.purebloom.net
 +.purevideo.com
 +.purple.fitchconnect.com
 +.purpose.fressnapf.at
@@ -45711,6 +45714,7 @@
 +.q777.sfchronicle.com
 +.qa-events-schema.viacom.tech
 +.qa-sst.zola.com
++.qa-track.ssg.com
 +.qaaohk.calpaktravel.com
 +.qabni.myhealth-lifestyle.com
 +.qaburi.l-appart.net
@@ -69448,7 +69452,6 @@
 +.subscriptions.bazaarvoice.com
 +.subscriptions.communications.guard.me
 +.subscriptions.costco.ca
-+.subscriptions.costco.com
 +.subscriptions.e.silverfernfarms.com
 +.subscriptions.experience.dcu.org
 +.subscriptions.news.pistons.com
@@ -78168,6 +78171,7 @@
 +.vats.vsl.co.at
 +.vau.stagland.hu
 +.vault-stats.sladewatkins.net
++.vault.nqintelligence.com
 +.vazulp.graniph.com
 +.vbanalytics.com
 +.vbcqr.luminskin.com
