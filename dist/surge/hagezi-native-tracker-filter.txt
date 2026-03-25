@@ -694,7 +694,6 @@
 .cname-in-bom01-nginxpool03.vivoglobal.com
 .cname-in-ctdbonrt-stsdk.vivoglobal.com
 .cname-sin01-stsdk09.vivoglobal.com
-.cnbj1.fds.api.xiaomi.com
 .co-ad-lgsmartad-com.aws-prd.net
 .co-cota.vivoglobal.com
 .co-domaincfg.vivoglobal.com
