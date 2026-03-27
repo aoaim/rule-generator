@@ -16536,6 +16536,7 @@
 +.deliver.ptgncdn.com
 +.delivery.boraso.com
 +.delivery.casabito.io
++.delivery.dighty.com
 +.delivery.lululemon.com
 +.dell.compellent.com
 +.delog.nestads.com
@@ -44824,6 +44825,7 @@
 +.plausible.treelightsoftware.com
 +.plausible.urbanekuensteruhr.de
 +.plausible.veszelovszki.com
++.plausible.vidsonic.net
 +.plausible.wordstamped.com
 +.plausible.yalepaprika.com
 +.plausible.zest.dev
@@ -58919,6 +58921,7 @@
 +.splachujeme.sanela.ru
 +.splachujeme.sanela.sk
 +.splatky.aquatrend.sk
++.splicebook.com
 +.splitbee.io
 +.splletaz.bycortsen.com
 +.splsgi.coco-gourmet.com
@@ -76582,6 +76585,7 @@
 +.truejasmine.com
 +.trueprofit.io
 +.trueroas.io
++.trueselfkeys.com
 +.truliantfcu.fmservice.com
 +.trust.flexpay.io
 +.trust.mitutoyo.com
@@ -79444,6 +79448,7 @@
 +.weblog.coupang.com
 +.weblog.dema.mil.kr
 +.weblog.e-himart.co.kr
++.weblog.eseoul.go.kr
 +.weblog.hankookilbo.com
 +.weblog.kma.go.kr
 +.weblog.woowa.in
