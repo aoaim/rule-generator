@@ -69,6 +69,12 @@
 .1080-kino.com
 .10drives.com
 .10hitmovies.click
+.10hitmovies.club
+.10hitmovies.com
+.10hitmovies.help
+.10hitmovies.lat
+.10hitmovies.lol
+.10hitmovies.one
 .10kol.tv
 .10mbit.com
 .111movies.net
@@ -4167,6 +4173,7 @@
 .gbwatsapp.net
 .gbwhatapp.net
 .gbwhatspro.com
+.gd8lebaran.com
 .gdekino.me
 .gdplayer.to
 .gdplayer.top
@@ -10258,6 +10265,7 @@
 .tracker.23794.top
 .tracker.4.babico.name.tr
 .tracker.52pt.site
+.tracker.7471.top
 .tracker.acg.gg
 .tracker.aibt.xyz
 .tracker.ali213.net
