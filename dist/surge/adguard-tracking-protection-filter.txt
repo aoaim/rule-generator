@@ -4,6 +4,8 @@
 .ib.snssdk.com
 .xlog.snssdk.com
 .log.snssdk.com
+.plausible.vidsonic.net
+.delivery.dighty.com
 .vault.nqintelligence.com
 .rudder-server-prd.arena.im
 .wobs.route.com
@@ -75142,6 +75144,7 @@
 .tagman.britishairways.com
 .ct.pinterest.com
 .incoming.telemetry.mozilla.org
+.weblog.eseoul.go.kr
 .qa-track.ssg.com
 .ssgmanual.snov.io
 .metrics-content.duckduckgo.com
@@ -81200,6 +81203,7 @@
 .spiffymachine.com
 .spirebaboon.com
 .spitefulriver.com
+.splicebook.com
 .spookyexchange.com
 .spookyskate.com
 .spookysleet.com
@@ -81445,6 +81449,7 @@
 .truculentrate.com
 .truebackpack.com
 .truejasmine.com
+.trueselfkeys.com
 .tumbleicicle.com
 .tuneupcoffee.com
 .twelvedawn.com
