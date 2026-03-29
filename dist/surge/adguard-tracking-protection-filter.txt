@@ -75144,6 +75144,9 @@
 .tagman.britishairways.com
 .ct.pinterest.com
 .incoming.telemetry.mozilla.org
+.spm.gmarket.co.kr
+.atsssl.gmarket.co.kr
+.utsssl.gmarket.co.kr
 .weblog.eseoul.go.kr
 .qa-track.ssg.com
 .ssgmanual.snov.io
@@ -75425,7 +75428,6 @@
 .usage.trackjs.com
 .rainbow-prod-jdlog.ldoverseas.com
 .posthog.lingvanex.com
-.analytics.vgtimes.com
 .bee.tc.easebar.com
 .site-see.slgnt.eu
 .site-azp.slgnt.eu
@@ -81507,6 +81509,7 @@
 .verdantsculpture.com
 .verifiedarts.com
 .verseballs.com
+.versuswall.com
 .vibrantcelebration.com
 .vibrantgale.com
 .vibranthaven.com
@@ -81544,6 +81547,7 @@
 .waxsirens.com
 .wayjoyfarm.com
 .weatherbytes.net
+.weatherpush.net
 .websitesdude.com
 .weeklybanner.com
 .wellgroomedapparel.com
