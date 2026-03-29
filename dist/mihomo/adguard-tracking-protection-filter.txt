@@ -5164,7 +5164,6 @@
 +.analytics.verizonwireless.com
 +.analytics.veryfunnyads.net
 +.analytics.vg
-+.analytics.vgtimes.com
 +.analytics.videaai.app
 +.analytics.viisviis.fi
 +.analytics.villagehouse.jp
@@ -7250,6 +7249,7 @@
 +.atsfi.de
 +.atsmetrics.adobe.com
 +.atsod.launch.liveramp.com
++.atsssl.gmarket.co.kr
 +.att.adn.hqusers.com
 +.att.biaxoltrck.com
 +.att.click.herbalsnlife.com
@@ -58926,6 +58926,7 @@
 +.splletaz.bycortsen.com
 +.splsgi.coco-gourmet.com
 +.splyt.com
++.spm.gmarket.co.kr
 +.spmaeu.gumtree.com.au
 +.spmyma.moscowfresh.ru
 +.spn-twr-14.com
@@ -78045,6 +78046,7 @@
 +.utsgw.auction.co.kr
 +.utspt.latchedmama.com
 +.utsssl.auction.co.kr
++.utsssl.gmarket.co.kr
 +.utt.impactcdn.com
 +.utzr.intersport.si
 +.uubzxk.bebe-mall.jp
@@ -78294,6 +78296,7 @@
 +.verint-cdn.com
 +.veritas.invivohealthcare.com
 +.verseballs.com
++.versuswall.com
 +.vertical-leap.co.uk
 +.vertical-leap.net
 +.verticalscope.com
@@ -79137,6 +79140,7 @@
 +.weather-analytics-events.apple.com
 +.weather-analytics-events.news.apple-dns.net
 +.weatherbytes.net
++.weatherpush.net
 +.web-analytics.lastpass.com
 +.web-boosting.net
 +.web-counter.net
