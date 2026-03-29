@@ -458,6 +458,7 @@
 .atfe.amazon-adsystem.com
 .atue.amazon-adsystem.com
 .au-ad-lgsmartad-com.aws-prd.net
+.au-vcode-od.vivoglobal.com
 .au.ff.avast.sec.miui.com
 .au.lgsmartad.com
 .auc-visio-telemetry.officeapps.live.com
@@ -477,7 +478,6 @@
 .az.appstore.vivo.com.cn
 .az.lgsmartad.com
 .az667904.vo.msecnd.net
-.azsc-edge-bingads-westeurope.westeurope.cloudapp.azure.com
 .azurewatson.microsoft.com
 .azurewatsontest.microsoft.com
 .b-ring-fallback.msedge.net
@@ -1508,6 +1508,7 @@
 .log32-normal-sg.capcutapi.com
 .log32-normal-useast1a.tiktokv.com
 .log32-normal-useast2a.tiktokv.com
+.log32-normal-useastred.tiktokv.eu
 .log32-normal-zr.tiktokv.com
 .log32-normal.capcutapi.com
 .log32-normal.tiktokv.com
@@ -2077,6 +2078,9 @@
 .p.sec.miui.com
 .p.www.xiaomi.com
 .p16-ad.byteoversea.com
+.p16-tiktok-ads-sg.tiktokcdn.com
+.p16-tiktok-ads-sg.tiktokcdn.com.bytegeo.akadns.net
+.p16-tiktok-ads-sg.tiktokcdn.com.edgesuite.net
 .pa-ad-lgsmartad-com.aws-prd.net
 .pa.lgsmartad.com
 .paa-reporting-advertising.amazon
