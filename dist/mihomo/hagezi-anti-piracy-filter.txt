@@ -797,8 +797,10 @@
 +.anidb.info
 +.anidex.info
 +.anidex.moe
++.anidoor.me
 +.anidub.pro
 +.anify.to
++.anigo.to
 +.anilinkz.to
 +.animatedchaos.com
 +.animationdigitalnetwork.fr
@@ -3471,6 +3473,7 @@
 +.film-haven.vercel.app
 +.film-pertutti.art
 +.film-pertutti.autos
++.film-pertutti.bond
 +.film-pertutti.click
 +.film-pertutti.cyou
 +.film-pertutti.homes
@@ -4299,6 +4302,7 @@
 +.gnutellaforums.com
 +.go123.stream
 +.go2load.com
++.goal2.live
 +.goalz.zip
 +.goatd.me
 +.god-games.com
@@ -4611,6 +4615,7 @@
 +.hdfilme.uno
 +.hdfilmizle22.com
 +.hdfreaks.cc
++.hdfull.cam
 +.hdfull.lv
 +.hdhome.org
 +.hdhub4u.family
@@ -6645,7 +6650,6 @@
 +.moviesmod.forum
 +.moviesmod.fyi
 +.moviesmod.gift
-+.moviesmod.how
 +.moviesmod.kim
 +.moviesmod.mom
 +.moviesmod.nl
@@ -10834,6 +10838,7 @@
 +.uakino.club
 +.uakino.me
 +.uakinogo.art
++.uakinogo.best
 +.uakinogo.co
 +.uakinogo.com
 +.uakinogo.day
@@ -12000,6 +12005,7 @@
 +.yahor.of.by
 +.yalla-shoot-mobasher.com
 +.yalla-shoot.fun
++.yalla-shoot.mov
 +.yalla-shootv.live
 +.yalla-shootx.org
 +.yallashoothub.com
