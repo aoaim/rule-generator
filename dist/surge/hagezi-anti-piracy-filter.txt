@@ -797,8 +797,10 @@
 .anidb.info
 .anidex.info
 .anidex.moe
+.anidoor.me
 .anidub.pro
 .anify.to
+.anigo.to
 .anilinkz.to
 .animatedchaos.com
 .animationdigitalnetwork.fr
@@ -2178,7 +2180,6 @@
 .coflix.zip
 .coflix2.com
 .coflix2.net
-.coflixfr.com
 .coflixhd.com
 .coflixtv.com.co
 .coflixtv.fit
@@ -3472,6 +3473,7 @@
 .film-haven.vercel.app
 .film-pertutti.art
 .film-pertutti.autos
+.film-pertutti.bond
 .film-pertutti.click
 .film-pertutti.cyou
 .film-pertutti.homes
@@ -4300,6 +4302,7 @@
 .gnutellaforums.com
 .go123.stream
 .go2load.com
+.goal2.live
 .goalz.zip
 .goatd.me
 .god-games.com
@@ -4612,6 +4615,7 @@
 .hdfilme.uno
 .hdfilmizle22.com
 .hdfreaks.cc
+.hdfull.cam
 .hdfull.lv
 .hdhome.org
 .hdhub4u.family
@@ -6632,7 +6636,6 @@
 .moviesmod.bio
 .moviesmod.bio.link
 .moviesmod.blue
-.moviesmod.bot
 .moviesmod.build
 .moviesmod.cafe
 .moviesmod.cards
@@ -6645,11 +6648,8 @@
 .moviesmod.day
 .moviesmod.dev
 .moviesmod.forum
-.moviesmod.fun
 .moviesmod.fyi
 .moviesmod.gift
-.moviesmod.how
-.moviesmod.kids
 .moviesmod.kim
 .moviesmod.mom
 .moviesmod.nl
@@ -6658,7 +6658,6 @@
 .moviesmod.plus
 .moviesmod.red
 .moviesmod.rip
-.moviesmod.sbs
 .moviesmod.singles
 .moviesmod.space
 .moviesmod.store
@@ -6669,9 +6668,7 @@
 .moviesmod.vip
 .moviesmod.wtf
 .moviesmod1.com
-.moviesmod3.autos
 .moviesmod3.shop
-.moviesmod3.xyz
 .moviesmod4u.com
 .moviesmode.org
 .moviesmode.town
@@ -10841,6 +10838,7 @@
 .uakino.club
 .uakino.me
 .uakinogo.art
+.uakinogo.best
 .uakinogo.co
 .uakinogo.com
 .uakinogo.day
@@ -12007,6 +12005,7 @@
 .yahor.of.by
 .yalla-shoot-mobasher.com
 .yalla-shoot.fun
+.yalla-shoot.mov
 .yalla-shootv.live
 .yalla-shootx.org
 .yallashoothub.com
