@@ -8941,6 +8941,7 @@
 +.c.photologo.co
 +.c.plerdy.com
 +.c.pravo.ru
++.c.qiandao.cn
 +.c.qrdate.org
 +.c.quackr.io
 +.c.revlifter.com
@@ -19778,6 +19779,7 @@
 +.events.shoplift.ai
 +.events.skyridgeglamping.com
 +.events.splash-screen.net
++.events.split.io
 +.events.srfestival.com
 +.events.statsigapi.net
 +.events.stylux.io
@@ -36172,6 +36174,7 @@
 +.logs.roku.com
 +.logs.spilgames.com
 +.logs.supersonic.com
++.logs.tourister.ru
 +.logs.unchecky.com
 +.logs.viadata.store
 +.logs.viewstats.com
@@ -41417,6 +41420,7 @@
 +.mowgoats.com
 +.moxiplayer-ss.checkoutera.com
 +.moxiplayer-ss.topashopo.com
++.mp-gb-sdklog.kurogames.net
 +.mp.cwtv.com
 +.mp.imgur.com
 +.mp.pitchero.com
@@ -45996,6 +46000,7 @@
 +.prod-clientlog.fastly.newssuite.sinfony.ne.jp
 +.prod-collector.bigbasket.com
 +.prod-mhaa.mhtr.be
++.prod-ue1-metrics.hingeprod.net
 +.prod.event.mwm-asset-manager.mwmwebapis.com
 +.prod.fennec.atp.fox
 +.prod.nitrosniffer.ottogroup.io
@@ -73334,6 +73339,7 @@
 +.telemetry.sentarahealthplans.com
 +.telemetry.services.yofi.ai
 +.telemetry.soundcloud.com
++.telemetry.split.io
 +.telemetry.stryker.com
 +.telemetry.stytch.com
 +.telemetry.svc.transifex.net
