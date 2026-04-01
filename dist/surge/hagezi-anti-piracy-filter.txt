@@ -201,6 +201,7 @@
 .1ddl.org
 .1desiremovies.foo
 .1fichier.com
+.1filmyfly.top
 .1flix.to
 .1gabba.net
 .1gabba.pw
@@ -1509,6 +1510,7 @@
 .bollyflix.faith
 .bollyflix.fish
 .bollyflix.fit
+.bollyflix.frl
 .bollyflix.ist
 .bollyflix.miami
 .bollyflix.pub
@@ -2660,6 +2662,7 @@
 .diyar24.com
 .dizcompany.ru
 .dizi44.life
+.dizi49.life
 .dizilla.to
 .dizimag.onl
 .dizipal.bar
@@ -5440,6 +5443,7 @@
 .kekchain.com
 .keke.re
 .keohosting.net
+.kerry410bks.com
 .kevinsport.top
 .kevinsports.top
 .kevinsporttv.top
@@ -6797,6 +6801,7 @@
 .multicanais.fans
 .multicanais.live
 .multiki.arjlover.net
+.multimovies.autos
 .multimovies.center
 .multimovies.cheap
 .multimovies.click
@@ -8668,6 +8673,7 @@
 .simpsonitos.com
 .simpsonsua.tv
 .sims4odezhda.ru
+.sinema.lat
 .sinezy.biz
 .sinezy.cx
 .sisbdisp.com
@@ -12109,6 +12115,7 @@
 .yourserie.com
 .yoursports.stream
 .youserials.com
+.youthincinema.com
 .youtorrent.com
 .youwatch.org
 .yowaapp.com
