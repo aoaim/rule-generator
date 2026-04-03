@@ -238,6 +238,7 @@
 +.a.amnet.tw
 +.a.amw.com
 +.a.apkeditor.io
++.a.apkpures.xyz
 +.a.appbaqend.com
 +.a.arbona.hr
 +.a.atlrparis.com
@@ -6258,6 +6259,7 @@
 +.app-analytics-ru.huami.com
 +.app-analytics-services.com
 +.app-analytics.snapchat.com
++.app-log-lab.immomo.com
 +.app-log-oversea.immomo.com
 +.app-measurement.com
 +.app-monitor.spacecape.com
@@ -6807,6 +6809,7 @@
 +.aqtracker.com
 +.aqualissstape.leadscore.fr
 +.aquaticowl.com
++.aqueduct-collector-prod.alar.my
 +.aqwvwn.cultfurniture.com
 +.aqzkl.ergopouch.com
 +.ar-x.site
@@ -7747,6 +7750,7 @@
 +.bbbb.goace.jp
 +.bbbb.metabafit.com
 +.bbbihe.vertbaudet.es
++.bbc-reporting-api.app
 +.bbggp.callashoes.co.uk
 +.bbitn.alittlesandco.com
 +.bbkrsm.crucerosnet.com
@@ -7877,6 +7881,7 @@
 +.beacon.adelphic.com
 +.beacon.carfax.com
 +.beacon.cdn.qq.com
++.beacon.cdnpure.com
 +.beacon.coofis.com
 +.beacon.digima.com
 +.beacon.dropbox.com
@@ -19544,6 +19549,7 @@
 +.event.csdn.net
 +.event.dengage.com
 +.event.dfinery.io
++.event.dxmdp.com
 +.event.flareflow.tv
 +.event.geniee-search.net
 +.event.getblue.io
@@ -19618,6 +19624,7 @@
 +.events-ingestion.services.gorgias.com
 +.events-jp.splash-screen.net
 +.events-meta-events.outsideonline.com
++.events-noneu.truecaller.com
 +.events-sandbox.data.msn.com
 +.events-stream-svc.cordial.com
 +.events-stream-svc.cordial.io
@@ -20986,6 +20993,7 @@
 +.fpc.tegrita.com
 +.fpc.utexas.edu
 +.fpcdn.io
++.fpconfig.net
 +.fpcs.firemountaingems.com
 +.fpcs.wellshaved.gr
 +.fpctraffic2.com
@@ -29100,6 +29108,7 @@
 +.infraep.scaunnunta.ro
 +.ingerlis.doudare.no
 +.ingest-api.evoto.ai
++.ingest.databuckets.com
 +.ingest.do.brainsland.com
 +.ingest.m2catalyst.com
 +.ingest.make.rvohealth.com
@@ -41004,6 +41013,7 @@
 +.mix.iaraudio.com
 +.mixedreading.com
 +.mixomniture.rbs.com
++.mixpanel-proxy-ivbdkvonca-uc.a.run.app
 +.mixpanel-proxy.ted.com
 +.mixpanel.com
 +.mixpanel.tigocloud.net
@@ -42930,6 +42940,7 @@
 +.ntsjhe.nationalevacaturebank.nl
 +.ntt-fletscv.ntt-flets.com
 +.nturnm.unisport.dk
++.ntus.bidease.com
 +.ntvk1.ru
 +.nu.esri.nl
 +.nu.rottne.com
@@ -44894,6 +44905,7 @@
 +.pclick.yahoo.com
 +.pclog.3u.com
 +.pcnphysio-com.ca-eulerian.net
++.pco-sm-log.tantanapp.com
 +.pcpvl.tribest.com
 +.pcs.primecircle-structuring.com
 +.pcspeedup.com
@@ -46037,6 +46049,7 @@
 +.profile-api.amplitude.com
 +.profile-update.healthgrades.com
 +.profile.marketone.com
++.profiler-collector.dalyfeds.com
 +.profiler-collector.wshareit.com
 +.profiling.outokumpu.com
 +.profiling.plannja.com
@@ -46901,6 +46914,7 @@
 +.r.apkpure.net
 +.r.bbci.co.uk
 +.r.browser.miui.com
++.r.cdnpure.com
 +.r.jakuli.com
 +.r.kleertjes.com
 +.r.lafamo.com
@@ -47376,6 +47390,7 @@
 +.report.oewa.at
 +.report.pixverse.ai
 +.report.starshort.online
++.report.tantanapp.com
 +.report2.iciba.com
 +.reporting-api.gannettinnovation.com
 +.reporting.aatkit.com
@@ -47384,6 +47399,7 @@
 +.reports.koalametrics.com
 +.reports.omegacommerce.com
 +.reports.tunein.com
++.reporttk.com
 +.reportwest-midas.codmwest.com
 +.republica.cursodetti.com.br
 +.req.mediabuyeracademy.com
@@ -59744,6 +59760,7 @@
 +.spiffymachine.com
 +.spigte.shopee.tw
 +.spike.email-disney.cjm.adobe.com
++.spindl.link
 +.spiny.ai
 +.spirebaboon.com
 +.spitefulriver.com
@@ -73035,6 +73052,7 @@
 +.tc.mnbvcxzq.com
 +.tc.vbnmhjlp.com
 +.tc.weszxdrf.com
++.tc.zxcvbnml.com
 +.tcactivity.net
 +.tcapi.taad.shop
 +.tcbps.ellos.us
@@ -73592,6 +73610,7 @@
 +.thingsafterthought.com
 +.thingstaste.com
 +.think.phdinc.com
++.thinkingdata.cn
 +.thinkitten.com
 +.thinkitwice.com
 +.thirdrespect.com
@@ -75685,6 +75704,7 @@
 +.track.heritagebuildings.com
 +.track.hg.healthgrades.com
 +.track.hijrah.org
++.track.hily.com
 +.track.historictalk.com
 +.track.hk01.com
 +.track.hofstrainternationalprograms.com
@@ -78457,6 +78477,7 @@
 +.ud.tranquilityspacecoast.com
 +.uda71a.oliviakate.nl
 +.udbdf-v2.nimo.tv
++.udbdf.apkpure.com
 +.udc.msn.com
 +.udcazzuy.k9at.co.uk
 +.udfa7.azbarbecue.be
@@ -78665,6 +78686,7 @@
 +.umami.is
 +.umami.spencerdevs.xyz
 +.umami.subdavis.com
++.umami.syg.ma
 +.umazvs.raybiotech.com
 +.umbel.com
 +.umccle.traktorpool.hu
@@ -81186,6 +81208,7 @@
 +.wimi.aviendo.dk
 +.win.tanglego.com
 +.win.winnow168.ink
++.windbeetle.com
 +.windsurf-telemetry.codeium.com
 +.winsurbox.com
 +.wioaavu.enkay.com
