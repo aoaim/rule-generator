@@ -151,6 +151,8 @@
 .adevents.msn.com
 .adi-airflow.bdp.roku.com
 .adinstantpage16-normal-useastred.tiktokv.eu
+.adlog.vivo.com
+.adlog.vivo.com.cn
 .ads-aka-us-east-1.delivery.roku.com
 .ads-aka-us-west-2.delivery.roku.com
 .ads-api.tiktok.com
@@ -548,6 +550,7 @@
 .bs-ad-lgsmartad-com.aws-prd.net
 .bs.lgsmartad.com
 .bsf.sc.heytapmobile.com
+.bsp-di-in.heytapmobile.com
 .bsp.sasdc.pandora.xiaomi.com
 .bss.pandora.xiaomi.com
 .btv-du-dev-eventhub-streamanalytics.servicebus.windows.net
