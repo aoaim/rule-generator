@@ -4818,6 +4818,7 @@
 +.analytics.priorityclub.com
 +.analytics.pro-clima.cz
 +.analytics.prod.mybuddy.ai
++.analytics.prod.tophat.withbuddies.com
 +.analytics.proexclusivedetailing.com
 +.analytics.projectcarmen.com
 +.analytics.pros.com
@@ -5368,6 +5369,7 @@
 +.api-fp-retry-sa.fengkongcloud.com
 +.api-fr.apdetective.site
 +.api-ktm.kkday.com
++.api-log-upload.wenext.technology
 +.api-meta.mercelsantos.com.br
 +.api-notify.markarch.com
 +.api-pixels.easyadsapp.com
@@ -7916,6 +7918,7 @@
 +.beacon.wikia-services.com
 +.beacon.wingwin.eu
 +.beacon.www.theguardian.com
++.beacon.ztgame.com
 +.beacons-prod.fubo.tv
 +.beacons.ads.fubo.tv
 +.beacons.digital.disneyadvertising.com
@@ -16688,6 +16691,7 @@
 +.detailedgovernment.com
 +.detailedkitten.com
 +.detaillog-global-dual.coolbcloud.com
++.detaillog-global-dual.coolccloud.com
 +.detaillog-global-dual.coolgcloud.com
 +.detaillog-global-dual.coolhcloud.com
 +.detailroi.com
@@ -36155,6 +36159,7 @@
 +.logrcv.adseyeservice.com
 +.logreport-global-dual.coolbcloud.com
 +.logreport-global-dual.coolhcloud.com
++.logretrieve.duetapp.net
 +.logs-ingress.svc.vinted.com
 +.logs-partners.coupang.com
 +.logs-sg.rebxgame.com
@@ -40542,6 +40547,7 @@
 +.metrics.syo.fi
 +.metrics.t-mobile.com
 +.metrics.tagesspiegel.de
++.metrics.taimi.com
 +.metrics.target.com
 +.metrics.targetoptical.com
 +.metrics.taste.com.au
@@ -47386,6 +47392,7 @@
 +.report.alhalalcosmetics.de
 +.report.apkpure.net
 +.report.appmetrica.yandex.net.iberostar.com
++.report.duetapp.net
 +.report.iciba.com
 +.report.oewa.at
 +.report.pixverse.ai
@@ -47804,6 +47811,7 @@
 +.roadrunner.ausmv.com.au
 +.roadwalks.com
 +.roamhousing.com
++.roas-service.store-services-prod.remarkable.com
 +.roastap.sixor.it
 +.rob.megaopen.ru
 +.robin.shopanaya.com
@@ -69885,6 +69893,7 @@
 +.stats.scottbartell.com
 +.stats.screenagers.com
 +.stats.screenwavemedia.com
++.stats.sdk.banuba.net
 +.stats.seanbailey.dev
 +.stats.searchftps.net
 +.stats.searchftps.org
@@ -81236,6 +81245,7 @@
 +.wissen.sage.de
 +.wistfulwaste.com
 +.withcabin.com
++.withsounds.com
 +.withyou.shorr.com
 +.witpux.habitaclia.com
 +.wittypopcorn.com
