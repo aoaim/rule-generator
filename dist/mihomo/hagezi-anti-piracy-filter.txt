@@ -393,6 +393,7 @@
 +.9kmovies.app
 +.9kmovies.army
 +.9kmovies.auction
++.9kmovies.bar
 +.9kmovies.beauty
 +.9kmovies.beer
 +.9kmovies.bet
@@ -425,6 +426,7 @@
 +.9kmovies.makeup
 +.9kmovies.me.in
 +.9kmovies.mov
++.9kmovies.ninja
 +.9kmovies.pet
 +.9kmovies.press
 +.9kmovies.ren
@@ -450,6 +452,7 @@
 +.a2zapk.io
 +.a2zcrack.com
 +.a8bt.com
++.aaa.army
 +.aam-bt.dyns.cx
 +.aarinfantasy.edwardk.info
 +.aarsen.me
@@ -633,6 +636,7 @@
 +.altadefinizione.cx
 +.altadefinizione.cyou
 +.altadefinizione.dating
++.altadefinizione.day
 +.altadefinizione.de
 +.altadefinizione.eu
 +.altadefinizione.exchange
@@ -663,11 +667,13 @@
 +.altadefinizione.pet
 +.altadefinizione.ph
 +.altadefinizione.pink
++.altadefinizione.re
 +.altadefinizione.red
 +.altadefinizione.ru
 +.altadefinizione.sale
 +.altadefinizione.solutions
 +.altadefinizione.soy
++.altadefinizione.style
 +.altadefinizione.tienda
 +.altadefinizione.tokyo
 +.altadefinizione.tours
@@ -1031,6 +1037,7 @@
 +.apkprime.org
 +.apkpromaster.com
 +.apkpure.co.in
++.apkrabi.com
 +.apkremix.com
 +.apkshub.com
 +.apksim.com
@@ -1045,6 +1052,7 @@
 +.apkvision.org
 +.apkwind.com
 +.apkzone.net
++.app-valley.vip
 +.app.icon256.com
 +.app.iosgods.com
 +.appdb.to
@@ -1068,6 +1076,7 @@
 +.aptoide.com
 +.apunka.games
 +.apunkagames.com
++.apunkagames.cyou
 +.apunkagames.net
 +.apunkagames.net.pk
 +.apunkasoftware.net
@@ -1136,6 +1145,7 @@
 +.at123movies.com
 +.at4re.com
 +.atarimania.com
++.atdhe.pro
 +.atlas-pro.tv
 +.atlaspro.tv
 +.atopgames.com
@@ -1171,6 +1181,7 @@
 +.autocadbmjes.com
 +.autocadgou.com
 +.autocadtfesvb.com
++.autoembed.cc
 +.avantabg.com
 +.avatar-bg.org
 +.avaxhome.co
@@ -1243,6 +1254,7 @@
 +.batstream.tv
 +.bayernstream.com
 +.bayfiles.com
++.bayofpirates.xyz
 +.bb-tv.org
 +.bbs.homefei.net
 +.bbs.itzmx.com
@@ -1388,6 +1400,7 @@
 +.bitmanija.net
 +.bitme.org
 +.bitmetv.org
++.bitmovie.org
 +.bitnation.com
 +.bitnetbd.com
 +.bitnova.info
@@ -1525,6 +1538,7 @@
 +.boostfluence.com
 +.boot.lu
 +.boot.ml
++.boot4free.com
 +.bootcity.org
 +.booter.eu
 +.booter.ninja
@@ -1576,6 +1590,7 @@
 +.brupload.net
 +.bs.to
 +.bstgms4y.com
++.bstreams.live
 +.bstsrs.in
 +.bstsrs.one
 +.bt-chat.com
@@ -1802,6 +1817,7 @@
 +.cb01.online
 +.cb01.org
 +.cb01.pictures
++.cb01.pw
 +.cb01.racing
 +.cb01.red
 +.cb01.review
@@ -1844,6 +1860,7 @@
 +.ccracks.com
 +.cctv.army
 +.cda-hd.cc
++.cdcovers.cc
 +.cddownloadeasy.org
 +.cddownloadfree.org
 +.cdie.cdie.free.fr
@@ -1951,8 +1968,10 @@
 +.cineblog01.boo
 +.cineblog01.boutique
 +.cineblog01.casa
++.cineblog01.cfd
 +.cineblog01.claims
 +.cineblog01.cloud
++.cineblog01.coach
 +.cineblog01.codes
 +.cineblog01.com
 +.cineblog01.cool
@@ -7769,6 +7788,7 @@
 +.primewire.vc
 +.primewire.zip
 +.primewirestatus.org
++.private.anonseed.com
 +.private.minimafia.nl
 +.privatehd.to
 +.privatemoviez.help
