@@ -465,6 +465,7 @@
 .4mybpirkh3.adobestats.io
 .4nj46krj80.adobestats.io
 .4nj5ig1h.6u13v.adobestats.io
+.4odc7l19nu7f.iwl5c.adobestats.io
 .4olf4ok65t.adobestats.io
 .4p0kvn7921.adobestats.io
 .4p9vvzbj8z.adobestats.io
@@ -1053,6 +1054,7 @@
 .adu7qqk4xl.vf1av.adobestats.io
 .ae9djwb9gp.adobestats.io
 .aen6torhir.adobestats.io
+.aepxlg.adobe.com
 .aevbsw6w.vf1av.adobestats.io
 .ag0ak456at.adobestats.io
 .ag9hpm6j80z.lqn0m.adobestats.io
@@ -1102,6 +1104,7 @@
 .ar3zpq1idw.adobestats.io
 .arhftmlud17.4e2id.adobestats.io
 .ark45out56.adobestats.io
+.armmf.adobe.com
 .arni10x0x2.adobestats.io
 .arsab9lu8t.adobestats.io
 .arzggvbs37.adobestats.io
@@ -2521,6 +2524,7 @@
 .ockll7u3dv41.pycz4.hstatic.io
 .ocsp.spo1.verisign.com
 .odf6s22ocxyh.4e2id.adobestats.io
+.odin.adobe.com
 .oeab9s6dtf.adobestats.io
 .oee5i55vyo.adobestats.io
 .oenrwpord0.adobestats.io
@@ -2857,6 +2861,7 @@
 .regum9yg7lp5.61y77.adobestats.io
 .rekkvg49.mw1i8.adobestats.io
 .reppvi2p0l.adobestats.io
+.resources.licenses.adobe.com
 .rfc0kp2uon.adobestats.io
 .rghtw9pred.adobestats.io
 .rgye34eyfm.4p4bv.adobestats.io
