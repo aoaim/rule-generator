@@ -2149,6 +2149,7 @@
 +.acclog002.shop-pro.jp
 +.account.beauty
 +.accountancy.bppeloqua.com
++.accountgram.com
 +.accounting.frbservices.org
 +.accounts-meta-events.outsideonline.com
 +.accountsdoor.com
@@ -3938,6 +3939,7 @@
 +.amezqu.fabrykaform.pl
 +.ami.coppermakersquare.com
 +.amica.met.vgwort.de
++.amidsttruly.com
 +.amige.seasidefuneral.com
 +.amikay.com
 +.amin.aayatcraft.com
@@ -4945,6 +4947,7 @@
 +.analytics.sanmateo.ca.us.open.law
 +.analytics.sanoma.fi
 +.analytics.santanselmo.it
++.analytics.sberhealth.ru
 +.analytics.schoolwires.com
 +.analytics.schubert.group
 +.analytics.scorpion.co
@@ -14829,6 +14832,7 @@
 +.data-ff6ba35ab1.cash-online.de
 +.data-ff95894520.apps.iocnt.de
 +.data-ingestion.flowgpt.com
++.data-lake-api.internet.apps.samsung.com
 +.data-nl.computer-automation.de
 +.data-nl.connect-professional.de
 +.data-nl.deutsche-apotheker-zeitung.de
@@ -16661,6 +16665,7 @@
 +.datas.connectingthreads.com
 +.datas.knitpicks.com
 +.dataserver.bagypack.com
++.datasink.sensorsjourney.com
 +.datastape.hometexbd.com
 +.datastat.me
 +.datastp.pymnts.com
@@ -19720,6 +19725,7 @@
 +.etzqwj.canevas.com
 +.eu-1-id5-sync.com
 +.eu-cdn.kgm-motors.co.uk
++.eu-data.kameleoon.io
 +.eu-south-2.alb.pulse.perfmetrics.netflix.com
 +.eu-survey.com
 +.eu.cignaglobalhealth.com
@@ -27919,6 +27925,7 @@
 +.hyibby.lampen24.be
 +.hykaqn.dormideo.com
 +.hyperactivate.com
++.hypercarart.com
 +.hyperlegend.com
 +.hypestat.com
 +.hypnoticwound.com
@@ -30736,6 +30743,7 @@
 +.jsjnxm.scheurich24.de
 +.jsloe.saladworks.com
 +.jsnls.everlifemd.com
++.jspcdn.cn
 +.jspqms.bellevue-ferienhaus.de
 +.jspzv.supergut.com
 +.jsqng.covesmart.com
@@ -36775,6 +36783,7 @@
 +.log.zepeto.io
 +.log.zingnews.vn
 +.log.znews.vn
++.log0-misc-hl.amemv.com
 +.log000.goo.ne.jp
 +.log002.commutil.kr
 +.log1.apkomega.com
@@ -37637,6 +37646,7 @@
 +.mandrill.yellowfruit.co
 +.mango.cyberpowertools.com
 +.mango.srilabs.com
++.maniteka.com
 +.mantrafox.com
 +.manufacturing.autodeskcommunications.com
 +.manydiamonds.com
@@ -46113,6 +46123,7 @@
 +.pix2.services.tvn.pl
 +.pixad.com.tr
 +.pixanalytics.com
++.pixel-cdp.sberhealth.ru
 +.pixel-config.reddit.com
 +.pixel-conversion.apps.seabroadnet.com
 +.pixel-img.com
@@ -81440,6 +81451,7 @@
 +.vegavmetropolitan.e.epiqnotification.com
 +.veinteractive.com
 +.vekekc.nissanblainville.com
++.velarium.cc
 +.velaro.com
 +.velvet.eliteelegance.xyz
 +.velvetquasar.com
@@ -83018,6 +83030,7 @@
 +.wizaly.com
 +.wizard.clickdrive.nl
 +.wizardbuck.com
++.wizardstrategy.com
 +.wjmyfp.billetdavion.be
 +.wjssvg.descentekorea.co.kr
 +.wjtekf.vidaxl.bg
