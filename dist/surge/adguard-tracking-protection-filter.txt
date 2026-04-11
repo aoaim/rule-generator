@@ -4,6 +4,8 @@
 .ib.snssdk.com
 .xlog.snssdk.com
 .log.snssdk.com
+.curalate.com
+.containers.dsp.solta.io
 .jspcdn.cn
 .log0-misc-hl.amemv.com
 .eu-data.kameleoon.io
@@ -78386,6 +78388,12 @@
 .tagman.britishairways.com
 .ct.pinterest.com
 .incoming.telemetry.mozilla.org
+.okr.sbdv.ru
+.api.eye.sbdv.ru
+.clickbeat.sberdevices.ru
+.metrics.prom.third-party-app.sberdevices.ru
+.stat.katitube.com
+.stat.aporntv.com
 .data-lake-api.internet.apps.samsung.com
 .analytics.sberhealth.ru
 .pixel-cdp.sberhealth.ru
@@ -81739,6 +81747,7 @@
 .int.vlancaa.site
 .int.vlancaa.fun
 .tok.vaicore.xyz
+.log.documentreaderapp.com
 .datasink.sensorsjourney.com
 .apm-native.redbascket.com
 .apm-fe.rnote.com
@@ -82908,7 +82917,6 @@
 .bluenest.net
 .bluevinebooks.com
 .blushingbeast.com
-.blushingbread.com
 .boatcodeapp.com
 .boatpaper.com
 .boatsbuilding.com
