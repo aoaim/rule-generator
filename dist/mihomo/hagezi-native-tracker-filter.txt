@@ -196,6 +196,7 @@
 +.ads.tiktok.in
 +.ads.tiktok.tv
 +.ads.us.tiktok.com
++.ads1.msn.com
 +.ads16-normal-useastred.tiktokw.eu
 +.adsdk.microsoft.com
 +.adsdk.trafficmanager.net
@@ -1319,7 +1320,6 @@
 +.iq-ad-lgsmartad-com.aws-prd.net
 +.iq.lgsmartad.com
 +.ir-ad-lgsmartad-com.aws-prd.net
-+.ir-ae.amazon-adsystem.com
 +.ir-br.amazon-adsystem.com
 +.ir-ca.amazon-adsystem.com
 +.ir-cn.amazon-adsystem.com
@@ -2974,11 +2974,6 @@
 +.ws-na.amazon-adsystem.com
 +.wtradv.market.xiaomi.com
 +.wttwebsiteprodapi-liveevents.trafficmanager.net
-+.www.a.ads1.msn.com
-+.www.a.ads2.msn.com
-+.www.ads1.msn.com
-+.www.adsinapps.microsoft.com
-+.www.b.ads1.msn.com
 +.wwwimg.roku.com
 +.wwwimg.staging.roku.com
 +.xadx.file.market.xiaomi.com

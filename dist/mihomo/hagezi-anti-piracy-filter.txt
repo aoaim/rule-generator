@@ -7,6 +7,7 @@
 +.0123movie.stream
 +.0123movie.ws
 +.0123movies.com
++.0123movies.live
 +.0123moviesfree.org
 +.01streaming.click
 +.01streaming.stream
@@ -22,6 +23,7 @@
 +.0d.kebhana.mx
 +.0day.ro
 +.0daycn.net
++.0dayddl.com
 +.0mag.net
 +.0magnet.com
 +.0vg9r.com
@@ -255,6 +257,7 @@
 +.250412.xyz
 +.2600.com
 +.266528.xyz
++.2anime.xyz
 +.2bbit.com
 +.2bcalvi.com
 +.2ddl.it
@@ -324,6 +327,7 @@
 +.5dbgwxjk.com
 +.5mins.shop
 +.5mod.ru
++.5movierulz.vc
 +.5movies.buzz
 +.5movies.cloud
 +.5movies.fm
@@ -509,6 +513,7 @@
 +.aeromods.app
 +.aerotwitter.com
 +.afdah.com
++.afdah.info
 +.afdah.live
 +.afdah.org
 +.afdah.to
@@ -520,12 +525,14 @@
 +.afsanctuary.no-ip.org
 +.afterdawn.com
 +.ag-freedom.fansub-torrents.com
++.agusiq-torrents.pl
 +.ahashare.com
 +.ahoy.one
 +.ahoylist.net
 +.aidey.io
 +.aimhaven.com
 +.aimweb.ru
++.ainiesta.com
 +.aiosearch.com
 +.aiowares.com
 +.aiw.bz
@@ -582,6 +589,7 @@
 +.allpcworld.com
 +.allprivatebabes.com
 +.allrepack.ru
++.allseek.info
 +.allserver.yolasite.com
 +.allsports4free.live
 +.allsportsflix.xyz
@@ -625,6 +633,7 @@
 +.altadefinizione.bio
 +.altadefinizione.bond
 +.altadefinizione.cam
++.altadefinizione.casino
 +.altadefinizione.click
 +.altadefinizione.club
 +.altadefinizione.co
@@ -648,6 +657,7 @@
 +.altadefinizione.it
 +.altadefinizione.kim
 +.altadefinizione.lat
++.altadefinizione.legal
 +.altadefinizione.li
 +.altadefinizione.life
 +.altadefinizione.live
@@ -675,6 +685,8 @@
 +.altadefinizione.us
 +.altadefinizione.ventures
 +.altadefinizione.vg
++.altadefinizione.vip
++.altadefinizione.world
 +.altadefinizione.ws
 +.altadefinizione.xyz
 +.altadefinizione001.skin
@@ -685,6 +697,7 @@
 +.altadefinizione01.cloud
 +.altadefinizione01.club
 +.altadefinizione01.com
++.altadefinizione01.email
 +.altadefinizione01.fm
 +.altadefinizione01.games
 +.altadefinizione01.homes
@@ -711,6 +724,7 @@
 +.altadefinizionegratis.cfd
 +.altadefinizionegratis.cloud
 +.altadefinizionegratis.cool
++.altadefinizionegratis.cyou
 +.altadefinizionegratis.fit
 +.altadefinizionegratis.forum
 +.altadefinizionegratis.fun
@@ -796,6 +810,7 @@
 +.anify.to
 +.anigo.to
 +.anilinkz.to
++.animag.to
 +.animatedchaos.com
 +.animationdigitalnetwork.fr
 +.anime-classic.edwardk.info
@@ -883,6 +898,7 @@
 +.animesalt.ac
 +.animesama.fan
 +.animeshow.tv
++.animesim.com
 +.animesimple.com
 +.animesonline.biz
 +.animesonline.cc
@@ -1021,6 +1037,7 @@
 +.apkmodea.com
 +.apkmodget.com
 +.apkmodgo.com
++.apkmods.io
 +.apkmody.com
 +.apkmody.mobi
 +.apkmody.vip
@@ -1051,6 +1068,7 @@
 +.appdoze.com
 +.applegamingwiki.com
 +.applenetbd.com
++.appmods.us
 +.appnee.com
 +.appnetica.com
 +.apps4all.com
@@ -1164,6 +1182,7 @@
 +.audionews.org
 +.audionews.ru
 +.audiostuff.ro
++.audiozonetorrents.com
 +.aurastresser.com
 +.auratorrent.pl
 +.aurorabird6.live
@@ -1201,6 +1220,7 @@
 +.baberepublic.com
 +.baby-beamup.club
 +.babystreaming.com
++.badasstorrents.com
 +.badimishare.blogspot.com
 +.badis91.blogspot.com
 +.badshahuploads.xyz
@@ -1232,8 +1252,10 @@
 +.barrerab.beer
 +.basixmovie.com
 +.basket-torrent.webpark.pl
++.baskino.film
 +.basnetbd.com
 +.batflix.org
++.batflixmovies.club
 +.batman-stream.tv
 +.batmanstream.cc
 +.batmanstream.info
@@ -1383,6 +1405,7 @@
 +.bitgate.org
 +.bitgoon.com
 +.bithouse.org
++.bithouse.us
 +.bithumen.be
 +.bithumen.ru
 +.bitlord.com
@@ -1436,6 +1459,7 @@
 +.blacktiesports.net
 +.blacktorrent.ru
 +.blackvid.space
++.blackwave.tv
 +.blackz.ro
 +.block908.ru
 +.blockbuster.to
@@ -1616,6 +1640,7 @@
 +.bt2.edwardk.info
 +.bt4g.org
 +.bt4gprx.com
++.bt5000.com
 +.btafile.com
 +.btann.cn
 +.btarg.com.ar
@@ -1635,6 +1660,7 @@
 +.btmet.com
 +.btmon.com
 +.btmulu.live
++.btmusic.eu
 +.btmusic.org
 +.btnext.com
 +.btor.org
@@ -1667,6 +1693,7 @@
 +.bullstresser.com
 +.bullstresser.net
 +.bundesliga-streams.net
++.bunkr.tv
 +.buny.uk
 +.burmese.app
 +.burning-series.io
@@ -1698,6 +1725,7 @@
 +.c1movies.com
 +.c1ne.co
 +.c247.to
++.c4crack.com
 +.c8bz2vq7.com
 +.cafehulu.com
 +.cah4e3.shedevr.org.ru
@@ -1709,7 +1737,9 @@
 +.calibrecompanion.co
 +.caly-film.pl
 +.cambros.tv
++.camclips.tv
 +.camera.lei001.com
++.camflow.tv
 +.camhoe.tv
 +.canale-tv.com
 +.canalflix.com
@@ -1749,6 +1779,7 @@
 +.casacinema.red
 +.casacinema.ru
 +.casacinema.skin
++.casacinema.us
 +.casacinema.vg
 +.casacinema.ws
 +.casanovax.com
@@ -1756,7 +1787,9 @@
 +.castradio.net
 +.casualgamers.club
 +.cat-a-cat.net
++.cataz.net
 +.cataz.to
++.catflix.su
 +.catorrent.org
 +.cb01.ac
 +.cb01.app
@@ -1785,6 +1818,7 @@
 +.cb01.events
 +.cb01.film
 +.cb01.fm
++.cb01.fun
 +.cb01.giving
 +.cb01.in
 +.cb01.institute
@@ -1861,6 +1895,7 @@
 +.celerystresser.com
 +.cemu.emiyl.com
 +.central-torrent.eu
++.centraltracker.org
 +.cernet-tracker.appspot.com
 +.certcommunity.org
 +.cestrm.xyz
@@ -1947,6 +1982,7 @@
 +.cineblog001.today
 +.cineblog001.vip
 +.cineblog01.agency
++.cineblog01.auction
 +.cineblog01.bid
 +.cineblog01.biz
 +.cineblog01.boo
@@ -2115,6 +2151,7 @@
 +.cmovies.is
 +.cmovies.mobi
 +.cmovies.so
++.cmovies.space
 +.cmovies.us
 +.cmovies.video
 +.cmovies.vip
@@ -2175,6 +2212,7 @@
 +.collectionchamber.blogspot.com
 +.colombo-bt.org
 +.comandofilmetorrent.com
++.comandohdtorrents.com
 +.comandotorrenthd.net
 +.comandotorrents.com
 +.comandotorrents.org
@@ -2261,6 +2299,7 @@
 +.crackedfully.com
 +.crackedme.com
 +.crackedmine.com
++.crackedpc.org
 +.crackedstream.tv
 +.crackedversion.com
 +.crackfind.com
@@ -2336,6 +2375,7 @@
 +.crichd.com.co
 +.crichd.com.ua
 +.crichd.cyou
++.crichd.guru
 +.crichd.info
 +.crichd.io
 +.crichd.lc
@@ -2382,6 +2422,7 @@
 +.crystal-warez.in
 +.crytal58ue.com
 +.cs.rin.ru
++.csite.bugs3.com
 +.cspan.com
 +.csrin.org
 +.csrinstaff.writeas.com
@@ -2527,6 +2568,7 @@
 +.ddostheworld.com
 +.ddownload.com
 +.ddwarez.com
++.deadfrog.us
 +.deamonbytes.net
 +.deathlord.eu
 +.debrid-services-comparison.netlify.app
@@ -2539,6 +2581,7 @@
 +.defianceprotocol.com
 +.deflix.tv
 +.degree-anime.com
++.deimonhigh.com
 +.dekhobd.com
 +.dekhvhai.com
 +.deli.sh
@@ -2602,6 +2645,7 @@
 +.digitalbroadband.com.bd
 +.digitalduniya.net
 +.digitalhive.org
++.digitalmusicians.ca
 +.digitalpanic.org
 +.digitalstreet.org
 +.digitalwarez.c.la
@@ -2756,6 +2800,7 @@
 +.dood.lol
 +.dood.lt
 +.dood.ltd
++.dood.lu
 +.dood.meme
 +.dood.mx
 +.dood.net
@@ -2779,6 +2824,7 @@
 +.dood.tf
 +.dood.to
 +.dood.top
++.dood.town
 +.dood.uno
 +.dood.video
 +.dood.vin
@@ -2921,6 +2967,7 @@
 +.dreamddl.com
 +.dreamingtree.org
 +.dreamnetbd.com
++.dreamorabt.com
 +.dreamsite.pro
 +.dreamteamdownloads1.com
 +.drive.massgravel.workers.dev
@@ -2969,6 +3016,7 @@
 +.dxp.ru
 +.dynamic-universe.com
 +.dyxz.org
++.dzot.com
 +.e-book.cash
 +.e-booksland.com
 +.e-hentai.org
@@ -2977,6 +3025,7 @@
 +.earlycinema.com
 +.earn4files.com
 +.easycracks.net
++.easyitbd.com
 +.easynews.com
 +.easywarez.com
 +.ebiblioteca.org
@@ -3027,6 +3076,7 @@
 +.egydead.video
 +.egydead.watch
 +.egydead.world
++.egydeadw.sbs
 +.egyptfans.net
 +.ehho.net
 +.ehtracker.org
@@ -3053,9 +3103,12 @@
 +.elitetorrent.nl
 +.elitetorrent.pl
 +.elitetorrent1.com
++.elkoora.live
 +.elmellowebmaster.es.tl
 +.elsewhere.org
++.em.dfnbd.net
 +.emaczone.com
++.embedcanais.site
 +.embedcanaisonline.com
 +.embedflix.net
 +.embedhd.org
@@ -3183,6 +3236,7 @@
 +.eurostreaming.net
 +.eurostreaming.online
 +.eurostreaming.ooo
++.eurostreaming.org
 +.eurostreaming.ph
 +.eurostreaming.pink
 +.eurostreaming.poker
@@ -3293,6 +3347,7 @@
 +.extraflix.website
 +.extraflix.xyz
 +.extramovies.rodeo
++.extratime.live
 +.extratorrent.ag
 +.extratorrent.cc
 +.extratorrent.com
@@ -3314,6 +3369,7 @@
 +.eztv-torrent.com
 +.eztv.ag
 +.eztv.ch
++.eztv.io
 +.eztv.it
 +.eztv.re
 +.eztv.tf
@@ -3321,6 +3377,7 @@
 +.eztv.wf
 +.eztv.yt
 +.eztvefnet.org
++.eztvproxy.com
 +.eztvstatus.com
 +.eztvstatus.net
 +.eztvx.to
@@ -3375,6 +3432,7 @@
 +.fdownload.app
 +.fe.dealclub.de
 +.feeder.lt
++.fel3ardaa.com
 +.feliratok.eu
 +.feniks-site24.pl
 +.fenopy.com
@@ -3384,6 +3442,7 @@
 +.ffbox.org
 +.ffh4xapks.com
 +.ffilms.club
++.ffmovies.biz
 +.ffmovies.ru
 +.ffmovies.ws
 +.fgtd.online
@@ -3440,6 +3499,8 @@
 +.filetracker.pl
 +.filetram.com
 +.fileupload.pw
++.filewarez.tv
++.film-en-lignee.com
 +.film-francais-vf.com
 +.film-haven.vercel.app
 +.film-pertutti.art
@@ -3551,6 +3612,7 @@
 +.filmoflix.vc
 +.filmon.tv
 +.filmoteka.cc
++.filmoviez.com
 +.filmowo.club
 +.filmpalast.one
 +.filmpalast.to
@@ -3598,6 +3660,7 @@
 +.filmsenzalimite.one
 +.filmsenzalimiti.blog
 +.filmsenzalimiti.co
++.filmsenzalimiti.com
 +.filmsenzalimiti.cool
 +.filmsenzalimiti.eu
 +.filmsenzalimiti.fm
@@ -3605,6 +3668,7 @@
 +.filmsenzalimiti.info
 +.filmsenzalimiti.io
 +.filmsenzalimiti.it
++.filmsenzalimiti.live
 +.filmsenzalimiti.me
 +.filmsenzalimiti.name
 +.filmsenzalimiti.net
@@ -3620,8 +3684,10 @@
 +.filmstreamcomplet.fr
 +.filmstreaming-de.life
 +.filmstreaming.al
++.filmstreaming.buzz
 +.filmstreaming.ca
 +.filmstreaming.cc
++.filmstreaming.ch
 +.filmstreaming.cloud
 +.filmstreaming.club
 +.filmstreaming.co
@@ -3632,6 +3698,7 @@
 +.filmstreaming.hair
 +.filmstreaming.icu
 +.filmstreaming.in
++.filmstreaming.info
 +.filmstreaming.io
 +.filmstreaming.it
 +.filmstreaming.lol
@@ -3676,7 +3743,11 @@
 +.filmyfly.deals
 +.filmyfly.how
 +.filmyfly.republican
++.filmyh.com
++.filmyloud.com
++.filmyon.org
 +.filmyone.com
++.filmypure.com
 +.filmywap.help
 +.filmywap.one
 +.filmzenstream.online
@@ -3690,6 +3761,7 @@
 +.findanime.net
 +.findmovies.vip
 +.findnzb.net
++.finvip.org
 +.firebit.net
 +.fireget.com
 +.firemp3.com
@@ -3697,6 +3769,7 @@
 +.firesticktricks.com
 +.firstrow.co
 +.firstrow1.xyz
++.firstrowsport.eu
 +.firstrowsport.org
 +.firstsrows.net
 +.firstsrowsports.tv
@@ -3964,6 +4037,7 @@
 +.frembed.work
 +.french-stream.ac
 +.french-stream.al
++.french-stream.cam
 +.french-stream.co
 +.french-stream.gg
 +.french-stream.mx
@@ -4012,6 +4086,7 @@
 +.fsharetv.co
 +.fstream.info
 +.fstream.net
++.ftflix.com
 +.ftp.com.bd
 +.ftp.pet
 +.ftp2web.com
@@ -4195,6 +4270,7 @@
 +.getmodsapk.com
 +.getmythic.app
 +.getpirate.com
++.getpopcorntime.is
 +.getrockmusic.net
 +.getsave.net
 +.gettorrents.org
@@ -4307,6 +4383,7 @@
 +.gomovies.film
 +.gomovies.kim
 +.gomovies.ltd
++.gomovies.men
 +.gomovies.sc
 +.gomovies.sx
 +.gomovies.uno
@@ -4418,6 +4495,7 @@
 +.guardaserie.top
 +.guardaserie.toys
 +.guardaserie.training
++.guardaserie.us
 +.guardaserie.vg
 +.guardaserie.video
 +.guardaserie.website
@@ -4446,6 +4524,7 @@
 +.guardaserietv.top
 +.guardaserietv.world
 +.guardoserie.blog
++.guardoserie.fit
 +.guiks.net
 +.gun-land.net
 +.gunsnroses.us
@@ -4495,6 +4574,7 @@
 +.haxmac.to
 +.haxnode.com
 +.haxnode.net
++.haxoff.net
 +.haxpc.net
 +.haxxx.net
 +.haykowarez.ru
@@ -4567,6 +4647,7 @@
 +.hdfilme.tube
 +.hdfilme.tv
 +.hdfilme.uno
++.hdfilme321.buzz
 +.hdfilmizle22.com
 +.hdfreaks.cc
 +.hdfull.cam
@@ -4581,6 +4662,7 @@
 +.hdhub4ui.com.in
 +.hdhublist.com
 +.hdizle.nl
++.hdlivemovies.com
 +.hdm.to
 +.hdmatch.club
 +.hdmatch.link
@@ -4601,6 +4683,7 @@
 +.hdmovie2.bet
 +.hdmovie2.bid
 +.hdmovie2.bike
++.hdmovie2.biz
 +.hdmovie2.blog
 +.hdmovie2.boats
 +.hdmovie2.bot
@@ -4680,6 +4763,7 @@
 +.hdmovie2.graphics
 +.hdmovie2.gratis
 +.hdmovie2.gripe
++.hdmovie2.guide
 +.hdmovie2.guru
 +.hdmovie2.gy
 +.hdmovie2.hair
@@ -4691,6 +4775,7 @@
 +.hdmovie2.horse
 +.hdmovie2.host
 +.hdmovie2.hot
++.hdmovie2.house
 +.hdmovie2.how
 +.hdmovie2.icu
 +.hdmovie2.immobilien
@@ -4706,6 +4791,7 @@
 +.hdmovie2.li
 +.hdmovie2.limited
 +.hdmovie2.link
++.hdmovie2.loan
 +.hdmovie2.locker
 +.hdmovie2.london
 +.hdmovie2.love
@@ -4764,6 +4850,7 @@
 +.hdmovie2.science
 +.hdmovie2.scot
 +.hdmovie2.services
++.hdmovie2.sex
 +.hdmovie2.sh
 +.hdmovie2.shiksha
 +.hdmovie2.shopping
@@ -4771,6 +4858,7 @@
 +.hdmovie2.singles
 +.hdmovie2.site
 +.hdmovie2.soccer
++.hdmovie2.social
 +.hdmovie2.software
 +.hdmovie2.solar
 +.hdmovie2.solutions
@@ -4778,6 +4866,7 @@
 +.hdmovie2.spot
 +.hdmovie2.ss
 +.hdmovie2.st
++.hdmovie2.stream
 +.hdmovie2.studio
 +.hdmovie2.surf
 +.hdmovie2.taipei
@@ -4822,9 +4911,15 @@
 +.hdmovie26.xyz
 +.hdmovie2hack.com
 +.hdmoviearea.com
++.hdmoviehubz.com
 +.hdmoviesflix.pages.dev
++.hdmovieshub.click
++.hdmovieshub.nl
 +.hdmoviesnxt.com
++.hdmoviespark.com
 +.hdmoviesverse.xyz
++.hdmovil2.com
++.hdmovit2.com
 +.hdmoviz2.xyz
 +.hdo.app
 +.hdo.to
@@ -4851,6 +4946,7 @@
 +.hdtodayz.pics
 +.hdtodayz.to
 +.hdtodayz.tube
++.hdtor.com
 +.hdtorrents.it
 +.hdtporno.org
 +.hdtracker.ru
@@ -4914,6 +5010,7 @@
 +.hiperflix.live
 +.histreaming.com
 +.hit2k.com
++.hit4k.com
 +.hitboss.com
 +.hitfile.net
 +.hitsfilms.net
@@ -5008,6 +5105,7 @@
 +.icoonet.com
 +.icouchtuner.club
 +.icrackmac.com
++.icracks.net
 +.icybits.hopto.org
 +.icynebula71.pro
 +.iddl.org
@@ -5051,15 +5149,18 @@
 +.ilgeniodellostreaming.icu
 +.ilgeniodellostreaming.it
 +.ilgeniodellostreaming.lat
++.ilgeniodellostreaming.live
 +.ilgeniodellostreaming.mobi
 +.ilgeniodellostreaming.mom
 +.ilgeniodellostreaming.net
++.ilgeniodellostreaming.org
 +.ilgeniodellostreaming.party
 +.ilgeniodellostreaming.pics
 +.ilgeniodellostreaming.pro
 +.ilgeniodellostreaming.quest
 +.ilgeniodellostreaming.re
 +.ilgeniodellostreaming.sale
++.ilgeniodellostreaming.sbs
 +.ilgeniodellostreaming.site
 +.ilgeniodellostreaming.skin
 +.ilgeniodellostreaming.space
@@ -5094,6 +5195,7 @@
 +.imperiofilmes.com
 +.imperiofilmes.org
 +.impulsive.hu
++.imtorrents.com
 +.imzdl.com
 +.inattvgir-amp.xyz
 +.incine.ru
@@ -5348,6 +5450,7 @@
 +.katmoviehd.nl
 +.katmoviehd.run
 +.katmoviehd.vin
++.katmoviehds.com
 +.katunblock.com
 +.katushka.net
 +.katworld.net
@@ -5516,6 +5619,7 @@
 +.kinox.escapethefog.com
 +.kinox.express
 +.kinox.farm
++.kinox.filmi.space
 +.kinox.foo
 +.kinox.fun
 +.kinox.fyi
@@ -6178,6 +6282,7 @@
 +.megakino1.ws
 +.megakino2.com
 +.megakino2.net
++.megakino2.org
 +.megakinox.top
 +.megamanmaker.com
 +.megamodapk.com
@@ -7295,6 +7400,7 @@
 +.openpirate.cc
 +.openpirate.org
 +.opensharing.org
++.opentracker.8880085.xyz
 +.opentracker.acgnx.com
 +.opentracker.cc
 +.opentracker.io
@@ -7729,6 +7835,7 @@
 +.proxifiedpiratebay.org
 +.proxtpb.art
 +.proxy-bay.mov
++.proxy-cool-n-forex-hot-list.cz.cc
 +.proxy.ru
 +.proxybay.bz
 +.proxybay.pro
@@ -8773,6 +8880,7 @@
 +.songslover.cam
 +.songswave.com
 +.sonofshun.com
++.sons-of-anarchy-3.cz.cc
 +.sosulki.com
 +.sosulki.net
 +.soul-anime.us
@@ -9292,6 +9400,7 @@
 +.streamingon.org
 +.streamingsenzalimiti.net
 +.streamingseries.rip
++.streamingunity.biz
 +.streamit.ws
 +.streamix.so
 +.streamiz-filmze.com
@@ -10273,6 +10382,7 @@
 +.tracker.bitcomet.net
 +.tracker.bittalk.org
 +.tracker.bittor.pw
++.tracker.bittor.xyz
 +.tracker.bjut.jp
 +.tracker.blackunicorn.xyz
 +.tracker.blazing.de
@@ -10303,7 +10413,9 @@
 +.tracker.cryptichaven.org
 +.tracker.cubonegro.lol
 +.tracker.cubonegro.xyz
++.tracker.cutie.dating
 +.tracker.cyberia.is
++.tracker.cypherpunks.ru
 +.tracker.darkness.services
 +.tracker.daydream.dmhy.best
 +.tracker.ddunlimited.net
@@ -10346,6 +10458,7 @@
 +.tracker.gcrenwp.top
 +.tracker.gcvchp.com
 +.tracker.gdp.pw
++.tracker.gfxpeers.net
 +.tracker.ghostchu-services.top
 +.tracker.gigantino.net
 +.tracker.gmi.gd
@@ -11263,6 +11376,7 @@
 +.vidmoly.me
 +.vidmoly.net
 +.vidmoxy.net
++.vidnaija.com.ng
 +.vidnext.net
 +.vidnow.tv
 +.vidoy.fit
@@ -11292,6 +11406,7 @@
 +.viedeyz.site
 +.view47.com
 +.viewembed.ru
++.viewmovies.site
 +.viewvault.org
 +.vigorish.ru
 +.vikv.net
@@ -11918,7 +12033,6 @@
 +.yesmovies.vc
 +.yesmovies.vin
 +.yesmovies.vip
-+.yesmovies.win
 +.yesmovies.wtf
 +.yesmovies.zone
 +.yesnetcommunication.com
@@ -11931,7 +12045,6 @@
 +.yggtorrent.fi
 +.yggtorrent.is
 +.yggtorrent.org
-+.yggtorrent.si
 +.yggtorrent.town
 +.yidio.com
 +.yify-movie.com
@@ -11943,7 +12056,6 @@
 +.yifyhdtorrent.com
 +.yifymovies.xyz
 +.yifymoviesmx.live
-+.yifymovietorrent.com
 +.yifystatus.com
 +.yifysub.net
 +.yifysubtitles.me
@@ -11956,8 +12068,8 @@
 +.ymovies.tv
 +.ymovies.vip
 +.yoadobehekku.com
++.yomovies.pet
 +.yomovies.productions
-+.yomovies.sarl
 +.yomovies.uno
 +.yotoshi.com
 +.youhaveavirus.com
