@@ -5760,6 +5760,7 @@
 +.api.exc.mob.com
 +.api.exercitesportes.com.br
 +.api.explosaopizza.com.br
++.api.eye.sbdv.ru
 +.api.fabricadementores.com
 +.api.fabricamillacomerciors.com.br
 +.api.facedoleaotreinamentos.com.br
@@ -8470,7 +8471,6 @@
 +.bluepanda.sensithaptics.com
 +.bluevinebooks.com
 +.blushingbeast.com
-+.blushingbread.com
 +.blvdstatus.com
 +.blwarp.wigsdo.com
 +.blxuue.phukienonline.com.vn
@@ -10460,6 +10460,7 @@
 +.clickable.net
 +.clickaider.com
 +.clickalyzer.com
++.clickbeat.sberdevices.ru
 +.clickbrainiacs.com
 +.clickcease.com
 +.clickclick.net
@@ -11361,6 +11362,7 @@
 +.container.hoog.design
 +.container.luxbridgenode.com
 +.container.luxbridgestack.com
++.containers.dsp.solta.io
 +.contanuity.com
 +.contato.ervencosmetics.com.br
 +.contatoreaccessi.com
@@ -12117,6 +12119,7 @@
 +.cuphk.ecsportsusa.com
 +.cupra.euroshop.com.pe
 +.cups.republicoftea.com
++.curalate.com
 +.curatedtea.com
 +.curbminers.com
 +.curbneon.com
@@ -36658,6 +36661,7 @@
 +.log.dance
 +.log.dav.edu.vn
 +.log.documentmanagerpdfdocxlssale.live
++.log.documentreaderapp.com
 +.log.down61.com
 +.log.dpa.com
 +.log.dramaboxdb.com
@@ -41151,6 +41155,7 @@
 +.metrics.pro.roche.fi
 +.metrics.probiotaevent.com
 +.metrics.products.omya.com
++.metrics.prom.third-party-app.sberdevices.ru
 +.metrics.protectmyid.com
 +.metrics.protocolo360.net
 +.metrics.providence-tax.com
@@ -44212,6 +44217,7 @@
 +.okomp.rubbertree.co.nz
 +.okqmc.bloomnu.com
 +.okqqix.karitoke.jp
++.okr.sbdv.ru
 +.oksiqv.styletread.com.au
 +.okt.to
 +.oktagv.immobilienscout24.at
@@ -70559,6 +70565,7 @@
 +.stat.alloha.tv
 +.stat.altalex.com
 +.stat.apfgexfusion.com
++.stat.aporntv.com
 +.stat.aranzadilaley.es
 +.stat.arzamas.academy
 +.stat.bdc.ca
@@ -70598,6 +70605,7 @@
 +.stat.jusnetkarnovgroup.pt
 +.stat.kaago.com
 +.stat.kakaku.com
++.stat.katitube.com
 +.stat.kbs.co.kr
 +.stat.kela.fi
 +.stat.khanate.pro
