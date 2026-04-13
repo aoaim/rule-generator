@@ -4204,6 +4204,7 @@
 +.analytics.atlassian.com
 +.analytics.audioeye.com
 +.analytics.audionow.de
++.analytics.authoritymedia.com
 +.analytics.autoeauto.it
 +.analytics.avcdn.net
 +.analytics.avis.lu
@@ -10989,6 +10990,7 @@
 +.collector.cdp.cnn.com
 +.collector.fiverr.com
 +.collector.fullxh.com
++.collector.gamechanger.io
 +.collector.getguardianlegal.com
 +.collector.getyourguide.com
 +.collector.github.com
