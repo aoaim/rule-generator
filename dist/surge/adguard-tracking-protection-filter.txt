@@ -4,6 +4,7 @@
 .ib.snssdk.com
 .xlog.snssdk.com
 .log.snssdk.com
+.analytics.authoritymedia.com
 .curalate.com
 .containers.dsp.solta.io
 .jspcdn.cn
@@ -81747,6 +81748,7 @@
 .int.vlancaa.site
 .int.vlancaa.fun
 .tok.vaicore.xyz
+.collector.gamechanger.io
 .log.documentreaderapp.com
 .datasink.sensorsjourney.com
 .apm-native.redbascket.com
