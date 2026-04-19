@@ -408,7 +408,6 @@
 +.9kmovies.christmas
 +.9kmovies.click
 +.9kmovies.com.co
-+.9kmovies.com.cv
 +.9kmovies.courses
 +.9kmovies.credit
 +.9kmovies.fail
@@ -1851,7 +1850,6 @@
 +.cb01.taxi
 +.cb01.training
 +.cb01.us
-+.cb01.vet
 +.cb01.vg
 +.cb01.video
 +.cb01.vip
@@ -2218,7 +2216,6 @@
 +.comandofilmetorrent.com
 +.comandohdtorrents.com
 +.comandotorrenthd.net
-+.comandotorrents.com
 +.comandotorrents.org
 +.comandotorrentshd.net
 +.comcentral.com
@@ -2333,7 +2330,6 @@
 +.cracksfiles.com
 +.crackslink.com
 +.cracksnow.com
-+.crackspider.net
 +.crackstore.com
 +.crackstreams.com
 +.crackstreams.dev
@@ -2754,7 +2750,6 @@
 +.dodi-repacks.site
 +.dognzb.cr
 +.doile378vtt.com
-+.doilybeguine.cyou
 +.dokumen.pub
 +.dokumentalne.net
 +.dolwiz.com
@@ -2955,17 +2950,11 @@
 +.drakulatv.eu
 +.drama-online.pl
 +.dramacafi-tv.quest
-+.dramacoolfirst.com
 +.dramaday.me
 +.dramago.com
 +.dramaqu.app
-+.dramaqu.beauty
 +.dramaqu.cloud
-+.dramaqu.digital
-+.dramaqu.live
-+.dramaqu.me
 +.dramaqu.net
-+.dramaqu.site
 +.dramaqu.vip
 +.dramaqu.website
 +.dramaqueen.pl
@@ -3006,9 +2995,7 @@
 +.dummipedia.org
 +.dunia21.cc
 +.dunia21.download
-+.dunia21.me
 +.dunia21.net
-+.dunia21.pw
 +.dup3.me
 +.dupefr.com
 +.durantonetworkbd.com
@@ -3197,7 +3184,6 @@
 +.europixhd.io
 +.europixhd.pro
 +.europixhd.site
-+.europixhd.top
 +.eurostreaming.actor
 +.eurostreaming.app
 +.eurostreaming.archi
@@ -3245,7 +3231,6 @@
 +.eurostreaming.ooo
 +.eurostreaming.org
 +.eurostreaming.ph
-+.eurostreaming.pink
 +.eurostreaming.poker
 +.eurostreaming.pro
 +.eurostreaming.quest
@@ -3283,6 +3268,7 @@
 +.eurostreamings.cam
 +.eurostreamings.casa
 +.eurostreamings.cfd
++.eurostreamings.click
 +.eurostreamings.com
 +.eurostreamings.fun
 +.eurostreamings.hair
@@ -3441,7 +3427,6 @@
 +.feeder.lt
 +.fel3ardaa.com
 +.feliratok.eu
-+.feniks-site24.pl
 +.fenopy.com
 +.fenopy.se
 +.feuerbringer.com
@@ -3468,7 +3453,6 @@
 +.filebit.pl
 +.filebits.org
 +.filecatch.com
-+.filechef.com
 +.filecr.com
 +.filecraft.com
 +.filedep.co.cc
@@ -3536,7 +3520,6 @@
 +.filman.cc
 +.filmapik.beauty
 +.filmapik.bike
-+.filmapik.bio
 +.filmapik.cafe
 +.filmapik.cash
 +.filmapik.channel
@@ -3796,7 +3779,6 @@
 +.flarefiles.com
 +.flash-games.ws
 +.flashbit.cc
-+.flashfilmes.org
 +.flashfilms-hd.com
 +.flashfilms-hd.top
 +.flashnetbd.com
@@ -4475,7 +4457,6 @@
 +.guardaserie.dance
 +.guardaserie.dev
 +.guardaserie.education
-+.guardaserie.eu
 +.guardaserie.fan
 +.guardaserie.fitness
 +.guardaserie.fm
@@ -4618,6 +4599,7 @@
 +.hdencode.org
 +.hdf.world
 +.hdfilmcehennemi.now
++.hdfilmcehennemi27.com
 +.hdfilme-to.my
 +.hdfilme-to.top
 +.hdfilme-tv.cc
@@ -4634,6 +4616,7 @@
 +.hdfilme.cv
 +.hdfilme.cx
 +.hdfilme.day
++.hdfilme.deals
 +.hdfilme.fit
 +.hdfilme.fun
 +.hdfilme.garden
@@ -4677,6 +4660,9 @@
 +.hdmatch.link
 +.hdme.eu
 +.hdmoie2.com
++.hdmovi2.bz
++.hdmovi2.fan
++.hdmovi2.xyz
 +.hdmovia2.com
 +.hdmovie14.net
 +.hdmovie2.ac
@@ -4698,7 +4684,6 @@
 +.hdmovie2.bot
 +.hdmovie2.boutique
 +.hdmovie2.broker
-+.hdmovie2.build
 +.hdmovie2.builders
 +.hdmovie2.buzz
 +.hdmovie2.bz
@@ -4719,11 +4704,9 @@
 +.hdmovie2.clinic
 +.hdmovie2.cloud
 +.hdmovie2.cm
-+.hdmovie2.co
 +.hdmovie2.co.in
 +.hdmovie2.coach
 +.hdmovie2.codes
-+.hdmovie2.coffee
 +.hdmovie2.cologne
 +.hdmovie2.com
 +.hdmovie2.com.pk
@@ -4738,7 +4721,6 @@
 +.hdmovie2.creditcard
 +.hdmovie2.cricket
 +.hdmovie2.cyou
-+.hdmovie2.deal
 +.hdmovie2.digital
 +.hdmovie2.dk
 +.hdmovie2.dog
@@ -4767,7 +4749,6 @@
 +.hdmovie2.gent
 +.hdmovie2.gifts
 +.hdmovie2.gmbh
-+.hdmovie2.golf
 +.hdmovie2.gr
 +.hdmovie2.graphics
 +.hdmovie2.gratis
@@ -4822,7 +4803,6 @@
 +.hdmovie2.my
 +.hdmovie2.nagoya
 +.hdmovie2.navy
-+.hdmovie2.network
 +.hdmovie2.ng
 +.hdmovie2.nl
 +.hdmovie2.nz
@@ -4927,6 +4907,7 @@
 +.hdmoviesnxt.com
 +.hdmoviespark.com
 +.hdmoviesverse.xyz
++.hdmovil.xyz
 +.hdmovil2.com
 +.hdmovit2.com
 +.hdmoviz2.xyz
@@ -4947,7 +4928,6 @@
 +.hds.lc
 +.hdseans.pl
 +.hdstar.org
-+.hdstream.cool
 +.hdtoday.cc
 +.hdtoday.tv
 +.hdtodaytv.tv
@@ -4985,7 +4965,6 @@
 +.hesgoal.watch
 +.hesgoal.world
 +.hesgoal1.net
-+.hesgoals.top
 +.hesgoaltv.me
 +.hevcbay.com
 +.hexagon.cc
@@ -5001,7 +4980,6 @@
 +.hianime.cx
 +.hianime.dk
 +.hianime.nz
-+.hianime.sx
 +.hianime.to
 +.hianimes.ro
 +.hicartoon.to
@@ -5053,7 +5031,6 @@
 +.hotne.ws
 +.houniao.ddns.net
 +.house-of-usenet.com
-+.housemovie.to
 +.howtechismade.com
 +.hox.com.br
 +.hpav.tv
@@ -5077,7 +5054,6 @@
 +.hurawatch.at
 +.hurawatch.cc
 +.hurawatch.com
-+.hurawatch.org
 +.hurawatch.ru
 +.hurawatch.stream
 +.hurawatchz.to
@@ -5324,7 +5300,6 @@
 +.italia-film.top
 +.italia-film.vg
 +.italia-film.ws
-+.italiafilm.fun
 +.italiaserie.cc
 +.itcnbd.com
 +.itmn.org
@@ -5730,7 +5705,6 @@
 +.kkiste.autos
 +.kkiste.boats
 +.kkiste.club
-+.kkooralives.com
 +.kleanstorage.store
 +.kleverig.eu
 +.klon.tv
@@ -5949,7 +5923,6 @@
 +.link-base.org
 +.linkbucks.com
 +.linkomanija.net
-+.linkr.top
 +.linkseed.net
 +.linux.mybookmarkmanager.com
 +.linux23.com
@@ -6200,7 +6173,6 @@
 +.matrix-virovitica.com
 +.mawtoload.com
 +.max-rls.com
-+.max2013schweiz.club
 +.max2wwe.kilu.de
 +.maxidown.com
 +.maxseries.top
@@ -6591,7 +6563,6 @@
 +.moviecracker.net
 +.moviedokan.autos
 +.moviedokan.baby
-+.moviedokan.biz
 +.moviedokan.cfd
 +.moviedokan.click
 +.moviedokan.cv
@@ -6695,7 +6666,6 @@
 +.moviesmania.info
 +.moviesmobile.net
 +.moviesmod.bid
-+.moviesmod.bio
 +.moviesmod.bio.link
 +.moviesmod.blue
 +.moviesmod.build
@@ -6709,12 +6679,9 @@
 +.moviesmod.cool
 +.moviesmod.day
 +.moviesmod.dev
-+.moviesmod.forum
 +.moviesmod.fyi
-+.moviesmod.gift
 +.moviesmod.kim
 +.moviesmod.mom
-+.moviesmod.nl
 +.moviesmod.onl
 +.moviesmod.pink
 +.moviesmod.plus
@@ -6785,7 +6752,6 @@
 +.moviz.net
 +.movizdb.com
 +.movply.com
-+.movply.stream
 +.movreel.com
 +.movt70.store
 +.movtubex3.cc
@@ -6861,7 +6827,6 @@
 +.multicanais.live
 +.multicanais.today
 +.multiki.arjlover.net
-+.multimovies.autos
 +.multimovies.center
 +.multimovies.cheap
 +.multimovies.click
@@ -6874,7 +6839,6 @@
 +.multimovies.lol
 +.multimovies.media
 +.multimovies.network
-+.multimovies.nl
 +.multimovies.onl
 +.multimovies.online
 +.multimovies.p2pplay.pro
@@ -7112,7 +7076,6 @@
 +.newhdmovie2.com
 +.newhdmovie2.net
 +.newhdmovie2.one
-+.newhdmovie2.org
 +.newhdmovies.org
 +.newhdmovies.top
 +.newhdmovies24.net
@@ -10154,6 +10117,7 @@
 +.torrent-windows.net
 +.torrent.ai
 +.torrent.arjlover.net
++.torrent.bowed.net
 +.torrent.burgas.org
 +.torrent.by
 +.torrent.e2k.ru
@@ -10318,7 +10282,6 @@
 +.torrents-zone.com
 +.torrents.animes-bg.com
 +.torrents.artixlinux.org
-+.torrents.bbccable.net
 +.torrents.by
 +.torrents.com
 +.torrents.czteam.ro
@@ -10603,7 +10566,6 @@
 +.tracker.iro.moe
 +.tracker.ixuexi.click
 +.tracker.jiesen.life
-+.tracker.jonaslsa.com
 +.tracker.jordan.im
 +.tracker.kali.org
 +.tracker.kamigami.org
@@ -11708,7 +11670,6 @@
 +.wareziens.net
 +.warezik.eu
 +.warezkeeper.com
-+.warezland.new.fr
 +.warezlander.com
 +.warezload.net
 +.warezlover.xyz

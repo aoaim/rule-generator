@@ -3090,6 +3090,7 @@
 +.xlog16-platform-useast5.us.tiktokv.com
 +.xlog16-platform-ycru.tiktokv.com
 +.xlog16-tmp-normal-useast1a.tiktokv.com
++.xn--ex-adreq-asa-c5b.vivoglobal.com
 +.xn-ex-adreq-asa-c5b.vivoglobal.com
 +.xp-cdn-lb.itunes-apple.com.akadns.net
 +.xp-cdn.apple.com
