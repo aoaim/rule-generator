@@ -10764,6 +10764,7 @@
 +.confiaen.legalitas.com
 +.confiant-integrations.net
 +.confidencetalks.com
++.config-factory.com
 +.config.bdheaventouch.xyz
 +.config.best4flooring.co.uk
 +.config.emb-api.com
@@ -10960,6 +10961,7 @@
 +.contatoreaccessi.com
 +.conteiner.canaljoaobemol.com
 +.contemporaryceremonies.ca
++.content-settings.com
 +.content.4teamwork.ch
 +.content.aew.com
 +.content.bazaarvoice.com
@@ -41382,6 +41384,7 @@
 +.mon-sg.capcutapi.com
 +.mon-va.byteoversea.com
 +.mon-va.capcutapi.com
++.mon.avito.ru
 +.mon.byteoversea.com
 +.mon.capcutapi.us
 +.mon.ingservices.nl
@@ -44020,6 +44023,7 @@
 +.otapnh.minirodini.com
 +.otbybdd.petitplaya.com
 +.otekt.rocautomobile.ro
++.otel-collector.reliability.smartnews.net
 +.otel-mobile.doordash.com
 +.otfim.gurunanda.com
 +.otfur.craneandcanopy.com
