@@ -2696,6 +2696,7 @@
 .sms-ads-ru.heytapmobile.com
 .sn-ad-lgsmartad-com.aws-prd.net
 .sn.lgsmartad.com
+.sponsored-ads-fe.amazon-adsystem.com
 .spynet2.microsoft.com
 .spynetalt.microsoft.com
 .sq-tungsten-ts-eu.amazon-adsystem.com
