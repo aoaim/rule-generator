@@ -660,6 +660,7 @@
 .citrixanalyticseh.servicebus.windows.net
 .citrixanalyticseh2-alias.servicebus.windows.net
 .citrixanalyticseh2.servicebus.windows.net
+.citrixanalyticseh3-alias.servicebus.windows.net
 .citrixanalyticsehaps-alias.servicebus.windows.net
 .citrixanalyticsehaps.servicebus.windows.net
 .citrixanalyticseheu-alias.servicebus.windows.net
@@ -1097,6 +1098,7 @@
 .flash.sec.intl.miui.com
 .flash.sec.miui.com
 .flex.msn.com
+.flirfvysba2opz0zmzqs5iuiad.apple.com
 .flow.sec.miui.com
 .fls-cn.amazon-adsystem.com
 .fls-cn.amazon.cn
@@ -2697,6 +2699,7 @@
 .sn-ad-lgsmartad-com.aws-prd.net
 .sn.lgsmartad.com
 .sponsored-ads-fe.amazon-adsystem.com
+.sponsored-ads-na.amazon-adsystem.com
 .spynet2.microsoft.com
 .spynetalt.microsoft.com
 .sq-tungsten-ts-eu.amazon-adsystem.com

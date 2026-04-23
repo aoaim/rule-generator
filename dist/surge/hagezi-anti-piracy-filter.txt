@@ -917,6 +917,7 @@
 .animesuki.com
 .animet.ru
 .animetake.tv
+.animetempy.com
 .animetoon.org
 .animetorrents.com
 .animetorrents.me
@@ -4610,6 +4611,7 @@
 .hdencode.com
 .hdencode.org
 .hdf.world
+.hdfilmcehennemi.llc
 .hdfilmcehennemi.now
 .hdfilmcehennemi27.com
 .hdfilme-to.my
@@ -4654,6 +4656,7 @@
 .hdfilme.win
 .hdfilme321.buzz
 .hdfilmizle22.com
+.hdfilmizle24.com
 .hdfreaks.cc
 .hdfull.cam
 .hdfull.lv
@@ -5261,6 +5264,7 @@
 .iptorrents.com
 .iptv-web.app
 .iptv.aliflailabd.com
+.iptv4me.net
 .iptvcanarias.tv
 .iptvguard.app
 .iptvonly.tv
@@ -7586,6 +7590,7 @@
 .pig2pig.com
 .pijafka.pl
 .pinoymovieshub.tv
+.pinoymovieshub.win
 .pinoytorrents.net
 .piraat.xyz
 .piracitoplista.ugu.pl
