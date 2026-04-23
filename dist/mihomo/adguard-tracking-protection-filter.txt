@@ -4811,6 +4811,7 @@
 +.analytics.playplayground.com
 +.analytics.plex.tv
 +.analytics.pnc.com
++.analytics.pocketfm.com
 +.analytics.poferries.com
 +.analytics.pointdrive.linkedin.com
 +.analytics.polaris.com
@@ -5169,6 +5170,7 @@
 +.andmlb.kshwtj.com
 +.andre.clpfacil.com.br
 +.andreas.taffmachwerk.de
++.android-beacons.xumo.com
 +.android-stat.acestream.net
 +.android-tv-beacons.xumo.com
 +.android.bugly.qq.com
@@ -9925,6 +9927,7 @@
 +.ciqne.myobvi.com
 +.circle.am
 +.circlelevel.com
++.cirrus-full-snapshots-track-csv-v1-0-na-prod.s3.amazonaws.com
 +.cis.harris.com
 +.ciscenje.net.jumia.com.ng
 +.citiservi.es
@@ -18599,6 +18602,7 @@
 +.energeticladybug.com
 +.energie.biogena.com
 +.energy.eneco.be
++.energyfools.com
 +.enews.learninga-z.com
 +.eng.ca.bebelelo.com
 +.eng.info.mouser.com
@@ -21639,6 +21643,7 @@
 +.globalbanking.wolterskluwer.com
 +.globalcommunications.sc.com
 +.globalservices.conde.digital
++.globalsiteanalytics.com
 +.globalsolutions.risk.lexisnexis.com
 +.globalwebindex.net
 +.globase.com
@@ -22141,6 +22146,7 @@
 +.goto.firsttechfed.com
 +.goto.heartlandpaymentsystems.com
 +.goto.newmarklearning.com
++.goto.simplywall.st
 +.goto.suno.com
 +.gotpiu.regenbogen.com
 +.gouptc.brtc.co.kr
@@ -27041,6 +27047,7 @@
 +.id.db4devs.com.br
 +.id.idnkt78.com
 +.id5-sync.com
++.id6.me
 +.idat.production.ippen.space
 +.idbkfy.kango-roo.com
 +.idbnbt.strasburgo.co.jp
@@ -41335,6 +41342,7 @@
 +.mobile.tradeshow.globalsources.com
 +.mobile.vmware.com
 +.mobileapptracking.com
++.mobileconfig.sascdn.com
 +.mobilelog.upqzfile.com
 +.mobilelog.ws.pho.to
 +.mobiletelemetry.ebay.com
@@ -48056,6 +48064,7 @@
 +.roi.beginn.store
 +.roinjg.mkluzkoviny.cz
 +.roiservice.com
++.roku-beacons.xumo.com
 +.rollconnection.com
 +.rollingcounters.com
 +.roma.prashant.co
@@ -49388,6 +49397,7 @@
 +.sams.manager-lounge.de
 +.sams.manager-magazin.de
 +.sams.spiegel.de
++.samsung-beacons.xumo.com
 +.samt.zkb.ch
 +.samuraibots.com
 +.san.imersaoacura.com.br
@@ -49640,7 +49650,16 @@
 +.sarver.etouchbd.com
 +.sarver.khatirajbd.com
 +.sarver.shobjibazar.com
++.sas.a.int-nft.peacocktv.com
++.sas.a.peacocktv.com
++.sas.a.stable-int.peacocktv.com
 +.sas.adamasjeans.com
++.sas.f.int-nft.peacocktv.com
++.sas.f.peacocktv.com
++.sas.f.stable-int.peacocktv.com
++.sas.int-nft.peacocktv.com
++.sas.peacocktv.com
++.sas.stable-int.peacocktv.com
 +.sas15k01.com
 +.sat.sanoma.fi
 +.satarget.csu.edu.au
@@ -70267,6 +70286,7 @@
 +.static.fengkongcloud.com
 +.static.genuss-aktivhotel.com
 +.static.herr.io
++.static.journify.io
 +.static.light-point.com
 +.static.osalta.eu
 +.static.parsely.com
@@ -72368,6 +72388,8 @@
 +.swordtail.hnh.digital
 +.swordtail.rockface.io
 +.swqleb.adidas.ru
++.swsdd.simplywall.st
++.swssp.simplywall.st
 +.swwcyk.ahaber.com.tr
 +.swwcyk.aspor.com.tr
 +.swwcyk.atv.com.tr
@@ -72925,6 +72947,7 @@
 +.t.jmusports.com
 +.t.johannus.com
 +.t.josephnguyen.org
++.t.journify.io
 +.t.juneau.ca
 +.t.juskys.de
 +.t.juskys.fr
@@ -77572,6 +77595,7 @@
 +.tracker.swedish.org
 +.tracker.thinkermail.com
 +.tracker.thinkindot.com
++.tracker.tianmu.mobi
 +.tracker.tubecj.com
 +.tracker.uira.live
 +.tracker.ulivetv.net
@@ -80176,6 +80200,7 @@
 +.umami.spencerdevs.xyz
 +.umami.subdavis.com
 +.umami.syg.ma
++.umamix.fadunews.in
 +.umazvs.raybiotech.com
 +.umbel.com
 +.umccle.traktorpool.hu
@@ -80291,6 +80316,7 @@
 +.up-hl.3g.qq.com
 +.up-rank.com
 +.upalytics.com
++.upc.zztfly.com
 +.upcgu.untamedego.com
 +.update.net.jumia.ug
 +.update.purina.com
