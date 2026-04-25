@@ -2855,6 +2855,7 @@
 +.ads-api.x.com
 +.ads-image.production-public.tubi.io
 +.ads-img-al.xhscdn.com
++.ads-img-bak.xhscdn.com
 +.ads-privacy-api.prd.mz.internal.unity3d.com
 +.ads-trk.vidible.tv
 +.ads.atdove.org
@@ -3807,6 +3808,7 @@
 +.ali8.alinea.fr
 +.alias.cloud-marketing.dimensiondata.com
 +.aliasanvil.com
++.alib.nine.com.au
 +.alice.bodyandbrows.com
 +.alikeaddition.com
 +.aline.alinecantarelli.com.br
@@ -7955,6 +7957,7 @@
 +.bigcattracks.com
 +.bigdata.clarin.com
 +.bigfishapparel.com
++.biggerbling.com
 +.bigleapforward.org
 +.bigsauron.ru
 +.bigstats.net
@@ -9867,6 +9870,7 @@
 +.childlikeform.com
 +.children.universityhealth.com
 +.childrensclub.ubmfashion.com
++.chillingtofu.com
 +.chimpanzee.designerdailyreport.com
 +.chinchilla.68keys.io
 +.chingovernment.com
@@ -10220,7 +10224,6 @@
 +.cloudchickens.com
 +.cloudconf.fengkongcloud.com
 +.cloudfilt.com
-+.cloudguppy.com
 +.cloudhosting-business.vodafone.com
 +.cloudhustles.com
 +.cloudjumbo.com
@@ -15852,6 +15855,7 @@
 +.data.srvc.cadillacfinancial.com
 +.data.srvc.gmfinancial.com
 +.data.ssb.test.ajo.adobe.com
++.data.ssports.com
 +.data.staalhaven.dk
 +.data.staaltuin.nl
 +.data.stage-mail.fpl.com
@@ -19765,6 +19769,7 @@
 +.faithrowold.com
 +.faiwax.golfhouse.de
 +.fakedisguise.com
++.fakeschool.com
 +.fakexa-post.mno.link
 +.fakexa.mno.link
 +.fal2.carrefour-banque.fr
@@ -20021,6 +20026,7 @@
 +.feedjit.com
 +.feedperfect.com
 +.feedten.com
++.feelwarmth.com
 +.feezv.mycheerleadingbox.com
 +.feignedfaucet.com
 +.fel-api.prod.browse.bestbuy.com
@@ -20890,6 +20896,7 @@
 +.ftwnwght.net.anwalt.de
 +.ftysya.aboutyou.de
 +.ftzets.silkfred.com
++.fubuki-umami.space
 +.fucpa.sk-ii.com
 +.fudezz.bolasport.com
 +.fudezz.grid.id
@@ -21541,6 +21548,7 @@
 +.giddycoat.com
 +.gift.bangla-deal.com
 +.gift.skmshopbd.com
++.giftclothings.com
 +.giftplanning.westmont.edu
 +.giga-abs.de
 +.gigeo.eniva.com
@@ -29965,6 +29973,7 @@
 +.karrot-pixel.business.daangn.com
 +.kascb.jamsworld.com
 +.kataribe.kataribecms.com
++.kataweb.it
 +.kattoremontti.ruukki.com
 +.kattz.nonothing.us
 +.katuchef-ss.topashopo.com
@@ -43219,7 +43228,6 @@
 +.oapdi.deltoroshoes.com
 +.oaprodlogging.yo-digital.com
 +.oar.smu.edu.sg
-+.oasjs.kataweb.it
 +.oavgoe.irs.jp
 +.oazzl.powderhound.london
 +.ob.cheqzone.com
@@ -76732,6 +76740,7 @@
 +.trace.rememberapp.co.kr
 +.trace.zhiyan.tencent-cloud.net
 +.trace21.dsb-ebusiness.com
++.tracecontent.com
 +.tracelog.www.alibaba.com
 +.traceprof.com
 +.traces.sr.roku.com
