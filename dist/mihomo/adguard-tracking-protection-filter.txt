@@ -16607,7 +16607,6 @@
 +.dietj.cardboardcutoutstandees.com
 +.difficultfog.com
 +.diffusion-tracker.com
-+.dig.bdurl.net
 +.dig.ultimedia.com
 +.digestiondrawer.com
 +.digiadglobal.com
@@ -82978,6 +82977,7 @@
 +.wretchedfloor.com
 +.writerhubs.com
 +.writewealth.com
++.writingcalls.com
 +.wrjxoy.mnt.fr
 +.wrkbha.lyst.de
 +.wrlnvt.pepita.hu
