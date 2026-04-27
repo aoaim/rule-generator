@@ -82168,7 +82168,6 @@
 .ys-log-upload-os.hoyoverse.com
 .analytics.studiodesignapp.com
 .misc.api.snaptube.app
-.dig.bdurl.net
 .trusted-collector-bk.tmocce.com
 .collect.babybus.com
 .log.apkomega.com
@@ -82699,6 +82698,7 @@
 .bhcumsc.com
 .bidpapers.com
 .bigfishapparel.com
+.biggerbling.com
 .bigworldfashion.com
 .bikepaws.com
 .bikesboard.com
@@ -84717,6 +84717,7 @@
 .wretchedfloor.com
 .writerhubs.com
 .writewealth.com
+.writingcalls.com
 .wrongpotato.com
 .wrongwound.com
 .wtaccesscontrol.com
