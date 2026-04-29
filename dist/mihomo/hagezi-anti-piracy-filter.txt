@@ -2687,7 +2687,10 @@
 +.dizipal1532.com
 +.dizipal1543.com
 +.dizipal1544.com
++.dizipal1550.com
 +.dizipal1936.com
++.dizipal2062.com
++.dizipal2063.com
 +.dizipal22.plus
 +.dizipal754.vip
 +.dizipal755.vip
@@ -2764,6 +2767,7 @@
 +.dontorrent.photos
 +.dontorrent.pink
 +.dontorrent.promo
++.dontorrent.reisen
 +.dontorrents.com
 +.dontorrents.org
 +.dood.ac
@@ -5951,6 +5955,7 @@
 +.limetorrents.xyz
 +.limetorrents.zone
 +.limetorrentx.cc
++.limontorrents.club
 +.line-net.ru
 +.link-base.org
 +.linkbucks.com
