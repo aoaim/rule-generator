@@ -78164,6 +78164,7 @@
 .tagman.britishairways.com
 .ct.pinterest.com
 .incoming.telemetry.mozilla.org
+.stats.cinevibe.asia
 .alib.nine.com.au
 .data.ssports.com
 .sas.a.int-nft.peacocktv.com
@@ -83770,6 +83771,7 @@
 .nightwound.com
 .nimbleplot.com
 .noblecables.com
+.noblefellow.com
 .nodenotify.com
 .nodethisweek.com
 .noiselessplough.com
