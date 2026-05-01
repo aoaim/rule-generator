@@ -7483,6 +7483,7 @@
 +.backlink-test.de
 +.backlinkdino.de
 +.backoffice.verintsystemsinc.com
++.backtension.com
 +.backupcat.com
 +.backuplanding.ubm-events.com
 +.bacon.getcarro.com
@@ -28931,6 +28932,7 @@
 +.intr.naymish.com
 +.intrastats.com
 +.intricateberry.com
++.introjava.com
 +.inuae.cycologygear.co.uk
 +.inv3te.oui.sncf
 +.invdm.moonjuice.com
@@ -41412,6 +41414,7 @@
 +.mon.us.tiktokv.com
 +.mon.xactware.com
 +.mon.zijieapi.com
++.mon11-misc-lq.fqnovel.com
 +.mon16-normal-us-ttp.capcutapi.us
 +.monacobeatles.com
 +.monetate.net
@@ -50463,6 +50466,7 @@
 +.sensor.org.ua
 +.sensor.photogrid.app
 +.sensors-log.dongqiudi.com
++.sensors.dito.ph
 +.sensors.ibreader.com
 +.sensors.snappea.com
 +.sensors.snaptube.app
@@ -75424,6 +75428,7 @@
 +.tnc-sg.capcutapi.com
 +.tnc-v2-boot.capcutapi.com
 +.tnc16-normal-us-ttp.capcutapi.us
++.tnc3-alisc1.bytedance.com
 +.tncid.app
 +.tncpzu.marelbo.com
 +.tnegqr.bohme.com
