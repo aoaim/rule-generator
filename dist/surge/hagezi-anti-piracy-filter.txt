@@ -198,6 +198,7 @@
 .1desiremovies.foo
 .1fichier.com
 .1filmyfly.fyi
+.1filmyfly.mov
 .1filmyfly.top
 .1flix.to
 .1gabba.net
@@ -982,8 +983,11 @@
 .antbd.com
 .antbd.net
 .antbdonlinegaming.blogspot.com
+.antenapluto.store
+.antenasouth.store
 .antenasport.online
 .antenasport.site
+.antenawest.store
 .antennasport.ru
 .anthousebd.net
 .anti.c.la
@@ -2059,6 +2063,7 @@
 .cineby.lat
 .cineby.ru
 .cineby.sbs
+.cineby.sc
 .cineby.shop
 .cineby.wiki
 .cineby.work
@@ -2476,7 +2481,9 @@
 .d33f51dyacx7bd.cloudfront.net
 .d40969.acod.regrucolo.ru
 .d4download.com
+.d4ktv.info
 .daddylive.sx
+.daddylive3.com
 .daddylive5.top
 .daddylivehd1.click
 .daddylivestream.com
@@ -3140,6 +3147,7 @@
 .eonmovies.fun
 .eonmovies.live
 .epforums.org
+.epicplayplay.cfd
 .epider.me
 .episodes-tv.com
 .epnetbd.com
@@ -4610,6 +4618,7 @@
 .hdfilmcehennemi.llc
 .hdfilmcehennemi.now
 .hdfilmcehennemi27.com
+.hdfilme-de.my
 .hdfilme-to.my
 .hdfilme-to.top
 .hdfilme-tv.cc
@@ -4739,6 +4748,7 @@
 .hdmovie2.email
 .hdmovie2.engineering
 .hdmovie2.enterprises
+.hdmovie2.equipment
 .hdmovie2.expert
 .hdmovie2.exposed
 .hdmovie2.family
@@ -5019,6 +5029,7 @@
 .hlusoe.info
 .hn-iptv.com
 .hnven5eq.com
+.hoca6.com
 .hoerbuch.us
 .hoerspielprojekt.de
 .hoichoi24.com
@@ -5264,8 +5275,10 @@
 .iptvguard.app
 .iptvonly.tv
 .iptvprova.com
+.iptvs.pw
 .iptvsource.com
 .iptvstream.tv
+.iptvsupra.com
 .ipv4.rer.lol
 .ipv6.rer.lol
 .ironwhale7.pro
@@ -5513,6 +5526,7 @@
 .kimcartoon.to
 .kimoitv.com
 .kinej395aoo.com
+.king365tv.me
 .kingdom-kvcd.net
 .kingdom-leaks.com
 .kingdomxxx.com
@@ -5765,6 +5779,7 @@
 .komikcast03.com
 .komiksin.net
 .komikstation.org
+.kondoplay.cfd
 .koora-live.io
 .koora365.io
 .kooralivs.com
@@ -5870,6 +5885,7 @@
 .leet-tracker.moe
 .leflix.us
 .leftist.online
+.lefttoplay.xyz
 .legaltorrents.com
 .legendary-torrents.net
 .legendoftheneverbeast2015-1watch.tumblr.com
@@ -6185,6 +6201,7 @@
 .manicomio-share.com
 .manikdicommunication.com
 .mapple.tv
+.marcobox.in
 .marcrobledo.com
 .mariocube.com
 .mariumnetwork.com
@@ -8236,6 +8253,7 @@
 .request.rip
 .requestcracks.com
 .reqzone.com
+.rereyano.ru
 .respawn.ca
 .retracker.akado-ural.ru
 .retracker.baikal-telecom.net
@@ -8281,6 +8299,7 @@
 .rgshows.vercel.app
 .rickw512.no-ip.com
 .ridomovies.tv
+.rightflourish.net
 .rintor.info
 .rintor.net
 .rintor.org
@@ -8825,6 +8844,7 @@
 .slyck.com
 .small-games.info
 .smart-os.ru
+.smartbox-tv.com
 .smartbox.digital
 .smartflix.digital
 .smartkino.ru
@@ -9225,6 +9245,7 @@
 .streamed.st
 .streamees.com
 .streamerflix.xyz
+.streamex.sh
 .streamflix.one
 .streamflix.space
 .streamfree.app
@@ -9243,6 +9264,7 @@
 .streaming-community.kaufen
 .streaming-community.sarl
 .streaming-community.surf
+.streaming-community.team
 .streaming-community.trade
 .streaming-french.com
 .streaming-series.org
@@ -9802,6 +9824,7 @@
 .teleparty.com
 .telepisodes.org
 .telerium.lol
+.telestream.mom
 .tennis.stream
 .tenvoi.com
 .tenyardtorrents.com
@@ -10086,6 +10109,7 @@
 .top-serie.org
 .top.nydus.org
 .top123movies.com
+.top1iptv.my
 .topanalyse.org
 .topbytes.net
 .topcartoons.tv
@@ -11508,6 +11532,7 @@
 .vidtodo.com
 .viduplayer.com
 .vidxls.com
+.vidzen.fun
 .viedeyz.site
 .view47.com
 .viewembed.ru
@@ -11543,6 +11568,7 @@
 .vipstand.pm
 .vipstream.tv
 .vito-tracker.duckdns.org
+.vito-tracker.space
 .vitorrent.org
 .vivatv.io
 .vivlajeunesse.over-blog.com
