@@ -258,9 +258,14 @@
 +.adx-dre.op.hicloud.com
 +.adx-drru.op.dbankcloud.com
 +.adx-drru.op.hicloud.com
++.adx-op-fr.heytapmobile.com
++.adx-op-in.heytapmobile.com
++.adx-op-ru.heytapmobile.com
 +.adx-op-sg.heytapmobile.com
++.adx-u-sg.heytapmobile.com
 +.adx.tv.mi.com
 +.adxlog-adnet.vivo.com.cn
++.adxu-bigo-sg.heytapmobile.com
 +.ae-ad-lgsmartad-com.aws-prd.net
 +.ae.lgsmartad.com
 +.aec-visio-telemetry.officeapps.live.com
