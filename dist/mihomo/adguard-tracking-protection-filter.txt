@@ -2852,6 +2852,7 @@
 +.adrlov.klingel.fi
 +.adrta.com
 +.ads-alpha.ewscloud.com
++.ads-api.twitter.com
 +.ads-api.x.com
 +.ads-image.production-public.tubi.io
 +.ads-img-al.xhscdn.com
@@ -4126,6 +4127,7 @@
 +.analytics-prd.aws.wehaa.net
 +.analytics-prod.readtheory.org
 +.analytics-production.hapyak.com
++.analytics-proxy-501188673100.us-central1.run.app
 +.analytics-script.ad-shield.io
 +.analytics-sdk.yle.fi
 +.analytics-secure.dollargeneral.com
@@ -11898,6 +11900,7 @@
 +.cxense.com
 +.cxeugu.nationaltoolwarehouse.com
 +.cxjuqd.floriosport.it
++.cxlog.shinhansec.com
 +.cxm.ingeniux.com
 +.cxoixf.lampegiganten.dk
 +.cxrfns.gu-global.com
@@ -22160,6 +22163,7 @@
 +.goto.newmarklearning.com
 +.goto.simplywall.st
 +.goto.suno.com
++.gotoda.co
 +.gotpiu.regenbogen.com
 +.gouptc.brtc.co.kr
 +.gourmetads.com
@@ -36100,12 +36104,14 @@
 +.log1.apkomega.com
 +.log1.cmpassport.com
 +.log1.perfectworldgames.com
++.log1.pwsdk.com
 +.log1.wanmei.com
 +.log1.wtlogin.qq.com
 +.log16-normal-us-ttp.capcutapi.us
 +.log2.ihubgo.info
 +.log2.musical.ly
 +.log2.perfectworldgames.com
++.log2.pwsdk.com
 +.log2.radiko.jp
 +.log2.spotify.com
 +.log2.wanmei.com
@@ -41399,6 +41405,7 @@
 +.mole.gostartupco.com
 +.mollusk.working.actor
 +.mollyflow.com
++.moloco.com
 +.momentfilter.com
 +.momotaro.craigmod.com
 +.momotaro.walkkumano.com
@@ -41907,6 +41914,7 @@
 +.mwxema.galerieslafayette.com
 +.mx.mywd.com
 +.mx5.adgtrk.com
++.mxana.tacool.com
 +.mxbtgc.brightage.jp
 +.mxc.electrospot.ro
 +.mxcdn.net
@@ -43858,6 +43866,7 @@
 +.opsd.mskprotect24.de
 +.opskxz.rosettastone.com
 +.opt.delta.com
++.opt.mocortech.com
 +.optically.cyclecourierco.com
 +.optimallimit.com
 +.optimeeze.appspot.com
