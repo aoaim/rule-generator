@@ -171,6 +171,8 @@
 .ads-msn-com-profile.trafficmanager.net
 .ads-service.tiktok.com
 .ads-setu-proxy-eu.amazon.com
+.ads-setu-proxy-fe.amazon.com
+.ads-setu-proxy.amazon.com
 .ads-sg.tiktok.com
 .ads-ttp2.tiktokw.eu
 .ads-ttp2.us.tiktok.com
@@ -178,6 +180,7 @@
 .ads-us-east-2.delivery.roku.com
 .ads-us-west-2.delivery.roku.com
 .ads-useast2a.tiktok.com
+.ads.amazon.com
 .ads.beta.roku.com
 .ads.bing.com
 .ads.cloud.huawei.com
@@ -1350,7 +1353,6 @@
 .image.box.xiaomi.com
 .image.cdn.mvideo.xiaomi.com
 .image.cdn.pandora.xiaomi.com
-.images.chbusiness.samsung.com
 .images.frbusiness.samsung.com
 .images.it.business.samsung.com
 .images.partnersupport.samsung.com
@@ -2788,6 +2790,7 @@
 .telemetry.eastus.trafficmanager.net
 .telemetry.microsoft.com
 .telemetry.microsoft.us
+.telemetry.officeapps.live.com
 .telemetry.urs.microsoft.com
 .telemetry.visualstudio.microsoft.com
 .telemetrycollector.microsoft.com
