@@ -16859,6 +16859,7 @@
 +.dispatcher.upmc.uc.cn
 +.displaymarketplace.com
 +.distillery.wistia.com
++.distilltable.com
 +.distiltag.com
 +.distralytics.com
 +.distribution.provenpharma.com
@@ -19501,6 +19502,7 @@
 +.eventsmall.com
 +.eventstream.dodopizza.com
 +.eventsv2balanced.malpagames.com
++.eventtrace.ru
 +.eventtracking.hubapi.com
 +.everestjs.net
 +.everesttech.net
@@ -20259,7 +20261,6 @@
 +.fishersfinds.com
 +.fishhoo.com
 +.fishing.bucketbro.com.au
-+.fishingtoolsbox.com
 +.fit.bedrijfsfitnessnederland.nl
 +.fit.wingsfit1.com
 +.fitanalytics.com
@@ -20290,7 +20291,6 @@
 +.fjjkh.thelostestate.com
 +.fjkjaj.peterhahn.nl
 +.fjnrh.period.co
-+.fjordsand.com
 +.fjortk.braun-hamburg.com
 +.fjqtg.resthavenokc.com
 +.fjqtyu.bethowen.ru
@@ -30505,6 +30505,7 @@
 +.kucku.gigago.vn
 +.kueezrtb.com
 +.kugqq.fillingpieces.com
++.kujsc5.ru
 +.kujts.aroma360official.com.br
 +.kukckk.sagefinds.com
 +.kunde.danskespil.dk
@@ -36873,6 +36874,7 @@
 +.magpie.onething.org
 +.magrm.luxmery.com
 +.magstag.magnalia.com.br
++.magtorr.com
 +.mahdk.etrendygo.com
 +.mahid.hatbazar.online
 +.mahim.certifymeonline.net
@@ -50337,6 +50339,7 @@
 +.securetenilstats.turner.com
 +.securetracking.eaton.com
 +.securetracking.golfpride.com
++.securityannex.net
 +.securityintelligence.verint.com
 +.sedge.aarp.org
 +.sedge.marines.com
@@ -71236,6 +71239,7 @@
 +.stats.tehila.gov.il
 +.stats.tekin.co.uk
 +.stats.telenor.se
++.stats.temptcdn.com
 +.stats.tena.co.uk
 +.stats.tena.co.za
 +.stats.tena.com.my
