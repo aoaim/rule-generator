@@ -8,6 +8,7 @@
 +.0123movie.ws
 +.0123movies.com
 +.0123movies.live
++.0123movies.one
 +.0123moviesfree.org
 +.01streaming.click
 +.01streaming.stream
@@ -24,6 +25,7 @@
 +.0day.ro
 +.0daycn.net
 +.0dayddl.com
++.0gomovies.io
 +.0mag.net
 +.0magnet.com
 +.0vg9r.com
@@ -86,8 +88,10 @@
 +.123-movies.zone
 +.123animes.ru
 +.123cine.to
++.123files.club
 +.123fox.net
 +.123freemovies.net
++.123hbo.com
 +.123hulu.com
 +.123movie.blog
 +.123movie.cc
@@ -168,6 +172,7 @@
 +.123unblock.fun
 +.12canime.cc
 +.13377x.tw
++.1337x.app
 +.1337x.buzz
 +.1337x.com
 +.1337x.fun
@@ -206,6 +211,7 @@
 +.1flix.to
 +.1gabba.net
 +.1gabba.pw
++.1hd.to
 +.1jour1film.online
 +.1jour1film.website
 +.1jour1film0226.site
@@ -223,6 +229,7 @@
 +.1movietv.com
 +.1nd.hu
 +.1progs.ru
++.1shows.com
 +.1soft.space
 +.1stream.top
 +.1street.ru
@@ -1904,6 +1911,7 @@
 +.cemu.emiyl.com
 +.central-torrent.eu
 +.centraltracker.org
++.cerf.cs.umd.edu
 +.cernet-tracker.appspot.com
 +.certcommunity.org
 +.cestrm.xyz
@@ -2116,13 +2124,11 @@
 +.cinepulse.au
 +.cinepulse.cam
 +.cinepulse.cc
-+.cinepulse.ch
 +.cinepulse.com.de
 +.cinepulse.com.im
 +.cinepulse.cx
 +.cinepulse.fr
 +.cinepulse.info
-+.cinepulse.live
 +.cinepulse.lol
 +.cinepulse.org
 +.cinepulse.to
@@ -2721,6 +2727,7 @@
 +.dizipal1544.com
 +.dizipal1550.com
 +.dizipal1936.com
++.dizipal2.com.tr
 +.dizipal2062.com
 +.dizipal2063.com
 +.dizipal2064.com
@@ -6680,8 +6687,14 @@
 +.movieprofits.com
 +.movierot.com
 +.movierr.online
++.movieruleshd.com
++.movierulez.us
++.movierulx.com
 +.movierulz.yachts
 +.movierulzhd.gold
++.movierulznet.com
++.movierulzonline.com
++.movierulzzplz.com
 +.movies-d.com
 +.movies-free.net
 +.movies-out.com
@@ -6991,7 +7004,6 @@
 +.mycima.host
 +.mycima.im
 +.mycima.kim
-+.mycima.la
 +.mycima.live
 +.mycima.loan
 +.mycima.lol
@@ -7015,7 +7027,6 @@
 +.mycima.study
 +.mycima.style
 +.mycima.surf
-+.mycima.tv
 +.mycima.us
 +.mycima.vin
 +.mycima.ws
@@ -7512,6 +7523,7 @@
 +.online-tv.ws
 +.online24fullmovies.com
 +.onlineflix.stream
++.onlinemovierulz.com
 +.onlyforscholarship.online
 +.onlymovies.org
 +.onlytorrents.com
@@ -8291,6 +8303,7 @@
 +.realfiles.net
 +.realstation.live
 +.realstresser.com
++.reanime.to
 +.rebellyon.tv
 +.reboot.tube
 +.receitasone.com
@@ -8902,6 +8915,7 @@
 +.skymovieshd.diy
 +.skymovieshd.earth
 +.skymovieshd.fast
++.skymovieshd.free
 +.skymovieshd.guru
 +.skymovieshd.house
 +.skymovieshd.land

@@ -169,6 +169,7 @@
 +.ads-frontier.tiktok.com
 +.ads-ie.tiktokw.eu
 +.ads-msn-com-profile.trafficmanager.net
++.ads-ru.tiktok.com
 +.ads-service.tiktok.com
 +.ads-setu-proxy-eu.amazon.com
 +.ads-setu-proxy-fe.amazon.com
@@ -302,6 +303,7 @@
 +.analytics-exp-sg.tiktok.com
 +.analytics-exp-ttp2.tiktokw.eu
 +.analytics-exp.us.tiktok.com
++.analytics-exp16-normal-useastred.tiktokw.eu
 +.analytics-i18n.tiktok.com
 +.analytics-ie.tiktokw.eu
 +.analytics-ipv6.tiktokw.us
@@ -999,6 +1001,7 @@
 +.eg-ad-lgsmartad-com.aws-prd.net
 +.eg.lgsmartad.com
 +.ehg-samsungusa.hitbox.com
++.ehtelemetrystaging-alias.servicebus.windows.net
 +.eic-ngfts.lge.com
 +.eic-ngfts.lge.com.edgekey.net
 +.emq.xmpush.xiaomi.com
