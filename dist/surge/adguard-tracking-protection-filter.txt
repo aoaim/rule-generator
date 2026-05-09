@@ -4,6 +4,8 @@
 .ib.snssdk.com
 .xlog.snssdk.com
 .log.snssdk.com
+.htplayground.com
+.mod.leftnewsex.com
 .magtorr.com
 .eventtrace.ru
 .kujsc5.ru
@@ -78170,6 +78172,7 @@
 .tagman.britishairways.com
 .ct.pinterest.com
 .incoming.telemetry.mozilla.org
+.mlm-tracking.meinestadt.de
 .stats.temptcdn.com
 .opt.mocortech.com
 .analytics-proxy-501188673100.us-central1.run.app
@@ -81555,6 +81558,7 @@
 .int.vlancaa.site
 .int.vlancaa.fun
 .tok.vaicore.xyz
+.aki-gb-sdklog.kurogames.net
 .log1.pwsdk.com
 .log2.pwsdk.com
 .cxlog.shinhansec.com
@@ -82872,6 +82876,7 @@
 .chaireggnog.com
 .chairscrack.com
 .chairsdonkey.com
+.chalkdream.com
 .chalkoil.com
 .changeablecats.com
 .channelcamp.com
@@ -82998,6 +83003,7 @@
 .crowdedmass.com
 .cruisetourist.com
 .crunchcontrol.com
+.crypticgenius.com
 .cryptvalue.com
 .crystalboulevard.com
 .cubchannel.com
@@ -83097,6 +83103,7 @@
 .dollarthrill.com
 .domaincolumn.com
 .doomhedge.com
+.dotshellmain.com
 .doubledefend.com
 .doubtdrawer.com
 .dq95d35.com
@@ -84384,6 +84391,7 @@
 .stakingsmile.com
 .stalesummer.com
 .starkscale.com
+.starrynets.com
 .starsmarter.com
 .startercost.com
 .startingcars.com
