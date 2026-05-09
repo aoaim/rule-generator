@@ -3624,6 +3624,7 @@
 +.akbar.aktechnologybd.com
 +.akcze.dysoncanada.ca
 +.akgnwd.tocris.com
++.aki-gb-sdklog.kurogames.net
 +.akjfo.sunrisecapitalgroup.com
 +.akkieh.yumeyakata.com
 +.akn.analytics.autodesk.com
@@ -9815,6 +9816,7 @@
 +.chaireggnog.com
 +.chairscrack.com
 +.chairsdonkey.com
++.chalkdream.com
 +.chalkoil.com
 +.champions.betubetu.com
 +.changeablecats.com
@@ -11497,6 +11499,7 @@
 +.crwxun.24mx.co.uk
 +.cryo.socialblade.com
 +.cryp-o.online
++.crypticgenius.com
 +.crypto-o.click
 +.cryptonow.algomoneo.com
 +.cryptvalue.com
@@ -17097,6 +17100,7 @@
 +.dotmetrics.net
 +.dotomi.com
 +.dotserver.douyucdn.cn
++.dotshellmain.com
 +.doubledefend.com
 +.doubleverify.com
 +.doubtdrawer.com
@@ -26802,6 +26806,7 @@
 +.htlvni.atperrys.com
 +.htmgrl.jollyroom.no
 +.htnblk.kansascitysteaks.com
++.htplayground.com
 +.htqfxh.vuch.cz
 +.htrace.wetvinfo.com
 +.htrji.mazeliving.co.uk
@@ -41262,6 +41267,7 @@
 +.mlkblr.la-becanerie.com
 +.mlkklg.suncamp.de
 +.mllog.jd.com
++.mlm-tracking.meinestadt.de
 +.mlmswk.janpara.co.jp
 +.mln.gulvxtra.no
 +.mlqzau.koffer.com
@@ -41374,6 +41380,7 @@
 +.mobuppsweb.online
 +.mobylog.jp
 +.mochibot.com
++.mod.leftnewsex.com
 +.modth.habrokathletics.com
 +.modularmental.com
 +.module.allergy-i.jp
@@ -70105,6 +70112,7 @@
 +.starkscale.com
 +.starman.usefathom.com
 +.starmount.alwayscarebenefits.com
++.starrynets.com
 +.starsmarter.com
 +.start.adelaide.edu.au
 +.start.ashfieldmeetings.com
