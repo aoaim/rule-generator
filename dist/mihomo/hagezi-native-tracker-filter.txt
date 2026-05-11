@@ -166,6 +166,7 @@
 +.ads-cf-us-west-2.delivery.roku.com
 +.ads-drcn.platform.hihonorcloud.com
 +.ads-drru.cloud.huawei.ru
++.ads-drru.platform.hihonorcloud.com
 +.ads-frontier.tiktok.com
 +.ads-ie.tiktokw.eu
 +.ads-msn-com-profile.trafficmanager.net
@@ -2913,6 +2914,8 @@
 +.trackercollect.ddxq.mobi
 +.trackerfeed.ddxq.mobi
 +.tracking-adnet.vivo.com.cn
++.tracking-data-drru.platform.hihonorcloud.com
++.tracking-data.platform.hihonorcloud.com
 +.tracking.americas.business.samsung.com
 +.tracking.apac.business.samsung.com
 +.tracking.eu.miui.com
