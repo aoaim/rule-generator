@@ -203,6 +203,7 @@
 +.ads.us.tiktok.com
 +.ads1.msn.com
 +.ads16-normal-useastred.tiktokw.eu
++.adsbdfsiad-704007db1.heytapmobi.com
 +.adsdk.microsoft.com
 +.adsdk.trafficmanager.net
 +.adsdkpreprod.afd.azureedge.net
@@ -1252,6 +1253,8 @@
 +.guif.coloros.com
 +.gy-ad-lgsmartad-com.aws-prd.net
 +.gy.lgsmartad.com
++.h1.msn.com
++.h2.msn.com
 +.h4g3z1-native.amazon.web.app
 +.h4g3z1-native.apple.web.app
 +.h4g3z1-native.huawei.web.app
