@@ -7549,6 +7549,7 @@
 +.barnacle.hearmeout.work
 +.barnacle.natalieandmikeyb.com
 +.barnacle.viewsource.io
++.barqueue.com
 +.barracuda.civicdatalibrary.org
 +.barracuda.verto.exchange
 +.bartdta.jameslane.com.au
@@ -13624,6 +13625,7 @@
 +.data-afa7d79a5a.apps.iocnt.de
 +.data-afa8dd5312.kleinezeitung.at
 +.data-afd30fa9a3.apps.iocnt.de
++.data-api.fenbi.com
 +.data-b0980db7ec.wiwo.de
 +.data-b0fd716f10.auto-medienportal.net
 +.data-b19475ee82.weather.com
@@ -16932,6 +16934,7 @@
 +.dls-b23-link.ip.twelve99.net.iberostar.com
 +.dls-ddc.dqa.samsung.com
 +.dls2s.appsflyer.com
++.dlso-ap96.macgamingdb.app
 +.dluma.sokolovelaw.com
 +.dlyyzort.jointcarrelage.be
 +.dlyyzort.voegenshop.be
@@ -17671,6 +17674,7 @@
 +.easycounter.com
 +.easyhitcounters.com
 +.easyresearch.se
++.easysyncnews.com
 +.easytarget.ru
 +.easytomessage.com
 +.easytracking.de
@@ -18942,6 +18946,7 @@
 +.esofco.gsmbutik.ru
 +.esogk.frannegolde.com
 +.esomniture.com
++.esoterictools.com
 +.espmp-agfr.net
 +.espmp-aufr.net
 +.espmp-cufr.net
@@ -19748,6 +19753,7 @@
 +.fabricww.com
 +.fabryczna.viessmann.pl
 +.fabsd.trupeer.ai
++.fabulousbooking.com
 +.fac.fanucamerica.com
 +.face.fernandomattioli.com.br
 +.face.homeneedsbd.com
@@ -20422,6 +20428,7 @@
 +.flystranger.com
 +.flznib.weblio.jp
 +.fm-analytics-api.pocketfm.com
++.fm-analytics.cloudbees.io
 +.fm.trustmartbdx.shop
 +.fma7.aegon.es
 +.fmcgu.frameiteasy.com
@@ -41571,6 +41578,7 @@
 +.mp5.multi-prets.com
 +.mparticle.com
 +.mpc.nicequest.com
++.mpecom-analyticevents-prod.boyner.com.tr
 +.mpfmb.eightsaintsskincare.com
 +.mpglie.apartmentguide.com
 +.mpgtft.zoobeauval.com
@@ -45136,6 +45144,7 @@
 +.peafowl.projectstrackt.dev
 +.peahn.modlily.com
 +.peakcounter.dk
++.peakcreator.com
 +.peaks.patagonia.com
 +.pear.youzful-by-ca.fr
 +.pearldiver.io
