@@ -1,7 +1,6 @@
 +.003396815.xyz
 +.004430.xyz
 +.0123456789nonexistent.com
-+.0123movie.net
 +.0123movie.onl
 +.0123movie.online
 +.0123movie.stream
@@ -332,6 +331,7 @@
 +.4watch.net
 +.504e163a.host.njalla.net
 +.54new.com
++.55movierulz.com
 +.57722252pnx.com
 +.5927778.xyz
 +.5dbgwxjk.com
@@ -450,7 +450,6 @@
 +.9kmovies.pet
 +.9kmovies.press
 +.9kmovies.ren
-+.9kmovies.rip
 +.9kmovies.sarl
 +.9kmovies.solar
 +.9kmovies.space
@@ -664,7 +663,6 @@
 +.altadefinizione.cx
 +.altadefinizione.cyou
 +.altadefinizione.date
-+.altadefinizione.dating
 +.altadefinizione.de
 +.altadefinizione.eu
 +.altadefinizione.exchange
@@ -757,6 +755,7 @@
 +.altadefinizionegratis.host
 +.altadefinizionegratis.ink
 +.altadefinizionegratis.life
++.altadefinizionegratis.living
 +.altadefinizionegratis.mom
 +.altadefinizionegratis.monster
 +.altadefinizionegratis.news
@@ -768,8 +767,8 @@
 +.altadefinizionegratis.sbs
 +.altadefinizionegratis.shop
 +.altadefinizionegratis.skin
-+.altadefinizionegratis.space
 +.altadefinizionegratis.store
++.altadefinizionegratis.study
 +.altadefinizionegratis.surf
 +.altadefinizionegratis.today
 +.altadefinizionegratis.vip
@@ -822,7 +821,6 @@
 +.androidtvbox.ru
 +.andropalace.org
 +.andyday.tv
-+.andydayz.lol
 +.angelleye.no-ip.com
 +.ani-mania.com
 +.anicloud.domains
@@ -1177,7 +1175,6 @@
 +.asnet.pw
 +.aspirated.xyz
 +.assistir.biz
-+.assistiranimes.org
 +.assistirseriados.online
 +.assistirseriesflix.net
 +.assistirtvgratis.online
@@ -1228,7 +1225,6 @@
 +.auratorrent.pl
 +.aurorabird6.live
 +.autocadbmjes.com
-+.autocadgou.com
 +.autocadtfesvb.com
 +.autoeq.top
 +.avantabg.com
@@ -1304,7 +1300,6 @@
 +.batstream.tv
 +.bayernstream.com
 +.bayfiles.com
-+.bayofpirates.xyz
 +.bb-tv.org
 +.bbs.homefei.net
 +.bbs.itzmx.com
@@ -1437,7 +1432,6 @@
 +.bitcorea.org
 +.bitcountry.com
 +.bitcq.com
-+.bitdl.ir
 +.bitemytorrent.com
 +.bitenova.org
 +.bitestreams.net
@@ -1738,7 +1732,6 @@
 +.bughome.de
 +.bulextorrent.org
 +.bulkpeers.com
-+.bullstresser.com
 +.bullstresser.net
 +.bundesliga-streams.net
 +.bunkr.tv
@@ -2096,7 +2089,6 @@
 +.cineblog01.wtf
 +.cineblog01.xn--6frz82g
 +.cineblog01film.blog
-+.cineblog02.com
 +.cinebloom.com
 +.cinebloom.org
 +.cinebook.xyz
@@ -2126,9 +2118,7 @@
 +.cinefreak.my
 +.cinefreak.net
 +.cinefreak.top
-+.cinefreak.tv
 +.cinefun.co
-+.cinego.tv
 +.cinehd.app
 +.cinehub24.com
 +.cinema24.tv
@@ -2144,7 +2134,6 @@
 +.cinemagratis.ws
 +.cinemagratis.xyz
 +.cinemahd.work
-+.cinemahdv2.io
 +.cinemaindo.net
 +.cinemalibero.cafe
 +.cinemalux.cfd
@@ -6128,6 +6117,7 @@
 +.livesoccer.sx
 +.livesoccertv.com
 +.livesx.eu
++.livetv-en.com
 +.livetv.asia
 +.livetv.mirpur.online
 +.livetv.ru
@@ -6477,6 +6467,7 @@
 +.megakino3.org
 +.megakino3.to
 +.megakino4.com
++.megakino4.org
 +.megakinox.top
 +.megamanmaker.com
 +.megamodapk.com
@@ -9541,6 +9532,8 @@
 +.streaming-community.asia
 +.streaming-community.courses
 +.streaming-community.fit
++.streaming-community.garden
++.streaming-community.guru
 +.streaming-community.kaufen
 +.streaming-community.sarl
 +.streaming-community.study
@@ -10783,6 +10776,7 @@
 +.tr-zhuqiy-2.dgj055.icu
 +.tr.abiir.top
 +.tr.abir.ga
++.tr.btube3.com
 +.tr.doogh.club
 +.tr.highstar.shop
 +.tr.kxmp.cf
