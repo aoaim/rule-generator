@@ -19754,6 +19754,7 @@
 +.ezodn.com
 +.ezoeyd.planetahuerto.pt
 +.ezofv.gesundheit-der-frau.com
++.ezoicanalytics.com
 +.ezpls.wearerasa.com
 +.ezrcd.uniforms4healthcare.com
 +.ezrqqa.gocar.be
@@ -30259,7 +30260,6 @@
 +.kilqg.drinkzyn.com
 +.kimkgj.bibloo.pl
 +.kindasingle.com
-+.kindhush.com
 +.kindlaundry.rdtrke.com
 +.kindlereunion.com
 +.kinesis.eu-west-1.amazonaws.com
@@ -79898,6 +79898,7 @@
 +.turtle.mushtache.com
 +.turtle.mydataroom.io
 +.turtle.sid.scot
++.turtleface.net
 +.tus1iptahdpin01.net.jumia.cm
 +.tusk-au.happymammoth.com
 +.tusk-eu.happymammoth.com
@@ -82209,6 +82210,7 @@
 +.way2traffic.com
 +.wayfinderanalytics.servicebus.windows.net
 +.wayjoyfarm.com
++.waylowrates.net
 +.wayyaj8t094u.www.kodalia.com
 +.waz.met.vgwort.de
 +.wazimo.com
