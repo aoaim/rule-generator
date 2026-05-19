@@ -70514,6 +70514,7 @@
 +.statistik.sunnesommarland.se
 +.statistika.lv
 +.statistx.com
++.statlytic.net
 +.statman.sesong.info
 +.statok.net
 +.statowl.com
