@@ -10037,6 +10037,7 @@
 +.clavecin.taokids.be
 +.clavecin.taokids.com
 +.clb.yahoo.co.jp
++.clb.yahooapis.jp
 +.clc.stackoverflow.com
 +.clck.edadeal.ru
 +.clck.yandex.com
@@ -17250,6 +17251,7 @@
 +.dsas-t.danawa.com
 +.dsas.danawa.com
 +.dsb.yahoo.co.jp
++.dsb.yahooapis.jp
 +.dsbahmgppc0j4.cloudfront.net
 +.dscgz.bulletjournal.com
 +.dsdjbj.abracadabra.com.br
@@ -22184,7 +22186,6 @@
 +.gocpi.quadrant.gg
 +.gocuxy.baycrews.jp
 +.god.jewelpalace.in
-+.goddesslamps.com
 +.godhat.com
 +.godseedband.com
 +.godvd.cleansimpleeats.com
@@ -42317,6 +42318,7 @@
 +.naturalgain.naturelifebangladesh.com
 +.naturaltracking.com
 +.nature.safari.com
++.naturebeans.com
 +.nauticalfox.com
 +.navdmp.com
 +.nave.foone.com.br
@@ -76902,6 +76904,7 @@
 +.tracciamentodati.lapidiprovvisorie.com
 +.tracdelight.io
 +.trace-2000.com
++.trace-flow.ru
 +.trace.51jingying.com
 +.trace.events
 +.trace.free-reels.com
@@ -82960,6 +82963,7 @@
 +.wildcat.restq.co
 +.wildcommittee.com
 +.wildebeest.quarva.dev
++.wildpetalfarm.com
 +.wildwoodavenue.com
 +.wiley.met.vgwort.de
 +.wimi.aviendo.dk
@@ -83092,6 +83096,7 @@
 +.woodpecker.mikehalliday.com
 +.woodpecker.uc.cn
 +.woof.psi-lekarna.cz
++.woofweather.com
 +.woolstapler.com
 +.woomy.me
 +.woopra-ns.com
