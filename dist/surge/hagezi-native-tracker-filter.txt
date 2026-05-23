@@ -5,7 +5,6 @@
 .3rdupgrade.pandora.xiaomi.com
 .5-c3.bigdata.ctc.neo.xiaomi.com
 .a-ring-fallback.msedge.net
-.a-ring-ipv6only.msedge.net
 .a-ring.msedge.net
 .a.hl.mi.com
 .a.market.xiaomi.com
@@ -121,7 +120,6 @@
 .ad-eng-pci.prod.rpay.int.roku.com
 .ad-eng.prod.rpay.int.roku.com
 .ad-eng.staging.rpay.int.roku.com
-.ad-instantpage-ru.tiktokv.com
 .ad-instantpage-sg.tiktokv.com
 .ad-instantpage-ttp2.tiktokv.eu
 .ad-instantpage-ttp2.tiktokv.us
@@ -169,9 +167,7 @@
 .ads-drru.platform.hihonorcloud.com
 .ads-frontier.tiktok.com
 .ads-ie.tiktokw.eu
-.ads-msn-com-profile.trafficmanager.net
 .ads-ru.tiktok.com
-.ads-service.tiktok.com
 .ads-setu-proxy-eu.amazon.com
 .ads-setu-proxy-fe.amazon.com
 .ads-setu-proxy.amazon.com
@@ -181,7 +177,6 @@
 .ads-us-east-1.delivery.roku.com
 .ads-us-east-2.delivery.roku.com
 .ads-us-west-2.delivery.roku.com
-.ads-useast2a.tiktok.com
 .ads.amazon.com
 .ads.beta.roku.com
 .ads.bing.com
@@ -274,7 +269,6 @@
 .adxu-bigo-sg.heytapmobile.com
 .ae-ad-lgsmartad-com.aws-prd.net
 .ae.lgsmartad.com
-.aec-visio-telemetry.officeapps.live.com
 .af-ad-lgsmartad-com.aws-prd.net
 .af.lgsmartad.com
 .ag-ad-lgsmartad-com.aws-prd.net
@@ -337,7 +331,6 @@
 .analytics16-normal-useastred.tiktokw.eu
 .analytics16-normal.tiktok.com
 .analyticsehnwe.servicebus.windows.net
-.analyticsiot-prod-simpad-ehn.servicebus.windows.net
 .analyticspixel.microsoft.com
 .ao-ad-lgsmartad-com.aws-prd.net
 .ao.lgsmartad.com
@@ -475,7 +468,6 @@
 .atfe.amazon-adsystem.com
 .atue.amazon-adsystem.com
 .au-ad-lgsmartad-com.aws-prd.net
-.au-vcode-od.vivoglobal.com
 .au.ff.avast.sec.miui.com
 .au.lgsmartad.com
 .auc-visio-telemetry.officeapps.live.com
@@ -569,8 +561,6 @@
 .bsp-di-in.heytapmobile.com
 .bsp.sasdc.pandora.xiaomi.com
 .bss.pandora.xiaomi.com
-.btv-du-dev-eventhub-streamanalytics.servicebus.windows.net
-.btv-du-prod-eventhub-streamanalytics.servicebus.windows.net
 .bugreport.pt.xiaomi.com
 .bugreport.xiaomi.net
 .bugs.firebat.prime-video.amazon.dev
@@ -661,7 +651,6 @@
 .cg-ad-lgsmartad-com.aws-prd.net
 .cg.lgsmartad.com
 .ch-ad-lgsmartad-com.aws-prd.net
-.ch-asimov-leafs-events-data.trafficmanager.net
 .ch.lgsmartad.com
 .channelusa.samsung.com
 .child.sec.miui.com
@@ -671,7 +660,6 @@
 .citrixanalyticseh-alias.servicebus.windows.net
 .citrixanalyticseh.servicebus.windows.net
 .citrixanalyticseh2-alias.servicebus.windows.net
-.citrixanalyticseh2.servicebus.windows.net
 .citrixanalyticseh3-alias.servicebus.windows.net
 .citrixanalyticsehaps-alias.servicebus.windows.net
 .citrixanalyticsehaps.servicebus.windows.net
@@ -683,7 +671,6 @@
 .citrixtelemetryeheu.servicebus.windows.net
 .cjs-diagnostics-office-com-gvdhgwfwbbfsd9g3.z01.azurefd.net
 .cl-ad-lgsmartad-com.aws-prd.net
-.cl-vcode-od.vivoglobal.com
 .cl.lgsmartad.com
 .clarity.microsoft.com
 .classify-app-eu.allawnos.com
@@ -803,17 +790,11 @@
 .cname-asia-st-exappupgrade.vivoglobal.com
 .cname-asia-stsdk09.vivoglobal.com
 .cname-asia02-stsdk.vivoglobal.com
-.cname-de-stsdk.vivoglobal.com
 .cname-in-apport-stsdk.vivoglobal.com
 .cname-in-bom01-nginxpool03.vivoglobal.com
 .cname-in-ctdbonrt-stsdk.vivoglobal.com
 .cname-sin01-stsdk09.vivoglobal.com
 .co-ad-lgsmartad-com.aws-prd.net
-.co-cota.vivoglobal.com
-.co-domaincfg.vivoglobal.com
-.co-err-up.vivoglobal.com
-.co-onrt-stsdk.vivoglobal.com
-.co-ort-stsdk.vivoglobal.com
 .co-pnrt-stsdk.vivoglobal.com
 .co-romsp-unifyconfig.vivoglobal.com
 .co-st-sl.vivoglobal.com
@@ -821,7 +802,6 @@
 .co-timesync.vivoglobal.com
 .co-vcode-api.vivoglobal.com
 .co-vcode-od.vivoglobal.com
-.co-vcode-or.vivoglobal.com
 .co.lgsmartad.com
 .collector-main.trafficmanager.net
 .collector.azure.cn
@@ -926,7 +906,6 @@
 .ddf.di.atlas.samsung.com
 .de-ad-lgsmartad-com.aws-prd.net
 .de-gdpr-err-up.vivoglobal.com
-.de-gdpr-vcode-od.vivoglobal.com
 .de.lgsmartad.com
 .de.pandora.xiaomi.com
 .dec-visio-telemetry.officeapps.live.com
@@ -1061,7 +1040,6 @@
 .events-dre.op.dbankcloud.com
 .events-dre.op.hicloud.com
 .events-sandbox.data.microsoft.com
-.events-sandbox.data.msn.cn
 .events-sandbox.data.msn.com
 .events.app-performance.music.amazon.dev
 .events.data.microsoft.com
@@ -1284,7 +1262,6 @@
 .hk-ad-lgsmartad-com.aws-prd.net
 .hk-tracker.trafficmanager.net
 .hk.lgsmartad.com
-.hme-live-loganalytics-namespace.servicebus.windows.net
 .hme-uat-loganalytics-namespace.servicebus.windows.net
 .hn-ad-lgsmartad-com.aws-prd.net
 .hn.lgsmartad.com
@@ -1355,7 +1332,6 @@
 .ifsau-in.coloros.com
 .ifsau.coloros.com
 .il-ad-lgsmartad-com.aws-prd.net
-.il-vcode-od.vivoglobal.com
 .il.lgsmartad.com
 .image.box.xiaomi.com
 .image.cdn.mvideo.xiaomi.com
@@ -1495,13 +1471,10 @@
 .kz-ort-stsdk.vivoglobal.com
 .kz-pnrt-stsdk.vivoglobal.com
 .kz-prt-stsdk.vivoglobal.com
-.kz-romsp-unifyconfig.vivoglobal.com
 .kz-st-exappupgrade.vivoglobal.com
 .kz-st-sl.vivoglobal.com
 .kz-st-sysupgrade.vivoglobal.com
 .kz-stsdk.vivoglobal.com
-.kz-timesync.vivoglobal.com
-.kz-vcode-api.vivoglobal.com
 .kz-vcode-od.vivoglobal.com
 .kz-vcode-or.vivoglobal.com
 .kz.lgsmartad.com
@@ -1515,8 +1488,8 @@
 .lg.api.xmpush.xiaomi.com
 .lgads.tv
 .li-ad-lgsmartad-com.aws-prd.net
+.licensingtelemetry-prod.servicebus.windows.net
 .live-video-log16-normal-alisg.tiktokv.com
-.live.applicationinsights.azure.cn
 .live.miphone.pandora.xiaomi.com
 .lk-ad-lgsmartad-com.aws-prd.net
 .lk.lgsmartad.com
@@ -2301,7 +2274,6 @@
 .ppm-licensingtelemetry.servicebus.windows.net
 .pr-ad-lgsmartad-com.aws-prd.net
 .pr.lgsmartad.com
-.prd-qlik-telemetry.servicebus.windows.net
 .prd-usw2-requestattribution-iad.apple.com
 .prderrordumphsm.samsungcloudsolution.com
 .prderrordumpssm.samsungcloudsolution.net
@@ -2622,13 +2594,11 @@
 .sau-server-in.allawnos.com
 .sau-server-sg.allawnos.com
 .sau-server-us.allawnos.com
-.sca-cota.vivoglobal.com
 .sca-domaincfg.vivoglobal.com
 .sca-err-up.vivoglobal.com
 .sca-onrt-stsdk.vivoglobal.com
 .sca-ort-stsdk.vivoglobal.com
 .sca-p.vivoglobal.com
-.sca-pnrt-stsdk.vivoglobal.com
 .sca-romsp-unifyconfig.vivoglobal.com
 .sca-st-sl.vivoglobal.com
 .sca-stsdk.vivoglobal.com
@@ -2711,7 +2681,6 @@
 .sponsored-ads-eu-south-2.amazon-adsystem.com
 .sponsored-ads-eu.amazon-adsystem.com
 .sponsored-ads-eu.amazon.ae
-.sponsored-ads-eu.amazon.co.za
 .sponsored-ads-eu.amazon.com.be
 .sponsored-ads-eu.amazon.com.tr
 .sponsored-ads-eu.amazon.de
@@ -3109,7 +3078,6 @@
 .ws-in.amazon-adsystem.com
 .ws-na.amazon-adsystem.com
 .wtradv.market.xiaomi.com
-.wttwebsiteprodapi-liveevents.trafficmanager.net
 .wwwimg.roku.com
 .wwwimg.staging.roku.com
 .xadx.file.market.xiaomi.com
@@ -3126,7 +3094,6 @@
 .xlog.tiktokv.com
 .xlog16-normal-c-useast1a.tiktokv.com
 .xlog16-normal-c-useast2a.tiktokv.com
-.xlog16-normal-no1a.tiktokv.eu
 .xlog16-normal-useast8.us.tiktokv.com
 .xlog16-platform-useast5.us.tiktokv.com
 .xlog16-platform-ycru.tiktokv.com
