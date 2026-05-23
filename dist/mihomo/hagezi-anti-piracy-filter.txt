@@ -967,6 +967,7 @@
 +.animeultima.to
 +.animevibe.tv
 +.animevostfr.tv
++.animeworld.me
 +.animeworld.so
 +.animeworld.tv
 +.animex.click
@@ -980,6 +981,7 @@
 +.animeyuki.edwardk.info
 +.animeyume.org
 +.animez.org
++.animez.to
 +.animezia.com
 +.animixplay.com
 +.animixplay.to
@@ -1179,6 +1181,7 @@
 +.asblink.net
 +.asger.xyz
 +.ashdi.vip
++.asiagrandiptv.us
 +.asiandvdclub.org
 +.asianftp.com
 +.asiannetworkbd.net
@@ -6906,6 +6909,7 @@
 +.movierulzhd.gold
 +.movierulznet.com
 +.movierulzonline.com
++.movierulzpl.com
 +.movierulzzplz.com
 +.movies-d.com
 +.movies-free.net
@@ -7459,6 +7463,7 @@
 +.newhdmovie2.com
 +.newhdmovie2.net
 +.newhdmovie2.one
++.newhdmovie2.pro
 +.newhdmovies.org
 +.newhdmovies.top
 +.newhdmovies24.net
