@@ -10609,7 +10609,6 @@
 +.collector-pxdojv695v.protechts.net
 +.collector-pxebumdlwe.px-cdn.net
 +.collector-pxebumdlwe.pxchk.net
-+.collector-sbanking.shb-pelib.com
 +.collector-statistics.nhn-commerce.com
 +.collector.abc.net.au
 +.collector.backyardbrains.com
@@ -16233,6 +16232,7 @@
 +.dc.letv.com
 +.dc.luzygas.ahorraconrepsol.com
 +.dc.madridistas.com
++.dc.oppomobile.com
 +.dc.pagoda.com
 +.dc.peoplesjewellers.com
 +.dc.plussizetech.com
@@ -20363,7 +20363,6 @@
 +.fjjkh.thelostestate.com
 +.fjkjaj.peterhahn.nl
 +.fjnrh.period.co
-+.fjordsand.com
 +.fjortk.braun-hamburg.com
 +.fjqtg.resthavenokc.com
 +.fjqtyu.bethowen.ru
@@ -31076,6 +31075,7 @@
 +.letsgo.bobiotics.nl
 +.levexis.com
 +.lewis.gct.com
++.lex.toss.im
 +.lexip.4pcdn.de
 +.lexity.com
 +.lexvek.gap.ae
@@ -73711,6 +73711,7 @@
 +.tagmanager.2ememain.be
 +.tagmanager.2ememainprofessionnel.be
 +.tagmanager.alright.network
++.tagmanager.andata.ru
 +.tagmanager.becop.nl
 +.tagmanager.maquinariapanteras.com
 +.tagmanager.marktplaats.nl
@@ -81774,6 +81775,7 @@
 +.vlzcsh.dtrtmen.com
 +.vlzuz.bcbg.com
 +.vm.loveamberx.co.uk
++.vm.target-video.com
 +.vmat.fanpass.es
 +.vmat.fanpass.fr
 +.vmat.fanpass.net
@@ -83113,6 +83115,7 @@
 +.workoperation.com
 +.workplace.ricoh.de
 +.workplace.ricoh.ie
++.workplacelight.com
 +.workplacesolutions.inform.equifax.com
 +.workspacesolutions.gos1.com
 +.workwonders.hallstar.com
@@ -83975,6 +83978,7 @@
 +.y8hxgv9m.kobetsu.co.jp
 +.y900.greenwichtime.com
 +.yaayoi.neatfx.fr
++.yachtloft.com
 +.yadro.ru
 +.yadtbk.blacks.co.uk
 +.yag.ferreiratrader.com.br
