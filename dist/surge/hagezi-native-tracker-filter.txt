@@ -198,7 +198,6 @@
 .ads.us.tiktok.com
 .ads1.msn.com
 .ads16-normal-useastred.tiktokw.eu
-.adsbdfsiad-704007db1.heytapmobi.com
 .adsdk.microsoft.com
 .adsdk.trafficmanager.net
 .adsdkpreprod.afd.azureedge.net
@@ -468,6 +467,7 @@
 .atfe.amazon-adsystem.com
 .atue.amazon-adsystem.com
 .au-ad-lgsmartad-com.aws-prd.net
+.au-vcode-od.vivoglobal.com
 .au.ff.avast.sec.miui.com
 .au.lgsmartad.com
 .auc-visio-telemetry.officeapps.live.com
@@ -517,7 +517,6 @@
 .bigdata-lbs-pri-c3.alb.xiaomi.com
 .bigdata.ssp.samsung.com
 .bingads.microsoft.com
-.bingads.trafficmanager.net
 .bj-ad-lgsmartad-com.aws-prd.net
 .bj.lgsmartad.com
 .bldr.mkt.samsung.com
@@ -671,6 +670,7 @@
 .citrixtelemetryeheu.servicebus.windows.net
 .cjs-diagnostics-office-com-gvdhgwfwbbfsd9g3.z01.azurefd.net
 .cl-ad-lgsmartad-com.aws-prd.net
+.cl-vcode-od.vivoglobal.com
 .cl.lgsmartad.com
 .clarity.microsoft.com
 .classify-app-eu.allawnos.com
@@ -795,6 +795,7 @@
 .cname-in-ctdbonrt-stsdk.vivoglobal.com
 .cname-sin01-stsdk09.vivoglobal.com
 .co-ad-lgsmartad-com.aws-prd.net
+.co-domaincfg.vivoglobal.com
 .co-pnrt-stsdk.vivoglobal.com
 .co-romsp-unifyconfig.vivoglobal.com
 .co-st-sl.vivoglobal.com
@@ -1471,10 +1472,12 @@
 .kz-ort-stsdk.vivoglobal.com
 .kz-pnrt-stsdk.vivoglobal.com
 .kz-prt-stsdk.vivoglobal.com
+.kz-romsp-unifyconfig.vivoglobal.com
 .kz-st-exappupgrade.vivoglobal.com
 .kz-st-sl.vivoglobal.com
 .kz-st-sysupgrade.vivoglobal.com
 .kz-stsdk.vivoglobal.com
+.kz-vcode-api.vivoglobal.com
 .kz-vcode-od.vivoglobal.com
 .kz-vcode-or.vivoglobal.com
 .kz.lgsmartad.com
@@ -2594,11 +2597,13 @@
 .sau-server-in.allawnos.com
 .sau-server-sg.allawnos.com
 .sau-server-us.allawnos.com
+.sca-cota.vivoglobal.com
 .sca-domaincfg.vivoglobal.com
 .sca-err-up.vivoglobal.com
 .sca-onrt-stsdk.vivoglobal.com
 .sca-ort-stsdk.vivoglobal.com
 .sca-p.vivoglobal.com
+.sca-pnrt-stsdk.vivoglobal.com
 .sca-romsp-unifyconfig.vivoglobal.com
 .sca-st-sl.vivoglobal.com
 .sca-stsdk.vivoglobal.com
