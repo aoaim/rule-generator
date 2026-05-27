@@ -120,7 +120,9 @@
 .ad-eng-pci.prod.rpay.int.roku.com
 .ad-eng.prod.rpay.int.roku.com
 .ad-eng.staging.rpay.int.roku.com
+.ad-instantpage-ru.tiktokv.com
 .ad-instantpage-sg.tiktokv.com
+.ad-instantpage-sg.tiktokv.com.edgekey.net
 .ad-instantpage-ttp2.tiktokv.eu
 .ad-instantpage-ttp2.tiktokv.us
 .ad-instantpage-va.tiktokv.com
@@ -517,6 +519,7 @@
 .bigdata-lbs-pri-c3.alb.xiaomi.com
 .bigdata.ssp.samsung.com
 .bingads.microsoft.com
+.bingads.trafficmanager.net
 .bj-ad-lgsmartad-com.aws-prd.net
 .bj.lgsmartad.com
 .bldr.mkt.samsung.com
@@ -1263,6 +1266,7 @@
 .hk-ad-lgsmartad-com.aws-prd.net
 .hk-tracker.trafficmanager.net
 .hk.lgsmartad.com
+.hme-live-loganalytics-namespace.servicebus.windows.net
 .hme-uat-loganalytics-namespace.servicebus.windows.net
 .hn-ad-lgsmartad-com.aws-prd.net
 .hn.lgsmartad.com
@@ -1333,6 +1337,7 @@
 .ifsau-in.coloros.com
 .ifsau.coloros.com
 .il-ad-lgsmartad-com.aws-prd.net
+.il-vcode-od.vivoglobal.com
 .il.lgsmartad.com
 .image.box.xiaomi.com
 .image.cdn.mvideo.xiaomi.com
@@ -1501,6 +1506,7 @@
 .location-i18n.tiktokv.com
 .location-microsoft-com.b-0005.b-msedge.net
 .location-sg.tiktokv.com
+.location-ttp2.tiktokv.eu
 .location-ttp2.us.tiktokv.com
 .location-v6-i18n.tiktokv.com
 .location-v6-ru.tiktokv.com
