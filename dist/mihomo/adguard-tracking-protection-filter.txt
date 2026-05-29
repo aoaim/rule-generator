@@ -3985,6 +3985,7 @@
 +.amplitude.thepure.app
 +.ampltd.top.gg
 +.ampltd2.medal.tv
++.ampscamp.net
 +.amptrack-dailymail-co-uk.cdn.ampproject.org
 +.amqbl.ballarddesigns.com
 +.ams-beacons.xumo.com
@@ -21609,7 +21610,6 @@
 +.glamhawk.com
 +.glamipixel.com
 +.glassboxdigital.io
-+.glasscoyote.com
 +.glasses.decorise.pl
 +.glbgox.djoser.de
 +.glbtracker.com
@@ -43067,7 +43067,6 @@
 +.nudgeduck.com
 +.nudsf4r387a.voceconcursado.com.br
 +.nuffrsfx.sideaita.it
-+.nuggad.net
 +.nugjb.bescher.com.au
 +.nuidra.so-inside.com
 +.nuklbp.elenaheim.com
@@ -71766,6 +71765,7 @@
 +.stracking.trutv.com
 +.straightnest.com
 +.straindrinks.com
++.strandedgame.com
 +.strangeclocks.com
 +.strape.weboldalnet.hu
 +.strawberry.basf.ca
