@@ -3187,7 +3187,6 @@
 .nstracking.com
 .ntlab.org
 .ntvk1.ru
-.nuggad.net
 .numerino.cz
 .nyctrl32.com
 .oadz.com
@@ -82670,6 +82669,7 @@
 .ambrosialsummit.com
 .amethystzenith.com
 .amidsttruly.com
+.ampscamp.net
 .amuckafternoon.com
 .amusedbucket.com
 .analyzecorona.com
@@ -83358,7 +83358,6 @@
 .givevacation.com
 .gladysway.com
 .glamhawk.com
-.glasscoyote.com
 .gleamingcow.com
 .gleaminghaven.com
 .gleamingtrade.com
@@ -84372,6 +84371,7 @@
 .stormyflower.com
 .straightnest.com
 .straindrinks.com
+.strandedgame.com
 .strangeclocks.com
 .strawburn.com
 .streetsort.com
