@@ -173,12 +173,14 @@
 .ads-setu-proxy-eu.amazon.com
 .ads-setu-proxy-fe.amazon.com
 .ads-setu-proxy.amazon.com
+.ads-sg.business-tiktok.com
 .ads-sg.tiktok.com
 .ads-ttp2.tiktokw.eu
 .ads-ttp2.us.tiktok.com
 .ads-us-east-1.delivery.roku.com
 .ads-us-east-2.delivery.roku.com
 .ads-us-west-2.delivery.roku.com
+.ads-va.business-tiktok.com
 .ads.amazon.com
 .ads.beta.roku.com
 .ads.bing.com
@@ -653,6 +655,7 @@
 .cg-ad-lgsmartad-com.aws-prd.net
 .cg.lgsmartad.com
 .ch-ad-lgsmartad-com.aws-prd.net
+.ch-asimov-leafs-events-data.trafficmanager.net
 .ch.lgsmartad.com
 .channelusa.samsung.com
 .child.sec.miui.com
@@ -989,6 +992,7 @@
 .ehtelemetrystaging-alias.servicebus.windows.net
 .eic-ngfts.lge.com
 .eic-ngfts.lge.com.edgekey.net
+.eic-qt2-ngfts.lge.com
 .emq.xmpush.xiaomi.com
 .epoch-id.cdo.heytapmobi.com
 .err-up.vivoglobal.com
