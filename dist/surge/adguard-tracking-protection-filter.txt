@@ -4,6 +4,8 @@
 .ib.snssdk.com
 .xlog.snssdk.com
 .log.snssdk.com
+.identity.treeumapp.net
+.umommy.online
 .marcuscash.one
 .vm.target-video.com
 .tagmanager.andata.ru
@@ -78193,6 +78195,8 @@
 .tagman.britishairways.com
 .ct.pinterest.com
 .incoming.telemetry.mozilla.org
+.stats.index.hr
+.feast-events.guardianapis.com
 .analytics.pingaja.com
 .pulse.ftools.fluege.de
 .lex.toss.im
@@ -82652,6 +82656,7 @@
 .aliveachiever.com
 .allnewhost.com
 .alloutdubstep.com
+.alloytitans.com
 .allsunflowers.com
 .allthelogs.com
 .alltypo.com
@@ -82730,6 +82735,7 @@
 .basketballbelieve.com
 .baskettexture.com
 .bastingart.com
+.battleburst.com
 .battlekite.com
 .bawdybalance.com
 .beamvolcano.com
