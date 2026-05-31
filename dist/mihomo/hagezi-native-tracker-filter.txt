@@ -1061,6 +1061,7 @@
 +.ex-romsp-unifyconfig.vivoglobal.com
 +.excel-telemetry.officeapps.live.com
 +.excel-telemetry.wac.trafficmanager.net
++.exo.nel.measure.office.net.cardano.com
 +.experiments.apple.com
 +.experiments.apple.com.edgekey.net
 +.extlog.snssdk.com
@@ -1320,6 +1321,7 @@
 +.id.lgsmartad.com
 +.id.push.heytapmobi.com
 +.identity.browserapps.amazon.de
++.identity.nel.measure.office.net.cardano.com
 +.idiagnostics-mdn1.apple.com
 +.idiagnostics.apple.com
 +.idiagnostics.apple.com.akadns.net
@@ -1662,6 +1664,7 @@
 +.ly-ad-lgsmartad-com.aws-prd.net
 +.ly.lgsmartad.com
 +.m.beehive.in.intl.miui.com
++.m365cdn.nel.measure.office.net.cardano.com
 +.ma-ad-lgsmartad-com.aws-prd.net
 +.ma.lgsmartad.com
 +.mads-eu.amazon.com
@@ -2693,6 +2696,7 @@
 +.sn-ad-lgsmartad-com.aws-prd.net
 +.sn.lgsmartad.com
 +.sonar.prime-video.amazon.dev
++.spo.nel.measure.office.net.cardano.com
 +.sponsored-ads-eu-south-2.amazon-adsystem.com
 +.sponsored-ads-eu.amazon-adsystem.com
 +.sponsored-ads-eu.amazon.ae
@@ -2799,6 +2803,7 @@
 +.tbm.snssdk.com
 +.tc.lgsmartad.com
 +.teams-events-data.trafficmanager.net
++.teams.nel.measure.office.net.cardano.com
 +.telecommandsvc.microsoft.com
 +.telem-edge.smartscreen.microsoft.com
 +.telemetry-lcp.trafficmanager.net
@@ -2993,6 +2998,7 @@
 +.unagi.amazon.sg
 +.update.avlyun.sec.miui.com
 +.upgrade.pandora.xiaomi.com
++.upload.fp.measure.office.com.corp.mmco.int.cardano.com
 +.upu.samsungelectronics.com
 +.ureca.samsungapps.com
 +.us-ad-lgsmartad-com.aws-prd.net
