@@ -2881,6 +2881,7 @@
 +.resources.licenses.adobe.com
 +.rfc0kp2uon.adobestats.io
 +.rghtw9pred.adobestats.io
++.rgnrquxp.xwk4b.adobestats.io
 +.rgye34eyfm.4p4bv.adobestats.io
 +.rh94uwxv95o.4wbo1.adobestats.io
 +.riiohpqnpf.adobestats.io
