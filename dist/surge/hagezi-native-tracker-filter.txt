@@ -790,6 +790,9 @@
 .cms.sec.miui.com
 .cn-ad-lgsmartad-com.aws-prd.net
 .cn-api.mcsvc.samsung.com.cn
+.cn-zh-ort-stsdk.vivoglobal.com
+.cn-zh-prt-stsdk.vivoglobal.com
+.cn-zh-stsdk.vivoglobal.com
 .cn.lgsmartad.com
 .cname-ali-asia-stsdk.vivoglobal.com
 .cname-asia-comonrt-stsdk.vivoglobal.com
