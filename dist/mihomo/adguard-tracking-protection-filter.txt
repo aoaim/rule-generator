@@ -8026,6 +8026,7 @@
 +.bizo.com
 +.bizrate.com
 +.bizspring.net
++.biztoolsbrief.com
 +.bizz.cochraneco.com
 +.bja2.destinia.cz
 +.bjdqbl.nippn-kenko.net
@@ -8254,6 +8255,7 @@
 +.boar.hopehollow.com
 +.boar.indieweb.org
 +.boar.kostholdsveilederen.no
++.boardbumpers.com
 +.boatcodeapp.com
 +.boatpaper.com
 +.boatsbuilding.com
@@ -9941,6 +9943,7 @@
 +.ciscenje.net.jumia.com.ng
 +.citiservi.es
 +.citrusad.net
++.citydeal.net
 +.cityofsanmateo.analytics.open.law
 +.cityua.net
 +.cizion.com
@@ -10026,6 +10029,7 @@
 +.clear.sportsandfitness.com.bd
 +.clear.tanhabdshop.com
 +.clear.vision.net
++.clearclips.com
 +.clearviewcrm.softrek.com
 +.cleveritics.com
 +.clevi.com
@@ -20477,7 +20481,6 @@
 +.followercounter.com
 +.fomhr.superlash.pl
 +.fonts.simoneferretti.net
-+.fontserif.com
 +.food.informaengage.com
 +.foodbrochure.advancedtech.com
 +.foodczar.com
@@ -21082,6 +21085,7 @@
 +.g.wonderchat.io
 +.g.wunderbh.de
 +.g.zecplus.de
++.g10498469755.co
 +.g1be.swisslife-direct.fr
 +.g5hvff5.chatwerk.de
 +.g650.delcotimes.com
@@ -26128,6 +26132,7 @@
 +.han.babyatoz.com
 +.hancockhealth.hancockregional.org
 +.handelsblatt.met.vgwort.de
++.handler.rgstats.com
 +.handleteeth.com
 +.handmade.prettyserendipity.co.uk
 +.handsomehose.com
@@ -47327,6 +47332,7 @@
 +.reach.jensenprecast.com
 +.reach.terumo-bct.com
 +.reachforce.com
++.reachhumans.com
 +.reactful.com
 +.reactjspdf.com
 +.read.lightreading.com
@@ -70987,6 +70993,7 @@
 +.stats.paulronge.se
 +.stats.paypal-metrics.com
 +.stats.paysagistes.pro
++.stats.peachify.top
 +.stats.pebkac.io
 +.stats.pendleratlas.de
 +.stats.perpetual.pizza
