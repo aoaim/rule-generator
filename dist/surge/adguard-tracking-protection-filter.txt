@@ -83070,6 +83070,7 @@
 .datastoried.com
 .daybreaklights.com
 .daymodern.com
+.dazzlescript.com
 .dazzlingbook.com
 .dealchocolate.com
 .debonairdust.com
@@ -83118,6 +83119,7 @@
 .distributiontomatoes.com
 .disturbedquiet.com
 .dockdigestion.com
+.documentstock.com
 .dodgebugs.com
 .dogbedscentral.com
 .dogcollarfavourbluff.com
