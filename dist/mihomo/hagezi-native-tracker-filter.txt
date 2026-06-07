@@ -285,6 +285,7 @@
 +.alexa-hybrid-interaction-log-config-prod-na.s3.amazonaws.com
 +.alexa-mobile-analytics-configuration-prod.s3.amazonaws.com
 +.alexa-mobile-analytics-configuration-prod.s3.us-east-1.amazonaws.com
++.alliance-adreq-asia.vivoglobal.com
 +.alphonso.tv
 +.alt1-3ps.amazon-adsystem.com
 +.am-ad-lgsmartad-com.aws-prd.net
@@ -473,7 +474,6 @@
 +.atfe.amazon-adsystem.com
 +.atue.amazon-adsystem.com
 +.au-ad-lgsmartad-com.aws-prd.net
-+.au-vcode-od.vivoglobal.com
 +.au.ff.avast.sec.miui.com
 +.au.lgsmartad.com
 +.auc-visio-telemetry.officeapps.live.com
@@ -667,6 +667,7 @@
 +.citrixanalyticseh.servicebus.windows.net
 +.citrixanalyticseh2-alias.servicebus.windows.net
 +.citrixanalyticseh3-alias.servicebus.windows.net
++.citrixanalyticseh3.servicebus.windows.net
 +.citrixanalyticsehaps-alias.servicebus.windows.net
 +.citrixanalyticsehaps.servicebus.windows.net
 +.citrixanalyticseheu-alias.servicebus.windows.net
@@ -677,7 +678,6 @@
 +.citrixtelemetryeheu.servicebus.windows.net
 +.cjs-diagnostics-office-com-gvdhgwfwbbfsd9g3.z01.azurefd.net
 +.cl-ad-lgsmartad-com.aws-prd.net
-+.cl-vcode-od.vivoglobal.com
 +.cl.lgsmartad.com
 +.clarity.microsoft.com
 +.classify-app-eu.allawnos.com
@@ -805,7 +805,6 @@
 +.cname-in-ctdbonrt-stsdk.vivoglobal.com
 +.cname-sin01-stsdk09.vivoglobal.com
 +.co-ad-lgsmartad-com.aws-prd.net
-+.co-domaincfg.vivoglobal.com
 +.co-pnrt-stsdk.vivoglobal.com
 +.co-romsp-unifyconfig.vivoglobal.com
 +.co-st-sl.vivoglobal.com
@@ -1273,7 +1272,6 @@
 +.hk-ad-lgsmartad-com.aws-prd.net
 +.hk-tracker.trafficmanager.net
 +.hk.lgsmartad.com
-+.hme-live-loganalytics-namespace.servicebus.windows.net
 +.hme-uat-loganalytics-namespace.servicebus.windows.net
 +.hn-ad-lgsmartad-com.aws-prd.net
 +.hn.lgsmartad.com
@@ -1344,7 +1342,6 @@
 +.ifsau-in.coloros.com
 +.ifsau.coloros.com
 +.il-ad-lgsmartad-com.aws-prd.net
-+.il-vcode-od.vivoglobal.com
 +.il.lgsmartad.com
 +.image.box.xiaomi.com
 +.image.cdn.mvideo.xiaomi.com
@@ -1484,12 +1481,10 @@
 +.kz-ort-stsdk.vivoglobal.com
 +.kz-pnrt-stsdk.vivoglobal.com
 +.kz-prt-stsdk.vivoglobal.com
-+.kz-romsp-unifyconfig.vivoglobal.com
 +.kz-st-exappupgrade.vivoglobal.com
 +.kz-st-sl.vivoglobal.com
 +.kz-st-sysupgrade.vivoglobal.com
 +.kz-stsdk.vivoglobal.com
-+.kz-vcode-api.vivoglobal.com
 +.kz-vcode-od.vivoglobal.com
 +.kz-vcode-or.vivoglobal.com
 +.kz.lgsmartad.com
@@ -2611,13 +2606,11 @@
 +.sau-server-in.allawnos.com
 +.sau-server-sg.allawnos.com
 +.sau-server-us.allawnos.com
-+.sca-cota.vivoglobal.com
 +.sca-domaincfg.vivoglobal.com
 +.sca-err-up.vivoglobal.com
 +.sca-onrt-stsdk.vivoglobal.com
 +.sca-ort-stsdk.vivoglobal.com
 +.sca-p.vivoglobal.com
-+.sca-pnrt-stsdk.vivoglobal.com
 +.sca-romsp-unifyconfig.vivoglobal.com
 +.sca-st-sl.vivoglobal.com
 +.sca-stsdk.vivoglobal.com
