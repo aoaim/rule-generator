@@ -493,6 +493,8 @@
 +.az.appstore.vivo.com.cn
 +.az.lgsmartad.com
 +.az667904.vo.msecnd.net
++.azure.bcp.bingads.trafficmanager.net
++.azure.tip.bingads.trafficmanager.net
 +.azurewatson.microsoft.com
 +.azurewatsontest.microsoft.com
 +.b-ring-fallback.msedge.net
@@ -523,7 +525,6 @@
 +.bigdata-lbs-pri-c3.alb.xiaomi.com
 +.bigdata.ssp.samsung.com
 +.bingads.microsoft.com
-+.bingads.trafficmanager.net
 +.bj-ad-lgsmartad-com.aws-prd.net
 +.bj.lgsmartad.com
 +.bldr.mkt.samsung.com
@@ -1272,6 +1273,7 @@
 +.hk-ad-lgsmartad-com.aws-prd.net
 +.hk-tracker.trafficmanager.net
 +.hk.lgsmartad.com
++.hme-live-loganalytics-namespace.servicebus.windows.net
 +.hme-uat-loganalytics-namespace.servicebus.windows.net
 +.hn-ad-lgsmartad-com.aws-prd.net
 +.hn.lgsmartad.com
@@ -2306,6 +2308,7 @@
 +.prod-event-relay-weather-api.v.aaplimg.com
 +.prod-eventhub-analytics.servicebus.windows.net
 +.prod-news-notification-events.v.aaplimg.com
++.prod.editor.ads.trafficmanager.net
 +.production-jobactivity-analytics.servicebus.windows.net
 +.protect.dev.sec.intl.miui.com
 +.protect.dev.sec.miui.com
@@ -2994,6 +2997,7 @@
 +.ureca.samsungapps.com
 +.url4077.ads-service.tiktok.com
 +.us-ad-lgsmartad-com.aws-prd.net
++.us-mesh-events-data-leafs.trafficmanager.net
 +.us.lgsmartad.com
 +.usc-onenote-telemetry.officeapps.live.com
 +.usc-visio-telemetry.officeapps.live.com
@@ -3070,6 +3074,7 @@
 +.watson.microsoft.com
 +.watson.officeint.microsoft.com
 +.wayfinderanalytics.servicebus.windows.net
++.we-events-prod-1.trafficmanager.net
 +.weather-analytics-events.apple.com
 +.weather-analytics-events.news.apple-dns.net
 +.web-mon-useast2a.byteoversea.com
