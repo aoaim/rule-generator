@@ -3879,6 +3879,7 @@
 +.alsgaj.sportschosun.com
 +.also.greatsecuritydebate.net
 +.alt-r.my.com
++.alt.cobweb.com
 +.alt.proskillsbasketball.com
 +.altalex.wolterskluwer.com
 +.altastat.com
@@ -4615,6 +4616,7 @@
 +.analytics.law.tmchippewa.com
 +.analytics.law.umitribe.org
 +.analytics.learncanyon.com
++.analytics.learndirect.com
 +.analytics.leavemanager.com
 +.analytics.leespace.co
 +.analytics.lekumo.jp
@@ -9683,6 +9685,7 @@
 +.cdns.redskapsbolaget.se
 +.cdnstats-a.akamaihd.net
 +.cdnstr.com
++.cdnw.onlinelearning.hms.harvard.edu
 +.cdnx.baiadellesirene.it
 +.cdnx.capogrossocamerota.it
 +.cdnx.dreamsresortsellia.it
@@ -10240,6 +10243,7 @@
 +.cloudhustles.com
 +.cloudjumbo.com
 +.cloudmetrics.xenforo.com
++.cloverkeys.com
 +.cloverleaf.infor.com
 +.clownfish.onvard.de
 +.clownfish.philipkiely.com
@@ -11615,6 +11619,7 @@
 +.ctllup.deery.com.tr
 +.ctlpyp.lactoclear.co.kr
 +.ctlxht.akeso.co.kr
++.ctm.turnbull-scott.co.uk
 +.ctnsnet.com
 +.ctpnf.thequickflick.com.au
 +.ctr.pernador.ro
@@ -14762,6 +14767,7 @@
 +.data.denovoagency.com
 +.data.derstahlgarten.de
 +.data.desayunosfelices.es
++.data.deschouwwitgoed.nl
 +.data.descubre.interbank.pe
 +.data.desingel.be
 +.data.desligamentonoturno.com.br
@@ -27272,6 +27278,7 @@
 +.ilzzb.retrofete.com
 +.im-apps.net
 +.im.cbsileads.com
++.image-sap.sfmc-content.com
 +.image.ard.de
 +.image.go.aricent.com
 +.image.info.perkinelmer.com
@@ -27280,6 +27287,7 @@
 +.image.mdr.de
 +.image.success.bluewolf.com
 +.image.thermoscientific.com
++.imagebuffer.com
 +.imagecutie.com
 +.imagehost.pics
 +.imagehub.fun
@@ -29649,6 +29657,7 @@
 +.joqawz.snipes.nl
 +.joqdd.madeincookware.com.au
 +.jornal.tesouros-da-julia.com
++.joshpaintings.com
 +.joskgw.sewingmachinesplus.com
 +.journal-bt.wildberries.ru
 +.journey.bommelwonen.nl
@@ -40290,6 +40299,7 @@
 +.metrics.natmags.co.uk
 +.metrics.naturagart.de
 +.metrics.nautica.com
++.metrics.nautilus2.pl
 +.metrics.nba.com
 +.metrics.nbc-insurance.ca
 +.metrics.nepro.com
@@ -45676,6 +45686,7 @@
 +.plausible.redchamp.net
 +.plausible.regex.help
 +.plausible.retune.de
++.plausible.root-nation.net
 +.plausible.sbw.org
 +.plausible.scimago.es
 +.plausible.shadygrovepca.org
@@ -60768,7 +60779,6 @@
 +.srv.vinhosmariamaria.com.br
 +.srv.vuecart.pk
 +.srv.yourtulumconcierge.com
-+.srvgl.com
 +.srvr.dmvs-apac.com
 +.srvr.drfelipepaulino.com.br
 +.srvr.marcelobenites.com.br
@@ -63698,6 +63708,7 @@
 +.sst.amnesty.nl
 +.sst.amo-stickers.hu
 +.sst.ampride.ee
++.sst.amweb.nl
 +.sst.analytica-us.com
 +.sst.analyticalabindia.com
 +.sst.analyticpixelpro.com
@@ -63848,6 +63859,7 @@
 +.sst.beaulares.com
 +.sst.beaverbd.com.bd
 +.sst.bebidou.fr
++.sst.beckhuis.com
 +.sst.bedsonlinestore.co.uk
 +.sst.beefboutique.nl
 +.sst.behangplaza.nl
@@ -63886,6 +63898,7 @@
 +.sst.bierihydraulics.com
 +.sst.biheca.com
 +.sst.bijsmaak.com
++.sst.bike-eu.com
 +.sst.bikesattel.at
 +.sst.bila-as.com
 +.sst.billo.life
@@ -64123,6 +64136,7 @@
 +.sst.chapaifoodhutbd.com
 +.sst.charliegoldsmith.com
 +.sst.charmingrosary.com
++.sst.charrell.be
 +.sst.chary.nl
 +.sst.chatbot.app
 +.sst.chatmax.app
@@ -64289,6 +64303,7 @@
 +.sst.ddfevent.com
 +.sst.ddw.nl
 +.sst.dealatcity.com
++.sst.dearchitect.nl
 +.sst.decormax.nl
 +.sst.dedar.com
 +.sst.deenterprises.com
@@ -64326,6 +64341,7 @@
 +.sst.desabag.de
 +.sst.designofficechairs.com
 +.sst.deskaprojekt.pl
++.sst.desko.nl
 +.sst.destruindometas.com.br
 +.sst.detgodelotteri.dk
 +.sst.devestingrosmalen.nl
@@ -64350,6 +64366,7 @@
 +.sst.discoverkoi.com
 +.sst.disneyinconcert.medialane.nl
 +.sst.dispendix.com
++.sst.distrifood.nl
 +.sst.ditano.com
 +.sst.divafashionu.com
 +.sst.divais.it
@@ -65441,6 +65458,7 @@
 +.sst.miraaya.com
 +.sst.miracamp.com
 +.sst.mishiqa.com
++.sst.missethoreca.nl
 +.sst.misstik.ro
 +.sst.mistrznocy.pl
 +.sst.miswanfashion.com
@@ -65513,6 +65531,7 @@
 +.sst.mrmanbd.com
 +.sst.mrquikhomeservices.com
 +.sst.msj.dk
++.sst.msm.nl
 +.sst.mspshow.co.uk
 +.sst.mtrix.de
 +.sst.mudita.com
@@ -65729,6 +65748,7 @@
 +.sst.onlineaanmeldingen.nl
 +.sst.onlinedeurbeslagshop.nl
 +.sst.onlinetegelgigant.nl
++.sst.onlineveilingmeester.nl
 +.sst.onlyskincare.com
 +.sst.ontslagmeesters.nl
 +.sst.oogfonds.nl
@@ -65797,6 +65817,7 @@
 +.sst.parizske.cz
 +.sst.parizske.sk
 +.sst.parkerstone.nl
++.sst.parkingcentrumoosterdok.nl
 +.sst.partnerpete.com
 +.sst.partsforgermancars.co.uk
 +.sst.partymax.co
@@ -66104,6 +66125,7 @@
 +.sst.safetyplatformtraining.eu
 +.sst.sailwithus.de
 +.sst.saintbernard.com
++.sst.salarisnet.nl
 +.sst.salmondevelopersbd.com
 +.sst.saltanat.life
 +.sst.saluddelser.com
@@ -66294,6 +66316,8 @@
 +.sst.stenhyd.de
 +.sst.stenhyd.se
 +.sst.stevesgoods.com
++.sst.stickerei-stoiber.ch
++.sst.stickerei-stoiber.de
 +.sst.stickerella.ch
 +.sst.stifskwone.be
 +.sst.stockholmsmassan.se
@@ -71095,6 +71119,7 @@
 +.stats.rymawby.com
 +.stats.s-zt.at
 +.stats.safeway.com
++.stats.sailtheship.xyz
 +.stats.sakurasky.com
 +.stats.salzburgerjobs.at
 +.stats.samsungpass.com
@@ -73499,12 +73524,14 @@
 +.tagging.strokengordijn.be
 +.tagging.swat.io
 +.tagging.systemyzawieszen.pl
++.tagging.trined.nl
 +.tagging.utwente.nl
 +.tagging.vanbeekart.de
 +.tagging.vanbeekart.nl
 +.tagging.veda.ch
 +.tagging.vhdakkapellen.nl
 +.tagging.vios.dk
++.tagging.voordeelvanger.nl
 +.tagging.weightloss.goodbodyclinic.com
 +.tagging.wellen-trading.de
 +.tagging.woodtex.be
@@ -74473,6 +74500,7 @@
 +.tdp.loja.terradepeao.com.br
 +.tdp1.vivabox.es
 +.tdpfe.lalignenyc.com
++.tds.vss-security.nl
 +.tds1.vivabox.be
 +.tdsrilqk.dublin-chiropractic.com
 +.tdstats.com
@@ -74817,6 +74845,7 @@
 +.tgcxtq.eveniahotels.com
 +.tgfkhk.tire-hood.com
 +.tgfnm.maisonbondny.com
++.tggng.suitable.de
 +.tghqq.trywellbe.pl
 +.tgi2.tracegains.com
 +.tgidil.joyu.co.kr
@@ -77306,6 +77335,7 @@
 +.track.share.envestnet.com
 +.track.shareco.life
 +.track.shemaghmafjar.com
++.track.shiksha.com
 +.track.shine-group.fr
 +.track.shontan.com
 +.track.shootersgate.com
@@ -78376,6 +78406,7 @@
 +.tracking.utas.edu.au
 +.tracking.utedesign.no
 +.tracking.utlservice.com
++.tracking.vbr.ru
 +.tracking.velozuniformes.com.br
 +.tracking.venture-net.co.jp
 +.tracking.verisk.com
@@ -79979,6 +80010,7 @@
 +.udbdf.apkpure.com
 +.udc.msn.com
 +.udcazzuy.k9at.co.uk
++.udderstack.allstar.gg
 +.udfa7.azbarbecue.be
 +.udfa7.azgrillservice.de
 +.udfa7.barbecue.nl
