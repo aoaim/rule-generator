@@ -54,6 +54,7 @@
 +.aax-ott.amazon-adsystem.amazon.com
 +.aax-ott.amazon-adsystem.com
 +.aax-us-east-1-ott.amazon-adsystem.amazon.com
++.aax-us-east-dtb-mobile-events.amazon-adsystem.com
 +.aax-us-east-dtb-mobile.amazon-adsystem.com
 +.aax-us-east-dtb.amazon-adsystem.com
 +.aax-us-east-ott.amazon-adsystem.com
@@ -71,7 +72,6 @@
 +.aax-us-pdx-rtb-adx.amazon-adsystem.com
 +.aax-us-pdx-rtb.amazon-adsystem.com
 +.aax-us-pdx.amazon-adsystem.com
-+.aax-us-west-2-ott.amazon-adsystem.amazon.com
 +.aax-us-west-dtb-mobile-events.amazon-adsystem.com
 +.aax-us-west-dtb-mobile.amazon-adsystem.com
 +.aax-us-west-ott-events.amazon-adsystem.com
@@ -123,9 +123,14 @@
 +.ad-instantpage-sg.tiktokv.com
 +.ad-instantpage-sg.tiktokv.com.edgekey.net
 +.ad-instantpage-ttp2.tiktokv.eu
++.ad-instantpage-ttp2.tiktokv.eu.edgesuite.net
++.ad-instantpage-ttp2.tiktokv.eu.ttdns3.com
 +.ad-instantpage-ttp2.tiktokv.us
++.ad-instantpage-ttp2.tiktokv.us.edgesuite.net
 +.ad-instantpage-va.tiktokv.com
 +.ad-instantpage.tiktokv.us
++.ad-instantpage.tiktokv.us.edgesuite.net
++.ad-instantpage.tiktokv.us.ttdns4.com
 +.ad.cdn.pandora.xiaomi.com
 +.ad.eu.xiaomi.com
 +.ad.india.xiaomi.com
@@ -136,12 +141,14 @@
 +.ad.mi.com
 +.ad.msn.com
 +.ad.prod.rpay.int.roku.com
++.ad.qa.ap.int.roku.com
 +.ad.quickapp.hybrid.xiaomi.com
 +.ad.rus.xiaomi.com
 +.ad.staging.rpay.int.roku.com
 +.ad.tiktok.tv
 +.ad.tiktokv.com
 +.ad.tiktokv.us
++.ad.usw2.qa.ap.int.roku.com
 +.ad.xiaomi.com
 +.adeng-identity-prod3.bdp.roku.com
 +.adeng-looker-bi-oneview-prod-1001.bdp.roku.com
@@ -150,6 +157,7 @@
 +.adevents.msn.com
 +.adi-airflow.bdp.roku.com
 +.adinstantpage16-normal-useastred.tiktokv.eu
++.adinstantpage16-normal-useastred.tiktokv.eu.edgesuite.net
 +.adlog.vivo.com
 +.adlog.vivo.com.cn
 +.ads-aka-us-east-1.delivery.roku.com
@@ -170,7 +178,7 @@
 +.ads-ie.tiktokw.eu
 +.ads-marketing-vivofs.vivo.com.cn
 +.ads-marketing-vivofs.vivo.com.cn.ctdns.cn
-+.ads-ru.tiktok.com
++.ads-msn-com-profile.trafficmanager.net
 +.ads-setu-proxy-eu.amazon.com
 +.ads-setu-proxy-fe.amazon.com
 +.ads-setu-proxy.amazon.com
@@ -527,8 +535,6 @@
 +.az.appstore.vivo.com.cn
 +.az.lgsmartad.com
 +.az667904.vo.msecnd.net
-+.azure.bcp.bingads.trafficmanager.net
-+.azure.tip.bingads.trafficmanager.net
 +.azurewatson.microsoft.com
 +.azurewatsontest.microsoft.com
 +.b-ring-fallback.msedge.net
@@ -559,6 +565,7 @@
 +.bigdata-lbs-pri-c3.alb.xiaomi.com
 +.bigdata.ssp.samsung.com
 +.bingads.microsoft.com
++.bingads.trafficmanager.net
 +.bj-ad-lgsmartad-com.aws-prd.net
 +.bj.lgsmartad.com
 +.bldr.mkt.samsung.com
@@ -835,6 +842,7 @@
 +.cname-asia-st-exappupgrade.vivoglobal.com
 +.cname-asia-stsdk09.vivoglobal.com
 +.cname-asia02-stsdk.vivoglobal.com
++.cname-de-stsdk.vivoglobal.com
 +.cname-in-apport-stsdk.vivoglobal.com
 +.cname-in-bom01-nginxpool03.vivoglobal.com
 +.cname-in-ctdbonrt-stsdk.vivoglobal.com
@@ -849,11 +857,11 @@
 +.co-vcode-api.vivoglobal.com
 +.co-vcode-od.vivoglobal.com
 +.co.lgsmartad.com
++.collection-location-livenet.trafficmanager.net
 +.collector-main.trafficmanager.net
 +.collector.azure.cn
 +.collector.azure.eaglex.ic.gov
 +.collector.azure.microsoft.cloud
-+.collector.azure.microsoft.scloud
 +.comc4l7.pandora.xiaomi.com
 +.commerce.bing.com
 +.conf-in-dc.heytapdl.com
@@ -1031,6 +1039,7 @@
 +.eic-ngfts.lge.com
 +.eic-ngfts.lge.com.edgekey.net
 +.eic-qt2-ngfts.lge.com
++.eic-qt2-ngfts.lge.com.edgekey.net
 +.emq.xmpush.xiaomi.com
 +.epoch-id.cdo.heytapmobi.com
 +.err-up.vivoglobal.com
@@ -1039,7 +1048,6 @@
 +.es.lgsmartad.com
 +.et-ad-lgsmartad-com.aws-prd.net
 +.et.lgsmartad.com
-+.eu-album-api.vivoglobal.com
 +.eu-cota.vivoglobal.com
 +.eu-domaincfg.vivoglobal.com
 +.eu-errup.vivoglobal.com
@@ -1063,6 +1071,7 @@
 +.euc-word-telemetry.officeapps.live.com
 +.euc-word-telemetry.wac.trafficmanager.net
 +.eurffc-word-telemetry.officeapps.live.com
++.eurffc-word-telemetry.wac.trafficmanager.net
 +.eurppc-excel-telemetry.officeapps.live.com
 +.eurppc-powerpoint-telemetry.officeapps.live.com
 +.eurppc-word-telemetry.officeapps.live.com
@@ -1120,12 +1129,14 @@
 +.federatedanalytics.amazon.com
 +.feedback.miui.com
 +.feedbackws.fe.apple-dns.cn
++.feedbackws.fe.apple-dns.net
 +.feedbackws.fe2.apple-dns.net
 +.feedbackws.icloud.com
 +.feedbackws.icloud.com.cn
 +.ffc-excel-telemetry.officeapps.live.com
 +.ffc-word-telemetry.officeapps.live.com
 +.ffg-analyticsk3nvxfne4dp4s.servicebus.windows.net
++.fgteu1-word-telemetry-vip.officeapps.live.com
 +.fi-ad-lgsmartad-com.aws-prd.net
 +.fi.lgsmartad.com
 +.file.cdn.mvideo.xiaomi.com
@@ -1398,7 +1409,6 @@
 +.in-apport-stsdk.vivoglobal.com
 +.in-apppnrt-stsdk.vivoglobal.com
 +.in-appprt-stsdk.vivoglobal.com
-+.in-cfg-stsdk.vivoglobal.com
 +.in-cota.vivoglobal.com
 +.in-ctdbonrt-stsdk.vivoglobal.com
 +.in-ctdbort-stsdk.vivoglobal.com
@@ -2644,19 +2654,6 @@
 +.sau-server-in.allawnos.com
 +.sau-server-sg.allawnos.com
 +.sau-server-us.allawnos.com
-+.sca-domaincfg.vivoglobal.com
-+.sca-err-up.vivoglobal.com
-+.sca-onrt-stsdk.vivoglobal.com
-+.sca-ort-stsdk.vivoglobal.com
-+.sca-p.vivoglobal.com
-+.sca-pnrt-stsdk.vivoglobal.com
-+.sca-romsp-unifyconfig.vivoglobal.com
-+.sca-st-sl.vivoglobal.com
-+.sca-stsdk.vivoglobal.com
-+.sca-timesync.vivoglobal.com
-+.sca-vcode-api.vivoglobal.com
-+.sca-vcode-od.vivoglobal.com
-+.sca-vcode-or.vivoglobal.com
 +.sca.samsung.com
 +.sd-ad-lgsmartad-com.aws-prd.net
 +.sd.lgsmartad.com
@@ -2932,7 +2929,6 @@
 +.tr-album-api.vivoglobal.com
 +.tr-cota.vivoglobal.com
 +.tr-domaincfg.vivoglobal.com
-+.tr-err-up.vivoglobal.com
 +.tr-gdpr-vgc-datacenter.vivoglobal.com
 +.tr-onrt-stsdk.vivoglobal.com
 +.tr-ort-stsdk.vivoglobal.com
@@ -3030,12 +3026,12 @@
 +.unagi.amazon.sg
 +.update.avlyun.sec.miui.com
 +.upgrade.pandora.xiaomi.com
-+.upload.fp.measure.office.com.corp.mmco.int.cardano.com
 +.upu.samsungelectronics.com
 +.ureca.samsungapps.com
-+.url4077.ads-service.tiktok.com
++.ureca.samsungapps.com.ad.mexnet.de
 +.us-ad-lgsmartad-com.aws-prd.net
 +.us-mesh-events-data-leafs.trafficmanager.net
++.us-report.gras.samsungdm.com
 +.us.lgsmartad.com
 +.usc-onenote-telemetry.officeapps.live.com
 +.usc-visio-telemetry.officeapps.live.com
@@ -3112,7 +3108,6 @@
 +.watson.microsoft.com
 +.watson.officeint.microsoft.com
 +.wayfinderanalytics.servicebus.windows.net
-+.we-events-prod-1.trafficmanager.net
 +.weather-analytics-events.apple.com
 +.weather-analytics-events.news.apple-dns.net
 +.web-mon-useast2a.byteoversea.com
@@ -3153,7 +3148,6 @@
 +.xlog16-platform-useast5.us.tiktokv.com
 +.xlog16-platform-ycru.tiktokv.com
 +.xlog16-tmp-normal-useast1a.tiktokv.com
-+.xn--ex-adreq-asa-c5b.vivoglobal.com
 +.xn-ex-adreq-asa-c5b.vivoglobal.com
 +.xp-cdn-lb.itunes-apple.com.akadns.net
 +.xp-cdn.apple.com
