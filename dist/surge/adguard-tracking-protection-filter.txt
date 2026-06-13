@@ -4,6 +4,8 @@
 .ib.snssdk.com
 .xlog.snssdk.com
 .log.snssdk.com
+.insights.xyba.dev
+.sts.marketingsuite.jp
 .image-sap.sfmc-content.com
 .umami.vidup.to
 .umami.vidfast.pro
@@ -78199,6 +78201,11 @@
 .tagman.britishairways.com
 .ct.pinterest.com
 .incoming.telemetry.mozilla.org
+.sgtm.cmoa.jp
+.transporter.makemytrip.global
+.cchome-stage.adobe.io
+.cchome.adobe.io
+.analytics.trbna.com
 .udderstack.allstar.gg
 .plausible.root-nation.net
 .cdnw.onlinelearning.hms.harvard.edu
@@ -83599,6 +83606,7 @@
 .juicebard.com
 .juiceblocks.com
 .juicingoasis.com
+.jumbochalk.com
 .justconfig.com
 .justicejudo.com
 .justlagoon.com
@@ -83618,6 +83626,7 @@
 .knottyswing.com
 .laboredlocket.com
 .lackadaisicalkite.com
+.lakeofficepros.com
 .lakesecure.com
 .lameletters.com
 .lamplow.com
@@ -83716,6 +83725,7 @@
 .marrowleaves.com
 .marsnextdoor.com
 .massivemark.com
+.masterenter.com
 .materialisticmoon.com
 .materialmilk.com
 .materialparcel.com
@@ -83861,6 +83871,7 @@
 .okaysurethat.com
 .oldfashionedoffer.com
 .oldportcoffee.com
+.omegaroutes.com
 .omgthink.com
 .onecrow.net
 .onedropocean.com
