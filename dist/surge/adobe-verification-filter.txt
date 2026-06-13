@@ -1301,6 +1301,7 @@
 .cclibraries-defaults-cdn.adobe.com
 .cclibraries-defaults-cdn.adobe.com.edgekey.net
 .cctypekit.adobe.io
+.ccwlsz1v.bgvqb.adobestats.io
 .cd536oo20y.adobe.io
 .cde0alxs25.adobestats.io
 .cducupwlaq.adobestats.io
