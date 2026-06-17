@@ -4,6 +4,11 @@
 .ib.snssdk.com
 .xlog.snssdk.com
 .log.snssdk.com
+.metrics-web.help
+.nehalist.io
+.broadstreet.ai
+.welovedata.go2cloud.org
+.analytics.ekonsilio.io
 .insights.xyba.dev
 .sts.marketingsuite.jp
 .image-sap.sfmc-content.com
@@ -78201,6 +78206,8 @@
 .tagman.britishairways.com
 .ct.pinterest.com
 .incoming.telemetry.mozilla.org
+.a.cineflix.st
+.adtech.abs-cbn.com
 .sgtm.cmoa.jp
 .transporter.makemytrip.global
 .cchome-stage.adobe.io
@@ -78269,7 +78276,6 @@
 .sas.f.peacocktv.com
 .sas.f.stable-int.peacocktv.com
 .sas.int-nft.peacocktv.com
-.sas.peacocktv.com
 .sas.stable-int.peacocktv.com
 .goto.simplywall.st
 .swssp.simplywall.st
@@ -83940,6 +83946,7 @@
 .pigmentpaper.com
 .pinchsquirrel.com
 .pincourse.com
+.pingsurvey.com
 .piquantgrove.com
 .piquantmeadow.com
 .piquantpigs.com
@@ -83953,6 +83960,7 @@
 .placidactivity.com
 .placidperson.com
 .planebasin.com
+.plantcourse.com
 .playfulriver.com
 .pleasantpump.com
 .plotparent.com
@@ -83972,6 +83980,7 @@
 .polishedfolly.com
 .politeplanes.com
 .politicalporter.com
+.poolcushions.com
 .popliquids.com
 .popmixradio.com
 .popplantation.com
@@ -83989,6 +83998,7 @@
 .presetrabbits.com
 .presscoder.com
 .prettybicycle.com
+.prettydemo.com
 .prettyeasycafe.com
 .prettylearning.com
 .previousplayground.com
