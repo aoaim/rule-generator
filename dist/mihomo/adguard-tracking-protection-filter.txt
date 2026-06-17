@@ -259,6 +259,7 @@
 +.a.camvision.dk
 +.a.cartop.dk
 +.a.chdist.com
++.a.cineflix.st
 +.a.closerpets.co.uk
 +.a.danskrejsehjaelp.dk
 +.a.davosklostersmountains.ch
@@ -2943,6 +2944,7 @@
 +.adtd.parfumdreams.ie
 +.adtd.parfumdreams.nl
 +.adtd.parfumdreams.pt
++.adtech.abs-cbn.com
 +.adtelligence.de
 +.adtima-media.zascdn.me
 +.adtima-static.zadn.vn
@@ -4393,6 +4395,7 @@
 +.analytics.egernsund.de
 +.analytics.eikko.ai
 +.analytics.eip.telegraph.co.uk
++.analytics.ekonsilio.io
 +.analytics.electro-com.ru
 +.analytics.elegela.us
 +.analytics.eliana.sa
@@ -8467,6 +8470,7 @@
 +.broadborder.com
 +.broadcastbed.com
 +.broaddoor.com
++.broadstreet.ai
 +.broker.datazoom.io
 +.bronto.com
 +.brotherslocket.com
@@ -39282,6 +39286,7 @@
 +.metrics-prod.suno.com
 +.metrics-target.siriusxm.com
 +.metrics-us.cometchat.io
++.metrics-web.help
 +.metrics.24hourfitness.com
 +.metrics.28degreescard.com.au
 +.metrics.365-auctions.com
@@ -42315,6 +42320,7 @@
 +.needleaf.com
 +.needyneedle.com
 +.negocio.banrural.com.gt
++.nehalist.io
 +.nehcj.tryprodenta.com
 +.neighborlywatch.com
 +.nejmxt.vivishoeshoe.com
@@ -45335,6 +45341,7 @@
 +.pingomatic.com
 +.pingpong.us
 +.pings.conviva.com
++.pingsurvey.com
 +.pingtas.qq.com
 +.pinniped.quarantinecup.live
 +.pinniped.resist.bot
@@ -45622,6 +45629,7 @@
 +.plankton-gtm.a.autoscout24.com
 +.plans.ceteraretirement.com
 +.plans.fundtherebuild.com
++.plantcourse.com
 +.plants.outsidein.com
 +.plas.imfeld.dev
 +.platform.datazoom.io
@@ -45853,6 +45861,7 @@
 +.pool2.ioam.de
 +.pool4.ioam.de
 +.pool5.ioam.de
++.poolcushions.com
 +.pop.deinkinderdoc.de
 +.pop.devil.services
 +.pop.feelbrill.lt
@@ -46046,6 +46055,7 @@
 +.presetrabbits.com
 +.presscoder.com
 +.prettybicycle.com
++.prettydemo.com
 +.prettyeasycafe.com
 +.prettylearning.com
 +.preview-collector.scopely.io
@@ -49670,7 +49680,6 @@
 +.sas.f.peacocktv.com
 +.sas.f.stable-int.peacocktv.com
 +.sas.int-nft.peacocktv.com
-+.sas.peacocktv.com
 +.sas.stable-int.peacocktv.com
 +.sas15k01.com
 +.sat.sanoma.fi
@@ -82690,6 +82699,7 @@
 +.wellgroomedhydrant.com
 +.wellheater-ss.checkoutera.com
 +.wellheatershop-ss.checkoutera.com
++.welovedata.go2cloud.org
 +.welt-der-links.de
 +.welt.met.vgwort.de
 +.weltsgtm.weltausholz.de
