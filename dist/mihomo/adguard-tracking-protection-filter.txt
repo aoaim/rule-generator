@@ -4763,7 +4763,6 @@
 +.analytics.omniscientai.com
 +.analytics.omnivent.com
 +.analytics.ompgroup.com
-+.analytics.onedio.com
 +.analytics.ooyala.com
 +.analytics.org.coveo.com
 +.analytics.ouc.ac.cy
@@ -27285,7 +27284,6 @@
 +.ilzzb.retrofete.com
 +.im-apps.net
 +.im.cbsileads.com
-+.image-sap.sfmc-content.com
 +.image.ard.de
 +.image.go.aricent.com
 +.image.info.perkinelmer.com
@@ -30180,6 +30178,7 @@
 +.kindlereunion.com
 +.kinesis.eu-west-1.amazonaws.com
 +.kingfisher.gedaly.com
++.kingsealed.com
 +.kinisi.mkb-brandstof.nl
 +.kippb.opticsplanet.com
 +.kiqwal.autoscout24.es
@@ -45171,6 +45170,7 @@
 +.perfectaudience.com
 +.perfectfetch.com
 +.perfiliate.com
++.performance-events.guardianapis.com
 +.performance.athleticgym.com.co
 +.performance.inncollectiongroup.com
 +.performancerevenues.com
@@ -48075,6 +48075,7 @@
 +.roastap.sixor.it
 +.rob.megaopen.ru
 +.robotgarages.com
++.robotsrefinery.com
 +.rockagainst.com
 +.rocket.bubble.dk
 +.rockm.sydneyhydroplumbing.com.au
@@ -70075,6 +70076,7 @@
 +.star.arana.ro
 +.star.businessglobalizer.com
 +.starfish.taskflow.io
++.starfurniture.net
 +.starget.aircanada.com
 +.starget.airmiles.ca
 +.starget.bestoforlando.com
@@ -70399,6 +70401,7 @@
 +.stats-newyork1.bloxcms.com
 +.stats-proto.pandora.com
 +.stats-ruzickap-github-io.ruzicka.dev
++.stats-sdk.tange365.com
 +.stats-sg.ganymede.eu
 +.stats-ssl.mdanderson.org
 +.stats.1und1-drillisch.de
@@ -71904,6 +71907,7 @@
 +.stts.swisshranalytics.ch
 +.sttshub.tipmanager.net
 +.studio.osstudio.dk
++.studioalkaline.com
 +.studioibi.ibijus.com
 +.study.vu.edu.au
 +.studycooking.com
@@ -74913,6 +74917,7 @@
 +.thebigvan.com
 +.thebrainybulb.com
 +.thecounter.com
++.thecounter.net
 +.thecrazychili.com
 +.thedoc.doctronic.ai
 +.thedp.exhalewell.com
@@ -77543,6 +77548,7 @@
 +.tracker-api.my.com
 +.tracker-beam.aktuality.sk
 +.tracker-dot-optimeeze.appspot.com
++.tracker-proxy.getmimo.com
 +.tracker-rec.smart-bdash.com
 +.tracker-v4.gamedock.io
 +.tracker.a11.vega.aurion11.io
