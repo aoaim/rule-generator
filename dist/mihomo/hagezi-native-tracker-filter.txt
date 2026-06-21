@@ -1054,6 +1054,7 @@
 +.es.lgsmartad.com
 +.et-ad-lgsmartad-com.aws-prd.net
 +.et.lgsmartad.com
++.eu-album-api.vivoglobal.com
 +.eu-cota.vivoglobal.com
 +.eu-domaincfg.vivoglobal.com
 +.eu-errup.vivoglobal.com
@@ -1687,6 +1688,7 @@
 +.logforward.browser.heytapmobi.com
 +.logs.dev.sr.roku.com
 +.logs.n.xiaomi.com
++.logs.qa.ap.int.roku.com
 +.logs.roku.com
 +.logs.sr.roku.com
 +.logserver.nzxcloud.cn
@@ -2830,6 +2832,7 @@
 +.t-ring-trafficshield.msedge.net
 +.t-ring.msedge.net
 +.t-s1-ring.msedge.net
++.t-s2-ring.msedge.net
 +.t1.market.xiaomi.com
 +.t15.market.xiaomi.com
 +.t17.market.xiaomi.com
@@ -2939,6 +2942,7 @@
 +.tr-album-api.vivoglobal.com
 +.tr-cota.vivoglobal.com
 +.tr-domaincfg.vivoglobal.com
++.tr-err-up.vivoglobal.com
 +.tr-gdpr-vgc-datacenter.vivoglobal.com
 +.tr-onrt-stsdk.vivoglobal.com
 +.tr-ort-stsdk.vivoglobal.com
