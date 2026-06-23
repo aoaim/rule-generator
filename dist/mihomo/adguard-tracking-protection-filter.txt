@@ -10419,6 +10419,7 @@
 +.code.r5hsid.ru
 +.code.randomhouse.com
 +.code.usergram.info
++.codedrink.com
 +.codes.royalad.pl
 +.coffe.faynestudio.com.br
 +.coffee.brandzaak.nl
@@ -11210,6 +11211,7 @@
 +.corporatecommunications.bvifsc.vg
 +.corporatemrguide.americanexpress.de
 +.corporatepages.proximus.com
++.correctedcode.com
 +.cortellisconnections.thomsonreuters.com
 +.cosmi.io
 +.cosmicsculptor.com
@@ -40972,6 +40974,7 @@
 +.mff.messefrankfurt.com
 +.mffjt.nuethix.com
 +.mffmbv.cabaia.fr
++.mfilterit.net
 +.mfmkkv.sorgenia.it
 +.mfmls.mikesbikes.com
 +.mfmqk.redbubble.com
