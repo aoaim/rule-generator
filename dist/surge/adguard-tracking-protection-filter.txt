@@ -4,6 +4,8 @@
 .ib.snssdk.com
 .xlog.snssdk.com
 .log.snssdk.com
+.sf-insights.io
+.avsplow.com
 .codedrink.com
 .mfilterit.net
 .metrics-web.help
@@ -78207,6 +78209,14 @@
 .tagman.britishairways.com
 .ct.pinterest.com
 .incoming.telemetry.mozilla.org
+.a.boredpanda.bio
+.appview.fafafa.ai
+.event-collector.analytics.onedio.com
+.obs.forseasky.com
+.t.ofsys.com
+.collector.umogames.com
+.collector.quizzop.com
+.collector.feedzop.com
 .blink.willowmovies.com
 .stats.mappl.tv
 .performance-events.guardianapis.com
@@ -82732,7 +82742,6 @@
 .ambrosialsummit.com
 .amethystzenith.com
 .amidsttruly.com
-.ampscamp.net
 .amuckafternoon.com
 .amusedbucket.com
 .analyzecorona.com
@@ -82925,6 +82934,7 @@
 .cannonborough.com
 .cannonchange.com
 .canvasandsocks.com
+.canyonpizza.net
 .capriciouscorn.com
 .captainstick.com
 .captivatingcanyon.com
