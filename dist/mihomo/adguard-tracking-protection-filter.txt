@@ -253,6 +253,7 @@
 +.a.badheizkoerper.net
 +.a.beprogressive.ro
 +.a.bigtennetwork.com
++.a.boredpanda.bio
 +.a.brack.ch
 +.a.callawaygolf.com
 +.a.callawaygolfpreowned.com
@@ -3989,7 +3990,6 @@
 +.amplitude.thepure.app
 +.ampltd.top.gg
 +.ampltd2.medal.tv
-+.ampscamp.net
 +.amptrack-dailymail-co-uk.cdn.ampproject.org
 +.amqbl.ballarddesigns.com
 +.ams-beacons.xumo.com
@@ -6663,6 +6663,7 @@
 +.apptics.zoho.in
 +.apptracer.ru
 +.apptracker.gamedock.io
++.appview.fafafa.ai
 +.appvua.jetcost.nl
 +.apqcjj.celford.com
 +.aprci.ruggable.eu
@@ -7206,6 +7207,7 @@
 +.avrqa.estellabartlett.com
 +.avs.adpinfo.com
 +.avsjo.stickley.com
++.avsplow.com
 +.avvfqs.nubia.com.tr
 +.avvoe.juicedbikes.com
 +.avzesq.eotica.com.br
@@ -8975,6 +8977,7 @@
 +.canopylabs.com
 +.canttouchme.estagencymarbella.com
 +.canvasandsocks.com
++.canyonpizza.net
 +.caowuq.babyliss-romania.ro
 +.cap.88ads.xyz
 +.capcush.net.anwalt.de
@@ -10610,6 +10613,7 @@
 +.collector.bunchbox.co
 +.collector.cakeresume.com
 +.collector.cdp.cnn.com
++.collector.feedzop.com
 +.collector.fiverr.com
 +.collector.fullxh.com
 +.collector.gamechanger.io
@@ -10630,6 +10634,7 @@
 +.collector.pi.spectrum.net
 +.collector.plarium.com
 +.collector.prod.expedia.com
++.collector.quizzop.com
 +.collector.reelevant.com
 +.collector.retailcrm.pro
 +.collector.rn.de
@@ -10643,6 +10648,7 @@
 +.collector.taoxh.life
 +.collector.theguardianlegalnetwork.com
 +.collector.trendmd.com
++.collector.umogames.com
 +.collector.vhx.tv
 +.collector.xhaccess.com
 +.collector.xhamster.com
@@ -19227,6 +19233,7 @@
 +.event-action.popinfo.jp
 +.event-api-cs.stardust-tv.com
 +.event-api.hackle.io
++.event-collector.analytics.onedio.com
 +.event-collector.moviesanywhere.com
 +.event-collector.prd.data.s.joyn.de
 +.event-dot-learning-piano.appspot.com
@@ -43275,6 +43282,7 @@
 +.obqvss.debameubelen.be
 +.obra.obraelucro.com.br
 +.obrqts.hudforeclosed.com
++.obs.forseasky.com
 +.obscenesidewalk.com
 +.obscurespace.com
 +.observare.de
@@ -44112,6 +44120,7 @@
 +.out.velpa.pl
 +.outdoorsoil.com
 +.outdoorthingy.com
++.outerwords.com
 +.outfit.wingsfit1.com
 +.outreach.connectednation.org
 +.outreach.crossref.org
@@ -53505,6 +53514,7 @@
 +.seyfwl.interia.pl
 +.sezadala.serjotattoo.com
 +.sezbe.softsurroundings.com
++.sf-insights.io
 +.sf.schufa.de
 +.sf.strategicfba.com
 +.sf.susannas-brautmode.de
@@ -73105,6 +73115,7 @@
 +.t.numspot.com
 +.t.nurivacalm.com
 +.t.nusports.com
++.t.ofsys.com
 +.t.ohiobobcats.com
 +.t.okcciviccenter.com
 +.t.okstate.com
