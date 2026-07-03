@@ -7523,6 +7523,7 @@
 +.baikalize.com
 +.baitbaseball.com
 +.bal.balciselahattin.com
++.balancenotes.com
 +.baldeagle.e-ma.re
 +.balloonbelieve.com
 +.ballr.jamesoro.com
@@ -10428,6 +10429,7 @@
 +.coffee.brandzaak.nl
 +.coffee.garageroasted.co.uk
 +.coffee.seducaoinvisivel.store
++.coffeefire.net
 +.coffeesidehustle.com
 +.cofs.partscentre.co.uk
 +.cogxmr.travelplanet.pl
@@ -20938,6 +20940,7 @@
 +.fudo.fudoshin.co
 +.fudrf.titan.fitness
 +.fueldeck.com
++.fuelfever.net
 +.fuelinspector.com
 +.fuelx.com
 +.fufbgj.pazzo.com.tw
@@ -45106,6 +45109,7 @@
 +.pcspeedup.com
 +.pculb.upheal.io
 +.pcuud.replacements.com
++.pcx-events.revbox.co
 +.pcykgc.onetravel.com
 +.pd.bppeloqua.com
 +.pd.lavloss.com
@@ -45614,6 +45618,7 @@
 +.pl.noartmusic.com
 +.pl.paradiesgartenfestival.at
 +.pl.paradisecity.be
++.pl.primis.tech
 +.pl.scandal.events
 +.pl.schaatsbaanmuseumplein.nl
 +.pl.slotzeistlive.nl
@@ -47674,6 +47679,7 @@
 +.reporting-api.gannettinnovation.com
 +.reporting.aatkit.com
 +.reporting.autographapp.me
++.reportmyads.com
 +.reports-tsi.tangerine.io
 +.reports.koalametrics.com
 +.reports.omegacommerce.com
@@ -47799,6 +47805,7 @@
 +.ressources.promoneuve.fr
 +.ressources.usine-digitale.com
 +.ressources.usine-nouvelle.com
++.rest.comfy.ua
 +.restfultools.com
 +.restrainstorm.com
 +.restructureinvention.com
@@ -71867,6 +71874,7 @@
 +.stream.neonail.nl
 +.stream.neonail.pl
 +.stream.supersportowy.pl
++.streams-scores.rbl.ms
 +.streatserver.eleventickets.com
 +.streetfit.wingsfit1.com
 +.streetsort.com
@@ -72568,6 +72576,7 @@
 +.sync.clearnview.com
 +.sync.ebis.ne.jp
 +.sync.getpublica.com
++.sync.inmobi.com
 +.sync.morgdm.ru
 +.sync.opendsp.ru
 +.sync.outbrain.com
@@ -72864,6 +72873,7 @@
 +.t.evocsports.ch
 +.t.evoriel.fr
 +.t.experienceandamans.com
++.t.experte.de
 +.t.fabulousfox.com
 +.t.fairparkdallas.com
 +.t.fastcmp.com
