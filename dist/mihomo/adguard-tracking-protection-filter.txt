@@ -3985,6 +3985,7 @@
 +.amplifypixel.outbrain.com
 +.amplilab.thepure.app
 +.amplitude-experiment.bandlab.com
++.amplitude.anytype.io
 +.amplitude.bandlab.com
 +.amplitude.chess.com
 +.amplitude.life360.com
@@ -48503,6 +48504,7 @@
 +.rum-ingress-coralogix.com
 +.rum-metrics.bunny.net
 +.rum.api.intuit.com
++.rum.catchmetrics.io
 +.rum.conde.io
 +.rum.condenastdigital.com
 +.rum.corewebvitals.io
@@ -74715,6 +74717,7 @@
 +.telemetry.adobe.io
 +.telemetry.adsninja.ca
 +.telemetry.am.pictet.com
++.telemetry.anytype.io
 +.telemetry.api.swiftkey.com
 +.telemetry.api.wmcdp.io
 +.telemetry.art19.com
