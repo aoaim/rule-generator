@@ -87,13 +87,37 @@ async function outputCompiled(config, compiled) {
   }
 }
 
+const sleep = (ms) => new Promise((resolve) => setTimeout(resolve, ms));
+
+async function compileWithRetry(config, retries = 5, backoff = 5000) {
+  for (let attempt = 1; attempt <= retries; attempt++) {
+    try {
+      return await compile(config);
+    } catch (err) {
+      if (attempt === retries) {
+        throw err;
+      }
+      const wait = backoff * attempt;
+      console.warn(
+        `⚠️ Attempt ${attempt} failed for "${config.name}": ${err.message}. Retrying in ${wait}ms...`,
+      );
+      await sleep(wait);
+    }
+  }
+}
+
 async function main() {
   await fs.ensureDir(distDir);
 
-  for (const config of configurations) {
+  for (let i = 0; i < configurations.length; i++) {
+    const config = configurations[i];
     console.log(`Processing ${config.name}...`);
-    const compiled = await compile(config);
+    const compiled = await compileWithRetry(config);
     await outputCompiled(config, compiled);
+    // Throttle between requests to avoid GitHub raw 429 rate limiting
+    if (i < configurations.length - 1) {
+      await sleep(3000);
+    }
   }
 }
 

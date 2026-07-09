@@ -30,16 +30,26 @@ const sources = [
   },
 ];
 
-async function downloadFile(url, dest) {
-  try {
-    console.log(`Downloading ${url}...`);
-    const response = await axios.get(url, { responseType: "arraybuffer" });
-    await fs.writeFile(dest, response.data);
-    return true;
-  } catch (error) {
-    console.error(`Error downloading ${url}:`, error.message);
-    return false;
+const sleep = (ms) => new Promise((resolve) => setTimeout(resolve, ms));
+
+async function downloadFile(url, dest, retries = 5, backoff = 5000) {
+  for (let attempt = 1; attempt <= retries; attempt++) {
+    try {
+      console.log(`Downloading ${url}...`);
+      const response = await axios.get(url, { responseType: "arraybuffer" });
+      await fs.writeFile(dest, response.data);
+      return true;
+    } catch (error) {
+      console.error(`Error downloading ${url} (attempt ${attempt}/${retries}):`, error.message);
+      if (attempt === retries) {
+        return false;
+      }
+      const wait = backoff * attempt;
+      console.warn(`Retrying in ${wait}ms...`);
+      await sleep(wait);
+    }
   }
+  return false;
 }
 
 const singBoxBin = "sing-box";
@@ -66,12 +76,17 @@ async function main() {
   // Clean up old srs files
   await fs.emptyDir(distDir);
 
-  for (const source of sources) {
+  for (let i = 0; i < sources.length; i++) {
+    const source = sources[i];
     const inputPath = join(tmpDir, `${source.name}.txt`);
 
     const downloaded = await downloadFile(source.url, inputPath);
     if (downloaded) {
       await convertRule(source.name, inputPath);
+    }
+    // Throttle between requests to avoid GitHub raw 429 rate limiting
+    if (i < sources.length - 1) {
+      await sleep(3000);
     }
   }
 
