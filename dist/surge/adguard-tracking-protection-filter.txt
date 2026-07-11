@@ -78220,6 +78220,11 @@
 .tagman.britishairways.com
 .ct.pinterest.com
 .incoming.telemetry.mozilla.org
+.anonymized-metrics.rmbl.ws
+.m.privatesportshop.es
+.analytics.pextra.cloud
+.jitsu.www1.ru
+.telemetry.data.nvidia.com
 .amplitude.anytype.io
 .telemetry.anytype.io
 .analytics.evolushost.com
@@ -81690,6 +81695,8 @@
 .int.vlancaa.site
 .int.vlancaa.fun
 .tok.vaicore.xyz
+.w.inmobi.com
+.pbs.inmobi.com
 .stats-sdk.tange365.com
 .dc.oppomobile.com
 .aki-gb-sdklog.kurogames.net
@@ -82965,6 +82972,7 @@
 .cannonchange.com
 .canvasandsocks.com
 .canyonpizza.net
+.capitalopera.com
 .capriciouscorn.com
 .captainstick.com
 .captivatingcanyon.com
@@ -83419,6 +83427,7 @@
 .forevergears.com
 .forgetfulflowers.com
 .forgetfulsnail.com
+.fortbeach.com
 .fortunatemark.com
 .forwardslashetc.com
 .fossilzero.com
@@ -83573,6 +83582,7 @@
 .historicalbeam.com
 .historytrade.com
 .hocgeese.com
+.hockeyfool.com
 .hollowafterthought.com
 .homebizplaza.com
 .homelycrown.com
@@ -83937,7 +83947,9 @@
 .omgthink.com
 .onecrow.net
 .onedropocean.com
+.onekindmarket.com
 .onespecify.com
+.onioncomic.com
 .onlinestarten.net
 .onlywoofs.com
 .opalquill.com
