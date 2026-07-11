@@ -4790,6 +4790,7 @@
 +.analytics.perfumestime.sa
 +.analytics.pesktop.com
 +.analytics.petracarestore.com
++.analytics.pextra.cloud
 +.analytics.pgncs.notion.so
 +.analytics.phonezonestore.com
 +.analytics.picknrg.com
@@ -5225,6 +5226,7 @@
 +.anontimes.com
 +.anonym.data.funkedigital.de
 +.anonymised.io
++.anonymized-metrics.rmbl.ws
 +.anormal-tracker.de
 +.anrdoezrs.net
 +.ans.avast.com
@@ -9336,6 +9338,7 @@
 +.capisgtm.joudicargo.com
 +.capiss.nyralondon.com
 +.capisvr.falaqfood.com
++.capitalopera.com
 +.capitfes.andrefilipe.com.br
 +.capitp.teacherpimenta.com
 +.capriciouscorn.com
@@ -20606,6 +20609,7 @@
 +.forms.xperthr.com
 +.forms.xtralis.com
 +.forpci3.siege-corp.com
++.fortbeach.com
 +.forter.com
 +.fortnitechat.site
 +.fortunatemark.com
@@ -26666,6 +26670,7 @@
 +.hoafot.itoman.com
 +.hoaqzs.manier.ro
 +.hocgeese.com
++.hockeyfool.com
 +.hod.asphalte.com
 +.hodor-collect.arabam.com
 +.hogrefe.met.vgwort.de
@@ -29562,6 +29567,7 @@
 +.jitsu.ixbt.com
 +.jitsu.ixbt.games
 +.jitsu.ixbt.site
++.jitsu.www1.ru
 +.jiujpc.asgoodasnew.fr
 +.jivsfr.drogarianovaesperanca.com.br
 +.jixie.io
@@ -36803,6 +36809,7 @@
 +.m.olympia.it
 +.m.oneleet.com
 +.m.optica4kids.com
++.m.privatesportshop.es
 +.m.rech.studio
 +.m.salihatfood.com
 +.m.saltycloud.com
@@ -43801,6 +43808,7 @@
 +.onefeed.co.uk
 +.onegg.site
 +.oneid.live
++.onekindmarket.com
 +.onelink.appsflyer.com
 +.onelink.me
 +.onelinksmartscript.appsflyer.com
@@ -43816,6 +43824,7 @@
 +.ongsono.com
 +.onhqz.rocksbox.com
 +.onigh.colorwowhair.com
++.onioncomic.com
 +.onjjbn.koffiemarkt.be
 +.onjmsj.sumai-surfin.com
 +.onldlx.snowuniverse.com
@@ -45092,6 +45101,7 @@
 +.pbox.photobox.de
 +.pbreo.sokolovelaw.com
 +.pbrvf.daybreakskin.com
++.pbs.inmobi.com
 +.pbsoe.softiespjs.com
 +.pbstats.jpmorgan.com
 +.pbstck.com
@@ -74731,6 +74741,7 @@
 +.telemetry.chrobinson.com
 +.telemetry.codefusion.technology
 +.telemetry.commonspirit.org
++.telemetry.data.nvidia.com
 +.telemetry.dematic.com
 +.telemetry.doitbeststore.com
 +.telemetry.doxo.com
@@ -81964,6 +81975,7 @@
 +.vzzun.boxlunch.com
 +.w.bulkbuydirect.co.uk
 +.w.ilfattoquotidiano.it
++.w.inmobi.com
 +.w.knuffelwuff.co.uk
 +.w.pellepolitibil.no
 +.w.revenuegeeks.com
