@@ -4538,6 +4538,7 @@
 +.analytics.infosysequinox.com
 +.analytics.infosysprize.org
 +.analytics.infosyspublicservices.com
++.analytics.infraloods.nl
 +.analytics.innologica.com
 +.analytics.inquirernetwork.net
 +.analytics.iraiser.eu
@@ -7968,6 +7969,7 @@
 +.bidder.dsp.outfit7.com
 +.bidder.mdspinc.com
 +.bidef.sokolovelaw.com
++.bidmachine.io
 +.bidpapers.com
 +.bidr.io
 +.bidrbu.bett1.at
@@ -8750,6 +8752,7 @@
 +.c.bigmir.net
 +.c.blockdetector.org
 +.c.bouncepingpong.com
++.c.bubutv.top
 +.c.civo.com
 +.c.dpgmedia.net
 +.c.erth.se
@@ -48131,6 +48134,7 @@
 +.roastap.sixor.it
 +.rob.megaopen.ru
 +.robotgarages.com
++.robotrefinery.com
 +.robotsrefinery.com
 +.rockagainst.com
 +.rocket.bubble.dk
