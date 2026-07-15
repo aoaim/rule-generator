@@ -23,6 +23,7 @@
 +.125.net.jumia.co.ke
 +.13js1lbtbj3.sparkloop.app
 +.13p76nnir.de
++.1414.hexa.su
 +.16ao.mathon.fr
 +.16i6nuuc2ej.koelewijn.nl
 +.1800cnt.com
@@ -3646,6 +3647,7 @@
 +.aktigzkm.haveglad.dk
 +.aktkb.eshopygo.pl
 +.aktrack.pubmatic.com
++.akutagawa.consumer.gopuff.com
 +.akv2-br-cdn.kwai.net.iberostar.com
 +.akviv.snagtights.eu
 +.akwiqx.jdsports.be
@@ -9548,7 +9550,6 @@
 +.ccgnuq.bbqgalore.com
 +.cchlhb.budgetsport.fi
 +.cchome-stage.adobe.io
-+.cchome.adobe.io
 +.ccjep.onehopewine.com
 +.cckov.bluatlas.com
 +.ccllt.fromrebel.ca
@@ -10188,6 +10189,7 @@
 +.clk2.allaboutvibe.com
 +.clkcv.livede55.com
 +.clkstat.china.cn
++.clktrkd.com
 +.cllctr.any.run
 +.cllctr.roistat.com
 +.cllfa.iheartraves.com
@@ -19570,6 +19572,7 @@
 +.evorra.net
 +.evrget.nikkan-gendai.com
 +.evs.data.ciceksepeti.com
++.evs.segment.complex.com
 +.evs.sgmt.loom.com
 +.evss.evinyolu.net
 +.evt.24.com
@@ -26695,6 +26698,7 @@
 +.homebizplaza.com
 +.homelycrown.com
 +.homelyheater.com
++.homerunfood.com
 +.homeslick.com
 +.hommies.homestuffbd.com
 +.honestdata.honesteco.org
@@ -45057,6 +45061,7 @@
 +.pass-1234.com
 +.passivepolo.com
 +.passt.cleens.co.uk
++.passwordbyte.com
 +.pasta.esfile.duapps.com
 +.pastoralroad.com
 +.path.americansavinghacks.com
@@ -45785,6 +45790,7 @@
 +.player-feedback.p7s1video.net
 +.player-telemetry.vimeo.com
 +.player.stats.live-video.net
++.playerhappy.com
 +.playfulriver.com
 +.plbcsd.vidaxl.se
 +.plbusiness.samsung.com
@@ -47230,6 +47236,7 @@
 +.r.readyhow.com
 +.r.sib2.gardrops.com
 +.r.studiosarte.com
++.r.vares.top
 +.r066.dailytribune.com
 +.r1c.ricardocuisine.com
 +.r1ztni.oui.sncf
@@ -48138,6 +48145,7 @@
 +.robotsrefinery.com
 +.rockagainst.com
 +.rocket.bubble.dk
++.rocketmonitor.com
 +.rockm.sydneyhydroplumbing.com.au
 +.rockstarwriter.com
 +.rodent.covisitor.app
@@ -48188,6 +48196,7 @@
 +.route.atlasbus.com.ua
 +.route.empresanoautomatico.com.br
 +.route.kcvisibility.com
++.routebug.com
 +.router28.net.anwalt.de
 +.rovememoirs.com
 +.rover.powerpeptides.com
@@ -49934,6 +49943,7 @@
 +.science.ygoprint.org
 +.sciencedart.com
 +.sciencerevenue.com
++.sciencevault.net
 +.scientificshirt.com
 +.scii.spolaorimoveis.com.br
 +.scintillatingscissors.com
@@ -50153,6 +50163,7 @@
 +.seamless.wtaxgroup.co
 +.seamlesssalon.com
 +.seao.business.samsung.com
++.seaotterplay.com
 +.search.dailytopoptions.com
 +.search.valuehunter.site
 +.searchestracker.org
@@ -50447,6 +50458,7 @@
 +.sematext.com
 +.semcusto.solucaogratuita.site
 +.semlimites.a2baceleradora.com
++.sendinblast.com
 +.sendingspire.com
 +.sendmoney.americanexpress.co.uk
 +.sendtraffic.com
@@ -79325,6 +79337,7 @@
 +.trk.stroeermediabrands.de
 +.trk.supermarketnews.com
 +.trk.svr-algorix.com
++.trk.swipey.me
 +.trk.swolegripz.com
 +.trk.tabucbd.com
 +.trk.tbivision.com
