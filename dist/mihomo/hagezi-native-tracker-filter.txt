@@ -124,6 +124,9 @@
 +.ad-eng-pci.prod.rpay.int.roku.com
 +.ad-eng.prod.rpay.int.roku.com
 +.ad-eng.staging.rpay.int.roku.com
++.ad-growth-in.heytapmobile.com
++.ad-growth-ru.heytapmobile.com
++.ad-growth-sg.heytapmobile.com
 +.ad-instantpage-ru.tiktokv.com
 +.ad-instantpage-sg.tiktokv.com
 +.ad-instantpage-sg.tiktokv.com.edgekey.net
