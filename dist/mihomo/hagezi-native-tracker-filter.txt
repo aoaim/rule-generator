@@ -52,7 +52,6 @@
 +.aax-fe.amazon-adsystem.com
 +.aax-gamma-us-east.axp.amazon-adsystem.com
 +.aax-ott-c2s.amazon-adsystem.com
-+.aax-ott-sdk.amazon-adsystem.amazon.com
 +.aax-ott-sdk.amazon-adsystem.com
 +.aax-ott.amazon-adsystem.amazon.com
 +.aax-ott.amazon-adsystem.com
@@ -1309,6 +1308,8 @@
 +.guif.coloros.com
 +.gy-ad-lgsmartad-com.aws-prd.net
 +.gy.lgsmartad.com
++.h1.msn.com
++.h2.msn.com
 +.h4g3z1-native.amazon.web.app
 +.h4g3z1-native.apple.web.app
 +.h4g3z1-native.huawei.web.app
@@ -2240,6 +2241,7 @@
 +.opex-service-eu.allawnos.com
 +.opex-service-in.allawnos.com
 +.opex-service-sg.allawnos.com
++.origin-sq-tungsten-ts-fe.amazon-adsystem.com
 +.origin-sq-tungsten-ts.amazon-adsystem.com
 +.orsdls.di.runestone.samsung.com
 +.orsfs.di.runestone.samsung.com
@@ -2306,12 +2308,8 @@
 +.pgteu5-excel-telemetry-vip.officeapps.live.com
 +.pgteu5-powerpoint-telemetry-vip.officeapps.live.com
 +.pgteu5-word-telemetry-vip.officeapps.live.com
-+.pgtmx1-excel-telemetry-vip.officeapps.live.com
 +.pgtmx1-powerpoint-telemetry-vip.officeapps.live.com
 +.pgtmx1-word-telemetry-vip.officeapps.live.com
-+.pgtsg1-excel-telemetry-vip.officeapps.live.com
-+.pgtsg1-powerpoint-telemetry-vip.officeapps.live.com
-+.pgtsg1-word-telemetry-vip.officeapps.live.com
 +.pgtus1-excel-telemetry-vip.officeapps.live.com
 +.pgtus1-powerpoint-telemetry-vip.officeapps.live.com
 +.pgtus1-word-telemetry-vip.officeapps.live.com
@@ -2459,6 +2457,7 @@
 +.rtb.axp.amazon-adsystem.com
 +.rtc-logger-i18n.tiktokv.com
 +.rtc-logger-ie.tiktokv.eu
++.rtc-logger-ttp2.tiktokv.us
 +.rtc-logger-ttp2.us.tiktokv.com
 +.rtc-logger-va.tiktokv.com
 +.rtc-logger.tiktokv.com
