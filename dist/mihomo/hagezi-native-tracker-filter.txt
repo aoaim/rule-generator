@@ -123,6 +123,7 @@
 +.ad-eng-pci.prod.rpay.int.roku.com
 +.ad-eng.prod.rpay.int.roku.com
 +.ad-eng.staging.rpay.int.roku.com
++.ad-format-sg.tiktokv.com
 +.ad-growth-in.heytapmobile.com
 +.ad-growth-ru.heytapmobile.com
 +.ad-growth-sg.heytapmobile.com
@@ -180,6 +181,7 @@
 +.ads-cf-us-east-1.delivery.roku.com
 +.ads-cf-us-east-1.dev.delivery.roku.com
 +.ads-cf-us-west-2.delivery.roku.com
++.ads-dra.platform.hihonorcloud.com
 +.ads-drcn.platform.hihonorcloud.com
 +.ads-dre.platform.hihonorcloud.com
 +.ads-drru.cloud.huawei.ru
