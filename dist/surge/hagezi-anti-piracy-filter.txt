@@ -37,10 +37,12 @@
 .0123movies.ws
 .0123movies.xyz
 .0123movies123.com
+.0123moviesfree.online
 .0123moviesfree.org
 .0123moviesfree4u.com
 .0123movieshub.online
 .0123moviesonline.com
+.0123moviess.org
 .0123moviesto.com
 .0123moviesto.my
 .0123moviestv.one
@@ -70,6 +72,7 @@
 .0second.com
 .0soap2day.com
 .0soap2day.day
+.0soap2day.net
 .0soap2day.site
 .0soap2dayto.com
 .0vg9r.com
@@ -185,6 +188,7 @@
 .123movies-go.org
 .123movies-hd.com
 .123movies-ii.net
+.123movies-la.net
 .123movies-la.site
 .123movies-official.com
 .123movies-official.lol
@@ -259,6 +263,7 @@
 .123movies.team
 .123movies.to
 .123movies.top
+.123movies.uno
 .123movies.vision
 .123movies.watch
 .123movies.website
@@ -298,6 +303,7 @@
 .123movies4k.ltd
 .123movies4u.bet
 .123movies4u.biz
+.123movies4u.cfd
 .123movies4u.co
 .123movies4u.icu
 .123movies4u.io
@@ -325,6 +331,7 @@
 .123movies9.nl
 .123movies9.one
 .123movies9.onl
+.123movies9.pro
 .123movies9.rest
 .123movies9.skin
 .123movies9.surf
@@ -346,6 +353,8 @@
 .123moviesbq.com
 .123moviesc.cc
 .123moviesc.cyou
+.123moviesc.info
+.123moviesc.pro
 .123moviesca.net
 .123moviescafe.com
 .123moviescinema.xyz
@@ -388,6 +397,7 @@
 .123moviesfree.vip
 .123moviesfree.website
 .123moviesfree.yachts
+.123moviesfree0.online
 .123moviesfree4k.com
 .123moviesfree4u.online
 .123moviesfree9.monster
@@ -415,6 +425,7 @@
 .123moviesgdn.biz
 .123moviesget.com
 .123moviesgo-stream.club
+.123moviesgo.cfd
 .123moviesgo.ga
 .123moviesgo.su
 .123moviesgo.top
@@ -426,6 +437,7 @@
 .123movieshd.best
 .123movieshd.cc
 .123movieshd.cfd
+.123movieshd.cyou
 .123movieshd.fun
 .123movieshd.top
 .123movieshd.world
@@ -445,6 +457,7 @@
 .123movieshub.su
 .123movieshub.to
 .123movieshub4u.com
+.123movieshubhd.cyou
 .123movieshubs.net
 .123movieshubtv.cfd
 .123movieshubz.cfd
@@ -453,6 +466,7 @@
 .123moviesjoy.com
 .123moviesjoy.org
 .123moviesjoy.xyz
+.123movieskiss.biz
 .123moviesla.online
 .123moviesla.sbs
 .123movieslegal.com
@@ -488,6 +502,7 @@
 .123moviesonline.live
 .123moviesonline.one
 .123moviesonline.xyz
+.123moviesonline4u.com
 .123moviespack.com
 .123moviespedia.com
 .123moviesplayer.com
@@ -524,6 +539,7 @@
 .123moviesto4k.com
 .123moviestube.info
 .123moviestv-net.cyou
+.123moviestv.biz
 .123moviestv.cfd
 .123moviestv.fit
 .123moviestv.lat
@@ -628,6 +644,7 @@
 .1gabba.pw
 .1hd.to
 .1jour1film.net
+.1jour1film.pics
 .1jour1film.website
 .1jour1film0226.site
 .1jour1film0326.site
@@ -640,6 +657,7 @@
 .1jour1film0725b.site
 .1jour1film0726.site
 .1jour1film0726b.quest
+.1jour1film0826.online
 .1jour1film11.online
 .1jour1film2026.site
 .1kif.com
@@ -784,6 +802,7 @@
 .2lib.me
 .2lordfilm-7.xyz
 .2mhs8eqw.com
+.2multserial-lordfilm.ru
 .2name.com
 .2piratebay.org
 .2serial-lordfilm.ru
@@ -792,6 +811,7 @@
 .2x4u.de
 .3-metra-nad-neboms-lordfilm.ru
 .3-metra-nad-nebomu-lordfilm.ru
+.3-ninjas-lordfilms.ru
 .3-percenits-lordfilm.ru
 .3-percents-lordfilm.ru
 .3.tracker.eu.org
@@ -1136,6 +1156,7 @@
 .9kmovies.me.in
 .9kmovies.meme
 .9kmovies.mov
+.9kmovies.org
 .9kmovies.pet
 .9kmovies.pics
 .9kmovies.press
@@ -1299,6 +1320,7 @@
 .aic-ventura-lordfilm.ru
 .aidey.io
 .aimhaven.com
+.aimovies123.info
 .aimweb.ru
 .ainiesta.com
 .aiosearch.com
@@ -1681,7 +1703,9 @@
 .amildar.beer
 .ammazon-lordfilm.ru
 .ammazon-lordfilms.ru
+.among-us-lordfilm.ru
 .amovierulz.com
+.amphibia-multserial-lordfilm.ru
 .amrbd.com
 .amuzonn-lordfilm.ru
 .amuzzon-lordfilm.ru
@@ -1886,6 +1910,7 @@
 .animerush.tv
 .animes.so
 .animesalt.ac
+.animesalt.link
 .animesama.co
 .animesama.fan
 .animesaturn.tv
@@ -2146,6 +2171,7 @@
 .arc018.to
 .arcane-multserial-lordfilm.ru
 .arcflix.net
+.archer-multserial-lordfilm.ru
 .archere-lordfilm.ru
 .archive.torrentonline.cc
 .archivx.to
@@ -2555,6 +2581,7 @@
 .ben-10a-lordfilm.ru
 .ben-10s-lordfilm.ru
 .ben10-lordfilms.ru
+.ben10-multserial-lordfilm.ru
 .benfrank.net
 .benhurfullmovie.xyz
 .benn10-lordfilms.ru
@@ -2646,6 +2673,7 @@
 .big-little-laiis-lordfilm.ru
 .big-little-laiiu-lordfilm.ru
 .big-little-liesi-lordfilm.ru
+.big-mouth-multserial-lordfilm.ru
 .big-short-lordfilms.ru
 .bigbbs.eu
 .bigeyes2015-1watchonline.tumblr.com
@@ -2857,6 +2885,7 @@
 .blues-brothers.biz
 .blueseries.net
 .bluewarez.pl
+.bluey-lordfilm.ru
 .bluezone69.blogspot.com
 .blunter.xyz
 .blutopia.xyz
@@ -2882,6 +2911,7 @@
 .bobbialbano.com
 .bobd.live
 .bobfilm.biz
+.bobs-burgers-multserial-lordfilm.ru
 .bochinchewarez.com
 .bocian.tv
 .bodger.beer
@@ -3040,6 +3070,7 @@
 .bqg111.cc
 .bqg119.cc
 .braat-lordfilms.ru
+.brachnyy-sezon-lordfilm.ru
 .braeking-bade-lordfilm.ru
 .braeking-bado-lordfilm.ru
 .braeking-bads-lordfilm.ru
@@ -3070,6 +3101,7 @@
 .breathetheword.org.uk
 .breedsoft.com
 .breezeflash17.pro
+.brickleberry-multserial-lordfilm.ru
 .brickleberryu-lordfilm.ru
 .brickleberryy-lordfilm.ru
 .bridgerton-lordfilms.ru
@@ -3197,6 +3229,7 @@
 .btsprevert.fr
 .bttrack.9you.com
 .btzone.org
+.buba-lordfilm.ru
 .bubarindpr.com
 .bubbawarez.com
 .bubu.mapfactor.com
@@ -3229,6 +3262,7 @@
 .bumazhnyj-dom-lordfilm3.ru
 .bundesliga-streams.net
 .bungou-stray-dogsu-lordfilm.ru
+.bunker-lordfilm.rest
 .bunkr.tv
 .buny.uk
 .burning-series.io
@@ -3653,6 +3687,7 @@
 .chip-and-dales-lordfilm.ru
 .chip-and-daley-lordfilm.ru
 .chip-i-dejl-speshat-na-pomoshch-lordfilm3.ru
+.chip-n-dale-lordfilm.ru
 .chisla-lordfilm.online
 .chisla-lordfilm.ru
 .chiuornoe-zzerkalo-lordfilm.ru
@@ -3721,6 +3756,7 @@
 .chyorrnoe-zerkalo-lordfilm.ru
 .chyzheestrankka-lordfilm.ru
 .chyzhesttranka-lordfilm.ru
+.chyzhoi-zemllya-lordfilm.ru
 .chyzhois-lordfilm.ru
 .chyzhoyu-lordfilm.ru
 .cikava-ideya.top
@@ -3884,6 +3920,7 @@
 .cineby.monster
 .cineby.ninja
 .cineby.pro
+.cineby.rest
 .cineby.ru
 .cineby.sbs
 .cineby.sc
@@ -3896,6 +3933,7 @@
 .cineby.wiki
 .cineby.win
 .cineby.work
+.cineby.works
 .cineby.zip
 .cineby9.cam
 .cinebyapk.com.in
@@ -4437,6 +4475,7 @@
 .crotorrents.com
 .crownbit.cc
 .cruzing.xyz
+.cryptoiptv.pro
 .cryptowarez.info
 .crystal-warez.in
 .crytal58ue.com
@@ -4662,6 +4701,7 @@
 .defcon.pro
 .defconpro.net
 .deffchonki-lordfilm.buzz
+.deffchonki-lordfilm.rest
 .defianceprotocol.com
 .deflix.tv
 .degree-anime.com
@@ -4932,6 +4972,8 @@
 .dizipal106.vip
 .dizipal107.vip
 .dizipal108.vip
+.dizipal109.vip
+.dizipal110.vip
 .dizipal1100.com
 .dizipal1101.com
 .dizipal1102.com
@@ -4942,6 +4984,7 @@
 .dizipal1107.com
 .dizipal1108.com
 .dizipal1109.com
+.dizipal111.vip
 .dizipal1110.com
 .dizipal1111.com
 .dizipal1111111111.vip
@@ -5015,6 +5058,8 @@
 .dizipal1565.com
 .dizipal1566.com
 .dizipal1567.com
+.dizipal160.icu
+.dizipal161.icu
 .dizipal1907.com
 .dizipal1913.com
 .dizipal1936.com
@@ -5074,6 +5119,8 @@
 .dizipal2205.com
 .dizipal2206.com
 .dizipal2207.com
+.dizipal2208.com
+.dizipal3.top
 .dizipal3011.vip
 .dizipal3012.vip
 .dizipal3014.vip
@@ -5147,18 +5194,22 @@
 .dizipal3211.vip
 .dizipal3250.vip
 .dizipal3300.vip
+.dizipal34.biz
 .dizipal34.cc
 .dizipal34.vip
 .dizipal36.com
+.dizipal4.top
 .dizipal4050.vip
 .dizipal4402.vip
 .dizipal4403.vip
+.dizipal5.top
 .dizipal502.com
 .dizipal5152.com
 .dizipal5303.vip
 .dizipal5304.vip
 .dizipal6.site
 .dizipal6034.com
+.dizipal6035.com
 .dizipal754.vip
 .dizipal755.vip
 .dizipal760.vip
@@ -5209,6 +5260,7 @@
 .dizipaloporj.com
 .dizipalorij.com
 .dizipalorijinal1.vip
+.dizipalorijinal1562.vip
 .dizipalorijinal2.vip
 .dizipalorijinal3.vip
 .dizipalorijinals.com
@@ -5711,6 +5763,7 @@
 .druzuia-lordfilm.ru
 .druzuia-oushen-lordfilm.ru
 .druzya-angelov-lordfilm3.ru
+.druzya-angelov-multserial-lordfilm.ru
 .druzya-i-sosedi-lordfilm.buzz
 .druzya-i-sosedi-lordfilm3.ru
 .druzya-lordfilm3.ru
@@ -5790,6 +5843,7 @@
 .dzhango-osvobozhdennyy-lordfilm.ru
 .dzheffru-dzheykob-abrrams-lordfilm.ru
 .dzheison-stejtem-lordfilms.ru
+.dzheison-stethem-lordfilm.ru
 .dzhejms-bond-lordfilm3.ru
 .dzhejson-stetem-lordfilm.ru
 .dzhek-rayan-lordfilm.ru
@@ -5798,6 +5852,7 @@
 .dzhek-richer-lordfilm3.ru
 .dzhek-riichher-lordfilm.ru
 .dzheki-chhan-lordfilm.ru
+.dzheky-chan-lordfilm.ru
 .dzhentlmenny-lordfilm.ru
 .dzheyms-bond-lordfilm.ru
 .dzhini-i-dzhordzhia-lordfilm.ru
@@ -5842,6 +5897,7 @@
 .ebookshare.net
 .ebookvortex.com
 .ebox.live
+.ec5movies.com
 .echoowl19.live
 .echostar.ddnsfree.com
 .ecrgallery.com
@@ -5851,6 +5907,7 @@
 .edgeemu.net
 .edgeoftheworld.net
 .edgestreams.pro
+.edgev.duckdns.org
 .edinozhdy-solgav-lordfilm3.ru
 .edmag.net
 .edownloader61.usa.cc
@@ -6213,6 +6270,7 @@
 .evangelioon-lordfilm.ru
 .evangeluoon-lordfilm.ru
 .evening-badlands-6215.herokuapp.com
+.ever-after-high-lordfilm.ru
 .everest-lordfilm3.ru
 .every-stresser.000webhostapp.com
 .everydayjones.com
@@ -6457,6 +6515,7 @@
 .fight-klubs-lordfilm.ru
 .fight-klubu-lordfilm.ru
 .fightingmagic.edwardk.info
+.fiksiki-lordfilm.ru
 .filbi1976.org
 .file.al
 .file.lu
@@ -6903,8 +6962,12 @@
 .fishtank.my
 .fishtank.rip
 .fitgirl-repack.com
+.fitgirl-repack.live
 .fitgirl-repack.net
+.fitgirl-repack.online
 .fitgirl-repack.org
+.fitgirl-repack.pro
+.fitgirl-repack.shop
 .fitgirl-repack.site
 .fitgirl-repack.zip
 .fitgirl-repacks.cc
@@ -7112,6 +7175,7 @@
 .fmovies.cab
 .fmovies.cafe
 .fmovies.cash
+.fmovies.cat
 .fmovies.co
 .fmovies.co.in
 .fmovies.co.ke
@@ -7218,6 +7282,7 @@
 .fmovieshd.us
 .fmovieshd.vip
 .fmovieshq.web.id
+.fmoviesink.com
 .fmoviesio.io
 .fmoviesite-tv.cyou
 .fmoviesite.mov
@@ -7486,6 +7551,7 @@
 .freeytmp3.org
 .freezlib.me
 .frembed.asia
+.frembed.casa
 .frembed.hair
 .frembed.my
 .frembed.work
@@ -7495,6 +7561,7 @@
 .french-stream.bio
 .french-stream.cam
 .french-stream.co
+.french-stream.cyou
 .french-stream.gg
 .french-stream.io
 .french-stream.mx
@@ -8198,6 +8265,7 @@
 .gomovies24.xyz
 .gomovies4k.com
 .gomovies4k.org
+.gomovies4k.site
 .gomovies5.xyz
 .gomoviesapp.se
 .gomoviesapp.site
@@ -8206,9 +8274,11 @@
 .gomoviesfree.page
 .gomoviesfree.sc
 .gomovieshd.biz
+.gomovieshd.cyou
 .gomovieshd.online
 .gomovieshd.pro
 .gomovieshd.se
+.gomovieshd.store
 .gomovieshd.tv
 .gomovieshd.xyz
 .gomovieshub.cc
@@ -8327,6 +8397,7 @@
 .govoryashchaya-s-prizrakami-lordfilm3.ru
 .gowatchseries.ac
 .gowatchseries.co
+.goyl-lordfilm.ru
 .goyslop.tv
 .gpisp.net
 .gps-team.pl
@@ -8571,6 +8642,7 @@
 .hannibalis-lordfilm.ru
 .hannibaliu-lordfilm.ru
 .hannibals-lordfilms.ru
+.hanuball-lordfilm.ru
 .happy-mod.com
 .happy-together-lordfilm.ru
 .happy-tree-friendis-lordfilm.ru
@@ -8580,10 +8652,12 @@
 .happymod.pro
 .happyroms.com
 .hardstresser.com
+.hardwarezinc.com
 .hardwarezk.xyz
 .hardwarezone.co.uk
 .hardwarezonepro.com
 .harley-quiinn-lordfilm.ru
+.harley-quinn-multserial-lordfilm.ru
 .harley-quinns-lordfilm.ru
 .harley-quinnu-lordfilm.ru
 .harleyquinnwidget.com
@@ -8631,6 +8705,7 @@
 .hayao-miadzakki-lordfilm.ru
 .hayao-muadzaky-lordfilms.ru
 .haykowarez.ru
+.hazbin-hotel-multserial-lordfilm.ru
 .hazebooter.com
 .hazeflix.com
 .hbosus.com
@@ -8747,6 +8822,7 @@
 .hdfilme.party
 .hdfilme.press
 .hdfilme.pro
+.hdfilme.site
 .hdfilme.store
 .hdfilme.su
 .hdfilme.team
@@ -8777,6 +8853,7 @@
 .hdfilmizle.now
 .hdfilmizle.website
 .hdfilmizle112.com
+.hdfilmizle2.org
 .hdfilmizle22.com
 .hdfilmizle24.com
 .hdfilmizle26.com
@@ -9193,6 +9270,7 @@
 .hdmoviesbaze.com
 .hdmoviesbox.info
 .hdmoviesbox.net
+.hdmoviescloud.com
 .hdmoviesclub.com
 .hdmoviesdirect.com
 .hdmoviesdump.com
@@ -9223,6 +9301,7 @@
 .hdmovieshub.rest
 .hdmovieshub.se
 .hdmovieshub.uno
+.hdmovieshub.vip
 .hdmovieshub.xyz
 .hdmoviesite.com
 .hdmovieslab.net
@@ -9459,6 +9538,7 @@
 .hindmovie.asia
 .hindmovie.cc
 .hindmovie.icu
+.hindmoviez.email
 .hindmovieztv.cfd
 .hiperflix.live
 .his-dark-materialis-lordfilm.ru
@@ -9622,6 +9702,7 @@
 .hurawatch.ru
 .hurawatch.stream
 .hurawatchz.to
+.hushchnuk-ubica-ubijc-lordfilm.ru
 .huullu-lordfilm.ru
 .huullu-lordfilms.ru
 .huulu-lordfilms.ru
@@ -9644,6 +9725,8 @@
 .hypeflix.vip
 .hypeflix.watch
 .hypeflixapp.com
+.hypeflixbr.com
+.hypeflixbr.top
 .hypeflixhub.biz
 .hypeflixhub.video
 .hypeflixhub.watch
@@ -9729,6 +9812,7 @@
 .igra-na-vyzhivanie-lordfilm.hair
 .igra-prestolov-lordfilm.buzz
 .igra-prestolov-lordfilm.hair
+.igra-prestolov-lordfilm.rest
 .igra-prestolov-lordfilm.top
 .igra-prestolov-serial-lordfilm.ru
 .igra-v-kaalmara-lordfilm.ru
@@ -9878,6 +9962,7 @@
 .inkrecharge.com
 .inoxbd.com
 .inseption-lordfilm.ru
+.inside-job-lordfilm.ru
 .insmac.org
 .inspector-gavrilov-lordfilm.ru
 .instabooter.com
@@ -9889,6 +9974,7 @@
 .institytt-lordfilm.ru
 .integrityone.tv
 .intercambiosvirtuales.org
+.interctalar-lordfilmi.ru
 .interflow.ch
 .intermedio.ro
 .internetowa.tv
@@ -10097,6 +10183,7 @@
 .jackase-lordfilm.ru
 .jackasi-lordfilm.ru
 .jackasu-lordfilm.ru
+.jackie-chan-adventures-lordfilm.ru
 .jag-lordfilm.lol
 .jagobd.com
 .jakartarestaurant.com
@@ -10237,6 +10324,7 @@
 .k-streaming.tv
 .k.avc.cx
 .k2nblog.com
+.k5movies.com
 .kaa.mx
 .kaasl-lordfilm.ru
 .kaat.pw
@@ -10334,6 +10422,7 @@
 .katmoviehd.io
 .katmoviehd.lol
 .katmoviehd.nl
+.katmoviehd.org
 .katmoviehd.pl
 .katmoviehd.rodeo
 .katmoviehd.run
@@ -10445,6 +10534,7 @@
 .king-arturr-lordfilm.ru
 .king-kong-lordfilmi.ru
 .king-kongi-lordfilm.ru
+.king-of-hill-lordfilm.ru
 .king365tv.me
 .kingcmenn-lordfilm.ru
 .kingdom-kvcd.net
@@ -11000,6 +11090,7 @@
 .kogda-zhizn-daet-tebe-mandariny-lordfilm3.ru
 .kogda-zhizndaett-tebe-mandariny-lordfilm.ru
 .kokodayo.site
+.kolekcionar-lordfilm.ru
 .koleso-vremeni-lordfilm3.ru
 .koleso-vremenii-lordfilm.ru
 .koleso-vremenni-lordfilm.ru
@@ -11091,6 +11182,7 @@
 .koshmar-pered-rozhdestvom-lordfilm3.ru
 .koskomputer.blogspot.co.uk
 .koskomputer.blogspot.com
+.kosmicheskiy-rubezh-lordfilm.ru
 .kosti-lordfilm3.ru
 .kosti-serial-lordfilm.ru
 .kostiy-lordfilm.ru
@@ -11161,8 +11253,10 @@
 .kukhnya-lordfilm.buzz
 .kulaginy-lordfilm.buzz
 .kunfu-panda-lordfilm3.ru
+.kung-fu-panda-multserial-lordfilm.ru
 .kungsmann-lordfilms.ru
 .kungsmman-lordfilm.ru
+.kunkong-lordfilms.ru
 .kuntilanak-lordfilm3.ru
 .kuntilancks-lordfilm.ru
 .kuribo64.net
@@ -11187,6 +11281,7 @@
 .laden.to
 .ladresstina.com
 .lady-bagg-lordfilms.ru
+.lady-bug-lordfilms.ru
 .lady-i-brodiyagas-lordfilm.ru
 .lafouinedunet.com
 .lagazzettadelcorsaro.com
@@ -11300,8 +11395,10 @@
 .last-of-usa-lordfilm.ru
 .last-of-usi-lordfilm.ru
 .lastmane-lordfilm.ru
+.lastwarez.com
 .latinbit.com
 .law-abiding-citizen-lordfilm.ru
+.law4anime.com
 .layarkaca21.blue
 .layarkaca21.com
 .layarkaca21.onl
@@ -11331,6 +11428,7 @@
 .lednikoviy-peruod-lordfilm.ru
 .lednikovyj-period-lordfilm3.ru
 .ledu-bbag-lordfilm.ru
+.ledu-bug-lordfilm.ru
 .leeapk.com
 .leechfree.com
 .leechinghell.pw
@@ -11465,6 +11563,7 @@
 .lilo-and-stitchs-lordfilm.ru
 .lilo-and-stittchs-lordfilm.ru
 .lilo-i-stich-lordfilm3.ru
+.lilo-i-stich-multserial-lordfilm.ru
 .lim95310.blogspot.com
 .limetor.com
 .limetor.pro
@@ -11474,12 +11573,14 @@
 .limetorrent.xyz
 .limetorrents.asia
 .limetorrents.at
+.limetorrents.baby
 .limetorrents.co
 .limetorrents.fun
 .limetorrents.info
 .limetorrents.link
 .limetorrents.lol
 .limetorrents.online
+.limetorrents.pics
 .limetorrents.rip
 .limetorrents.so
 .limetorrents.to
@@ -11570,6 +11671,7 @@
 .lk21tv.com
 .ll1.my
 .lleggenda-o-korre-lordfilm.ru
+.lleprecon-lordfilm.ru
 .lmanime.com
 .lmp3.org
 .ln.mtahost.co
@@ -11665,6 +11767,7 @@
 .lookmovies.click
 .lookmovies.co
 .lookmovies.fyi
+.lookmovies.onl
 .lookmovies.online
 .lookmovies.work
 .lookmovies.xyz
@@ -11725,6 +11828,7 @@
 .lordfilm-24-26.icu
 .lordfilm-24tv.link
 .lordfilm-24tv.top
+.lordfilm-2602pu.lat
 .lordfilm-277hd.top
 .lordfilm-27hd.icu
 .lordfilm-29-26.icu
@@ -11765,6 +11869,7 @@
 .lordfilm-aoy.ru
 .lordfilm-app.top
 .lordfilm-avatar-legenda.ru
+.lordfilm-b.online
 .lordfilm-b13.com
 .lordfilm-behead.ru
 .lordfilm-besplatno.com
@@ -11778,6 +11883,7 @@
 .lordfilm-bse.ru
 .lordfilm-chasti-tela.ru
 .lordfilm-chyornyy-spisok.ru
+.lordfilm-cinema.buzz
 .lordfilm-club.icu
 .lordfilm-club.top
 .lordfilm-corpse.ru
@@ -11790,6 +11896,7 @@
 .lordfilm-eia.lat
 .lordfilm-eoz.ru
 .lordfilm-eskort.ru
+.lordfilm-evangalyon.ru
 .lordfilm-fantastic.net
 .lordfilm-fantastic.org
 .lordfilm-fantastika.ru
@@ -11802,6 +11909,7 @@
 .lordfilm-film.lat
 .lordfilm-film.media
 .lordfilm-film.org
+.lordfilm-film.rest
 .lordfilm-filmec.ru
 .lordfilm-films.ru
 .lordfilm-filmso.ru
@@ -11809,7 +11917,9 @@
 .lordfilm-fim.ru
 .lordfilm-fims.ru
 .lordfilm-for.ru
+.lordfilm-freewatch.top
 .lordfilm-frost-night.top
+.lordfilm-fullhd.rest
 .lordfilm-fun8.ru
 .lordfilm-go.fun
 .lordfilm-go.icu
@@ -11826,6 +11936,7 @@
 .lordfilm-hd.fun
 .lordfilm-hd.icu
 .lordfilm-hd.net
+.lordfilm-hd.rest
 .lordfilm-hd26.icu
 .lordfilm-hd26q.icu
 .lordfilm-hd86q.icu
@@ -11856,7 +11967,9 @@
 .lordfilm-kino.top
 .lordfilm-kinokraft-novosti.store
 .lordfilm-kinoteatr.buzz
+.lordfilm-kinozal.buzz
 .lordfilm-kinozal.rest
+.lordfilm-kinozarubej.top
 .lordfilm-kion-smotrim.sbs
 .lordfilm-korolevy-krika.ru
 .lordfilm-kq27.lat
@@ -11896,6 +12009,7 @@
 .lordfilm-moviie2026.ru
 .lordfilm-music.ru
 .lordfilm-my2026.top
+.lordfilm-mytype.top
 .lordfilm-narko.ru
 .lordfilm-ne-kekchi.store
 .lordfilm-neverr.top
@@ -11905,6 +12019,7 @@
 .lordfilm-next2026.top
 .lordfilm-nix.ru
 .lordfilm-nova.icu
+.lordfilm-novinka.buzz
 .lordfilm-novinki4k.top
 .lordfilm-nows.ru
 .lordfilm-ntz.shop
@@ -11917,7 +12032,9 @@
 .lordfilm-onj.ru
 .lordfilm-onlain-smotret-2026.ru
 .lordfilm-onlayn-smotret-2026.ru
+.lordfilm-onlayn.buzz
 .lordfilm-online.biz
+.lordfilm-online.rest
 .lordfilm-online743.life
 .lordfilm-online743.top
 .lordfilm-online744.life
@@ -11931,6 +12048,7 @@
 .lordfilm-pelmen.store
 .lordfilm-phd.ru
 .lordfilm-phu.ru
+.lordfilm-plustv.top
 .lordfilm-pokoriteli-mirov.store
 .lordfilm-premiers.online
 .lordfilm-prime.icu
@@ -11992,6 +12110,7 @@
 .lordfilm-sde.shop
 .lordfilm-secret-materials.ru
 .lordfilm-seledka-pod-shuboy.store
+.lordfilm-serial.buzz
 .lordfilm-serials.lat
 .lordfilm-serialy.top
 .lordfilm-sezon.buzz
@@ -12005,6 +12124,7 @@
 .lordfilm-smotret-onlain-2026.ru
 .lordfilm-smotret-onlayn-2026.ru
 .lordfilm-smotret.one
+.lordfilm-smotret.rest
 .lordfilm-smotret.sbs
 .lordfilm-smotri.ru
 .lordfilm-sol.ru
@@ -12054,6 +12174,7 @@
 .lordfilm-view.icu
 .lordfilm-vins.link
 .lordfilm-vse-chasti.top
+.lordfilm-vse-serii.buzz
 .lordfilm-vue.ru
 .lordfilm-wae.ru
 .lordfilm-wb.lat
@@ -12122,6 +12243,7 @@
 .lordfilm.tips
 .lordfilm.vet
 .lordfilm.vision
+.lordfilm.wiki
 .lordfilm.works
 .lordfilm009.top
 .lordfilm021.lat
@@ -12405,6 +12527,7 @@
 .lordfilm48.monster
 .lordfilm488.lat
 .lordfilm48c.lol
+.lordfilm48o.lol
 .lordfilm49.help
 .lordfilm49.monster
 .lordfilm494.icu
@@ -12419,6 +12542,7 @@
 .lordfilm4jw.lat
 .lordfilm4ka.online
 .lordfilm4khd.mom
+.lordfilm4kspeed.top
 .lordfilm4m3.lol
 .lordfilm4m7qz.icu
 .lordfilm4oq.lol
@@ -12436,6 +12560,7 @@
 .lordfilm5.top
 .lordfilm50.monster
 .lordfilm51.help
+.lordfilm53.ru
 .lordfilm53l.lol
 .lordfilm545.ru
 .lordfilm545.xyz
@@ -12520,7 +12645,9 @@
 .lordfilm789.lat
 .lordfilm789i.icu
 .lordfilm789p.icu
+.lordfilm78d.lol
 .lordfilm79.help
+.lordfilm7b7.lol
 .lordfilm7dd.lol
 .lordfilm7fy.lol
 .lordfilm7kilo.icu
@@ -12534,6 +12661,7 @@
 .lordfilm7tvru.top
 .lordfilm7yn.lol
 .lordfilm7z1gy.icu
+.lordfilm7zk.lol
 .lordfilm8.cyou
 .lordfilm8.help
 .lordfilm8.pro
@@ -12548,6 +12676,7 @@
 .lordfilm88fox.icu
 .lordfilm8a.lol
 .lordfilm8flux.icu
+.lordfilm8le.lol
 .lordfilm8m4r9.icu
 .lordfilm8of.lol
 .lordfilm8re.lat
@@ -12577,11 +12706,14 @@
 .lordfilm9e5.lol
 .lordfilm9echo.icu
 .lordfilm9ez.lol
+.lordfilm9f5.lol
 .lordfilm9g0.lol
 .lordfilm9h6.lat
 .lordfilm9hq.lol
 .lordfilm9ij.lol
+.lordfilm9k3.lol
 .lordfilm9p6.lol
+.lordfilm9pw.lol
 .lordfilm9qk.lol
 .lordfilm9rus.ru
 .lordfilm9sl.lol
@@ -13327,6 +13459,7 @@
 .lordfilmcaq.biz
 .lordfilmcataloga.cfd
 .lordfilmcatalogs.cfd
+.lordfilmcatalyst.cfd
 .lordfilmcathode.cyou
 .lordfilmcattle.top
 .lordfilmcau.vu
@@ -13543,6 +13676,7 @@
 .lordfilmcr9.lol
 .lordfilmcrack.cfd
 .lordfilmcrave.sbs
+.lordfilmcrazzzy.top
 .lordfilmcrd.vu
 .lordfilmcre.lat
 .lordfilmcre.monster
@@ -13564,6 +13698,7 @@
 .lordfilmcrr.lat
 .lordfilmcrs.lat
 .lordfilmcrt.biz
+.lordfilmcryptic.cyou
 .lordfilmcrzhs.lol
 .lordfilmcs.monster
 .lordfilmcsa.lat
@@ -13689,6 +13824,7 @@
 .lordfilmczyt.lat
 .lordfilmd.beer
 .lordfilmd.cyou
+.lordfilmd13.lol
 .lordfilmd2b9p.icu
 .lordfilmd2u.lol
 .lordfilmd3e4f.icu
@@ -13804,6 +13940,7 @@
 .lordfilmdipe.lol
 .lordfilmdipl.lat
 .lordfilmdirect.lat
+.lordfilmdiscord.lol
 .lordfilmdiscourse.sbs
 .lordfilmdiss.cfd
 .lordfilmdissolve.lol
@@ -14940,6 +15077,7 @@
 .lordfilmfqt.vu
 .lordfilmfqv.icu
 .lordfilmfr.monster
+.lordfilmfr8.lol
 .lordfilmframe.icu
 .lordfilmfrb.life
 .lordfilmfrc.lol
@@ -15241,6 +15379,7 @@
 .lordfilmgnjf.lol
 .lordfilmgnla.lat
 .lordfilmgnne.lol
+.lordfilmgnome.top
 .lordfilmgnx.live
 .lordfilmgnz.lol
 .lordfilmgo.legal
@@ -15425,9 +15564,12 @@
 .lordfilmhag.lol
 .lordfilmhai.monster
 .lordfilmhalcyon.cfd
+.lordfilmhall.lat
+.lordfilmhall1.lat
 .lordfilmhallyu.sbs
 .lordfilmhaptic.sbs
 .lordfilmhaq.vu
+.lordfilmharmony.lat
 .lordfilmharo.icu
 .lordfilmhatm.lol
 .lordfilmhatv.lol
@@ -15469,6 +15611,7 @@
 .lordfilmhdbaza.online
 .lordfilmhde.life
 .lordfilmhdk.icu
+.lordfilmhdkach.top
 .lordfilmhdm.lat
 .lordfilmhdm.life
 .lordfilmhdrg.lol
@@ -15774,6 +15917,7 @@
 .lordfilmi2.ru
 .lordfilmi2k.lol
 .lordfilmi2o3a.icu
+.lordfilmi4c.lol
 .lordfilmi56.lol
 .lordfilmi5o.vu
 .lordfilmi60.lol
@@ -16217,6 +16361,7 @@
 .lordfilmindie.cfd
 .lordfilmineep61.icu
 .lordfilminf43.icu
+.lordfilminferno.lol
 .lordfilminfrared.top
 .lordfilminje.vu
 .lordfilminmp.lol
@@ -16328,9 +16473,11 @@
 .lordfilmix1.top
 .lordfilmixa.lat
 .lordfilmixa.vu
+.lordfilmixchop.lol
 .lordfilmixchub.monster
 .lordfilmixchubrik.lol
 .lordfilmixcrab.lol
+.lordfilmixdama.lol
 .lordfilmixdes.lol
 .lordfilmixdrun.monster
 .lordfilmixfast.lol
@@ -16347,9 +16494,11 @@
 .lordfilmixlampa.lol
 .lordfilmixlava.lol
 .lordfilmixlm.lol
+.lordfilmixlobz.lol
 .lordfilmixlube.lol
 .lordfilmixluna.lol
 .lordfilmixlunik.lol
+.lordfilmixmolo.lol
 .lordfilmixmoya.lol
 .lordfilmixobs.lol
 .lordfilmixopel.lat
@@ -16359,6 +16508,7 @@
 .lordfilmixsabl.lat
 .lordfilmixsent.lol
 .lordfilmixshoe.lol
+.lordfilmixsrob.lol
 .lordfilmixt.monster
 .lordfilmixts.lat
 .lordfilmixtsoi.lol
@@ -16537,6 +16687,7 @@
 .lordfilmjkvw.lat
 .lordfilmjkz.life
 .lordfilmjl.monster
+.lordfilmjl4.lol
 .lordfilmjlc.lol
 .lordfilmjled.lol
 .lordfilmjljn.lol
@@ -16746,6 +16897,7 @@
 .lordfilmkby.vu
 .lordfilmkbyk.lat
 .lordfilmkc.monster
+.lordfilmkc5.lol
 .lordfilmkcd.lol
 .lordfilmkcf.lat
 .lordfilmkck.icu
@@ -17087,6 +17239,7 @@
 .lordfilmlby.lol
 .lordfilmlbzg.lol
 .lordfilmlc.monster
+.lordfilmlc6.lol
 .lordfilmlck.icu
 .lordfilmlclh.lat
 .lordfilmlcs.lol
@@ -17368,6 +17521,7 @@
 .lordfilmlumina.cfd
 .lordfilmlun.life
 .lordfilmlupa.icu
+.lordfilmlustrous.cyou
 .lordfilmlut.lat
 .lordfilmluu.life
 .lordfilmluw.life
@@ -17467,6 +17621,7 @@
 .lordfilmmah.biz
 .lordfilmmah.life
 .lordfilmmah.lol
+.lordfilmmainhd.top
 .lordfilmmako.life
 .lordfilmmamy.lat
 .lordfilmman.lol
@@ -17795,6 +17950,7 @@
 .lordfilmmyr.lat
 .lordfilmmyron.icu
 .lordfilmmys.lat
+.lordfilmmystify.cfd
 .lordfilmmythos.cfd
 .lordfilmmyuk.lol
 .lordfilmmyxp.lol
@@ -19088,6 +19244,7 @@
 .lordfilmqwuk.ru
 .lordfilmqwv.lat
 .lordfilmqwwh.lol
+.lordfilmqx3.lol
 .lordfilmqx702.icu
 .lordfilmqxa.sbs
 .lordfilmqxb.pro
@@ -19127,10 +19284,12 @@
 .lordfilmr4w.lol
 .lordfilmr5q.lol
 .lordfilmr6y.lol
+.lordfilmr73.lol
 .lordfilmr7t8y.icu
 .lordfilmr8c1y.icu
 .lordfilmr8t9y.icu
 .lordfilmradiant.lat
+.lordfilmradiant.sbs
 .lordfilmradio.top
 .lordfilmrak.lol
 .lordfilmraka.icu
@@ -19255,6 +19414,7 @@
 .lordfilmri.monster
 .lordfilmrib.ru
 .lordfilmrid.ru
+.lordfilmriddle.sbs
 .lordfilmrij.lat
 .lordfilmrij.live
 .lordfilmrik.biz
@@ -19571,6 +19731,7 @@
 .lordfilms-skins.ru
 .lordfilms-skorpion.ru
 .lordfilms-sorvigolova.ru
+.lordfilms-soyth-park.ru
 .lordfilms-stranger-things.ru
 .lordfilms-strela.ru
 .lordfilms-suits.ru
@@ -19691,6 +19852,7 @@
 .lordfilmsdey.lat
 .lordfilmsdh.lat
 .lordfilmsdh.lol
+.lordfilmsdio.top
 .lordfilmsdk.lat
 .lordfilmsdl.lat
 .lordfilmsdm.lat
@@ -19755,6 +19917,7 @@
 .lordfilmsfg.lat
 .lordfilmsfh.lat
 .lordfilmsfhm.lol
+.lordfilmsfio.top
 .lordfilmsfj.lat
 .lordfilmsfj.lol
 .lordfilmsfk.lat
@@ -19789,6 +19952,7 @@
 .lordfilmsgf.lat
 .lordfilmsgh.biz
 .lordfilmsgh.lat
+.lordfilmsgio.top
 .lordfilmsgj.lat
 .lordfilmsgj.lol
 .lordfilmsgk.lat
@@ -19823,6 +19987,7 @@
 .lordfilmshey.lat
 .lordfilmshf.lat
 .lordfilmshield.lol
+.lordfilmshio.top
 .lordfilmshipper.lat
 .lordfilmshl.lat
 .lordfilmshlf.ru
@@ -19863,6 +20028,7 @@
 .lordfilmsjf.lat
 .lordfilmsjf.life
 .lordfilmsjh.lat
+.lordfilmsjio.top
 .lordfilmsjk.lat
 .lordfilmsjl.lat
 .lordfilmsjm.lat
@@ -19890,6 +20056,7 @@
 .lordfilmskey.lat
 .lordfilmskf.lat
 .lordfilmskh.lat
+.lordfilmskio.top
 .lordfilmskj.lat
 .lordfilmskm.lat
 .lordfilmskm.lol
@@ -19922,6 +20089,7 @@
 .lordfilmslg.lat
 .lordfilmslg.life
 .lordfilmslh.lat
+.lordfilmslio.top
 .lordfilmslj.lat
 .lordfilmslm.lat
 .lordfilmslm.life
@@ -20022,6 +20190,7 @@
 .lordfilmspf.lat
 .lordfilmspg.lat
 .lordfilmspi.live
+.lordfilmspio.top
 .lordfilmspix.lol
 .lordfilmspk.lat
 .lordfilmspko.life
@@ -20077,6 +20246,7 @@
 .lordfilmsrey.lat
 .lordfilmsrg.lat
 .lordfilmsrht.lol
+.lordfilmsrio.top
 .lordfilmsrj.lol
 .lordfilmsrkh.lol
 .lordfilmsroi.top
@@ -20123,6 +20293,7 @@
 .lordfilmsth.lol
 .lordfilmsting.lat
 .lordfilmstinger.cyou
+.lordfilmstio.top
 .lordfilmstj.lat
 .lordfilmstk.lat
 .lordfilmstl.lat
@@ -20205,6 +20376,7 @@
 .lordfilmswey.lat
 .lordfilmswf.lat
 .lordfilmswinger.sbs
+.lordfilmswio.top
 .lordfilmswj.lat
 .lordfilmswk.lat
 .lordfilmswkv.lol
@@ -20414,6 +20586,7 @@
 .lordfilmthirds.lat
 .lordfilmthkv.lol
 .lordfilmthn.my
+.lordfilmthrums.lat
 .lordfilmti.monster
 .lordfilmtiered.sbs
 .lordfilmtiers.sbs
@@ -20644,11 +20817,13 @@
 .lordfilmtzzs.lat
 .lordfilmu.click
 .lordfilmu.cyou
+.lordfilmu.live
 .lordfilmu.pro
 .lordfilmu1i2o.icu
 .lordfilmu2u.vu
 .lordfilmu3.live
 .lordfilmu3.sbs
+.lordfilmu4i.lol
 .lordfilmu5l.lol
 .lordfilmu5o.lat
 .lordfilmu5q.lol
@@ -21327,6 +21502,9 @@
 .lordfilmvoy32.lat
 .lordfilmvoy33.lat
 .lordfilmvoy34.lat
+.lordfilmvoy35.lat
+.lordfilmvoy36.lat
+.lordfilmvoy37.lat
 .lordfilmvoy4.lat
 .lordfilmvoy5.lat
 .lordfilmvoy52.lat
@@ -21383,6 +21561,7 @@
 .lordfilmvoz52.lat
 .lordfilmvoz53.lat
 .lordfilmvoz54.lat
+.lordfilmvoz55.lat
 .lordfilmvoz6.lat
 .lordfilmvoz7.lat
 .lordfilmvoz8.lat
@@ -22480,6 +22659,7 @@
 .lordfilmywu.lol
 .lordfilmywy.life
 .lordfilmyx.mom
+.lordfilmyx6.lol
 .lordfilmyxck.lat
 .lordfilmyxg.lol
 .lordfilmyxhw.vu
@@ -22535,6 +22715,8 @@
 .lordfilmzafd.lat
 .lordfilmzai.lat
 .lordfilmzak.lol
+.lordfilmzall.lat
+.lordfilmzall1.lat
 .lordfilmzandor.icu
 .lordfilmzang.lat
 .lordfilmzar.icu
@@ -22841,6 +23023,7 @@
 .lordfilmzzyebb1.icu
 .lordfilmzzz.lol
 .lordflix.org
+.lordserial-lordfilm.buzz
 .lordserialcandy.lat
 .losmovies-mx.cyou
 .losmovies-official.lol
@@ -23424,6 +23607,7 @@
 .megakino.foo
 .megakino.fun
 .megakino.how
+.megakino.icu
 .megakino.ink
 .megakino.ist
 .megakino.jetzt
@@ -23509,6 +23693,7 @@
 .megastream.cam
 .megaswarez.com
 .megathread.pages.dev
+.megatorrent.biz
 .megatorrent.com.br
 .megatorrent.xyz
 .megatorrentbr.site
@@ -23682,6 +23867,7 @@
 .missiya-nevypolnima-lordfilm3.ru
 .mistcloud98.xyz
 .mister-i-missis-smit-lordfilm3.ru
+.mister-piklz-lordfilm.ru
 .mister-robot-lordfilm3.ru
 .misterium-lordfilm3.ru
 .misterium-smotret-lordfilm.ru
@@ -23902,6 +24088,7 @@
 .mortal-kombat-lordfilm.sbs
 .mortal-kombatis-lordfilm.ru
 .mortal-kombats-lordfilm.ru
+.mortall-kombut-lordfilm.ru
 .mortgageftwarez31a.xyz
 .moscow-serial-lordfilm.ru
 .mosgaz-serial-lordfilm.ru
@@ -23993,10 +24180,12 @@
 .motchillaa.net
 .motchillab.com
 .motchillac.com
+.motchillaee.net
 .motchillapp.com
 .motchillapp.net
 .motchillb.app
 .motchillba.cc
+.motchillbe.net
 .motchillbo.net
 .motchillc.com
 .motchillc.live
@@ -24070,6 +24259,7 @@
 .motchillki.fm
 .motchillks.org
 .motchilll.online
+.motchilll.pro
 .motchilll.site
 .motchilll.watch
 .motchilllb.com
@@ -24084,6 +24274,7 @@
 .motchillnet.net
 .motchillni.net
 .motchillnl.com
+.motchillnv.mom
 .motchillo.com
 .motchillo.now
 .motchillov.org
@@ -24122,7 +24313,9 @@
 .motchilltv.vip
 .motchilltv.win
 .motchilltv.work
+.motchilltv.wtf
 .motchilltv.xin
+.motchilltv.zip
 .motchilltvn.org
 .motchilltvz.com
 .motchilltvzx.pro
@@ -24188,6 +24381,7 @@
 .motphimz.sh
 .motv.top
 .mou-devushki-lordfilm.ru
+.moua-wina-lordfilm.ru
 .movcr.cc
 .movi-lordfilm.ru
 .movi.ucoz.ro
@@ -24352,10 +24546,12 @@
 .movierulz.courses
 .movierulz.email
 .movierulz.fun
+.movierulz.garden
 .movierulz.gay
 .movierulz.ink
 .movierulz.io
 .movierulz.kim
+.movierulz.lifestyle
 .movierulz.mba
 .movierulz.mobi
 .movierulz.mov
@@ -24363,6 +24559,7 @@
 .movierulz.one
 .movierulz.online
 .movierulz.pictures
+.movierulz.study
 .movierulz.support
 .movierulz.us.in
 .movierulz.watch
@@ -24744,6 +24941,7 @@
 .mp4space.com
 .mp4star.com
 .mp4viral.courses
+.mp5movies.com
 .mpn.freehostia.com
 .mr-been-lordfilm.ru
 .mr-beenu-lordfilm.ru
@@ -24874,6 +25072,7 @@
 .multimovie.bond
 .multimovie.cyou
 .multimovie.life
+.multimovie.study
 .multimovies-official.lol
 .multimovies.baby
 .multimovies.center
@@ -25090,6 +25289,8 @@
 .myflix.info
 .myflix.nl
 .myflix.pro
+.myflix.sc
+.myflix.store
 .myflix.to
 .myflix.win
 .myflix24.online
@@ -25138,17 +25339,20 @@
 .myflixer.nl
 .myflixer.onl
 .myflixer.plus
+.myflixer.pro
 .myflixer.pw
 .myflixer.ru
 .myflixer.run
 .myflixer.sbs
 .myflixer.shop
+.myflixer.st
 .myflixer.to
 .myflixer.today
 .myflixer.vc
 .myflixer.video
 .myflixer.wiki
 .myflixer.win
+.myflixer.works
 .myflixer.ws
 .myflixer.zone
 .myflixer2.com
@@ -25159,6 +25363,7 @@
 .myflixerfree.co
 .myflixerfree.net
 .myflixerfree.org
+.myflixerhd.live
 .myflixerhd.net
 .myflixerhd.ru
 .myflixerhd.sbs
@@ -25189,6 +25394,7 @@
 .myflixers.us
 .myflixers.win
 .myflixers.work
+.myflixersc.com
 .myflixerseries.com
 .myflixerto.biz
 .myflixerto.fit
@@ -25202,11 +25408,13 @@
 .myflixertv.pics
 .myflixertv.pro
 .myflixertv.shop
+.myflixertv.site
 .myflixertv.store
 .myflixertv.to
 .myflixertv.watch
 .myflixertv.website
 .myflixertv.xyz
+.myflixerx.ink
 .myflixerx.lat
 .myflixerx.today
 .myflixerxs.online
@@ -25236,6 +25444,8 @@
 .myflixmagic.com
 .myflixpay.com
 .myflixr.lol
+.myflixr.org
+.myflixter.site
 .myflixter.to
 .myflixterz.day
 .myflixtor-tv.cyou
@@ -25602,6 +25812,7 @@
 .nexus-games.net
 .nexusgames.to
 .neyderzhymye-lordfilm.ru
+.neyrovasya-lordfilm.buzz
 .nezhelano-besmertnu-avantyurist-lordfilm.ru
 .neznakomecc-lordfilm.ru
 .neznakomecu-lordfilm.ru
@@ -25908,6 +26119,7 @@
 .obmanni-menya-lordfilms.ru
 .oboom.io
 .oboroten-serial-lordfilm.ru
+.obrechennyye-lordfilm.ru
 .obsessiya-lordfilm.buzz
 .obsessiya-lordfilm.ru
 .obsessiya-smotret-lordfilm.ru
@@ -25958,6 +26170,7 @@
 .odnazhdy-v-skazke-lordfilm3.ru
 .odni-iz-nas-lordfilm3.ru
 .odnoklassneikis-lordfilm.ru
+.odnu-uz-nas-lordfilms.ru
 .odny-iz-nass-lordfilms.ru
 .odny-iz-nnas-lordfilm.ru
 .odny-iz-nnas-lordfilms.ru
@@ -26317,6 +26530,7 @@
 .pacans-starlight-lordfilms.ru
 .pacans-the-boys-lordfilm.ru
 .pacans-the-boys-lordfilms.ru
+.pacanuy-lordfilm.ru
 .pacany-lordfilm.cam
 .pacany-lordfilm3.ru
 .paccaany-lordfilm.ru
@@ -26403,6 +26617,7 @@
 .passion-of-christ-lordfilms.ru
 .passthepopcorn.me
 .passthepopcorn.org
+.passuny-lordfilms.ru
 .past-lordfilm.ru
 .patalpuri.com
 .patchfree.com
@@ -26466,6 +26681,7 @@
 .pegleg.it
 .peliculaswarez.net
 .pelis-plus.co
+.pelisflix.baby
 .pelisflix.cloud
 .pelisflix.club
 .pelisflix.co
@@ -26553,6 +26769,7 @@
 .pelisplus.org
 .pelisplusgt.com
 .pelisplushd.net
+.penguins-of-madagascar-lordfilm.ru
 .penis-stresser.000webhostapp.com
 .pepecine.to
 .percy-jacksons-lordfilm.ru
@@ -26881,6 +27098,7 @@
 .podkypolom-lordfilms.ru
 .podnyatie-urovnya-v-odinochku-lordfilm3.ru
 .podnyatiye-urovna-v-odinochku-lordfilm.ru
+.podozritelnaya-sova-lordfilm.ru
 .podpolnaa-imperia-lordfilm.ru
 .podpolnaya-imperia-lordfilm.ru
 .podpolnaya-imperiya-lordfilm3.ru
@@ -26921,6 +27139,7 @@
 .policejskaya-akademiya-lordfilm3.ru
 .policejskaya-istoriya-lordfilm3.ru
 .policiya-chikago-lordfilm3.ru
+.policuia-chikago-lordfilm.ru
 .polishbytes.net
 .polishsource.cz
 .polishsource.org
@@ -27034,12 +27253,14 @@
 .pozharnue-chicago-lordfilms.ru
 .pozharnye-chiicago-lordfilm.ru
 .pozharnye-chikago-lordfilm3.ru
+.pozharnye-chucago-lordfilms.ru
 .pozolocheniy-veki-lordfilm.ru
 .ppiila-lordfilm.ru
 .ppiila-lordfilms.ru
 .ppitv.pl
 .pplan-pobega-lordfilm.ru
 .pplan-pobegaa-lordfilm.ru
+.ppula-lordfilms.ru
 .ppv.land
 .pqham.com
 .pravednie-gemstonis-lordfilm.ru
@@ -27183,6 +27404,7 @@
 .programaswarez.com
 .programmi-skachat.club
 .programmisty-lordfilm3.ru
+.programmustu-lordfilm.ru
 .projapoti.live
 .projectfreetv.sx
 .projectfreetv.watch
@@ -27216,6 +27438,7 @@
 .prosto-mikhalych-lordfilm.rest
 .prosto-o-vazhnom-lordfilm3.ru
 .prostokvashino-lordfilm.com
+.prostokvashino-lordfilm.ru
 .prostrancctvo-lordfilm.ru
 .prostrancttvo-lordfilms.ru
 .prostranstvo-lordfilm.lol
@@ -27223,6 +27446,7 @@
 .prosttranstvo-lordfilms.ru
 .prostylex.org
 .protekmod.tv
+.protivostoyaniye-svyatogo-lordfilm.ru
 .protonmovies.online
 .protoolsarena.com
 .protvcollection.com
@@ -27419,6 +27643,7 @@
 .putlocker9.ru
 .putlocker9online.com
 .putlockercinema.com
+.putlockeres.cfd
 .putlockerfilms.com
 .putlockerfree.net
 .putlockerfree24.com
@@ -27464,6 +27689,7 @@
 .putlockers.fm
 .putlockers.guru
 .putlockers.la
+.putlockers.llc
 .putlockers.mn
 .putlockers.my
 .putlockers.net
@@ -27480,6 +27706,7 @@
 .putlockers1.cc
 .putlockers1.net
 .putlockers2.com
+.putlockers6.com
 .putlockers9.us
 .putlockerseries.com
 .putlockersflix.com
@@ -27499,11 +27726,13 @@
 .putlockert.com
 .putlockerto.com
 .putlockerto.lol
+.putlockertv.biz
 .putlockertv.cfd
 .putlockertv.cyou
 .putlockertv.digital
 .putlockertv.im
 .putlockertv.info
+.putlockertv.lat
 .putlockertv.onl
 .putlockertv.sbs
 .putlockertv.to
@@ -28000,6 +28229,8 @@
 .robbott-lordfilm.ru
 .robert-pattunsonn-lordfilm.ru
 .robert-zemeckus-lordfilms.ru
+.robert-zemecus-lordfilm.ru
+.robin-good-lordfilms.ru
 .robin-goode-lordfilm.ru
 .robin-goods-lordfilm.ru
 .robin-goodu-lordfilm.ru
@@ -28011,6 +28242,7 @@
 .robookop-lordfilm.ru
 .roboott-lordfilms.ru
 .robots-in-disguisu-lordfilm.ru
+.robottu-lordfilms.ru
 .robotty-lordfilms.ru
 .roboty-lordfilm3.ru
 .rochestergroove.com
@@ -28188,6 +28420,7 @@
 .samlab.ws
 .sampledrive.in
 .samsung-s5230.ru
+.samui-cennyj-igrokk-lordfilm.ru
 .samyj-cennyj-igrok-lordfilm3.ru
 .samyj-cennyj-igrokk-lordfilm.ru
 .sandman-serial-lordfilm.ru
@@ -28269,6 +28502,7 @@
 .sci-hub.st
 .scnlog.me
 .scnsrc.me
+.scoobydoo-lordfilm.ru
 .scooter-repacks.site
 .scootydooter.vercel.app
 .scorpion-kings-lordfilm.ru
@@ -28405,6 +28639,8 @@
 .serialstart.com
 .serialsurf.com
 .serialsws.org
+.serialy-lordfilm.com
+.serialy-lordfilm.sbs
 .serialylordfilm.online
 .serialylordfilm.ru
 .serialz.to
@@ -28452,6 +28688,7 @@
 .series9.site
 .series9.to
 .series99.app
+.series99.bet
 .series99study.com
 .series9labs.com
 .series9mx.pro
@@ -28525,6 +28762,7 @@
 .seriesflixtv2.cc
 .seriesflixtv2.help
 .seriesflixtv2.online
+.seriesflixtv2.org
 .seriesflixtv2.site
 .seriesflixtv2.xyz
 .seriesflixtv3.com
@@ -28720,6 +28958,7 @@
 .shubt.net
 .shugaar-lordfilm.ru
 .shugar-lordfilm3.ru
+.shugur-lordfilm.ru
 .shush.se
 .shutki-v-storonus-lordfilm.ru
 .shutki-v-storonuy-lordfilm.ru
@@ -29091,6 +29330,7 @@
 .soap2day7.xyz
 .soap2day9.me
 .soap2day9.pro
+.soap2daya.com
 .soap2dayapk.online
 .soap2daybey.com
 .soap2dayblog.site
@@ -29098,8 +29338,11 @@
 .soap2dayc.com
 .soap2daycommunity.xyz
 .soap2dayd.lat
+.soap2daye.com
 .soap2dayfre.com
+.soap2dayfree.biz
 .soap2dayfree.com
+.soap2dayfree.info
 .soap2dayfree.live
 .soap2dayfree.one
 .soap2dayfree.quest
@@ -29108,6 +29351,7 @@
 .soap2dayfreehd.com
 .soap2dayfullhd.com
 .soap2daygate.live
+.soap2daygo.com
 .soap2daygo.top
 .soap2dayhb.com
 .soap2dayhd.baby
@@ -29119,14 +29363,17 @@
 .soap2dayhd.info
 .soap2dayhd.lat
 .soap2dayhd.live
+.soap2dayhd.me
 .soap2dayhd.online
 .soap2dayhd.site
 .soap2dayhd.social
 .soap2dayhd.stream
 .soap2dayhd.website
 .soap2dayhd.win
+.soap2dayhd.work
 .soap2dayhg.com
 .soap2dayhub.com
+.soap2dayhub.live
 .soap2dayi.co
 .soap2dayi.my
 .soap2dayi.today
@@ -29150,6 +29397,8 @@
 .soap2dayrs.xyz
 .soap2days-gs.cyou
 .soap2days.biz
+.soap2days.ceo
+.soap2days.cfd
 .soap2days.cloud
 .soap2days.club
 .soap2days.dev
@@ -29157,6 +29406,7 @@
 .soap2days.ing
 .soap2days.lat
 .soap2days.live
+.soap2days.loan
 .soap2days.me
 .soap2days.my
 .soap2days.nl
@@ -29174,18 +29424,24 @@
 .soap2daystv.cfd
 .soap2daystv.org
 .soap2dayt.vu
+.soap2daytf.com
 .soap2dayto.app
 .soap2dayto.art
 .soap2dayto.bio
+.soap2dayto.biz
+.soap2dayto.cfd
 .soap2dayto.city
 .soap2dayto.click
 .soap2dayto.co
 .soap2dayto.cyou
 .soap2dayto.digital
+.soap2dayto.forum
 .soap2dayto.live
 .soap2dayto.ltd
+.soap2dayto.mom
 .soap2dayto.pro
 .soap2dayto.sbs
+.soap2dayto.skin
 .soap2dayto.top
 .soap2dayto.vip
 .soap2dayto.world
@@ -29195,10 +29451,12 @@
 .soap2daytv.co
 .soap2daytv.cyou
 .soap2daytv.my
+.soap2daytv.org
 .soap2daytv.social
 .soap2daytv.xyz
 .soap2daywatch.com
 .soap2dayx.lat
+.soap2dayx.net
 .soap2dayx.org
 .soap2dayx.site
 .soap2dayx.to
@@ -29208,6 +29466,7 @@
 .soap2dayy.city
 .soap2dayy.live
 .soap2dayy.ltd
+.soap2dayy.online
 .soap2dayy.rest
 .soap2dayy.today
 .soap2dayy.vip
@@ -29323,6 +29582,7 @@
 .sokrovishche-nacii-lordfilm3.ru
 .sokrovishe-naciy-lordfilm.ru
 .solamovies.cc
+.solar-opposites-multserial-lordfilm.ru
 .solarion.hu
 .solarmovie-free.com
 .solarmovie-us.top
@@ -29337,6 +29597,7 @@
 .solarmovie.fun
 .solarmovie.ink
 .solarmovie.io
+.solarmovie.lol
 .solarmovie.mom
 .solarmovie.mx
 .solarmovie.my
@@ -29365,6 +29626,7 @@
 .solarmovies-sc.lol
 .solarmovies-win.cyou
 .solarmovies.ac
+.solarmovies.bar
 .solarmovies.cc
 .solarmovies.co
 .solarmovies.live
@@ -29399,6 +29661,7 @@
 .solidtorrents.net
 .solidtorrents.to
 .solidz.com
+.sollncepek-lordfilm.ru
 .solltbeern-lordfilm.ru
 .solnechnye-protivopollozhnosti-lordfilm.ru
 .solnechnye-protivopolozhnosti-lordfilm3.ru
@@ -29411,6 +29674,7 @@
 .sondesglock94.blogspot.com
 .song-of-the-night-owls-lordfilm.ru
 .songswave.com
+.sonic-boom-lordfilm.ru
 .sonic-v-kiino-lordfilm.ru
 .sonica-lordfilm.ru
 .sonicik-lordfilm.ru
@@ -29418,6 +29682,7 @@
 .sonik-v-kino-lordfilm3.ru
 .sonofshun.com
 .sons-of-anarchy-3.cz.cc
+.sonuk-v-kuno-lordfilm.ru
 .soobshcheniya-dlya-izabel-lordfilm.ru
 .soobshchestvo-lordfilm3.ru
 .soobshestvoe-lordfilm.ru
@@ -29943,6 +30208,7 @@
 .streaming-community.vin
 .streaming-community.watch
 .streaming-community.you
+.streaming-communityz.forum
 .streaming-communityz.uno
 .streaming-french.com
 .streaming-series.org
@@ -30425,6 +30691,7 @@
 .sumerkii-saga-lordfilms.ru
 .sumerkiis-lordfilm.ru
 .sumerkis-lordfilm.ru
+.sumerkye-lordfilms.ru
 .sumerkys-lordfilm.ru
 .sumorb.com
 .sumotorrent.com
@@ -30474,6 +30741,7 @@
 .supermen-lordfilm3.ru
 .supernaatural-lordfilm.ru
 .supernaturaall-lordfilm.ru
+.supernatural-academy-lordfilm.ru
 .supernatural-lordfilm.homes
 .supernatural-lordfilms.ru
 .supernatural-serial-lordfilm.ru
@@ -30766,6 +31034,7 @@
 .ted-lassou-lordfilm.ru
 .ted-llusso-lordfilm.ru
 .teed-lasoo-lordfilm.ru
+.teen-titans-go-lordfilm.ru
 .teen-wolfs-lordfilm.ru
 .teen-wolfu-lordfilm.ru
 .teen-wulf-lordfilm.ru
@@ -30799,6 +31068,7 @@
 .telohranitel-killerae-lordfilm.ru
 .telohraniteli-lordfilm.online
 .telohranittel-kilera-lordfilm.ru
+.telohranittel-kullera-lordfilm.ru
 .telohranteli-lordfilm.ru
 .telokhraniteli-lordfilm.buzz
 .telokhraniteli-lordfilm.top
@@ -30868,6 +31138,7 @@
 .thatswhathappened.tv
 .the-accountante-lordfilm.ru
 .the-accountants-lordfilm.ru
+.the-amazing-digital-circus-lordfilm.ru
 .the-amityville-horror-lordfilm.ru
 .the-amityville-horrori-lordfilm.ru
 .the-apothecary-diaries-lordfilm.ru
@@ -31634,6 +31905,7 @@
 .torrent15.com
 .torrent2020.ru
 .torrent24.top
+.torrent2ddl.com
 .torrent2z.net
 .torrent411.com
 .torrent411.li
@@ -31819,6 +32091,7 @@
 .torrentehautecouture.org
 .torrentehautecouture.store
 .torrentek.hu
+.torrentela.com
 .torrenteloraelena.com
 .torrentembergroup.com
 .torrenteng.com
@@ -31860,6 +32133,7 @@
 .torrentgalaxy.top
 .torrentgalaxypro.com
 .torrentgamers.net
+.torrentgames.sbs
 .torrentgamesps2.info
 .torrentgaming.com
 .torrentgate.xyz
@@ -31947,6 +32221,7 @@
 .torrentmac.name
 .torrentmac.net
 .torrentmac.shop
+.torrentmac.top
 .torrentmafya.org
 .torrentmania.info
 .torrentmaniacs.org
@@ -32022,6 +32297,7 @@
 .torrentqq403.com
 .torrentqq421.com
 .torrentqq422.com
+.torrentqq423.com
 .torrentqq47.com
 .torrentqq49.com
 .torrentqq71.com
@@ -32848,6 +33124,7 @@
 .trolliz-lordfilm.ru
 .trollss-lordfilms.ru
 .trollu-lordfilm.ru
+.tron-otmechennyy-bogom-lordfilm.ru
 .tronis-lordfilm.ru
 .tronott.tv
 .tronu-lordfilm.ru
@@ -32878,6 +33155,7 @@
 .tryzonet.xyz
 .ts.kurtubba.com
 .ts3booter.net
+.tsarevny-lordfilm.ru
 .tsarstvo-nebesnoye-lordfilm.ru
 .tsarstvo-serial-lordfilm.ru
 .tsearch.me
@@ -33173,6 +33451,7 @@
 .ukritiie-lordfilm.ru
 .ukrittie-lordfilm.ru
 .ukrutie-lordfilms.ru
+.ukrutye-lordfilms.ru
 .ukrytie-lordfilm.xyz
 .ukrytie-lordfilm3.ru
 .ukrytie-smotret-lordfilm2.ru
@@ -33187,6 +33466,7 @@
 .ulitsa-fonarey-lordfilm.ru
 .ulitsa-serial-lordfilm.ru
 .ulitsy-razbitykh-fonarey-lordfilm.buzz
+.ultimate-spider-man-lordfilm.ru
 .ultimate-torrent.town
 .ultimate-warez.eu
 .ultimateshare.net
@@ -33379,6 +33659,7 @@
 .until-dauns-lordfilm.ru
 .until-dauny-lordfilm.ru
 .uollis-i-grommit-lordfilm.ru
+.uour-lordfilms.ru
 .up-4ever.net
 .upawg.ca
 .updatesofts.com
@@ -33440,12 +33721,14 @@
 .ushchelye-lordfilm.ru
 .uslovnyy-ment-lordfilm.ru
 .uslysh-menya-lordfilm.buzz
+.uslysh-menya-lordfilm.homes
 .usmoviestoday.xyz
 .ustreamix.to
 .ustv247.tv
 .utinye-istorii-lordfilm3.ru
 .utinye-istorii-lordfilms.ru
 .utinye-istorri-lordfilm.ru
+.utomlennye-solncem-lordfilm.ru
 .utorrent.com
 .utorrent.li
 .utorrentfilmi.ru
@@ -33576,6 +33859,7 @@
 .vegamovies-nl.life
 .vegamovies-nl.live
 .vegamovies-nl.quest
+.vegamovies-nl.win
 .vegamovies-nl.wtf
 .vegamovies-nl.xyz
 .vegamovies-official.site
@@ -33850,6 +34134,7 @@
 .vegamoviesr.cfd
 .vegamoviess.best
 .vegamoviess.io.in
+.vegamoviess.lat
 .vegamoviess.rodeo
 .vegamoviestv.cfd
 .vegamoviestv.online
@@ -33886,6 +34171,7 @@
 .velikolepniy-vek-lordfilm.ru
 .velikolepnyy-vek-lordfilm.buzz
 .velikolepnyy-vek-lordfilm.ru
+.velikuy-uravnitell-lordfilm.ru
 .velocinator.tv
 .velocity.net.bd
 .velukuy-uravnitel-lordfilms.ru
@@ -34180,6 +34466,7 @@
 .voiny-klonovv-lordfilm.ru
 .voir-anime.to
 .voir-seriestreaming.org
+.voiranime.pro
 .voiranime.rip
 .voirdrama.org
 .voirfilm.vip
@@ -34280,6 +34567,7 @@
 .vspysh-i-chudo-mashinki-lordfilm3.ru
 .vsrc.su
 .vsrecommendedgames.fandom.com
+.vstat-na-nogi-lordfilm.buzz
 .vstorrent.org
 .vudeo.io
 .vudiy.fun
@@ -34303,6 +34591,7 @@
 .vysshaya-mera-lordfilm.top
 .vyzovite-akusherku-lordfilm3.ru
 .vzryvnye-kotyata-lordfilm3.ru
+.w-123movies.pro
 .w-concept.com
 .w-poiskah-nemoa-lordfilm.ru
 .w-soap2day.day
@@ -34357,6 +34646,7 @@
 .warez-torrent.cc
 .warez-torrent.org
 .warez-ts.org
+.warez-vip.info
 .warez-vislovo.ru
 .warez-wawa.fr.nf
 .warez-world.org
@@ -34865,9 +35155,11 @@
 .wwwmovierulz.com
 .wz-team.team.st
 .wzone.6x.to
+.x-filas-lordfilms.ru
 .x-filesa-lordfilm.ru
 .x-filesi-lordfilm.ru
 .x-filesu-lordfilm.ru
+.x-men-97-lordfilm.ru
 .x-mena-lordfilm.ru
 .x-mens-lordfilm.ru
 .x-menus-lordfilm.ru
@@ -35005,6 +35297,7 @@
 .xmovies8in.com
 .xmovies8k.com
 .xmovies8tv.top
+.xmoviesclub.com
 .xmoviesfortou.com
 .xmoviesforyou.org
 .xmoviesforyou.top
@@ -35063,6 +35356,7 @@
 .xyzbooter.net
 .xzlist.vze.com
 .xzone.pw
+.y-proosto-taak-lordfilm.ru
 .y2mate.nu
 .y4apk.com
 .ya-est-grut-lordfilm3.ru
@@ -35145,6 +35439,7 @@
 .yeshche-17-lordfilm.ru
 .yeshd.net
 .yesmovies-at.lol
+.yesmovies-official.live
 .yesmovies-official.lol
 .yesmovies-to.lat
 .yesmovies-tv.best
@@ -35277,6 +35572,7 @@
 .yomovies.courses
 .yomovies.diy
 .yomovies.foundation
+.yomovies.hair
 .yomovies.institute
 .yomovies.it
 .yomovies.kitchen
@@ -35458,6 +35754,7 @@
 .zacharovanye-lordfilm.ru
 .zadacha-trokhtel-lordfilm.ru
 .zadacha-tryoh-tel-lordfilm3.ru
+.zadornyye-druzya-lordfilm.ru
 .zagadochnaya-istoriya-lordfilm.ru
 .zaglyani-golovu-lordfilm.ru
 .zagovor-sesterr-garvi-lordfilm.ru
@@ -35468,6 +35765,7 @@
 .zagruzka-lordfilm3.ru
 .zagruzzka-lordfilms.ru
 .zagryyzka-lordfilm.ru
+.zahvachennyi-rejs-lordfilm.ru
 .zahvachennyj-rejs-lordfilm3.ru
 .zahvachenyy-reys-lordfilm.lol
 .zajefajna.com
@@ -35694,6 +35992,7 @@
 .zone-telechargement.xyz
 .zone-telechargement1.com
 .zone-telechargement2.org
+.zone-telechargements.hair
 .zone-torrent.net
 .zone-torrent.town
 .zone-warez.com
