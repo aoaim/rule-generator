@@ -17197,6 +17197,7 @@
 +.dragon.sh2.com
 +.dragonbats.com
 +.dragonfly.jala-one.com
++.dragontamer.net
 +.drainpaste.com
 +.dramaticdirection.com
 +.dre.dreamkue.com
@@ -17725,6 +17726,7 @@
 +.easywebsiteanalytics.com
 +.eat9.thebeat925.ca
 +.eatablesquare.com
++.eatinglate.com
 +.eatjav.ekosport.fr
 +.eatmycookies.mockingbirdcinema.com
 +.eats-ads-event-capture.coupang.com
@@ -17882,6 +17884,7 @@
 +.echidna.honeybadger.io
 +.echoacloud.com
 +.echoinghaven.com
++.echoturkey.com
 +.ecjsot.aosom.es
 +.eck.brettspieleck.de
 +.eckbu.santascoffee.com
@@ -19000,6 +19003,7 @@
 +.esqjac.costakreuzfahrten.de
 +.esqxrp.bonprix-fl.be
 +.essaygiants.com
++.essayplanet.com
 +.essayspin.com
 +.essen.essentia-bd.com
 +.essential-apps-analytics.herokuapp.com
@@ -20213,6 +20217,7 @@
 +.final01.watchhubbd.com
 +.final02.watchhubbd.com
 +.finalizeforce.com
++.finaloptics.com
 +.financefear.com
 +.financialeducation-info.uchicago.edu
 +.financialservices.nada.org
@@ -26559,6 +26564,7 @@
 +.hit100.ro
 +.hit2map.com
 +.hitbox.com
++.hitboxdesigns.com
 +.hitcount.dk
 +.hitcounterstats.com
 +.hitgelsin.com
@@ -30728,6 +30734,7 @@
 +.lab.lendela.com
 +.lab.ocean-vert.com
 +.lab.sensilia.com
++.labelsensor.com
 +.laboredlocket.com
 +.labs.jlplanner.co
 +.labs.laboostudio.com
@@ -30799,6 +30806,7 @@
 +.landsnail.brownfield.dev
 +.landsnail.garasjeport1.no
 +.landsnail.motin.eu
++.landsuites.com
 +.landwestern.com
 +.lantern.connect.o2.co.uk
 +.lantern.fortinet.com
@@ -36312,6 +36320,7 @@
 +.loon.davidalindahl.com
 +.loon.jrmyfranck.com
 +.loopfuse.net
++.looprecycled.com
 +.loosecase.com
 +.looseloaf.com
 +.lopley.com
@@ -49050,6 +49059,7 @@
 +.s02.bestsecret.com
 +.s1.barrosbueno.com.br
 +.s1.bkjn.nl
++.s1.bss.2gis.com
 +.s1.carryonx.de
 +.s1.ecofino.nl
 +.s1.firepitsdirect.com
@@ -70295,6 +70305,7 @@
 +.stat.guiasjuridicas.es
 +.stat.indidata.com
 +.stat.interestfree.com.au
++.stat.ip.sb
 +.stat.jogtar.hu
 +.stat.juridicas.com
 +.stat.jusnetkarnovgroup.pt
@@ -73159,6 +73170,7 @@
 +.t.mm-uxrv.com
 +.t.mma-adl.com
 +.t.mmaeast.com
++.t.mmganalytics.com
 +.t.montecarlosbm.com
 +.t.moonstreet.pl
 +.t.morvextoys.com
