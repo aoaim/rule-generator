@@ -7014,6 +7014,7 @@
 +.atgt.grafana.com
 +.athena-event-provider.n11.com
 +.athena.accsc.com.au
++.athena.archive.org
 +.athena.nederlandseloterij.nl
 +.athena.toto.nl
 +.athenainstitute.biz
@@ -21005,7 +21006,6 @@
 +.funoverflow.com
 +.funsdata.com
 +.funstage.com
-+.funtoyplanet.com
 +.fuooms.aetrex.com
 +.fuoqr.comfortorthowear.com
 +.fupbi.gopurebeauty.com
@@ -39099,6 +39099,7 @@
 +.mengis-linden.org
 +.mennoc.mezlan.com
 +.mensch.ekd.de
++.menteechain.com
 +.mentor.adrianscalper.com
 +.mentor.direitocomprado.com.br
 +.mentor.fatimafinanzas.com
@@ -43841,6 +43842,7 @@
 +.onelink.appsflyer.com
 +.onelink.me
 +.onelinksmartscript.appsflyer.com
++.onemorebump.com
 +.onenet.gakujutsu.com
 +.oneservice.premiumfruitbd.com
 +.onespecify.com
@@ -43874,6 +43876,7 @@
 +.onlinestarten.net
 +.onlinewebstat.com
 +.onlinewebstats.com
++.onlystreets.com
 +.onlywoofs.com
 +.onmuf.eshopygo.it
 +.onnie.roolee.com
@@ -45813,6 +45816,7 @@
 +.player-telemetry.vimeo.com
 +.player.stats.live-video.net
 +.playerhappy.com
++.playerscache.com
 +.playfulriver.com
 +.plbcsd.vidaxl.se
 +.plbusiness.samsung.com
@@ -46422,6 +46426,7 @@
 +.provenpixel.com
 +.providence.voxmedia.com
 +.providers.mhc.net
++.provingmagic.com
 +.provize.3dfitness.cz
 +.provize.brilas.cz
 +.provize.dzumdzum.cz
@@ -47277,6 +47282,7 @@
 +.rabbit.meitustat.com
 +.rabbit.radicalxchange.org
 +.rabbit.upwardhomes.net
++.rabbitboots.com
 +.rabbitbreath.com
 +.rabbitrifle.com
 +.rabiul.petalcalyx.com
@@ -55746,6 +55752,7 @@
 +.siivqn.bricoman.it
 +.silentcredit.com
 +.silentjackal.com
++.silentsingle.com
 +.siliconslow.com
 +.silkworm.boxmood.be
 +.silkworm.preventingsuicideinsussex.org
@@ -59994,6 +60001,7 @@
 +.social.forddirectdealers.com
 +.social.hellogov.com
 +.socialprofitmachine.com
++.socialsend.net
 +.socialtrack.co
 +.sociaplus.com
 +.society.discoverylandco.com
