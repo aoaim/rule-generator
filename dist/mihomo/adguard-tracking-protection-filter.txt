@@ -2346,6 +2346,7 @@
 +.acv.mc-nurse.net
 +.acv.mc-pharma.net
 +.acv.me-hikari.net
++.acv.mira-dsp.com
 +.acv.next-air-wifi.com
 +.acv.next-internet.info
 +.acv.nft-hikari.net
@@ -3778,6 +3779,7 @@
 +.al.yslabo.net
 +.al.zenjirou.jp
 +.aladdinupdate.blackrock.com
++.aladinia.app
 +.alamin.annawabi.com
 +.alb.reddit.com
 +.albanychicago.advancedtech.com
@@ -4349,6 +4351,7 @@
 +.analytics.crawfordcountybank.com
 +.analytics.crea.ca
 +.analytics.creem.com
++.analytics.crewly.pl
 +.analytics.cycleworld.com
 +.analytics.cyrillus.be
 +.analytics.cyrillus.fr
@@ -4971,6 +4974,7 @@
 +.analytics.subzero-wolf.com
 +.analytics.superstructure.ai
 +.analytics.surfline.com
++.analytics.sutochno.ru
 +.analytics.sve.cc
 +.analytics.sydney.edu.au
 +.analytics.syf.com
@@ -5161,6 +5165,7 @@
 +.analytics2.craftsportswear.com
 +.analytics2.tvreport.co.kr
 +.analyticsbusiness.ing.ro
++.analyticsehnwe.servicebus.windows.net
 +.analyticsengine.s3.amazonaws.com
 +.analyticshipaa.cloud.coveo.com
 +.analyticsmumbai.abbeyroadinstitute.in
@@ -9407,6 +9412,7 @@
 +.carp.amespacios.com
 +.carp.spotonevent.no
 +.carpets.mobilecarpetsandflooring.com
++.carpoolmatch.com
 +.carpoolqueen.com
 +.carreira.brunaeugenio.com.br
 +.carreras.unisabana.edu.co
@@ -9738,6 +9744,7 @@
 +.cdp.cashback-cards.ch
 +.cdp.cloud.unity.cn
 +.cdp.cloud.unity3d.com
++.cdp.customer.io
 +.cdp.getswisscard.ch
 +.cdp.miles-and-more-cards.ch
 +.cdp.swisscard.ch
@@ -10257,6 +10264,7 @@
 +.cloud.hetaarbeten.se
 +.cloud.lotustravel.se
 +.cloud.mixtou.com.br
++.cloud.monolytics.app
 +.cloud.moyagi.com
 +.cloud.orimlighyra.se
 +.cloud.pensionera.se
@@ -12325,6 +12333,7 @@
 +.d3kyk5bao1crtw.cloudfront.net
 +.d3l3lkinz3f56t.cloudfront.net
 +.d3lqotgbn3npr.cloudfront.net
++.d3lw7s0briwuoi.cloudfront.net
 +.d3p8zr0ffa9t17.cloudfront.net
 +.d3pkntwtp2ukl5.cloudfront.net
 +.d3plfjw9uod7ab.cloudfront.net
@@ -17583,6 +17592,7 @@
 +.e082.ukiahdailyjournal.com
 +.e1.usenarae.com
 +.e1c.curtisswrightds.com
++.e2.sy-d.io
 +.e20d8e38992b.o3n.io
 +.e220.dailyfreeman.com
 +.e2e.mashable.com
@@ -20443,6 +20453,7 @@
 +.flourishingendeavor.com
 +.flourishinginnovation.com
 +.flourishingpartnership.com
++.flow-control.profitroom.net
 +.flow.curendo.de
 +.flow.doormat.net.au
 +.flow.laminaatenparket.nl
@@ -20478,6 +20489,7 @@
 +.fly.caljetelite.com
 +.fly.ofernandoluz.com
 +.fly.pid.edu.pl
++.flyflightstar.com
 +.flyingfish.whoisrepresented.org
 +.flystranger.com
 +.flznib.weblio.jp
@@ -20558,6 +20570,7 @@
 +.foodstats.eurofins.de
 +.foomjy.teacollection.com
 +.foot.wiki
++.footballmedal.com
 +.footprint.frizznflame.com
 +.footprintdns.com
 +.footprintlive.com
@@ -21722,6 +21735,7 @@
 +.globalapi.ad.xiaomi.com
 +.globalbanking.wolterskluwer.com
 +.globalcommunications.sc.com
++.globalorders.net
 +.globalservices.conde.digital
 +.globalsiteanalytics.com
 +.globalsolutions.risk.lexisnexis.com
@@ -22195,6 +22209,7 @@
 +.good.debbeq.com
 +.good.iamandco.com
 +.goodcounter.org
++.goodfoodtours.com
 +.goods.preoponno.com
 +.google-analytics.bi.owox.com
 +.google-analytics.com
@@ -42553,6 +42568,7 @@
 +.netmonitor.fi
 +.netratings.com
 +.netstats.dk
++.netsurfconsult.com
 +.nettokom-lp.information.nettokom.de
 +.netupdater.info
 +.network.cogentco.com
@@ -43445,6 +43461,7 @@
 +.offers.storagepipe.com
 +.offerstrategy.com
 +.offgridcrops.com
++.officestylist.com
 +.offshoreassets.com
 +.offshorecyclone.com
 +.offshoregeology.com
