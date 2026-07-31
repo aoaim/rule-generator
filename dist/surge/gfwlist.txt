@@ -2187,6 +2187,7 @@
 .leonardo.ai
 .lesoir.be
 .letscorp.net
+.level-plus.net
 .lexica.art
 .lhakar.org
 .li.taipei
