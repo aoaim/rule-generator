@@ -2096,6 +2096,7 @@
 +.abo.schibsted.no
 +.aboardamusement.com
 +.aboardlevel.com
++.aboutcorgis.com
 +.above.50degreesintheshade.com
 +.above.fearlessgrad.com
 +.abovechat.com
@@ -3779,7 +3780,6 @@
 +.al.yslabo.net
 +.al.zenjirou.jp
 +.aladdinupdate.blackrock.com
-+.aladinia.app
 +.alamin.annawabi.com
 +.alb.reddit.com
 +.albanychicago.advancedtech.com
@@ -3849,6 +3849,7 @@
 +.alluringbucket.com
 +.allvfz.chapellerie-traclet.com
 +.allvideometrika.com
++.allycoop.com
 +.almhhn.pet-friends.co.kr
 +.almondbuns.com
 +.alnop.skidznyc.com
@@ -5146,6 +5147,7 @@
 +.analytics.wrc.nic.in
 +.analytics.xiloc.net
 +.analytics.xoomenergy.com
++.analytics.xxcontent.lol
 +.analytics.yahoo.com
 +.analytics.yofbrc.com
 +.analytics.yoonek.com.au
@@ -12467,6 +12469,7 @@
 +.daniel.bartenderlab.com
 +.danv01ao0kdr2.cloudfront.net
 +.dap.amsterdam.nl
++.dap.hindustantimes.com
 +.dap.livemint.com
 +.dap.worldota.net
 +.dapperdiscussion.com
@@ -26738,6 +26741,7 @@
 +.honestdata.honesteco.org
 +.honestharbor.com
 +.honeybulb.com
++.honeybutterbliss.com
 +.honeywarm-ss.checkoutera.com
 +.honorablehydrant.com
 +.honorableland.com
@@ -45968,6 +45972,7 @@
 +.pool4.ioam.de
 +.pool5.ioam.de
 +.poolcushions.com
++.poolprochem.com
 +.pop.deinkinderdoc.de
 +.pop.devil.services
 +.pop.feelbrill.lt
@@ -49980,6 +49985,7 @@
 +.scfql.marleylilly.com
 +.scgou.littlepassports.com
 +.scholarloop.com
++.schoolpaws.com
 +.schouder.somt.nl
 +.schpa.newroadadvertising.com
 +.schrl.nkuku.com
@@ -55817,6 +55823,7 @@
 +.simplify.razorsync.com
 +.simplycast.us
 +.simplymeasured.com
++.simplyradon.com
 +.simulateswing.com
 +.simule.ademiconbr.com
 +.sincerebuffalo.com
@@ -60057,6 +60064,7 @@
 +.sokutei.car2828.jp
 +.sol.sunnaenergia.com.br
 +.solarislabyrinth.com
++.solarrecharge.net
 +.sole.bkosmetik.com
 +.sole.pretto.fr
 +.sole.riverwalkdental.com.au
@@ -60533,6 +60541,7 @@
 +.specialevent.informaengage.com
 +.specialscissors.com
 +.specialstat.com
++.specialtypin.com
 +.specola.coertini.com
 +.spectacularstamp.com
 +.spectate.com
@@ -60542,6 +60551,7 @@
 +.speederpro-ss.zavydeals.com
 +.speederproshop-ss.checkoutera.com
 +.speedtracker.de
++.speedysteaks.com
 +.spelar.org
 +.spellingthoughts.com
 +.spellknight.com
@@ -70522,6 +70532,7 @@
 +.stats-a.maxthon.com
 +.stats-api.skylum.com
 +.stats-blog.lewsion.com
++.stats-cdn.polyspeak.ai
 +.stats-connect.comet.it
 +.stats-dev.brid.tv
 +.stats-iobit-com.us-east-1.elasticbeanstalk.com
