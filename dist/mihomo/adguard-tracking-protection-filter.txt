@@ -5420,6 +5420,7 @@
 +.api.amplitudeexperiment.com
 +.api.anacorso.com.br
 +.api.analebear.com
++.api.analytics.dobrosvyaz.com
 +.api.analytics.omgpop.com
 +.api.anandainsights.com.br
 +.api.anapaulacarvalho.com
@@ -16923,6 +16924,7 @@
 +.discreetquarter.com
 +.dispatcher.upmc.uc.cn
 +.displaymarketplace.com
++.distantflame.com
 +.distillery.wistia.com
 +.distilltable.com
 +.distiltag.com
@@ -30281,6 +30283,7 @@
 +.kitabisa.tokyobola.click
 +.kitbit.net
 +.kitchen.juicer.cc
++.kitchenbasin.com
 +.kite.cardneyestate.co.uk
 +.kite.devin.website
 +.kite.ibirthdayclub.com
@@ -36304,6 +36307,7 @@
 +.logs.netflix.com
 +.logs.ntvplus.tv
 +.logs.openbank.com
++.logs.profi.ru
 +.logs.psm.wmcdp.io
 +.logs.roku.com
 +.logs.spilgames.com
@@ -45464,6 +45468,7 @@
 +.pinniped.spacecountdown.com
 +.pinptg.milleni.com.tr
 +.pinvf.australianopaldirect.com
++.pipadvance.com
 +.pipe-collect.ebu.io
 +.pipedream.wistia.com
 +.pipeline.rd.nl
@@ -46024,6 +46029,7 @@
 +.postgraduate2.smu.edu.sg
 +.posthog.football24.ua
 +.posthog.lingvanex.com
++.posthog.russpass.ru
 +.posthog.tarnkappe.info
 +.potatoinvention.com
 +.potixulert.c-stickers.fr
@@ -72171,6 +72177,7 @@
 +.subscribe.veracity.com
 +.subscriber.franchiseinsights.com
 +.subscriber.smallbusinessstartup.com
++.subscriberlists.com
 +.subscribetest.veracity.com
 +.subscription.accenturejo.adobesandbox.com
 +.subscription.coface.com
@@ -72217,6 +72224,7 @@
 +.success.vertigisstudio.com
 +.successbuffet.com
 +.successfultogether.co.uk
++.successmenu.com
 +.succulents.pasiora.de
 +.suchanalytik.hideandsec.sh
 +.sucmetrics.hypovereinsbank.de
@@ -74374,7 +74382,6 @@
 +.target.zinia.de
 +.targetab.metrobyt-mobile.com
 +.targetads.io
-+.targetfax.com
 +.targetfuel.com
 +.targeting.api.drift.com
 +.targeting.tbt.arcpublishing.com
@@ -75012,6 +75019,7 @@
 +.tfoydw.topvintage.be
 +.tfoyfx.dukefotografia.com
 +.tfpeev.chanluu.com
++.tfpodf.ars.appsflyersdk.com
 +.tfrln.prostatehealthreport.com
 +.tftjgl.brice.fr
 +.tftkzr.happy-size.at
@@ -75175,6 +75183,7 @@
 +.tics.seeker.gg
 +.tics.techdirt.com
 +.ticvui.alexandani.com
++.tidaldrops.com
 +.tidymitten.com
 +.tidysprite.com
 +.tieszhu.com
