@@ -4232,6 +4232,7 @@
 +.analytics.audioeye.com
 +.analytics.audionow.de
 +.analytics.authoritymedia.com
++.analytics.autoodb.com
 +.analytics.avcdn.net
 +.analytics.avis.lu
 +.analytics.aweber.com
@@ -26447,6 +26448,7 @@
 +.hello.throwlights.com
 +.hello.trailblazers.com
 +.hellosherpa.com
++.hellospur.com
 +.hellounbox.com
 +.helpcollar.com
 +.helpdesk.thinkhdi.com
@@ -26941,6 +26943,7 @@
 +.humanclick.com
 +.humanz.com
 +.humayun.meowmesh.com
++.humbleroots.net
 +.humdrumhobbies.com
 +.humdrumtouch.com
 +.hummingbird.mavencoalition.io
@@ -30078,6 +30081,7 @@
 +.kaqzb.fatbikeskopen.nl
 +.karo.karomallonline.com
 +.karrot-pixel.business.daangn.com
++.kartbarriersystem.com
 +.kascb.jamsworld.com
 +.kataribe.kataribecms.com
 +.kataweb.it
@@ -38596,6 +38600,7 @@
 +.mas.hronboard.me
 +.mas.protecmedia.com
 +.maschine.bengs-modellbau.de
++.masseurexpress.com
 +.massivemark.com
 +.master-shopify-tracker.s3.amazonaws.com
 +.masterenter.com
@@ -42424,6 +42429,7 @@
 +.nebulousgarden.com
 +.nebulousquasar.com
 +.necsii.ivet.pl
++.nectarbytes.com
 +.nedstatbasic.net
 +.needleaf.com
 +.needyneedle.com
