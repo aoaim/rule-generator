@@ -73,8 +73,12 @@ async function main() {
   await fs.ensureDir(distDir);
   await fs.ensureDir(tmpDir);
 
-  // Clean up old srs files
-  await fs.emptyDir(distDir);
+  // Clean up only the files this tool generates.
+  // Do NOT emptyDir the whole dist/sing-box/ directory — other tools
+  // (e.g. urlhaus-singbox) write here too, and would lose their output.
+  for (const source of sources) {
+    await fs.remove(join(distDir, `${source.name}.srs`));
+  }
 
   for (let i = 0; i < sources.length; i++) {
     const source = sources[i];

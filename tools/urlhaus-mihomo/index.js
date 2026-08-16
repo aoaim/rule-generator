@@ -88,7 +88,9 @@ async function processList(config) {
 }
 
 async function outputCompiled(config, domains) {
-    const baseName = slugify(config.name);
+    // decamelize: false — otherwise "URLhaus" would be split into "UR Lhaus"
+    // (see the [A-Z]+/[A-Z][a-rt-z\d]+ split rule in @sindresorhus/slugify)
+    const baseName = slugify(config.name, { decamelize: false });
     // e.g. urlhaus-malicious-url-blocklist.txt / .mrs
     const txtFileName = `${baseName}.txt`;
     const mrsFileName = `${baseName}.mrs`;
