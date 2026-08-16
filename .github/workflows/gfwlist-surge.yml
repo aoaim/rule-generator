@@ -15,7 +15,7 @@ permissions:
   contents: write
 
 concurrency:
-  group: rule-updates-surge-${{ github.workflow }}-${{ github.ref }}
+  group: rule-updates-surge-${{ github.ref }}
   cancel-in-progress: false
 
 jobs:
