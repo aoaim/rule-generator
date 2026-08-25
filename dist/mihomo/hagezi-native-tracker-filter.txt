@@ -99,6 +99,7 @@
 +.acr-in-prd.samsungcloud.tv
 +.acr-kr-prd.samsungcloud.tv
 +.acr-mx-prd.samsungcloud.tv
++.acr-nz-prd.samsungcloud.tv
 +.acr-us-prd.samsungcloud.tv
 +.acr.roku.com
 +.acr0.samsungcloudsolution.com
@@ -2440,7 +2441,6 @@
 +.puma-api.ptqy.gitv.tv
 +.push-dc-us.heytapmobile.com
 +.push.heytapmobile.com
-+.push.samsungosp.com.cn
 +.py-ad-lgsmartad-com.aws-prd.net
 +.py.lgsmartad.com
 +.qa-ad-lgsmartad-com.aws-prd.net
