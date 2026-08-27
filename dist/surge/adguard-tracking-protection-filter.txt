@@ -4,6 +4,12 @@
 .ib.snssdk.com
 .xlog.snssdk.com
 .log.snssdk.com
+.bidscube.com
+.eu-stsdk.vivoglobal.com
+.eu-onrt-stsdk.vivoglobal.com
+.eu-ort-stsdk.vivoglobal.com
+.ex-adreq-asia.vivoglobal.com
+.beaconimages.netflix.net
 .xstats.st
 .sumetrika.com
 .fairanalytics.de
@@ -2470,7 +2476,6 @@
 .cnzz.com
 .cnzz.net
 .codata.ru
-.cointent.com
 .collarity.com
 .collserve.com
 .comagic.ru
@@ -99457,6 +99462,10 @@
 .tagman.britishairways.com
 .ct.pinterest.com
 .incoming.telemetry.mozilla.org
+.analytics.watchott.org
+.bat.bing.net
+.excess-ga.duolingo.com
+.excess.duolingo.com
 .p.softmedia.cz
 .analytics.sportera.fans
 .analytics.sen.go.kr
@@ -104082,6 +104091,7 @@
 .arclet.net
 .aromamirror.com
 .arrivegrowth.com
+.artbranch.net
 .articledemon.com
 .arubahello.com
 .askdriver.com
@@ -104098,6 +104108,7 @@
 .attractionbanana.com
 .attractivecap.com
 .audioarctic.com
+.autoappearancetraining.com
 .automaticside.com
 .automaticturkey.com
 .availablerest.com
@@ -104161,6 +104172,7 @@
 .betazebra.com
 .bewilderedbattle.com
 .bewilderedblade.com
+.beyondgoodness.com
 .bhcumsc.com
 .bidpapers.com
 .bigfishapparel.com
@@ -104192,6 +104204,7 @@
 .blitzcampaigns.com
 .blockdial.com
 .bloomsend.com
+.bluecollarmuse.com
 .blueeyedblow.com
 .bluelionlabs.net
 .bluenest.net
@@ -104737,6 +104750,7 @@
 .feedten.com
 .feelwarmth.com
 .feignedfaucet.com
+.felinesocial.com
 .femalecook.com
 .fencesync.com
 .fewjuice.com
@@ -104846,6 +104860,7 @@
 .fuzzybasketball.com
 .fuzzyerror.com
 .gadgetboy.net
+.gamerone.net
 .gammamaximum.com
 .gardenovens.com
 .gaslessgrapes.com
@@ -104886,7 +104901,6 @@
 .glowingmeadow.com
 .goatbillions.com
 .goblinindex.com
-.goddesslamps.com
 .godseedband.com
 .goldfishgrowth.com
 .goldstudies.com
@@ -104894,6 +104908,7 @@
 .golfersrow.com
 .golfinglounge.com
 .gondolagnome.com
+.goodandwild.com
 .goodfoodtours.com
 .gorgeousedge.com
 .gorillapage.com
@@ -105034,6 +105049,7 @@
 .infinityhedge.com
 .informalbook.com
 .infrafood.com
+.inkcoupon.com
 .innocentlamp.com
 .inputicicle.com
 .inquisitiveinvention.com
@@ -105085,6 +105101,7 @@
 .jubilantwhisper.com
 .juicebard.com
 .juiceblocks.com
+.juicemovement.com
 .juicingoasis.com
 .jumbochalk.com
 .justconfig.com
