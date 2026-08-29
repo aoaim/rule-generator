@@ -3764,6 +3764,7 @@
 +.ak-br-cdn.kwai.net.iberostar.com
 +.ak.nuits.nl
 +.ak0gsh40.com
++.aka.asiae.co.kr
 +.akanoo.com
 +.akavita.com
 +.akbar.aktechnologybd.com
@@ -4338,6 +4339,7 @@
 +.analytics-ingestion.production-public.tubi.io
 +.analytics-ingress-global.bitmovin.com
 +.analytics-ingress.bitmovin.com
++.analytics-ios-tcp.rayjump.com
 +.analytics-ipv6.tiktokw.us
 +.analytics-lgs.corebridgefinancial.com
 +.analytics-log.withhive.com
@@ -9211,6 +9213,7 @@
 +.birnbaum.net.anwalt.de
 +.birthbox.hypnobirthing-positive-birth.com
 +.birthdaybelief.com
++.biscuitbox.net
 +.biscuits.tlmq.fr
 +.bismetrics.experian.com
 +.bison.ainslieart.com
@@ -21226,6 +21229,7 @@
 +.drvive.lamoda.ru
 +.drxeqq.wishhotels.com.br
 +.drydrum.com
++.dryerwasher.com
 +.drzbe.agileoffroad.com
 +.drzzg.mallet.com
 +.ds-aksb-a.akamaihd.net
@@ -25109,6 +25113,7 @@
 +.files.udawy.com
 +.files.urlinsgroup.com
 +.files.velpa.pl
++.fileshareengine.com
 +.filesys.mccmedale.pl
 +.filetransfer.velpa.pl
 +.filitrac.com
@@ -52165,6 +52170,7 @@
 +.milanss.texasdivorceonline.com
 +.miles.mileshypotheken.nl
 +.milesahead.milespartnership.com
++.millhouses.com
 +.millioncounter.com
 +.millswell.com
 +.mim26.papigames.bet.br
@@ -52208,6 +52214,7 @@
 +.missionrewards.com
 +.misst.mibiota.de
 +.missvent.com
++.mistertees.net
 +.mistervillas.com
 +.mistyhorizon.com
 +.miszfe.glamira.es
@@ -53677,6 +53684,7 @@
 +.neojge.luxeol.com
 +.neolf.theadventurechallenge.com
 +.neoncsr21.net.anwalt.de
++.neonsites.com
 +.neos.lasentradas.com.ec
 +.neos.masterads.pro
 +.neos.wibbaybo.com
@@ -54142,6 +54150,7 @@
 +.nik.io
 +.nil.naver.com
 +.nimbleplot.com
++.nimbuswatersystem.com
 +.nindu.smallwoodhome.com
 +.ninestats.com
 +.ninja.data.olxcdn.com
@@ -54362,6 +54371,7 @@
 +.nordics.movanze.se
 +.nordics.nitecaps.no
 +.north.charityright.org.uk
++.northstar.cr
 +.nos.nosepinpalace.com
 +.nosgl.gearforears.com
 +.nosjew.glamira.de
@@ -56008,6 +56018,7 @@
 +.outdoorsoil.com
 +.outdoorthingy.com
 +.outerwords.com
++.outletpeople.com
 +.outreach.connectednation.org
 +.outreach.crossref.org
 +.outreach.kansashealthsystem.com
@@ -57218,6 +57229,7 @@
 +.perion.com
 +.perk0mean.com
 +.perle.perledelumina.ro
++.permagroove.com
 +.permutive.app
 +.permutive.com
 +.perpetualtracking.lytess.com
@@ -57763,6 +57775,7 @@
 +.plans.fundtherebuild.com
 +.plantcourse.com
 +.plants.outsidein.com
++.plantscafe.net
 +.plas.imfeld.dev
 +.platform.datazoom.io
 +.platform.malwarebytes.com
@@ -58078,6 +58091,7 @@
 +.posthog.lingvanex.com
 +.posthog.russpass.ru
 +.posthog.tarnkappe.info
++.posthog.worldshopping.global
 +.potato.babywarehouse.ca
 +.potato.facebar.com.ua
 +.potato.oaklen.com
@@ -94720,6 +94734,7 @@
 +.thingstaste.com
 +.think.lavidahomes.com.au
 +.think.phdinc.com
++.thinkingdata.cn
 +.thinkitten.com
 +.thinkitwice.com
 +.thirdrespect.com
