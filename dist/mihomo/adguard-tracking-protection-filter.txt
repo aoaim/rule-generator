@@ -218,7 +218,6 @@
 +.77tracking.com
 +.78rkcgj4i8c6.www.cefirates.com
 +.7bet.sevenbets.com.br
-+.7bpeople.com
 +.7c2vd9kr4pt.assugrin.ch
 +.7eer.net
 +.7eleven.marketing.7eleven.com.au
@@ -8881,6 +8880,7 @@
 +.best.turajmart.com
 +.bestboundary.com
 +.bestclimbers.net
++.bestcoffeemachine.net
 +.bestill.help.no
 +.bestshoesboot.com
 +.bestsportsbra.com
@@ -38535,6 +38535,7 @@
 +.juris.met.vgwort.de
 +.juris.pedroburak.com
 +.justconfig.com
++.justfordocs.com
 +.justicejudo.com
 +.justid.io
 +.justlagoon.com
@@ -89761,6 +89762,7 @@
 +.stats.fishersci.it
 +.stats.flightformation.com
 +.stats.flightsphere.com
++.stats.flixcloud.cc
 +.stats.fluorescent.co
 +.stats.folienmarkt.de
 +.stats.fomo.com
@@ -90209,6 +90211,7 @@
 +.stats.realestate.cv.ua
 +.stats.realestate.kyiv.ua
 +.stats.realestate.uz.ua
++.stats.reanime.to
 +.stats.referralhero.com
 +.stats.refurbished-handys.de
 +.stats.rehaag-immobilien.de
