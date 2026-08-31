@@ -123,6 +123,7 @@
 .ad-eng.prod.rpay.int.roku.com
 .ad-eng.staging.rpay.int.roku.com
 .ad-format-sg.tiktokv.com
+.ad-format-ttp2.tiktokv.eu
 .ad-format16-normal-useastred.tiktokv.eu
 .ad-growth-in.heytapmobile.com
 .ad-growth-ru.heytapmobile.com
@@ -2829,6 +2830,7 @@
 .sponsored-ads.amazon.in
 .sponsored-ads.amazon.in.alphionsee.in
 .sponsored-ads.amazon.it
+.sponsored-ads.amazon.sa
 .spynet2.microsoft.com
 .spynetalt.microsoft.com
 .sq-tungsten-ts-eu.amazon-adsystem.com
