@@ -2181,7 +2181,6 @@
 .55labs.com
 .6sc.co
 .77tracking.com
-.7bpeople.com
 .7eer.net
 .99stats.com
 .9nl.eu
@@ -99464,6 +99463,8 @@
 .tagman.britishairways.com
 .ct.pinterest.com
 .incoming.telemetry.mozilla.org
+.stats.reanime.to
+.stats.flixcloud.cc
 .posthog.worldshopping.global
 .aka.asiae.co.kr
 .analytics.watchott.org
@@ -104172,6 +104173,7 @@
 .berserkhydrant.com
 .bestboundary.com
 .bestclimbers.net
+.bestcoffeemachine.net
 .bestshoesboot.com
 .bestsportsbra.com
 .betazebra.com
@@ -105113,6 +105115,7 @@
 .juicingoasis.com
 .jumbochalk.com
 .justconfig.com
+.justfordocs.com
 .justicejudo.com
 .justlagoon.com
 .justpickaname.com
