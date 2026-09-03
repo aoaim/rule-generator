@@ -207,6 +207,7 @@
 +.ads-us-west-2.delivery.roku.com
 +.ads-va.business-tiktok.com
 +.ads.amazon.com
++.ads.apple.com
 +.ads.beta.roku.com
 +.ads.bing.com
 +.ads.cloud.huawei.com
@@ -2407,6 +2408,7 @@
 +.ppm-licensingtelemetry.servicebus.windows.net
 +.pr-ad-lgsmartad-com.aws-prd.net
 +.pr.lgsmartad.com
++.prd-qlik-telemetry.servicebus.windows.net
 +.prd-usw2-requestattribution-iad.apple.com
 +.prderrordumphsm.samsungcloudsolution.com
 +.prderrordumpssm.samsungcloudsolution.net
@@ -2913,7 +2915,6 @@
 +.t4.market.xiaomi.com
 +.t5.market.xiaomi.com
 +.t7.market.xiaomi.com
-+.tar.microsoft.com
 +.target-us.samsung.com
 +.tbm.snssdk.com
 +.tc.lgsmartad.com
