@@ -18,7 +18,6 @@
 +.10stepswp.advancedtech.com
 +.10x.yecstore.be
 +.11b6n4ty2x3.taxliencode.com
-+.11nux.com
 +.123.rudestbrand.com
 +.123.spainfreetours.com
 +.123compteur.com
@@ -64,9 +63,7 @@
 +.1xwkhcsp3s5.vqsave.ommasign.com
 +.2.amssurveys.co.uk
 +.20.edge46.testandtarget.omniture.com
-+.200summit.com
 +.2026.dailytrendsbd.com
-+.204st.us
 +.206solutions.com
 +.21fhq0t574p.talentkit.io
 +.21udflra4wd.app-dev.cainthus.com
@@ -94,7 +91,6 @@
 +.3347.wolfgordon.com
 +.33across.com
 +.360i.com
-+.360tag.com
 +.39db8b138f.apps.iocnt.de
 +.39grbc.jackbarber.co.uk
 +.3cat-lp.comunitat.3cat.cat
@@ -215,7 +211,6 @@
 +.771fnypadw0j.pt.themoneytizer.com
 +.777.triple7towing.co
 +.7794933491.transcribetotext.ai
-+.77tracking.com
 +.78rkcgj4i8c6.www.cefirates.com
 +.7bet.sevenbets.com.br
 +.7c2vd9kr4pt.assugrin.ch
@@ -2127,7 +2122,6 @@
 +.abcd.vedobi.com
 +.abclag.ohboy.com.br
 +.abcompteur.com
-+.abcstats.com
 +.abdelrhman.gherasstore.com
 +.abdpac.williamsshoes.com.au
 +.abdrjm.eurostarshotels.de
@@ -2230,7 +2224,6 @@
 +.accdt.factory.jcrew.com
 +.accelerate.nuance.com
 +.acceptcards.americanexpress.co.uk
-+.access-analyze.org
 +.access.acspubs.org
 +.access.hikaritv.net
 +.access.rottne.com
@@ -2256,7 +2249,6 @@
 +.acelogger.heraldcorp.com
 +.acemetrics.aaa.com
 +.acesso.imobiliariarspicarras.com.br
-+.acetrk.com
 +.acexedge.com
 +.acfoin.deppoavantaj.com
 +.acfth.broadwayinchicago.com
@@ -2434,7 +2426,6 @@
 +.acwbzb.compagniedesspas.fr
 +.acweb.clog.jp
 +.acxajt.jimmykey.com
-+.acxiom-online.com
 +.aczoh.myhealth-lifestyle.com
 +.ad-a8.www.zeiri4.com
 +.ad-api-log.colopl.jp
@@ -10994,6 +10985,7 @@
 +.caringcast.com
 +.carloforward.com
 +.carmen.golem.de
++.carmen2.golem.de
 +.carmona.anunciojuridico.com.br
 +.carp.amespacios.com
 +.carp.spotonevent.no
@@ -11974,6 +11966,7 @@
 +.clientlog.midomi.com
 +.clientlog.perfectworldgames.com
 +.clientlog.pwsdk.com
++.clientlog.wanmei.com
 +.clientlog3.music.163.com
 +.clientlogdep.music.163.com
 +.clientlogger.marketplace.aws.a2z.com
@@ -12993,6 +12986,7 @@
 +.consulting.mcgladrey.com
 +.consulting.ramboll.com
 +.consumer.inform.equifax.com
++.consumerdebtnegotiation.com
 +.consumerknowhow.com
 +.consumerpilot.mektri.com
 +.consumerpilot.mektri.net
@@ -23096,6 +23090,7 @@
 +.emealandingpage.ajo1emea.adls.adobevlab.com
 +.emealandingpage.ajo2emea.adls.adobevlab.com
 +.emedns.bonify.de
++.emergency.zeta-ai.io
 +.emerheat-ss.shopperlo.com
 +.emerheat-ss.wellheater.com
 +.emersonecologics.com.102.122.207.net
@@ -37518,7 +37513,6 @@
 +.ipcc.vnpt.com.vn
 +.ipcd-ts.optimizate.com
 +.ipcfgw.pieces.com
-+.ipcheck.blogsys.jp
 +.ipclt.pleasershoes.com
 +.ipcount.net
 +.ipcounter.de
@@ -38264,6 +38258,7 @@
 +.jnros.fresh.com
 +.jnsol.sokolovelaw.com
 +.jnsoxa.fcmm.kr
++.jnt.welt.de
 +.jnunn.alppouch.com
 +.jnvfm.blackmagic.com
 +.jnwpr.chefstore.com
@@ -38683,6 +38678,7 @@
 +.kalwub.mizuho-re.co.jp
 +.kameleoon.com
 +.kameleoon.eu
++.kameleoon.io
 +.kameo.32degrees.com
 +.kampaania.aripaevmeedia.ee
 +.kampanja.bhtelecom.ba
@@ -54834,6 +54830,7 @@
 +.o.swisscom.ch
 +.o.webmd.com
 +.o.xbox.com
++.o11y-proxy-otel-frontend.meli.com
 +.o1lvz.poopy.co
 +.o2de.mno.link
 +.o2o.api.xiaomi.com
@@ -58746,6 +58743,7 @@
 +.puffypurpose.com
 +.pufjc.attunemedspa.com
 +.pufqhd.rounz.com
++.pugspress.com
 +.pugvm.durangoboots.com
 +.puiwrs.misterspex.de
 +.puja.amardeeprawat.com
@@ -59941,6 +59939,7 @@
 +.rechenschieber.transfermarkt.us
 +.rechenschieber.transfermarkt.world
 +.recid.aquatalia.com
++.recipepile.net
 +.recipepin.com
 +.recml.simplynootropics.com
 +.reco.target2sell.com
@@ -59976,6 +59975,7 @@
 +.redbricksoap.com
 +.redcounter.net
 +.reddwarf.till-sanders.de
++.redexecs.com
 +.redistats.com
 +.redstatcounter.com
 +.redt.bagatt.com
@@ -60130,6 +60130,7 @@
 +.rent.trs-rentelco.com
 +.rental.skinnerudlejning.dk
 +.rentinfinity.com
++.rentinfrared.com
 +.rentpenny.com
 +.reobi.anderswhitesydney.com
 +.rep.lebes.com.br
@@ -60233,6 +60234,7 @@
 +.reptile.delopoulos.gr
 +.reptile.o-lit.fr
 +.republica.cursodetti.com.br
++.republicfarm.net
 +.req.mediabuyeracademy.com
 +.reqssx.centerparcs.fr
 +.reqstat.api.mega.co.nz
@@ -60386,6 +60388,7 @@
 +.retrievemint.com
 +.retro.geeklife.fr
 +.retrocrypt.com
++.retrorays.com
 +.retzrtz.wohnmeile.de
 +.reuat.zestypaws.com
 +.reuei.covertecproducts.com
