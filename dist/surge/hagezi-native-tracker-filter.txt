@@ -52,7 +52,6 @@
 .aax-fe.amazon-adsystem.com
 .aax-gamma-us-east.axp.amazon-adsystem.com
 .aax-ott-c2s.amazon-adsystem.com
-.aax-ott-sdk.amazon-adsystem.amazon.com
 .aax-ott-sdk.amazon-adsystem.com
 .aax-ott.amazon-adsystem.amazon.com
 .aax-ott.amazon-adsystem.com
@@ -440,7 +439,6 @@
 .api.installer.xiaomi.com
 .api.jr.mi.com
 .api.launcher.intl.miui.com
-.api.metrics.eu-central-1.iris.apx.amazon.dev
 .api.metrics.us-west-2.iris.apx.amazon.dev
 .api.micloud.xiaomi.net
 .api.mintbrs.intl.miui.com
@@ -964,7 +962,6 @@
 .databeacon.apple.com
 .datacollection.apple.com
 .datacollector-dra.dt.dbankcloud.cn
-.datacollector-drcn.dt.dbankcloud.cn
 .datacollector-dre.dt.dbankcloud.cn
 .dc-dragate-cn.heytapmobi.com
 .dc-dragate-sg.heytapmobile.com
@@ -1608,6 +1605,7 @@
 .location.microsoft.com
 .location.tiktok.com
 .location.tiktokv.com
+.location.tiktokv.eu
 .location.tiktokw.us
 .location.us.tiktokv.com
 .location16-normal-useastred.tiktokv.eu
@@ -1947,6 +1945,7 @@
 .metrics-dre.dt.dbankcloud.cn
 .metrics.apple.com
 .metrics.dt.dbankcloud.cn
+.metrics.eu-central-1.iris.apx.amazon.dev
 .metrics.eu-south-2.iris.apx.amazon.dev
 .metrics.eu-west-1.iris.apx.amazon.dev
 .metrics.icloud.com
@@ -2283,6 +2282,7 @@
 .opex-service-eu.allawnos.com
 .opex-service-in.allawnos.com
 .opex-service-sg.allawnos.com
+.origin-s.amazon-adsystem.com
 .origin-sq-tungsten-ts.amazon-adsystem.com
 .orsdls.di.runestone.samsung.com
 .orsfs.di.runestone.samsung.com
@@ -2408,7 +2408,6 @@
 .ppm-licensingtelemetry.servicebus.windows.net
 .pr-ad-lgsmartad-com.aws-prd.net
 .pr.lgsmartad.com
-.prd-qlik-telemetry.servicebus.windows.net
 .prd-usw2-requestattribution-iad.apple.com
 .prderrordumphsm.samsungcloudsolution.com
 .prderrordumpssm.samsungcloudsolution.net
@@ -3115,12 +3114,10 @@
 .upgrade.pandora.xiaomi.com
 .upu.samsungelectronics.com
 .ureca.samsungapps.com
-.ureca.samsungapps.com.ad.mexnet.de
 .url4077.ads-service.tiktok.com
 .us-ad-lgsmartad-com.aws-prd.net
 .us-east.ono.axp.amazon-adsystem.com
 .us-mesh-events-data-leafs.trafficmanager.net
-.us-report.gras.samsungdm.com
 .us.lgsmartad.com
 .usc-onenote-telemetry.officeapps.live.com
 .usc-visio-telemetry.officeapps.live.com
