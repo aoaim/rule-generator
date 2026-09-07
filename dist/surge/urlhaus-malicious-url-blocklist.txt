@@ -2,6 +2,8 @@
 .0following.com
 .123.ywxww.net
 .132.red-81-42-249.staticip.rima-tde.net
+.14-0-204-188.static.pccw-hkt.com
+.150.co.il
 .1717.1000uc.com
 .178.248.3.202.ll.sta.mana.pf
 .179.248.3.202.ll.sta.mana.pf
@@ -21,10 +23,8 @@
 .abonent-app.ru
 .acc.jiangsujiaxue.com
 .acms.saleseos.com
-.adctanzania.co.tz
 .admin.byte.in.ua
 .admin.gestroom.it
-.aetherone.su
 .aftelecom.com.br
 .aidlifempowerment.com
 .airtickts.com
@@ -33,6 +33,7 @@
 .allendostmen.com
 .alphapicaficagency.com
 .alphasaling.site
+.altamoorgoods.com
 .alternativas.ru
 .app.appzcvb.com
 .archivoscrosoft.com
@@ -44,17 +45,14 @@
 .attach.66rpg.com
 .attach.mail.daum.net
 .audicontadores.com
-.authowareinc1.screenconnect.com
 .automobile-bk.de
 .awarenessexhibition.com
-.b2b.jewmailer.net
 .backupallfresh2030.com
 .backupso.com
 .balanced-red-emhnkdfj-dp7g2kvqxx8n.edgeone.dev
 .balkarsoftware.cubistech.com
 .bamautzky.de
 .baolongwes.oss-ap-southeast-1.aliyuncs.com
-.beak.in
 .benshamcentre.co.uk
 .best.obs.cn-sz1.ctyun.cn
 .best10cdn.blob.core.windows.net
@@ -68,6 +66,7 @@
 .bnet-api.playm8ru.win
 .bnet.playm8ru.win
 .book.rollingvideogames.com
+.booking.captcha-message-extranet.com
 .bratusferramentas.grupomoltz.com.br
 .bridgeroad.maverickpreviews.com
 .brightworks.cz
@@ -84,12 +83,10 @@
 .catbaparadisehotel.com.vn
 .cdaonline.com.ar
 .cdn-10049480.file.myqcloud.com
-.cdn.file6.goodid.com
 .cdn.gomlab.com
 .cdn.novoline.top
 .cdn.xiaoduoai.com
 .celebratingseniors.net
-.centrodolce.screenconnect.com
 .cfs10.blog.daum.net
 .cfs13.tistory.com
 .cfs7.blog.daum.net
@@ -134,7 +131,6 @@
 .deliverymailreport.co.za
 .delp-heizungsbau.de
 .deltabehavioralhealth.org
-.deoriatimes.com
 .dexios.co.za
 .dezcom.com
 .dfd.zhzy999.net
@@ -166,8 +162,6 @@
 .download.pdf00.cn
 .download.pdf00.com
 .download.suxiazai.com
-.download.tfyxzai.com
-.download2.huduntech.com
 .dreamwatchevent.com
 .dreemix.com
 .drgenov.com
@@ -181,12 +175,14 @@
 .empty-violet-63e1.maskify.workers.dev
 .en.taichuan.com
 .endpoint.project0.cc
+.envs.sh
 .epanpano.com
 .f24-zfcloud.zdn.vn
 .f3i5-0g49bgn-3h95-1324992141.cos.ap-jakarta.myqcloud.com
 .fakers.co.jp
 .fb6390d5.infinityindians.pages.dev
 .fd.v2downf.shop
+.ferhfw.oss-cn-hongkong.aliyuncs.com
 .file.blackint3.com
 .file.uhsea.com
 .filerit.com
@@ -195,7 +191,6 @@
 .flyingmutts.com
 .fmrio.com
 .forspeed.onlinedown.net
-.fotosdepuebla.org
 .fukt.link
 .fullstacknir.com
 .funneldiy.com
@@ -203,11 +198,13 @@
 .gaiadeqi.com
 .galeri3.arkitera.com
 .galerisenimutiara.com
+.gaode11223.oss-ap-southeast-7.aliyuncs.com
 .geoxsecurity.ro
 .gestionycobranzas.com
+.gestroom.it
 .globalbank.us
-.gobiotechpestcontrol.com
 .goto.stnts.com
+.grantexx.com
 .grupomcperu.com
 .gutando.com
 .haeum.nfile.net
@@ -237,6 +234,7 @@
 .ikincielesyaciankara.com.tr
 .imagefiles-backup.oss-ap-southeast-7.aliyuncs.com
 .impectorinternational.com
+.indusenterprises.co
 .intelligradeeducation.vicentecisnerospub.com
 .ircftp.net
 .isiore.com.co
@@ -255,7 +253,6 @@
 .khavar.com
 .kimyen.net
 .kits.frog.tw
-.kokorostore.it
 .konsor.ru
 .landonirwin.com
 .lawfirm.paperbirdtech.com
@@ -265,11 +262,11 @@
 .local-update.com
 .lomejordesalamanca.es
 .luizmatoso.com.br
-.lumacrea.com
 .luminouspower.com.pk
 .m.jkoa.co.kr
 .m.meta-dm.com
 .maidforyou1985.com
+.mailify.cc
 .matthewsigmondv5.pages.dev
 .medises.co.kr
 .mersped.mycpanel.rs
@@ -280,7 +277,6 @@
 .mkconstructions.net
 .mnurlogistics.az
 .mogimall.com
-.mothertouch.ac.zw
 .mrsweaterltd.com
 .msoftdatastore.z22.web.core.windows.net
 .muaklekcoop.com
@@ -302,7 +298,6 @@
 .notbak.com
 .nusatoyota.co.id
 .ny.lshdw.cc
-.odinclient.dev
 .ofice365.github.io
 .ojang.pe.kr
 .oknoplastik.sk
@@ -310,6 +305,7 @@
 .old.umcl.us
 .one-graup.com
 .ossapp.suning.com
+.out-agent.duckdns.org
 .outpost.co.ke
 .p3.zbjimg.com
 .paccbet.pages.dev
@@ -323,7 +319,6 @@
 .pedianow.org
 .pfatrivandrum.org
 .pic.li
-.pingu.business
 .pingu.ltd
 .pingu.surf
 .pjsn.hi2.ro
@@ -340,7 +335,6 @@
 .profitable-pink-0y9btnew-dpk6vqe6eheo.edgeone.dev
 .programandojuntos.us.tempcloudsite.com
 .projetodegente.com
-.pub-0216fa08b2b94e129cb9e002cf7cb1f4.r2.dev
 .pub-0478b308b8cf46709a73d0eed5afd633.r2.dev
 .pub-1614932a526c40d79fe5bf23e71e3ff7.r2.dev
 .pub-1900be17f2994b5580d602f23eb7fb93.r2.dev
@@ -353,9 +347,10 @@
 .pub-ec081eb0fab74385a17d8d77afeeda3b.r2.dev
 .public.demo.securecloudsandbox.com
 .pvsa.gxfugy.cn
+.qdzip-1476850762.cos.ap-singapore.myqcloud.com
 .qiniuyunxz.yxflzs.com
+.qqwwaa.tos-cn-hongkong.volces.com
 .quick-load.vercel.app
-.qv.co.ke
 .rabbitfuns.su
 .ramirex.ro
 .rcf.co.mz
@@ -376,8 +371,8 @@
 .rusa-inion24-novst.vercel.app
 .rxquickpay.com
 .ryzhe.com
+.sablayan.seasonshotelmindoro.com
 .saf-oil.ru
-.safeuploadz.com
 .sales.ifree.page
 .salonmarketing.ca
 .samiksha.com.sg
@@ -386,6 +381,7 @@
 .scoala1gherla.ro
 .screenconnect.pro
 .scrroeder.com
+.sdufkghdfshds.cfd
 .sec.dashabi.in
 .sec.xiaojiji.nl
 .sec.xiaoshabi.nl
@@ -406,7 +402,6 @@
 .smartermail.host
 .sochibeer.ru
 .soft.110route.com
-.soft.wsyhn.com
 .softbank126023203236.bbtec.net
 .softdl.360tpcdn.com
 .softdl2.360tpcdn.com
@@ -417,16 +412,20 @@
 .starcountry.net
 .static.3001.net
 .static.ilclock.com
+.static.topxgun.com
 .static.youdm.cn
+.static.zongheng.com
 .stdown.dinju.com
 .streammobs.com
+.students16.screenconnect.com
 .studiogioeli.it
 .support-data.com
 .support.clz.kr
 .svirtual.sanviatorperu.edu.pe
 .sweet-snowflake-8a7e.uploadesclintesss.workers.dev
-.swiftfusion.tech
+.syn-096-011-145-107.biz.spectrum.com
 .synergyconsulting.us
+.taizi.fdstat.vip
 .tangentwaves.com
 .tanscarattorneys.co.tz
 .tapestryoftruth.com
@@ -436,6 +435,7 @@
 .tdfhdser-1433552157.cos.ap-hongkong.myqcloud.com
 .tecunonline.com
 .tehnomag.rs
+.teleabonent.ru
 .tengfeidn.cn
 .tenis-team-km.com
 .test.peperoncinochepassione.it
@@ -456,7 +456,6 @@
 .transparenciacanaa.com.br
 .trtmyanmar.com
 .trusting-golick.93-152-221-234.plesk.page
-.tuiskr.com
 .twitch.tj
 .twu-hwt.org
 .union.macoms.la
@@ -474,7 +473,6 @@
 .visam.info
 .vizyonuniversitesi.com.tr
 .vizyonuniversitesi.web.tr
-.vmi2767642.contaboserver.net
 .vrajras.com
 .vuelaviajero.com
 .w.zhzy999.net
