@@ -8804,6 +8804,7 @@
 +.beck.met.vgwort.de
 +.becomemummy.com
 +.bed.bedkingdom.co.uk
++.beddingdownbaby.com
 +.beddn.gundrymd.com
 +.bedmz.mercimamanboutique.com
 +.bedrop.marketing-tech.io
@@ -9158,6 +9159,7 @@
 +.biggerbling.com
 +.bighornbasin.net
 +.bigleapforward.org
++.bigpicframing.com
 +.bigsauron.ru
 +.bigstats.net
 +.bigsv.ontrackmeals.com
@@ -9165,6 +9167,7 @@
 +.bigwetbrush.com
 +.bigworldfashion.com
 +.bijkep.hotelesestelar.com
++.bijouxbee.com
 +.bike.turbobd.com
 +.bikeexerciser.com
 +.bikepaws.com
@@ -9196,6 +9199,7 @@
 +.biome.medicalplus.com.bd
 +.bionicclick.com
 +.biot.byads.co
++.biotechnologysciences.com
 +.bipog.perfectwhitetee.com
 +.biqizo.vixpaulahermanny.com
 +.bird.brondby.com
@@ -12121,6 +12125,7 @@
 +.cloudmetrics.xenforo.com
 +.cloudninefresh.com
 +.clouds.stapepeople.com
++.cloudx.io
 +.clover.luckycharmgold.com
 +.cloverkeys.com
 +.cloverleaf.infor.com
@@ -20815,6 +20820,7 @@
 +.distributionpocket.com
 +.distributiontomatoes.com
 +.disturbedquiet.com
++.disutgh7q0ncc.cloudfront.net
 +.dit.whatsapp.net
 +.dit.whatsapp.net.iberostar.com
 +.divolution.com
@@ -24222,6 +24228,7 @@
 +.events.pella.com
 +.events.petcamp.com.br
 +.events.plumbv.com
++.events.plutus.ninja
 +.events.popinfo.jp
 +.events.prd.api.discomax.com
 +.events.privy.com
@@ -40328,6 +40335,7 @@
 +.lmzyh.adanola.com
 +.ln.loudnoise.nl
 +.lndata.com
++.lndrsapi.com
 +.lnezkw.iturbo.fr
 +.lnfqk.showerenvy.com
 +.lng.xiaohongshu.com
@@ -50222,6 +50230,7 @@
 +.metrics.dunkindonuts.com
 +.metrics.e-abbott.com
 +.metrics.e-wie-einfach.de
++.metrics.earlygame.com
 +.metrics.earrieta.dev
 +.metrics.eascanada.com
 +.metrics.eastcentral.aaa.com
@@ -57760,6 +57769,7 @@
 +.pl02.owen.prolitteris.ch
 +.pla-tk.flipkart.net
 +.pla.pearlinsurance.com
++.pla.uqload.vc
 +.pla.wigglepixel.nl
 +.placeframe.com
 +.placemypixel.com
@@ -60248,6 +60258,7 @@
 +.reqstat.api.mega.co.nz
 +.request.verisign.com
 +.requestmetrics.com
++.rer4.com
 +.rerjk.bugmd.com
 +.rertrc.abc-mart.net
 +.res-x.com
@@ -94614,6 +94625,7 @@
 +.text.mitarbeiterangebote.at
 +.text.mitarbeiterangebote.de
 +.text.rahmenvereinbarungen.de
++.texturehunt.com
 +.texturetrick.com
 +.teyourmarketing.trungaleegan.com
 +.teyvmb.moniquelhuillier.com
@@ -95457,6 +95469,7 @@
 +.topdepo.com
 +.tophits4u.de
 +.topicalcartel.com
++.topicjungle.com
 +.topiz.ru
 +.toplist.cz
 +.toplist.eu
@@ -100421,6 +100434,7 @@
 +.tusk-us.happymammoth.com
 +.tutbc1.www.tapmyback.com
 +.tutorials.karachitutor.com
++.tutorshelf.com
 +.tutu.lendoncapital.com
 +.tuty.tutyiandsisu.com.au
 +.tuvevx.agent-sana.com
@@ -100503,6 +100517,7 @@
 +.two.tracedock.com
 +.twochihuahuas.com
 +.twoeej.carrefour.fr
++.twofishweb.com
 +.twpcbx.ullapopken.at
 +.twptxs.teknikhouse.se
 +.twsdne.petenkoiratarvike.com
@@ -101199,6 +101214,7 @@
 +.ur.trackingjourney.com
 +.urbanairship.com
 +.urbanlaurel.com
++.urbanopus.net
 +.urcaq.eberjey.com
 +.urdam.hillcrestmemorialgarden.com
 +.urdap.forever21.com
@@ -106257,6 +106273,7 @@
 +.zo.zeitgeist-outdoor.de
 +.zobgqg.sirobari.jp
 +.zobtmj.kiddies-kingdom.com
++.zodalt.com
 +.zodhqv.peterson.fr
 +.zoerxk.belifmeetsvdl.com
 +.zogio.kiauraeyewear.com
