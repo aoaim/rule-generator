@@ -4,6 +4,9 @@
 .ib.snssdk.com
 .xlog.snssdk.com
 .log.snssdk.com
+.mydatascript.bubbleup.com
+.getads.ru
+.idsequoia.ai
 .disutgh7q0ncc.cloudfront.net
 .zodalt.com
 .rer4.com
@@ -99461,6 +99464,7 @@
 .tagman.britishairways.com
 .ct.pinterest.com
 .incoming.telemetry.mozilla.org
+.7lzwgj.donaukurier.de
 .events.plutus.ninja
 .metrics.earlygame.com
 .pla.uqload.vc
@@ -102993,6 +102997,8 @@
 .int.vlancaa.site
 .int.vlancaa.fun
 .tok.vaicore.xyz
+.bid.ctv.house
+.log.calomeal.com
 .visit-server.inmobi-choice.io
 .adashx.m.taobao.com
 .logs.profi.ru
@@ -104226,6 +104232,8 @@
 .blitzcampaigns.com
 .blockdial.com
 .bloomsend.com
+.bluebellbooks.com
+.bluebirdteam.com
 .bluecollarmuse.com
 .blueeyedblow.com
 .bluelionlabs.net
@@ -104276,6 +104284,7 @@
 .broadborder.com
 .broadcastbed.com
 .broaddoor.com
+.broflask.com
 .brotherslocket.com
 .brownboxgroup.com
 .browndogmanor.com
