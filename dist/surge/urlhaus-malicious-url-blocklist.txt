@@ -1,6 +1,8 @@
+.0akw8w.com
 .0following.com
 .123.ywxww.net
 .132.red-81-42-249.staticip.rima-tde.net
+.150.co.il
 .1717.1000uc.com
 .178.248.3.202.ll.sta.mana.pf
 .179.248.3.202.ll.sta.mana.pf
@@ -21,7 +23,6 @@
 .acms.saleseos.com
 .admin.byte.in.ua
 .admin.gestroom.it
-.adopdf.shop
 .aftelecom.com.br
 .aidlifempowerment.com
 .airtickts.com
@@ -41,11 +42,9 @@
 .attach.66rpg.com
 .attach.mail.daum.net
 .audicontadores.com
-.auravibes04ko.shop
 .authowareinc1.screenconnect.com
 .automobile-bk.de
 .backupallfresh2030.com
-.backupso.com
 .balanced-red-emhnkdfj-dp7g2kvqxx8n.edgeone.dev
 .balkarsoftware.cubistech.com
 .bamautzky.de
@@ -64,6 +63,7 @@
 .bnet-api.playm8ru.win
 .bnet.playm8ru.win
 .book.rollingvideogames.com
+.booking.captcha-message-extranet.com
 .bratusferramentas.grupomoltz.com.br
 .bridgeroad.maverickpreviews.com
 .brightworks.cz
@@ -95,13 +95,13 @@
 .chiroartist.com
 .chuguadventures.co.tz
 .churchinmanila.org
+.cid.gov.so
 .cl.ssouy.com
 .class1004.dothome.co.kr
 .cliffg.me
 .cloud.pearlpeel.com
 .clubdetiroelpicarcho.com
 .cn.unionlever.com
-.co-emas.com
 .coconutoficial.com.br
 .compuserviceonline.com.br
 .continentalgroup.net.in
@@ -109,6 +109,7 @@
 .coolairesgroup.com
 .coralasargetia.ro
 .cpc188.day
+.craftsparkdimensions.com
 .crazywickedaddiction.com
 .crystalpvp.ru
 .cs.go.kg
@@ -121,7 +122,6 @@
 .damiancollier.com
 .data.yhydl.com
 .dcrun.co.uk
-.dcwblida.dz
 .deagroup-ks.com
 .del.sou.pp.ua
 .delp-heizungsbau.de
@@ -132,6 +132,7 @@
 .disk.accord1key.cn
 .divvanews.com
 .dl.1003b.56a.com
+.dl.2345.com
 .dl.dzqzd.com
 .dl.natgo.cn
 .dlied6.bytes.tcdnos.com
@@ -159,7 +160,6 @@
 .download2.huduntech.com
 .dreamwatchevent.com
 .drgenov.com
-.dropboxb3.duckdns.org
 .dubapkg.cmcmcdn.com
 .duct-master.com
 .dynga.pl
@@ -172,7 +172,6 @@
 .envs.sh
 .epanpano.com
 .epsinf.com
-.eurofarm.ge
 .f24-zfcloud.zdn.vn
 .f3i5-0g49bgn-3h95-1324992141.cos.ap-jakarta.myqcloud.com
 .fakers.co.jp
@@ -182,6 +181,7 @@
 .file.blackint3.com
 .file.uhsea.com
 .filerit.com
+.firojkhan.com.np
 .first-security-verden.de
 .flyingmutts.com
 .fmrio.com
@@ -189,11 +189,9 @@
 .fukt.link
 .fullstacknir.com
 .fz.tiansys.cn
-.gaiadeqi.com
 .galeri3.arkitera.com
 .galerisenimutiara.com
 .gaode11223.oss-ap-southeast-7.aliyuncs.com
-.garogradba.mk
 .geoxsecurity.ro
 .gestionycobranzas.com
 .gestroom.it
@@ -201,7 +199,6 @@
 .goto.stnts.com
 .grantexx.com
 .grupomcperu.com
-.gutando.com
 .haeum.nfile.net
 .harmeetmotors.com
 .hasalltalent.com
@@ -220,14 +217,14 @@
 .hotelsep.blogspot.com
 .hqsblog.com
 .hseda.com
-.htdentshop.com
 .hzxcaq-github-io.pages.dev
 .icoffeecloud.com
 .ignetwork.us
 .ihmmkvkaiwnilneauhfn.supabase.co
-.ikincielesyaciankara.com.tr
 .imagefiles-backup.oss-ap-southeast-7.aliyuncs.com
 .impectorinternational.com
+.indonesias.me
+.indusenterprises.co
 .intelligradeeducation.vicentecisnerospub.com
 .ircftp.net
 .isiore.com.co
@@ -250,8 +247,8 @@
 .lawfirm.paperbirdtech.com
 .lcportal.kbinsure.co.kr
 .leindisncieamrocea-1341831283.cos.sa-saopaulo.myqcloud.com
+.letstalkhomes.ca
 .lifeisabouthavingfun448.duckdns.org
-.lindnerelektroanlagen.de
 .local-update.com
 .lomejordesalamanca.es
 .loop-lumen.com
@@ -265,6 +262,7 @@
 .matthewsigmondv5.pages.dev
 .medises.co.kr
 .mersped.mycpanel.rs
+.metrics.gocloudmaps.com
 .miner.pages.dev
 .mininews.kpzip.com
 .miriamgualda.com.br
@@ -272,7 +270,6 @@
 .mkconstructions.net
 .mnurlogistics.az
 .mogimall.com
-.mrsweaterltd.com
 .msoftdatastore.z22.web.core.windows.net
 .muaklekcoop.com
 .muledo.com
@@ -283,7 +280,6 @@
 .namaacont.com
 .nccommunication.be
 .ncxps.com
-.nershalom.screenconnect.com
 .nerve.untergrund.net
 .newkey.co.kr
 .noithaticon.vn
@@ -292,6 +288,7 @@
 .nusatoyota.co.id
 .ny.lshdw.cc
 .ofice365.github.io
+.oim.doganltd.com.tr
 .ojang.pe.kr
 .okhan.net
 .oknoplastik.sk
@@ -305,6 +302,7 @@
 .palharesinformatica.com.br
 .paradox924x.pages.dev
 .pardu.pages.dev
+.paretandassociates.screenconnect.com
 .patricstoremegans2.com
 .pay.aqiu6.com
 .pcupd.com
@@ -322,7 +320,6 @@
 .preciosasjoyitas.com.mx
 .prepstarcenter.com
 .procuratio.nu
-.productoslili.cl
 .profitable-pink-0y9btnew-dpk6vqe6eheo.edgeone.dev
 .programandojuntos.us.tempcloudsite.com
 .projetodegente.com
@@ -361,6 +358,7 @@
 .sablayan.seasonshotelmindoro.com
 .saf-oil.ru
 .safeifm.com
+.safewatertech.com
 .sales.ifree.page
 .salonmarketing.ca
 .samiksha.com.sg
@@ -369,7 +367,6 @@
 .scoala1gherla.ro
 .screenconnect.pro
 .scrroeder.com
-.sdufkghdfshds.cfd
 .sec.dashabi.in
 .sec.xiaojiji.nl
 .sec.xiaoshabi.nl
@@ -382,8 +379,6 @@
 .sgeseducation.com
 .sh.classera.com
 .shadowbot-dih.pages.dev
-.shqdown.ggzuhao.com
-.siaasesoria.com.mx
 .signageinsignia.co.za
 .silver-hubdachwohnwagen.de
 .sk-comtel.com
@@ -394,7 +389,6 @@
 .softdl.360tpcdn.com
 .softdl2.360tpcdn.com
 .softdl4.360.cn
-.solar-sanat.net
 .spgint.com
 .ss-01.com
 .starcountry.net
@@ -406,7 +400,6 @@
 .streammobs.com
 .students16.screenconnect.com
 .studiogioeli.it
-.sumnitasinvestment.com
 .support.clz.kr
 .sutterpoint.com
 .svirtual.sanviatorperu.edu.pe
@@ -436,7 +429,6 @@
 .top8onlinegame.com
 .topmark-tuitioncentre.co.uk
 .tpp.om-stock.com
-.tr.zhzy999.net
 .transparenciacanaa.com.br
 .trtmyanmar.com
 .trusting-golick.93-152-221-234.plesk.page
@@ -466,7 +458,6 @@
 .windomstatetheater.com
 .windriversfiles.imeitools.com
 .wittenhorst.eu
-.wordtax.ink
 .www-connect-secure-wellcfargo.sekolahkejarpaket.com
 .www2.0zz0.com
 .www999999asgasg-1327129302.cos.ap-chengdu.myqcloud.com
@@ -475,6 +466,7 @@
 .xn--h6qpop2cq9nl9c.pages.dev
 .xn--on3b15m2lco2u.com
 .xn--yh4bx88a.com
+.xolep1.tos-cn-beijing.volces.com
 .xshop.com.tr
 .xww.bucea.edu.cn
 .yakult-hk.com
