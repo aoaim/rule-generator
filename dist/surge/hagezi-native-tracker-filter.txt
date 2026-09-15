@@ -1033,6 +1033,7 @@
 .err-up.vivoglobal.com
 .err.up.vivoglobal.com
 .es-ad-lgsmartad-com.aws-prd.net
+.es-info-lgsmartad-com.aws-prd.net
 .et-ad-lgsmartad-com.aws-prd.net
 .eu-album-api.vivoglobal.com
 .eu-cota.vivoglobal.com
@@ -1334,8 +1335,6 @@
 .iadsdk.apple.com.akadns.net
 .iadsdk.apple.com.edgekey.net
 .iadworkbench.apple.com
-.ibs.nextlgsdp.com
-.ibsstat.nextlgsdp.com
 .icosa-service-eu.allawnos.com
 .icosa-service-fr-01.allawnos.com
 .icosa-service-fr-02.allawnos.com
