@@ -5602,6 +5602,7 @@
 +.analyticsresults.smartexperts.de
 +.analyticsresults.zahltsichausbildung.de
 +.analyticss.miraiclinical.com
++.analyticssec.overwolf.com
 +.analyticsssl.forcepoint.com
 +.analyticsstp.simcorner.com
 +.analyticssystems.net
@@ -8555,6 +8556,7 @@
 +.barracuda.civicdatalibrary.org
 +.barracuda.verto.exchange
 +.barrelcider.com
++.bartcons.com
 +.bartdta.jameslane.com.au
 +.bartdta.sleepinggiant.com.au
 +.base.vrielingassuradeuren.nl
@@ -13416,6 +13418,7 @@
 +.counter.tldw.me
 +.counter.top.ge
 +.counter.ukr.net
++.counter.wargamings.net
 +.counter.web.money
 +.counter.websiteout.net
 +.counter.websitevoice.com
@@ -25318,6 +25321,7 @@
 +.firstbank.fmservice.com
 +.firstendpoint.com
 +.firstgb.simplysensitivitychecks.com
++.firsthoughtstudios.com
 +.firstparty.accountable.de
 +.firstparty.accountable.eu
 +.firstparty.alloyio.com
@@ -26486,6 +26490,7 @@
 +.gacela.eu
 +.gaclzv.hijabchic.co.id
 +.gaconnector.com
++.gadata.motorpresse.de
 +.gadgetboy.net
 +.gads.goldebet.bet.br
 +.gads.homecompany-moebel.com
@@ -37126,6 +37131,7 @@
 +.init.blackcrow.ai
 +.init.izoa.fr
 +.inixwg.vibrate.co.kr
++.inkcarts.net
 +.inkcoupon.com
 +.inlks.topliftpros.com
 +.inlog01.hket.com
@@ -38414,6 +38420,7 @@
 +.jqezp.aroma360.nl
 +.jqflf.homefurnitureandpatio.com
 +.jqguzn.pnxdesign.co.kr
++.jqioregvpxgte.website
 +.jqjvj.makewellness.com
 +.jqlzwb.bauhaus.fi
 +.jqmft.pyramidcollection.com
@@ -38559,6 +38566,7 @@
 +.juris.pedroburak.com
 +.justconfig.com
 +.justfordocs.com
++.justice.maybeoneday.ch
 +.justicejudo.com
 +.justid.io
 +.justlagoon.com
@@ -39704,6 +39712,7 @@
 +.launch.turnsignal.io
 +.launches.appsflyer.com
 +.launchjack.com
++.launchkite.com
 +.laura.elements-lighting.fr
 +.lauren.glassworkslondon.com
 +.lausk.lchaimmeats.com
@@ -39801,6 +39810,7 @@
 +.ldpsww.autocreditexpress.com
 +.ldqbuy.sport-express.ru
 +.ldqtdd.peing.net
++.ldrws.com
 +.ldsptuen.smiletrainafrica.org
 +.ldugvf.bolf.hu
 +.ldvalc.manzara.cz
@@ -40205,6 +40215,7 @@
 +.lite.lchfarkivet.se
 +.litix.io
 +.litos.moventashop.com
++.littlegeese.com
 +.littlesun.net
 +.live-st.rldatix.com
 +.live-st.rldatix.de
@@ -45946,6 +45957,7 @@
 +.love.foxana.ch
 +.love.lwbern.ch
 +.lovelydrum.com
++.lovesbooks.com
 +.loveseashore.com
 +.lowercases.com
 +.lowerthewatts.net
@@ -49140,6 +49152,7 @@
 +.mediahub.pitbull-store.co.uk
 +.mediahub.pitbull.pl
 +.medialog.smartmediarep.com
++.mediamaker.net
 +.mediameter.by
 +.mediametrics.ru
 +.mediams.mb.softbank.jp
@@ -49369,6 +49382,7 @@
 +.metagtm.devicepandora.com
 +.metagtm.pormade.com.br
 +.metajaws.com
++.metalsfactory.com
 +.metalyzer.com
 +.metawelcome.com
 +.metc.banfield.com
@@ -52761,6 +52775,7 @@
 +.mouse.seekingtv.com
 +.mouse3k.com
 +.mouseflow.com
++.mousescene.com
 +.mousestats.com
 +.mousetrace.com
 +.movable-ink-6710.com
@@ -57964,6 +57979,7 @@
 +.plus.tovari.fi
 +.plusavecmoins.adp.ca
 +.pluto.msfin.at
++.pluxpdzouwubj.space
 +.plw6buurmlxhrlkm6wy3uk7cia0mprkq.lambda-url.ap-south-1.on.aws
 +.plwfwc.teknozone.it
 +.plwnxe.pascalcoste-shopping.com
@@ -59538,6 +59554,7 @@
 +.quhdnr.musiciansfriend.com
 +.quick-counter.net
 +.quicklyedit.com
++.quicktattoo.com
 +.quicktrick.net
 +.quiddity.goguardian.com
 +.quietknowledge.com
@@ -60448,6 +60465,7 @@
 +.revi.rcs.it
 +.review.teradata.com
 +.review.thereviewguys.com.au
++.reviewacousticguitar.com
 +.revivalvoice.com
 +.revolt.almouj.com
 +.revolt.autoeco.ro
@@ -102431,6 +102449,7 @@
 +.vinsight.de
 +.vinub.com
 +.violetdemise.com
++.viowrel.com
 +.vip.gophersport.com
 +.vip.granicus.com
 +.vip.maxtor.com
