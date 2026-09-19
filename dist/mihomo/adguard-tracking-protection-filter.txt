@@ -3578,7 +3578,6 @@
 +.agoqaa.stockmann.com
 +.agorahtag.tech
 +.agrak.mojo.shop
-+.agrau.aii.sh
 +.agreeablearch.com
 +.agreeabletouch.com
 +.agrep.reneecosmetics.in
@@ -7491,6 +7490,7 @@
 +.apps.software.netsimplicity.com
 +.apps.velpa.pl
 +.appsanalytics.appideas.it
++.appsecstudio.com
 +.appsflyer-report.honkaiimpact3.com
 +.apptics.zoho.in
 +.apptracer.ru
@@ -9631,6 +9631,7 @@
 +.boundlessbrake.com
 +.boundlessveil.com
 +.bovid.neural.love
++.bowlershut.com
 +.box.kryptotrejder.sk
 +.box.velpa.pl
 +.boxandcover.com
@@ -9782,6 +9783,7 @@
 +.brownmouse.net
 +.browser-fp.production.linktr.ee
 +.browser-intake-datadoghq.com
++.browser-intake-datadoghq.eu
 +.browser-statistik.de
 +.browser-update.org
 +.browser.events.data.msn.cn
@@ -14001,6 +14003,7 @@
 +.cufroa.aboutyou.be
 +.cuftub.myspirit.com.br
 +.cuino.boironusa.com
++.cuisinevoyager.com
 +.culturaltracking.ru
 +.culture.intermedes.com
 +.culturedcamera.com
@@ -21411,6 +21414,7 @@
 +.dta.apploye.com
 +.dta.eventoslatorre.com
 +.dta.woest-sport.com
++.dtam.thrive.today
 +.dtaum.frontgate.com
 +.dtav.gersonquintao.com
 +.dtbkg.withjean.com.au
@@ -25339,6 +25343,7 @@
 +.fishersfinds.com
 +.fishhoo.com
 +.fishing.bucketbro.com.au
++.fishingrodsgalore.com
 +.fishingtoolsbox.com
 +.fishspies.com
 +.fit.bedrijfsfitnessnederland.nl
@@ -38294,6 +38299,7 @@
 +.jnros.fresh.com
 +.jnsol.sokolovelaw.com
 +.jnsoxa.fcmm.kr
++.jnt.bild.de
 +.jnt.welt.de
 +.jnunn.alppouch.com
 +.jnvfm.blackmagic.com
@@ -45859,7 +45865,6 @@
 +.logs.adplay.ru
 +.logs.amap.com
 +.logs.appsource.microsoft.com
-+.logs.browser-intake-datadoghq.eu
 +.logs.chatboost-cv.algoage.co.jp
 +.logs.classdojo.com
 +.logs.datadoghq.com
@@ -46794,6 +46799,7 @@
 +.manamoment.com
 +.manatee.biodom.bio
 +.manatee.wemaketechsimple.com
++.manateemotors.com
 +.manaus.ondec.com.br
 +.manaus2026.ondec.com.br
 +.manauslidera2026.ondec.com.br
@@ -53136,6 +53142,7 @@
 +.mud4.destinia.com.eg
 +.muddledaftermath.com
 +.muddledmemory.com
++.muddlingthroughcode.com
 +.muehldorf.patientenformular.info
 +.mueoh.besynchro.com
 +.mugapi.lazzarionline.com
@@ -53721,6 +53728,7 @@
 +.needyneedle.com
 +.nehalist.io
 +.nehcj.tryprodenta.com
++.neighborhoodbiketours.com
 +.neighborlywatch.com
 +.nejmxt.vivishoeshoe.com
 +.nejzq.champssports.com
@@ -54062,6 +54070,7 @@
 +.newsstat.dallasnews.com
 +.newsstats.seat.co.uk
 +.newsuccesssecret.com
++.newsvehicles.com
 +.newt.javier.dev
 +.newtest.wunderman-email.cjm.adobe.com
 +.neww.zahabperfumes.com
@@ -56019,6 +56028,7 @@
 +.otik.de
 +.otioqs.srcasino.es
 +.otkhyc.bueromarkt-ag.de
++.otl.minefun.io
 +.otlhn.fentybeauty.com
 +.otlsb.simplynootropics.com
 +.otm.otraderquemultiplica.com.br
@@ -60036,6 +60046,7 @@
 +.reddwarf.till-sanders.de
 +.redexecs.com
 +.redistats.com
++.redmillgroup.com
 +.redstatcounter.com
 +.redt.bagatt.com
 +.redt.bugatti-shoes.com
@@ -60257,6 +60268,7 @@
 +.repdata.ydr.com
 +.repdata.yorkdispatch.com
 +.repeatsweater.com
++.repfineart.com
 +.repixel.co
 +.replaceroute.com
 +.replay.reviews.io
@@ -90410,6 +90422,7 @@
 +.stats.starfish.team
 +.stats.steepandcheap.com
 +.stats.steirerjobs.at
++.stats.stellar.rip
 +.stats.stephlow.audio
 +.stats.strawberry.rocks
 +.stats.streamhub.io
