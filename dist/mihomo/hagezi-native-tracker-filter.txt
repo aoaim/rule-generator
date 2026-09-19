@@ -171,6 +171,7 @@
 +.adinstantpage16-normal-useastred.tiktokv.eu.edgesuite.net
 +.adlog.vivo.com
 +.adlog.vivo.com.cn
++.adm-smc-cn.heytapmobi.com
 +.ads-aka-us-east-1.delivery.roku.com
 +.ads-aka-us-west-2.delivery.roku.com
 +.ads-api.tiktok.com
@@ -289,10 +290,12 @@
 +.adx-dre.op.hicloud.com
 +.adx-drru.op.dbankcloud.com
 +.adx-drru.op.hicloud.com
++.adx-op-fr-heytapmobilea-a7bbf.fr-w01.cngw.heytapmobile.com
 +.adx-op-fr.heytapmobile.com
 +.adx-op-in.heytapmobile.com
 +.adx-op-ru.heytapmobile.com
 +.adx-op-sg.heytapmobile.com
++.adx-u-ru.heytapmobile.com
 +.adx-u-sg.heytapmobile.com
 +.adx.tv.mi.com
 +.adxlog-adnet.vivo.com.cn
@@ -2733,6 +2736,7 @@
 +.sponsored-ads.amazon.ca
 +.sponsored-ads.amazon.co.jp
 +.sponsored-ads.amazon.co.uk
++.sponsored-ads.amazon.co.za
 +.sponsored-ads.amazon.com
 +.sponsored-ads.amazon.com.au
 +.sponsored-ads.amazon.com.br
@@ -2745,6 +2749,7 @@
 +.sponsored-ads.amazon.in.alphionsee.in
 +.sponsored-ads.amazon.it
 +.sponsored-ads.amazon.sa
++.sponsored-ads.amazon.sg
 +.spynet2.microsoft.com
 +.spynetalt.microsoft.com
 +.sq-tungsten-ts-eu.amazon-adsystem.com
