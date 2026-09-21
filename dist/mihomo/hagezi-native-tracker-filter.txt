@@ -1036,7 +1036,6 @@
 +.err-up.vivoglobal.com
 +.err.up.vivoglobal.com
 +.es-ad-lgsmartad-com.aws-prd.net
-+.es-info-lgsmartad-com.aws-prd.net
 +.et-ad-lgsmartad-com.aws-prd.net
 +.eu-album-api.vivoglobal.com
 +.eu-cota.vivoglobal.com
@@ -1502,6 +1501,7 @@
 +.kz-ad-lgsmartad-com.aws-prd.net
 +.kz-album-api.vivoglobal.com
 +.kz-cname-sin01-bigdata.vivoglobal.com
++.kz-cota.vivoglobal.com
 +.kz-err-up.vivoglobal.com
 +.kz-monitor-stsdk.vivoglobal.com
 +.kz-onrt-stsdk.vivoglobal.com
@@ -2045,7 +2045,6 @@
 +.mssdk-quic-sg.tiktokv.com
 +.mssdk-quic-va.tiktokv.com
 +.mssdk-ru.tiktokv.com
-+.mssdk-ru.tiktokv.com.www.digmawifi.com
 +.mssdk-sg-bu.byteoversea.com
 +.mssdk-sg.byteoversea.com
 +.mssdk-sg.capcutapi.com
@@ -2330,6 +2329,7 @@
 +.ppc-word-telemetry.wac.trafficmanager.net
 +.ppm-licensingtelemetry.servicebus.windows.net
 +.pr-ad-lgsmartad-com.aws-prd.net
++.prd-qlik-telemetry.servicebus.windows.net
 +.prd-usw2-requestattribution-iad.apple.com
 +.prderrordumphsm.samsungcloudsolution.com
 +.prderrordumpssm.samsungcloudsolution.net
@@ -2422,7 +2422,6 @@
 +.rtb.axp.amazon-adsystem.com
 +.rtc-logger-i18n.tiktokv.com
 +.rtc-logger-ie.tiktokv.eu
-+.rtc-logger-ttp2.tiktokv.us
 +.rtc-logger-ttp2.us.tiktokv.com
 +.rtc-logger-va.tiktokv.com
 +.rtc-logger.tiktokv.com
