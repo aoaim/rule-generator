@@ -308,6 +308,7 @@
 +.af-ad-lgsmartad-com.aws-prd.net
 +.ag-ad-lgsmartad-com.aws-prd.net
 +.agps-location-livenet.trafficmanager.net
++.aios-otel-collector.g.apple.com
 +.akcjasamsung.e-kei.pl
 +.al-ad-lgsmartad-com.aws-prd.net
 +.al-info-lgsmartad-com.aws-prd.net
