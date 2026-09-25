@@ -4559,6 +4559,7 @@
 +.analytics.claudelog.com
 +.analytics.cleantech.training
 +.analytics.clic2buy.com
++.analytics.click-or-die.ru
 +.analytics.clientify.net
 +.analytics.climatizer.cz
 +.analytics.climatizerplus.cz
@@ -5346,6 +5347,7 @@
 +.analytics.spark.co.nz
 +.analytics.spearly.com
 +.analytics.sportera.fans
++.analytics.sportigio.com
 +.analytics.sports.ru
 +.analytics.sposadeste.com
 +.analytics.ssmas.com
@@ -8789,6 +8791,7 @@
 +.beam.koddi.com
 +.beam.remp.impresa.pt
 +.beam.remp.nv.ua
++.beam.telegram.hr
 +.beamvolcano.com
 +.beancontrol.com
 +.beandelight.com
@@ -10327,6 +10330,7 @@
 +.campaign.shl.com
 +.campaign.ssab.com
 +.campaign.tandemdiabetes.com
++.campaign.telegram.hr
 +.campaign.viessmann-cold.com
 +.campaigncog.com
 +.campaigninfo.motorolasolutions.com
@@ -24053,6 +24057,7 @@
 +.eventlog.inspsearchapi.com
 +.eventlog.jackpot.de
 +.eventlog.outbrain.com
++.eventlog.setka.ru
 +.eventlogger.soundcloud.com
 +.eventos.abastur.com
 +.eventos.cihac.com
@@ -25350,7 +25355,6 @@
 +.fishhoo.com
 +.fishing.bucketbro.com.au
 +.fishingrodsgalore.com
-+.fishingtoolsbox.com
 +.fishspies.com
 +.fit.bedrijfsfitnessnederland.nl
 +.fit.fitelastix.nl
@@ -38578,7 +38582,7 @@
 +.juris.pedroburak.com
 +.justconfig.com
 +.justfordocs.com
-+.justice.maybeoneday.ch
++.justice.hls.lol
 +.justicejudo.com
 +.justid.io
 +.justlagoon.com
@@ -46380,6 +46384,7 @@
 +.lumberjack-metrics.razorpay.com
 +.lumbu.naturallife.com
 +.lumen.nanoni.pl
++.lumengaming.com
 +.lumhdco.mykitsch.com
 +.luminate.com
 +.luminati.io
@@ -51739,6 +51744,7 @@
 +.metrics.telenet.be
 +.metrics.telenor.se
 +.metrics.teletoon.com
++.metrics.temptcdn.com
 +.metrics.termofit.com.br
 +.metrics.terra-saar.com
 +.metrics.tescobank.com
@@ -60504,6 +60510,7 @@
 +.revotas.com
 +.revprotect.com
 +.revuyt.misako.com
++.rewardangels.com
 +.rewards.parago.com
 +.rewards.web.doitbest.com
 +.rewardtv.com
@@ -75659,6 +75666,7 @@
 +.sol.vivapool.de
 +.solarislabyrinth.com
 +.solarrecharge.net
++.soldoutstubs.com
 +.sole.bkosmetik.com
 +.sole.pretto.fr
 +.sole.riverwalkdental.com.au
@@ -91523,6 +91531,7 @@
 +.sundaysky.com
 +.sunflaggroup.com
 +.sunios.de
++.sunlong.net
 +.sunnylettings.com
 +.sunrise.adnanagic.com
 +.sunrise.sm-project.com
@@ -95557,6 +95566,7 @@
 +.topicalcartel.com
 +.topicjungle.com
 +.topiz.ru
++.toplaunch.net
 +.toplist.cz
 +.toplist.eu
 +.toplist.sk
@@ -97882,6 +97892,7 @@
 +.tracker.stats.in.th
 +.tracker.str-nrg.com
 +.tracker.swedish.org
++.tracker.telegram.hr
 +.tracker.thinkermail.com
 +.tracker.thinkindot.com
 +.tracker.tianmu.mobi
@@ -99176,6 +99187,7 @@
 +.training.hager.co.uk
 +.training.indigobusiness.co.uk
 +.training.thunderhead.com
++.trainingreality.com
 +.traka8.crypto-mall.org
 +.traker.fundacoessemcomplicacoes.com.br
 +.traker.karenrosebusiness.com.br
@@ -102253,6 +102265,7 @@
 +.vengefulgrass.com
 +.venomousvessel.com
 +.ventivmedia.com
++.venturemen.com
 +.venusgloria.com
 +.veocq.essenzshop.at
 +.veosfi.woonexpress.nl
@@ -103201,6 +103214,7 @@
 +.waitingnumber.com
 +.waixpa.supriagora.com.br
 +.walgreens.sc.omtrdc.net
++.walkourworld.com
 +.wallaby.cron.help
 +.wallaby.legendkeeper.com
 +.walrus.fetzcolor.at
@@ -103644,6 +103658,7 @@
 +.webbyword.net
 +.webc2s.pubgw.yahoo.com
 +.webcasts.de.ni.com
++.webclarion.com
 +.webclicktracker.com
 +.webcompteur.com
 +.webcon.se-legal.de
@@ -103830,6 +103845,7 @@
 +.websiteperform.com
 +.websitesdude.com
 +.websitewelcome.com
++.webspa.net
 +.webspectator.com
 +.webspires.net
 +.webstat.4music.com
@@ -103977,6 +103993,7 @@
 +.weco.ilon.de
 +.wecount4u.com
 +.weeb.weebystitches.com
++.weeklycurrents.com
 +.weem.weemco.com
 +.weg.weegallery.com
 +.weinbm.grasshoppers.com
