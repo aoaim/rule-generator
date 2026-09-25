@@ -216,10 +216,12 @@
 +.ads.heytapmobi.com
 +.ads.heytapmobile.com
 +.ads.jp.msn.com
++.ads.lgtvcommon.com
 +.ads.microsoft.com
 +.ads.msn.com
 +.ads.oppomobile.com
 +.ads.roku.com
++.ads.rokuapi.net
 +.ads.staging.roku.com
 +.ads.tiktok.com
 +.ads.tiktok.in
@@ -240,6 +242,7 @@
 +.adsfs-sdkconfig.heytapimage.com
 +.adsfs.oppomobile.com
 +.adstore.response.gcp.eastus.trafficmanager.net
++.adts.lgtvcommon.com
 +.adv.l7.34.sec.miui.com
 +.adv.sec.intl.miui.com
 +.adv.sec.miui.com
@@ -701,6 +704,8 @@
 +.cdn.fds.api.xiaomi.com
 +.cdn1.static.home.miui.com
 +.cdna.sec.miui.com
++.cdpbeacon.lgtvcommon.com
++.cdpbeacon2.lgtvcommon.com
 +.ceuswatcab01.blob.core.windows.net
 +.ceuswatcab02.blob.core.windows.net
 +.cg-ad-lgsmartad-com.aws-prd.net
@@ -1524,7 +1529,6 @@
 +.lg-bgp-misc.pandora.xiaomi.com
 +.lgads.tv
 +.lgsmartad.com
-+.lgtvcommon.com
 +.li-ad-lgsmartad-com.aws-prd.net
 +.licensingtelemetry-prod.servicebus.windows.net
 +.live-events.ono.axp.amazon-adsystem.com
@@ -2394,9 +2398,11 @@
 +.rcm-na.amazon-adsystem.com
 +.rcm-uk.amazon.co.uk
 +.rcm.amazon.com
++.rdl.lgtvcommon.com
 +.rdx2.lgtvsdp.com
 +.rdx2.nextlgsdp.com
 +.re-ad-lgsmartad-com.aws-prd.net
++.recommend.lgtvcommon.com
 +.redir.metaservices.microsoft.com
 +.redirect.pandora.xiaomi.com
 +.regi.di.atlas.samsung.com
@@ -2846,6 +2852,7 @@
 +.tgtus1-powerpoint-telemetry-vip.officeapps.live.com
 +.tgtus1-word-telemetry-vip.officeapps.live.com
 +.th-ad-lgsmartad-com.aws-prd.net
++.thinqrecommend.lgtvcommon.com
 +.thm.market.xiaomi.com
 +.time.video.ptqy.gitv.tv
 +.tj1-new.scf.pt.xiaomi.com
@@ -3071,6 +3078,7 @@
 +.video-api-ru.heytapmobile.com
 +.video.kts.g.mi.com
 +.video.market.xiaomi.com
++.videoads.lgtvcommon.com
 +.vip-api.xmpush.global.xiaomi.com
 +.vip-api.xmpush.xiaomi.com
 +.visio-telemetry.officeapps.live.com
@@ -3101,6 +3109,7 @@
 +.weus2watcab02.blob.core.windows.net
 +.win-global-asimov-leafs-events-data.trafficmanager.net
 +.win10-trt.msedge.net
++.wiseconfig.lgtvcommon.com
 +.wl.voip.game.xiaomi.com
 +.wms-eu.amazon-adsystem.com
 +.wms-fe.amazon-adsystem.com
