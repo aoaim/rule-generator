@@ -183,6 +183,7 @@
 .ads-cf-us-east-1.delivery.roku.com
 .ads-cf-us-east-1.dev.delivery.roku.com
 .ads-cf-us-west-2.delivery.roku.com
+.ads-cps-in.heytapmobile.com
 .ads-dra.platform.hihonorcloud.com
 .ads-drcn.platform.hihonorcloud.com
 .ads-dre.platform.hihonorcloud.com
@@ -420,7 +421,6 @@
 .api.accelerator.intl.miui.com
 .api.account.preview.n.xiaomi.net
 .api.ads.xiaomi.com
-.api.applicationinsights.azure.cn
 .api.aurogon.intl.miui.com
 .api.bbs.miui.com
 .api.browser.intl.miui.com
@@ -483,7 +483,6 @@
 .arc1.msn.com
 .arc2.msn.com
 .arc3.msn.com
-.arc5.msn.com
 .arc9.msn.com
 .asia-abeacdataonrt-stsdk.vivoglobal.com
 .asia-abeacdataort-stsdk.vivoglobal.com
@@ -858,7 +857,10 @@
 .cname-in-ctdbonrt-stsdk.vivoglobal.com
 .cname-sin01-stsdk09.vivoglobal.com
 .co-ad-lgsmartad-com.aws-prd.net
+.co-cota.vivoglobal.com
 .co-domaincfg.vivoglobal.com
+.co-onrt-stsdk.vivoglobal.com
+.co-ort-stsdk.vivoglobal.com
 .co-pnrt-stsdk.vivoglobal.com
 .co-romsp-unifyconfig.vivoglobal.com
 .co-st-sl.vivoglobal.com
@@ -866,6 +868,7 @@
 .co-timesync.vivoglobal.com
 .co-vcode-api.vivoglobal.com
 .co-vcode-od.vivoglobal.com
+.co-vcode-or.vivoglobal.com
 .collection-location-livenet.trafficmanager.net
 .collector-main.trafficmanager.net
 .collector.azure.cn
@@ -964,6 +967,7 @@
 .ddf.di.atlas.samsung.com
 .de-ad-lgsmartad-com.aws-prd.net
 .de-gdpr-err-up.vivoglobal.com
+.de-gdpr-vcode-api.vivoglobal.com
 .de-info-lgsmartad-com.aws-prd.net
 .de-rdx2-lgtvsdp-com.aws-prd.net
 .de.pandora.xiaomi.com
@@ -1403,6 +1407,7 @@
 .in-apport-stsdk.vivoglobal.com
 .in-apppnrt-stsdk.vivoglobal.com
 .in-appprt-stsdk.vivoglobal.com
+.in-cfg-stsdk.vivoglobal.com
 .in-cota.vivoglobal.com
 .in-ctdbonrt-stsdk.vivoglobal.com
 .in-ctdbort-stsdk.vivoglobal.com
@@ -1557,6 +1562,7 @@
 .location.tiktok.com
 .location.tiktokv.com
 .location.tiktokv.eu
+.location.tiktokv.us
 .location.tiktokw.us
 .location.us.tiktokv.com
 .location16-normal-useastred.tiktokv.eu
