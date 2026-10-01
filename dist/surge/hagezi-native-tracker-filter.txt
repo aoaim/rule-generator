@@ -455,6 +455,7 @@
 .api.us-west-2.aiv-delivery.net
 .api.xmpush.global.xiaomi.com
 .api.xmpush.xiaomi.com
+.apisnd.heytapmobi.com
 .apkrep.ff.avast.sec.miui.com
 .app.greengurad.sec.miui.com
 .app.migc.xiaomi.com
