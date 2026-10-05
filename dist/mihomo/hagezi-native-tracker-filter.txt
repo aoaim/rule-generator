@@ -52,7 +52,6 @@
 +.aax-fe.amazon-adsystem.com
 +.aax-gamma-us-east.axp.amazon-adsystem.com
 +.aax-ott-c2s.amazon-adsystem.com
-+.aax-ott-sdk.amazon-adsystem.amazon.com
 +.aax-ott-sdk.amazon-adsystem.com
 +.aax-ott.amazon-adsystem.amazon.com
 +.aax-ott.amazon-adsystem.com
@@ -88,7 +87,6 @@
 +.aax-vx-us-us-east-1.amazon-adsystem.com
 +.aax-vx-us-us-west-2.amazon-adsystem.com
 +.aax.amazon-adsystem.com
-+.ab.apple.com.akadns.net
 +.abroad.api.comm.intl.miui.com
 +.abtest-ch.snssdk.com
 +.ac2.msn.com
@@ -534,8 +532,6 @@
 +.assoc-msdk-eu.amazon-adsystem.com
 +.assoc-msdk-us.amazon-adsystem.com
 +.at-ad-lgsmartad-com.aws-prd.net
-+.at-beta.amazon-adsystem.com
-+.at-gamma-us-east.amazon-adsystem.com
 +.at-info-lgsmartad-com.aws-prd.net
 +.at-rdx2-lgtvsdp-com.aws-prd.net
 +.at-us-east.amazon-adsystem.com
@@ -599,7 +595,6 @@
 +.box.pandora.xiaomi.com
 +.bpu.samsungelectronics.com
 +.br-ad-lgsmartad-com.aws-prd.net
-+.br-cota.vivoglobal.com
 +.br-info-lgsmartad-com.aws-prd.net
 +.br-p.vivoglobal.com
 +.br-rdx2-lgtvsdp-com.aws-prd.net
@@ -991,7 +986,6 @@
 +.dhfs-th.oppomobile.com
 +.dhfs-vn.oppomobile.com
 +.dhfsf.oppomobile.com
-+.diagassets-lb.apple.com.akadns.net
 +.diagassets.apple.com
 +.diagassets.g.aaplimg.com
 +.diagmon-policy.samsungdm.com
@@ -1049,7 +1043,6 @@
 +.err-up.vivoglobal.com
 +.err.up.vivoglobal.com
 +.es-ad-lgsmartad-com.aws-prd.net
-+.es-info-lgsmartad-com.aws-prd.net
 +.et-ad-lgsmartad-com.aws-prd.net
 +.eu-album-api.vivoglobal.com
 +.eu-cota.vivoglobal.com
@@ -1114,8 +1107,6 @@
 +.ex-romsp-unifyconfig.vivoglobal.com
 +.excel-telemetry.officeapps.live.com
 +.excel-telemetry.wac.trafficmanager.net
-+.excelonline.nel.measure.office.net.cardano.com
-+.exo.nel.measure.office.net.cardano.com
 +.experiments.apple.com
 +.experiments.apple.com.edgekey.net
 +.extlog.snssdk.com
@@ -1137,6 +1128,7 @@
 +.featureinfo-service-sg.allawnos.com
 +.federatedanalytics.amazon.com
 +.feedback.miui.com
++.feedback.search.microsoft.com
 +.feedbackws.fe.apple-dns.cn
 +.feedbackws.fe.apple-dns.net
 +.feedbackws.fe2.apple-dns.net
@@ -1373,7 +1365,6 @@
 +.id-third-appstore.vivoglobal.com
 +.id.push.heytapmobi.com
 +.identity.browserapps.amazon.de
-+.identity.nel.measure.office.net.cardano.com
 +.idiagnostics-mdn1.apple.com
 +.idiagnostics.apple.com
 +.idiagnostics.apple.com.akadns.net
@@ -1450,7 +1441,7 @@
 +.inference-app-gateway.northeurope.cloudapp.azure.com
 +.inference-location-livenet.trafficmanager.net
 +.ingest.appcenter.ms
-+.insights.cloud.microsoft
++.inputsuggestions.msdxcdn.microsoft.com
 +.insights.video.a2z.com
 +.internalcheck.apple.com
 +.intl.up.w.xk.miui.com
@@ -1537,6 +1528,7 @@
 +.lbs-samsung.swypeconnect.com
 +.legacywatson.trafficmanager.net
 +.lg-bgp-misc.pandora.xiaomi.com
++.lgads.adsmeasurement.com
 +.lgads.tv
 +.lgsmartad.com
 +.li-ad-lgsmartad-com.aws-prd.net
@@ -1679,6 +1671,7 @@
 +.logbak.hicloud.com
 +.logbk.tiktokv.com
 +.logforward.browser.heytapmobi.com
++.logs.appsource.microsoft.com
 +.logs.dev.sr.roku.com
 +.logs.n.xiaomi.com
 +.logs.qa.ap.int.roku.com
@@ -1705,7 +1698,6 @@
 +.lxcdn.dl.files.xiaomi.net
 +.ly-ad-lgsmartad-com.aws-prd.net
 +.m.beehive.in.intl.miui.com
-+.m365cdn.nel.measure.office.net.cardano.com
 +.ma-ad-lgsmartad-com.aws-prd.net
 +.mads-eu.amazon.com
 +.mads-fe.amazon.com
@@ -1882,6 +1874,7 @@
 +.mdp-usertrace-sg.heytapmobile.com
 +.me-ad-lgsmartad-com.aws-prd.net
 +.me.apple-dns.net
++.measure.microsoft.com
 +.measure.office.com
 +.measure.office.com.akamaized.net
 +.measure.office.net
@@ -2048,7 +2041,6 @@
 +.msg.video.ptqy.gitv.tv
 +.msg2.video.ptqy.gitv.tv
 +.msga.ptqy.gitv.tv
-+.mshopbugsnag.irm.amazon.dev
 +.mssdk-boot.capcutapi.com
 +.mssdk-boot.tiktokv.com
 +.mssdk-boot.tiktokv.com.edgekey.net
@@ -2080,6 +2072,7 @@
 +.mssdk.us.tiktokv.com
 +.mssdk16-normal-sg.capcutapi.com
 +.mssdk16-normal-us-ttp.capcutapi.us
++.mssdk16-normal-us-ttp2.capcutapi.us
 +.mssdk16-normal-useastred.tiktokw.eu
 +.mssdk16-normal.capcutapi.com
 +.mssdk16-normal.tiktokv.com
@@ -2209,7 +2202,6 @@
 +.oca.microsoft.com
 +.odin-signals.apple.com
 +.office-events-data.trafficmanager.net
-+.officehub.nel.measure.office.net.cardano.com
 +.om-ad-lgsmartad-com.aws-prd.net
 +.omes-sec.heytapmobi.com
 +.omes-sec.heytapmobile.com
@@ -2435,10 +2427,12 @@
 +.ro-info-lgsmartad-com.aws-prd.net
 +.ro-up.vivoglobal.com
 +.roku.adsmeasurement.com
++.romeccs.microsoft.com
 +.rs-ad-lgsmartad-com.aws-prd.net
 +.rtb.axp.amazon-adsystem.com
 +.rtc-logger-i18n.tiktokv.com
 +.rtc-logger-ie.tiktokv.eu
++.rtc-logger-ttp2.tiktokv.us
 +.rtc-logger-ttp2.us.tiktokv.com
 +.rtc-logger-va.tiktokv.com
 +.rtc-logger.tiktokv.com
@@ -2733,7 +2727,6 @@
 +.sms-ads-ru.heytapmobile.com
 +.sn-ad-lgsmartad-com.aws-prd.net
 +.sonar.prime-video.amazon.dev
-+.spo.nel.measure.office.net.cardano.com
 +.sponsored-ads-eu-south-2.amazon-adsystem.com
 +.sponsored-ads-eu.amazon-adsystem.com
 +.sponsored-ads-eu.amazon.ae
@@ -2842,7 +2835,6 @@
 +.target-us.samsung.com
 +.tbm.snssdk.com
 +.teams-events-data.trafficmanager.net
-+.teams.nel.measure.office.net.cardano.com
 +.telecommandsvc.microsoft.com
 +.telem-edge.smartscreen.microsoft.com
 +.telemetry-lcp.trafficmanager.net
