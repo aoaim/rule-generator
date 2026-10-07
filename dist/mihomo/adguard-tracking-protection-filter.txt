@@ -4812,6 +4812,7 @@
 +.analytics.ikarao-shop.com
 +.analytics.ikyu.com
 +.analytics.infinitidesign.it
++.analytics.infomaniak.com
 +.analytics.infosys.com
 +.analytics.infosys.org
 +.analytics.infosysbpm.com
@@ -6913,8 +6914,10 @@
 +.apm-native.xiaohongshu.com
 +.apm-track.xiaohongshu.com
 +.apm.relationshipone.com
++.apm.volccdn.com
 +.apm.yahoo.co.jp
 +.apmplus.ap-southeast-1.volces.com
++.apmplus.volces.com
 +.apohk.moventashop.com
 +.apollo.miniclip.com
 +.apollo.plein.nl
@@ -7751,7 +7754,6 @@
 +.assets.mediahostingcdn.com
 +.assets.mystica.no
 +.assets.ogrzewanie-pex.pl
-+.assets.onedollarstats.com
 +.assets.oupe.es
 +.assets.piercingkungen.se
 +.assets.prydligt.com
@@ -9221,6 +9223,7 @@
 +.biot.byads.co
 +.biotechnologysciences.com
 +.bipog.perfectwhitetee.com
++.biprx.n12.co.il
 +.biqizo.vixpaulahermanny.com
 +.bird.brondby.com
 +.bird.hecten.com
@@ -9316,6 +9319,7 @@
 +.blackbird.docstation.co
 +.blackbook.coniferhealth.com
 +.blackjack.net.anwalt.de
++.blackrednecks.com
 +.blakwc.sabon.fr
 +.blaltn.physicianschoice.com
 +.blank.lucflynn.com
@@ -9889,6 +9893,7 @@
 +.bu.adpinfo.com
 +.buaal.pharmacyonline.co.uk
 +.buasmk.earthshoes.com
++.buballmighty.com
 +.bubasocks-ss.checkoutera.com
 +.bubasocks-ss.shopperoc.com
 +.bubblestat.com
@@ -10214,6 +10219,7 @@
 +.c2.taboola.com
 +.c212.net
 +.c2c.vdberg-autoimport.nl
++.c3.wildwolf.name
 +.c319tpiw462o.segops.madisonspecs.com
 +.c360sms.hrblock.com
 +.c3metrics.com
@@ -19170,6 +19176,7 @@
 +.data.perlamachaen.vip
 +.data.petbarn.test.ajo.adobe.com
 +.data.petbox.pl
++.data.petri.com
 +.data.petsecur.nl
 +.data.pfh.de
 +.data.phenomestraps.com
@@ -40140,6 +40147,7 @@
 +.lijit.com
 +.likethedog.com
 +.lilpr.barbanortena.com
++.lilstts.com
 +.lilthn.mollyg.com
 +.lilydreamer.com
 +.lim.fit-und-schlank.com
@@ -53219,6 +53227,7 @@
 +.mushroomgods.com
 +.mushywaste.com
 +.musiccounter.ru
++.musicenforcer.com
 +.musicflashcard.com
 +.muteknife.com
 +.mutemailbox.com
@@ -54702,6 +54711,7 @@
 +.nsxsm.trimrx.com
 +.nszcga.shoefm.co.kr
 +.nszwt.mintrx.com
++.nt-stream-log.profilepassport.jp
 +.nt.brainharmonytips.com
 +.nt.braskinghealt.com
 +.nt.dailybalancenow.com
@@ -55660,9 +55670,11 @@
 +.one.need4success.online
 +.one.net.jumia.co.ke
 +.one.rizqshopping.com
++.one01.stright.bizris.com
 +.one2.onestep.fr
 +.onecloud.avaya.com
 +.onecrow.net
++.onedollarstats.com
 +.onedropocean.com
 +.onefeed.co.uk
 +.onegg.site
@@ -58217,6 +58229,8 @@
 +.pp.fitnesshubbd.xyz
 +.pp.promocionesfarma.com
 +.pp.scorecardrewards.com
++.pp3-sdk-api.profilepassport.jp
++.pp3-sdkdata-v2-ut.profilepassport.jp
 +.ppao.usw.coherentbody.com
 +.ppcsw.capellisport.com
 +.ppdovk.home24.ch
@@ -67494,6 +67508,7 @@
 +.servside.rxrprotect.com
 +.servst.berkeleypsychiatrists.co.uk
 +.servsta.alezz-oud.com
++.servt.ergadx.com
 +.servustats.com
 +.ses.eskill.com
 +.seshat.speenwinkel.be
@@ -94993,6 +95008,7 @@
 +.tinytendency.com
 +.tioztp.unisportstore.nl
 +.tippcom01.tipp24.com
++.tips.delt.io
 +.tipstats.onepagelove.com
 +.tiptip.tipmanager.net
 +.tipuh.themillionroses.com
@@ -101163,6 +101179,7 @@
 +.umzpj.paintyourlife.com
 +.unablehope.com
 +.unaccountablepie.com
++.unami.delt.io
 +.unarmedindustry.com
 +.unauthorized-58.net.mydays.de
 +.unav.mycollegeoptions.org
@@ -102608,6 +102625,7 @@
 +.visits.iloveuobgold.com
 +.visits.lt
 +.visitstreamer.com
++.visualcommservices.com
 +.visualdna.com
 +.visualrevenue.com
 +.visualscience.external.bbc.co.uk
