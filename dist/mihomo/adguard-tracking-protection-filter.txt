@@ -4327,6 +4327,7 @@
 +.analytics-conomi.line.me
 +.analytics-dataplane.invideo.io
 +.analytics-egain.com
++.analytics-event.com
 +.analytics-events.inshorts.com
 +.analytics-fe.digital-cloud-west.medallia.com
 +.analytics-fe.digital-cloud.medallia.eu
@@ -5837,6 +5838,7 @@
 +.api-napoli.store.sscnapoli.it
 +.api-notify.markarch.com
 +.api-pixels.easyadsapp.com
++.api-sdk-tracking.beaconbank.jp
 +.api-sdk.beaconbank.jp
 +.api-shrek.net.jumia.com.gh
 +.api-stape.bennimoda.com.br
@@ -7568,6 +7570,7 @@
 +.argus.november.de
 +.argus.umarbutler.com
 +.arhzq.victimadvocacycenter.com
++.ariaclean.com
 +.ariane.abtasty.com
 +.arif.arianperfumes.com
 +.arif.hameshainvest.com
@@ -9198,6 +9201,7 @@
 +.bild.met.vgwort.de
 +.bilingualgeek.com
 +.billing.uwebsolutions.net
++.billionpet.com
 +.billowybead.com
 +.billowybelief.com
 +.billtable.com
@@ -9631,6 +9635,7 @@
 +.boqufs.2nn.jp
 +.borckt.abarth.it
 +.boredcrown.com
++.borefee.com
 +.boringberry.com
 +.boringpirate.com
 +.bosrs.avenue.com
@@ -11055,6 +11060,7 @@
 +.carteiro.altashabilidadesesuperdotacao.com
 +.carteiro.institutomapeando.com.br
 +.cartelsalsa.com
++.cartersci.com
 +.cartjoint.com
 +.cartlug.com
 +.carts.guru
@@ -11778,6 +11784,7 @@
 +.ciscenje.net.jumia.com.ng
 +.cisco-capwap-controller.net.iberostar.com
 +.citiservi.es
++.citizensactive.com
 +.citrusad.net
 +.citsnmdc01.net.mydays.de
 +.city.cityattirebd.com
@@ -12178,6 +12185,7 @@
 +.cluster.gralhaimoveis.com.br
 +.cluster.imoveiscitalli.com.br
 +.clustrmaps.com
++.clutchcourses.com
 +.clvelzhz.eandm.bg
 +.clvk.viki.io
 +.clvwgr.tvert.jp
@@ -14543,6 +14551,7 @@
 +.d.gordetmedrw.se
 +.d.greatmarketing.ai
 +.d.grey.co
++.d.ground.news
 +.d.growify.ai
 +.d.guidedascentcoaching.com
 +.d.haaltheorie.nl
@@ -30410,6 +30419,7 @@
 +.gtm.gridhaussystems.co.uk
 +.gtm.gridx.lu
 +.gtm.gringaschool.com
++.gtm.ground.news
 +.gtm.groupsoftware.com.br
 +.gtm.growarq.com
 +.gtm.grpcorretora.com.br
@@ -37441,6 +37451,7 @@
 +.intake-logging.wikimedia.org
 +.intake-lr.com
 +.intarget.ru
++.integrations-itbl.co
 +.integrations.syncmedia.io
 +.intel-trk.informa.com
 +.intel-trk.lloydslistintelligence.com
@@ -46551,6 +46562,7 @@
 +.lzwtlo.watches.ae
 +.lzwxzz.chintaistyle.jp
 +.m-brain.fi
++.m-chromadrone.prod.suno.com
 +.m-metrics.capitalone.com
 +.m-pathy.com
 +.m-stratovibe.prod.suno.com
@@ -59729,6 +59741,7 @@
 +.qzzle.formulandcanada.com
 +.qzzusj.bygghjemme.no
 +.r-log.dable.io
++.r-tag.coeteco.jp
 +.r.aachener-zeitung.de
 +.r.akipam.com
 +.r.anamagnani.com.br
@@ -89429,6 +89442,7 @@
 +.stat.rare.ru
 +.stat.recklesslove.co.za
 +.stat.rizeniskoly.cz
++.stat.s.ee
 +.stat.safeway.com
 +.stat.scroogefrog.com
 +.stat.smarteca.cz
@@ -93145,6 +93159,7 @@
 +.tag.eu.flashforge.com
 +.tag.farmatecrs.com.br
 +.tag.fastpatchdrywallrepair.com
++.tag.flvcdn.net
 +.tag.fmscycles.com
 +.tag.foreverfierce.com
 +.tag.franquiahomeangels.com.br
@@ -97144,6 +97159,7 @@
 +.track.ertha.io
 +.track.escoladefotografos.com
 +.track.escoladoinconsciente.com.br
++.track.esteban.fr
 +.track.estoneworks.com
 +.track.eurasc.org
 +.track.eurogirlsescort.com
@@ -97897,6 +97913,7 @@
 +.tracker.marcomp.com.br
 +.tracker.mattel.com
 +.tracker.metricool.com
++.tracker.mida-app.io
 +.tracker.mtrtb.com
 +.tracker.multisearch.io
 +.tracker.myth.dev
