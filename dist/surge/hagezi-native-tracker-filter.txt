@@ -855,6 +855,7 @@
 .cname-in-ctdbonrt-stsdk.vivoglobal.com
 .cname-sin01-stsdk09.vivoglobal.com
 .co-ad-lgsmartad-com.aws-prd.net
+.co-album-api.vivoglobal.com
 .co-cota.vivoglobal.com
 .co-domaincfg.vivoglobal.com
 .co-onrt-stsdk.vivoglobal.com
@@ -1729,7 +1730,6 @@
 .mcs-ie.tiktokw.eu
 .mcs-ie.tiktokw.eu.ttdns3.com
 .mcs-ie2.tiktokw.eu
-.mcs-ie2.tiktokw.eu.dvaitas.lt
 .mcs-ie2.tiktokw.eu.edgesuite.net
 .mcs-ie2.tiktokw.eu.ttdns3.com
 .mcs-normal-sg.capcutapi.com
@@ -1765,7 +1765,6 @@
 .mcs.us.tiktokv.com
 .mcs.us.tiktokv.com.edgesuite.net
 .mcs16-normal-no1a.tiktokw.eu
-.mcs16-normal-no1a.tiktokw.eu.dvaitas.lt
 .mcs16-normal-no1a.tiktokw.eu.edgesuite.net
 .mcs16-normal-us-ttp.capcutapi.us
 .mcs16-normal-useastred.tiktokw.eu
@@ -1954,7 +1953,6 @@
 .mon-csj-maliva-ios.byteoversea.com
 .mon-hl.snssdk.com
 .mon-i18n.tiktokv.com
-.mon-i18n.tiktokv.com.dvaitas.lt
 .mon-phx.tiktokv.com
 .mon-ru.tiktokv.com
 .mon-sg.capcutapi.com
@@ -1992,8 +1990,6 @@
 .mon16-normal-c-useast1a.tiktokv.com
 .mon16-normal-c-useast2a.tiktokv.com
 .mon16-normal-no1a.tiktokv.eu
-.mon16-normal-no1a.tiktokv.eu.dvaitas.lt
-.mon16-normal-no1a.tiktokv.eu.numericable.fr
 .mon16-normal-sg.capcutapi.com
 .mon16-normal-sg.capcutapi.com.edgesuite.net
 .mon16-normal-us-ttp.capcutapi.us
@@ -2005,7 +2001,6 @@
 .mon16-normal-useast8.tiktokv.us
 .mon16-normal-useast8.us.tiktokv.com
 .mon16-normal-useastred.tiktokv.eu
-.mon16-normal-useastred.tiktokv.eu.dvaitas.lt
 .mon16-normal-zr-useast1a.tiktokv.com
 .mon16-normal.tiktokv.com
 .mon16-platform-useast5.us.tiktokv.com
@@ -2245,6 +2240,7 @@
 .partiality.itunes-apple.com.akadns.net
 .partiality.itunes.apple.com
 .partiality.itunes.apple.com.edgekey.net
+.partnerfraudevents.trafficmanager.net
 .pb.bi.gitv.tv
 .pc-mon-boot.capcutapi.com
 .pc-mon-boot.capcutapi.com.edgesuite.net
@@ -2337,6 +2333,7 @@
 .ppc-word-telemetry.wac.trafficmanager.net
 .ppm-licensingtelemetry.servicebus.windows.net
 .pr-ad-lgsmartad-com.aws-prd.net
+.prd-qlik-telemetry.servicebus.windows.net
 .prd-usw2-requestattribution-iad.apple.com
 .prderrordumphsm.samsungcloudsolution.com
 .prderrordumpssm.samsungcloudsolution.net
