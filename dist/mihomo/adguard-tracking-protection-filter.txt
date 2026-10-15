@@ -6841,7 +6841,6 @@
 +.api.srceprirode.rs
 +.api.stahlhart.com.br
 +.api.startbeglobal.com
-+.api.statsig.com
 +.api.statsigcdn.com
 +.api.staydepot.com.br
 +.api.stelariss.com.br
@@ -13048,6 +13047,7 @@
 +.commercial.davey.com
 +.commercial.equifax.com
 +.commet.intker.com
++.commitlogs.com
 +.comms.adss.com
 +.comms.cigna.co.uk
 +.comms.cigna.com.hk
@@ -21976,6 +21976,7 @@
 +.dorli.thehealthclique.co
 +.dormir.dormax.pt
 +.dormouse.consentkit.com
++.dorsalapp.com
 +.dossierportal.net.mydays.de
 +.doswwi.caringlasses.com
 +.dot-com-stats.sladewatkins.net
@@ -22082,6 +22083,7 @@
 +.drive.oparup.com
 +.drive.seagate.com
 +.driveniq.com
++.drivenmove.com
 +.drivetrain.gearrista.dk
 +.drjzh.loveinfaith.life
 +.drkaq.nlbeauty.bg
@@ -22373,6 +22375,7 @@
 +.dudu.umzugradar.de
 +.dudyrv.packlinq.nl
 +.duelf.xstanceinsoles.com
++.duetcode.com
 +.dufbut.wtennis.com.br
 +.dujgiq.trendhim.pl
 +.duk.devolkitchens.co.uk
@@ -22897,6 +22900,7 @@
 +.earwig.oofi.es
 +.eastcapelots.com
 +.easter-analytics.com
++.eastpalms.com
 +.easy-hit-counters.com
 +.easy.fixoem.com
 +.easy.lv
@@ -25516,6 +25520,7 @@
 +.extole.com
 +.extole.io
 +.extra.wijck.com
++.extracover.net
 +.extractobservation.com
 +.extralocker.com
 +.extramilefloorcare.ericksonbuilt.com
@@ -63244,6 +63249,7 @@
 +.rt.ayudafinancieras.com
 +.rt.balletbeautiful.com
 +.rt.biovitalcorelab.com
++.rt.buzzni.com
 +.rt.connectprosnow.com
 +.rt.dailycarepro.com
 +.rt.dispo-seo.com
@@ -101438,6 +101444,7 @@
 +.tracking.brevant.com
 +.tracking.brgeneral.org
 +.tracking.brice.fr
++.tracking.broadpeak.io
 +.tracking.bt-blue.com
 +.tracking.bugece.co
 +.tracking.burningbutter.com
