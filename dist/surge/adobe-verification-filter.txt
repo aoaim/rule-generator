@@ -126,6 +126,7 @@
 .0kpl43ahdoh.p5jr3.adobestats.io
 .0kq3h19bl6.pycz4.hstatic.io
 .0kql2yaus.4wbo1.adobestats.io
+.0ld34uuti.7kdvx.hstatic.io
 .0lfklplfin.adobestats.io
 .0lo5nw56o5.g51h4.adobestats.io
 .0lsz3muyg56f.lqn0m.adobestats.io
@@ -4104,6 +4105,7 @@
 .iryab2r4.u0op6.adobestats.io
 .is0d7oy0.lqn0m.adobestats.io
 .is33qcqrz.zavjl.adobestats.io
+.is4d13szwu1.61ro5.adobestats.io
 .is8y9185qx.lqn0m.adobestats.io
 .isuyxh3435.4e2id.adobestats.io
 .it532dyckh81.a13cy.adobestats.io
@@ -6602,6 +6604,7 @@
 .uta1ygva6x.adobestats.io
 .utl2ryss9g.adobestats.io
 .utrlo5uen0.adobestats.io
+.utut-service.adobe.com
 .utxfcphncs8t.nr94p.adobestats.io
 .uu2tyd6syt5.jyqfm.adobestats.io
 .uu8r0jqy47.hzm8t.adobestats.io
