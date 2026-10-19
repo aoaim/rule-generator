@@ -440,6 +440,7 @@
 +.api.xmpush.xiaomi.com
 +.apisnd.heytapmobi.com
 +.apkrep.ff.avast.sec.miui.com
++.app-events.infoapps.apple.com
 +.app.greengurad.sec.miui.com
 +.app.migc.xiaomi.com
 +.app.miui.com
@@ -1180,6 +1181,7 @@
 +.fr-register.xmpush.global.xiaomi.com
 +.fr.feedback.xmpush.global.xiaomi.com
 +.frc-visio-telemetry.officeapps.live.com
++.freeform-events.apple.com
 +.frontier-i18n.tiktokv.com
 +.frontier-my2.tiktokv.com
 +.frontier-ru.tiktokv.com
@@ -2335,6 +2337,7 @@
 +.pri1-id-fe.amazon-adsystem.com
 +.pri1-id-us.amazon-adsystem.com
 +.privacy.miui.com
++.prod-app-analytics-event-gateway.v.aaplimg.com
 +.prod-eh-v1-analytics.servicebus.windows.net
 +.prod-event-relay-api.v.aaplimg.com
 +.prod-event-relay-books-api.v.aaplimg.com
@@ -2343,6 +2346,7 @@
 +.prod-event-relay-stocks-api.v.aaplimg.com
 +.prod-event-relay-weather-api.v.aaplimg.com
 +.prod-eventhub-analytics.servicebus.windows.net
++.prod-iwork-events.v.aaplimg.com
 +.prod-news-notification-events.v.aaplimg.com
 +.prod.editor.ads.trafficmanager.net
 +.production-jobactivity-analytics.servicebus.windows.net
