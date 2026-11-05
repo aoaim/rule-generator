@@ -5137,6 +5137,7 @@
 .nqf9hyvn.bmysp.hstatic.io
 .nqmt7v8cn5.p5jr3.adobestats.io
 .nqnnfmo9od.adobestats.io
+.nr-bam.pswdata.com
 .nrenlhdc1t.adobestats.io
 .nrub9887e0cu.g51h4.adobestats.io
 .ns63yrf9mq.adobestats.io
@@ -6215,6 +6216,7 @@
 .srlpg2smm3.zavjl.adobestats.io
 .srqwgyza90.adobestats.io
 .srrgxxzb.jdr5y.adobestats.io
+.ss-prod-ue1-ns.aws.adobess.com
 .ssgpanof4kmj.sf7e3.adobestats.io
 .ssgt7qercp.hzm8t.adobestats.io
 .ssk7hhe8ya.zavjl.adobestats.io
