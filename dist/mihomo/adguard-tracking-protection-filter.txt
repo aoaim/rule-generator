@@ -6498,6 +6498,7 @@
 +.api-meta.mercelsantos.com.br
 +.api-meta.petitcolore.com.br
 +.api-napoli.store.sscnapoli.it
++.api-node.corvexa.cloud
 +.api-notify.markarch.com
 +.api-pixels.easyadsapp.com
 +.api-sdk-tracking.beaconbank.jp
@@ -9283,7 +9284,6 @@
 +.b.socialdemokraterna.se
 +.b.telus.com
 +.b.tienda.com
-+.b.trueanthem.com
 +.b.tryknowmad.com
 +.b.videoamp.com
 +.b.wheelabratorgroup.com
@@ -14011,6 +14011,7 @@
 +.collector.trendmd.com
 +.collector.umogames.com
 +.collector.vhx.tv
++.collector.wawlabs.com
 +.collector.xhaccess.com
 +.collector.xhamster.com
 +.collector.xhofficial.com
@@ -22264,6 +22265,7 @@
 +.datacollection.adelaideuni.edu.au
 +.datacollection.sharmusic.com
 +.datacollector-drru.dt.dbankcloud.ru
++.dataconsumed.com
 +.datadoghq-browser-agent.com
 +.datadrivens.protocolopumpgluteos.com.br
 +.datafa.st
@@ -23045,6 +23047,7 @@
 +.diboji.class101.net
 +.dibtk.medtronic.com
 +.dicecandies.com
++.dicezing.com
 +.dicsr.jadedldn.com
 +.did-it.com
 +.did.kr
@@ -61798,6 +61801,7 @@
 +.news.nydailyrecord.com
 +.news.parisphoto.com
 +.news.petage.com
++.news.post.at
 +.news.primstore.online
 +.news.rbj.net
 +.news.reedexpo.com.cn
@@ -61961,6 +61965,7 @@
 +.nice.theperryai.com
 +.nicefollows.com
 +.nicehuh.com
++.nicemenswear.com
 +.nick.flexed-foods.com
 +.nicksetup.davidbedrick.com
 +.nickwerbung.zenmovement.ch
@@ -62781,6 +62786,7 @@
 +.objecthero.com
 +.objevuj.amazingplaces.cz
 +.objru.thankgodforcoffee.com
++.objsoftware.com
 +.oblivionfleet.com
 +.obnqf.trollcoclothing.com
 +.obnqleyl.aadieghito.com
@@ -63205,6 +63211,7 @@
 +.omgthink.com
 +.omguk.com
 +.omieuz.razer.ru
++.ominousmusic.com
 +.omjtca.emlakjet.com
 +.omn.americanexpress.com
 +.omn.costumesupercenter.com
@@ -63636,6 +63643,7 @@
 +.operationchicken.com
 +.operationnail.com
 +.operatorspic.net.mydays.de
++.operawise.com
 +.opfjj.vivobarefoot.com
 +.oph7o.montecarlosbm-corporate.com
 +.ophan.theguardian.com
@@ -65079,6 +65087,7 @@
 +.pay.salisbike.dk
 +.pay.varietymode.com
 +.pay.velpa.pl
++.payiris.com
 +.payload.adadapted.com
 +.payments.americanexpress.co.uk
 +.payqjd.subito.it
@@ -65206,6 +65215,7 @@
 +.pebble.nextra-strategy.de
 +.pebed.dm-event.net
 +.pecukirom.com
++.pedaldudes.com
 +.pedropanther.com
 +.peepcloud.joinpeep.io
 +.peeringhost.net
@@ -66207,6 +66217,7 @@
 +.possiblepencil.com
 +.posst.co
 +.post-log.pushwoosh.com
++.post.eyepinnews.com
 +.post.rottne.com
 +.postaffiliatepro.com
 +.postgraduate.smu.edu.sg
@@ -105300,6 +105311,7 @@
 +.telemetry.doitbeststore.com
 +.telemetry.doxo.com
 +.telemetry.dzen.ru
++.telemetry.ecosoft.group
 +.telemetry.eyeo.com
 +.telemetry.gfe.nvidia.com
 +.telemetry.goodlifefitness.com
@@ -111190,6 +111202,7 @@
 +.tru.am
 +.truckstomatoes.com
 +.truculentrate.com
++.trueanthem.com
 +.truebackpack.com
 +.truehits.in.th
 +.truehits.net
