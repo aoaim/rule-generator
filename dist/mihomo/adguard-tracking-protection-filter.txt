@@ -14120,6 +14120,7 @@
 +.collector.roistat.com
 +.collector.schibsted.io
 +.collector.scopely.io
++.collector.snowplow.supercell.com
 +.collector.snplow.net
 +.collector.statowl.com
 +.collector.superwall.me
@@ -29669,6 +29670,7 @@
 +.fuoqr.comfortorthowear.com
 +.fupbi.gopurebeauty.com
 +.fuqcxz.tennis-point.it
++.furiousvinyl.com
 +.furlhp.kango.mynavi.jp
 +.furnishings.bellacor.com
 +.furniture.scale-furniture.com
@@ -30696,6 +30698,7 @@
 +.ghonnz.columbiasports.co.jp
 +.ghorserver.ghoreponno.com
 +.ghostgenie.com
++.ghostscholars.com
 +.ghostwoodalbum.com
 +.ghosv.goodgames.com.au
 +.ghp.adp.ca
@@ -31741,6 +31744,7 @@
 +.grofag.hollandandbarrett.ie
 +.groglog.com
 +.groove.eezyball.com
++.grooveguides.com
 +.groovespacing.com
 +.groovy-manul.pikapod.net
 +.groovyornament.com
@@ -60381,6 +60385,7 @@
 +.mkt.paleolf.com
 +.mkt.sensio.com.br
 +.mkt.seuclienteoculto.com.br
++.mkt.supercell.com
 +.mkt.torr.com.bd
 +.mkt.tyrenergia.com.br
 +.mkt.universo88.com.br
@@ -66657,6 +66662,7 @@
 +.potentialanalyse.aec-disc.de
 +.potentmagic.com
 +.potixulert.c-stickers.fr
++.pottylife.com
 +.povtbi.automovilesalhambra.es
 +.power.dj.studio
 +.power.eyecare.nl
@@ -67145,6 +67151,7 @@
 +.programmes-skema.skema.edu
 +.programs.ironmountain.com
 +.programs.mellanox.com
++.projectglove.com
 +.projectsunblock.com
 +.promclickapp.biz
 +.prometheus.eulerian.io
@@ -67524,6 +67531,7 @@
 +.purpose.maxizoo.pl
 +.purposepipe.com
 +.purr.javawhiskers.co.uk
++.pursuitwomen.com
 +.push-api.topaz-analytics.com
 +.push.zhanzhang.baidu.com
 +.push2check.com
@@ -68438,6 +68446,7 @@
 +.rake.tmap.co.kr
 +.rakib.rozafragrance.com
 +.rakutenadvertising.io
++.ramartworks.com
 +.rambunctiousflock.com
 +.rambut.rrhairclinic.com
 +.ramen.nomorenames.studio
@@ -68678,6 +68687,7 @@
 +.rechenschieber.transfermarkt.world
 +.recid.aquatalia.com
 +.recipearena.com
++.recipediner.com
 +.recipepile.net
 +.recipepin.com
 +.recml.simplynootropics.com
