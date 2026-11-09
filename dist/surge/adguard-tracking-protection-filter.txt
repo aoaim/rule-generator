@@ -115402,6 +115402,8 @@
 .int.vlancaa.site
 .int.vlancaa.fun
 .tok.vaicore.xyz
+.mkt.supercell.com
+.collector.snowplow.supercell.com
 .api-abtest-cdn.learnings.ai
 .mobile-telemetry.multiball.forzafootball.net
 .gpskeeper.popinfo.jp
@@ -117379,6 +117381,7 @@
 .funoverbored.com
 .funoverflow.com
 .funtoyplanet.com
+.furiousvinyl.com
 .furryfork.com
 .fusedcontent.com
 .futuristicfifth.com
@@ -117404,6 +117407,7 @@
 .getbendyyoga.com
 .getwagtail.com
 .ghostgenie.com
+.ghostscholars.com
 .ghostwoodalbum.com
 .gianthypes.com
 .giantsvessel.com
@@ -117463,6 +117467,7 @@
 .grocerycrew.com
 .grocerydog.com
 .groglog.com
+.grooveguides.com
 .groovespacing.com
 .groovyornament.com
 .grouchybrothers.com
@@ -118140,6 +118145,7 @@
 .possiblepencil.com
 .potatoinvention.com
 .potentmagic.com
+.pottylife.com
 .powerfulblends.com
 .powerfulcopper.com
 .powertoolwiki.com
@@ -118174,6 +118180,7 @@
 .profanstee.com
 .profitrumour.com
 .profusesupport.com
+.projectglove.com
 .promiseair.com
 .propertypotato.com
 .propsynergy.com
@@ -118200,6 +118207,7 @@
 .puppiesart.com
 .purebloom.net
 .purposepipe.com
+.pursuitwomen.com
 .q20jqurls0y7gk8.info
 .quadquality.com
 .quantumlagoon.com
@@ -118237,6 +118245,7 @@
 .raintwig.com
 .rainyhand.com
 .rainyrule.com
+.ramartworks.com
 .rambunctiousflock.com
 .rangecake.com
 .rangeplayground.com
@@ -118263,6 +118272,7 @@
 .receptivereaction.com
 .recessrain.com
 .recipearena.com
+.recipediner.com
 .recipepile.net
 .recipepin.com
 .reconditeprison.com
