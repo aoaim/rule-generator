@@ -5109,6 +5109,7 @@
 +.analytics.dashboard.fingerprint.com
 +.analytics.data.lloydsbankinggroup.com
 +.analytics.data.visenze.com
++.analytics.datacite.org
 +.analytics.datahc.com
 +.analytics.datasavannah.com
 +.analytics.datascientest.com
@@ -5852,6 +5853,7 @@
 +.analytics.recruitics.com
 +.analytics.red.co.uk
 +.analytics.redbubble.com
++.analytics.redflix.ac
 +.analytics.redistributemag.com
 +.analytics.regex101.com
 +.analytics.regnskabshelten.dk
@@ -30776,7 +30778,6 @@
 +.gjgjl.1898leather.com
 +.gjhjo.impactdogcrates.com
 +.gjhkyh.4fresh.ru
-+.gjirafa.net
 +.gjirc.findyourhealthyplace.com
 +.gjjtey.mystylebags.it
 +.gjkha.beautyandtheboutique.com
@@ -40339,6 +40340,7 @@
 +.indiantripster.net.mydays.de
 +.indicative.com
 +.indicia.com
++.indieskills.com
 +.indio.net.mydays.de
 +.indiv.indivmedia.com
 +.individuad.net
@@ -41436,6 +41438,7 @@
 +.inside-graph.com
 +.insideinspire.com
 +.insidepsych.net
++.insidercorp.net
 +.insiderdrafran.drafrancieleminotto.com
 +.insiderosn.orgasmosemneura.com
 +.insides.honic.eu
@@ -41712,6 +41715,7 @@
 +.intinfo.wolterskluwer.com
 +.intlsst.zagg.com
 +.intlsucus.ucweb.com
++.intobuddy.com
 +.intouch.schlesingerassociates.com
 +.intr.naymish.com
 +.intralog.euvou.events
@@ -41786,6 +41790,7 @@
 +.ioxqdp.leatherology.com
 +.iozozb.shapertools.com
 +.ip-adress.com
++.ip-info.ff.avast.com
 +.ip-label.net
 +.ip.chipestimate.com
 +.ip.goguardian.com
@@ -41836,6 +41841,7 @@
 +.iplogger.info
 +.iplogger.org
 +.iplogger.ru
++.ipm-provider.ff.avast.com
 +.ipm.adblockplus.dev
 +.ipmeta.io
 +.ipmolrez.ems-dolorclast.com
@@ -44758,6 +44764,7 @@
 +.lime.zaplamp.com
 +.limecodesign.com
 +.limepeal.com
++.limitowl.com
 +.limpet.pioneerlandscapingllc.com
 +.line1-log.biligame.net
 +.lineartechnik.item24.de
@@ -53206,6 +53213,7 @@
 +.lvula.4joypaddles.com
 +.lvvhp.focl.com
 +.lw-c-log.lastwarapp.com
++.lw-c-log.lastwarapp.net
 +.lwadm.com
 +.lwashh.hessischer-jobanzeiger.de
 +.lwf.lendwysefinancial.com
@@ -61763,6 +61771,7 @@
 +.nc0.co
 +.ncbabz.hometogo.co.uk
 +.ncbvr.workmanusa.com
++.ncc.avast.com
 +.ncc.nip-col.jp
 +.nccaf.ncc-mens.com
 +.nccbp.apothekerblatt.com
@@ -65961,6 +65970,7 @@
 +.piranha.minnmyatsoe.com
 +.pirnn.hibobbie.com
 +.pirsch.io
++.pisano.com.tr
 +.pisqpr.puuilo.fi
 +.pista.pecasmagicas.com.br
 +.pitaya.devinue.com.br
@@ -66686,6 +66696,7 @@
 +.pp.sounddisposalinc.com
 +.pp3-sdk-api.profilepassport.jp
 +.pp3-sdkdata-v2-ut.profilepassport.jp
++.pp3-sdkdata-v2.profilepassport.jp
 +.ppao.usw.coherentbody.com
 +.ppb.pwpphotobooth.com
 +.ppcsw.capellisport.com
@@ -68465,6 +68476,7 @@
 +.rank-power.com
 +.rank.xn--q9js3lht3ch8cv8a227v79jxl6ewya3lo91swn7c.com
 +.rank4all.eu
++.rankaddict.com
 +.rankchamp.de
 +.ranking-charts.de
 +.ranking-counter.de
@@ -68755,6 +68767,7 @@
 +.reduxcms-sgtm.1800gotjunk.com
 +.redwingforbusiness.redwingsafety.com
 +.reedbusiness.net
++.reelcombat.com
 +.reeokx.reima.com
 +.reerac.resume.io
 +.reeyzk.momq.co.kr
@@ -68866,6 +68879,7 @@
 +.relead.com
 +.releasepath.com
 +.relevant-digital.com
++.relexpert.com
 +.reliable.elgas.com.au
 +.reliablecounter.com
 +.relieve.trywerelieve.com
@@ -69541,6 +69555,7 @@
 +.rocket.bubble.dk
 +.rocket.fadenkreuz-bobbel.de
 +.rocketmonitor.com
++.rockspreading.com
 +.rockstarwriter.com
 +.rodent.covisitor.app
 +.rodent.kevindendievel.com
@@ -69999,6 +70014,8 @@
 +.rubicon.wellsfargo.com
 +.rubolite.ems-dental.com
 +.rubouthunger.com
++.rubwonders.com
++.rubymoonwinery.com
 +.rubyswinehouse.com
 +.rucounter.ru
 +.rudder-server-prd.arena.im
@@ -72021,6 +72038,7 @@
 +.scriptshead.com
 +.scripttags.jst.ai
 +.scrollservice.com
++.scrubchi.com
 +.scrubswim.com
 +.scs.allsecur.nl
 +.scs.arcteryx.com
@@ -79686,6 +79704,7 @@
 +.sheep.vaxstandby.com
 +.sheeta.nrj-play.fr
 +.sheoil.newyorkandcompany.com
++.shepherd.ff.avast.com
 +.sherlock-events-sampler.ebay.com
 +.sherlock.gessikanogueira.com.br
 +.sherlock.markplusinstitute.com
@@ -101939,6 +101958,7 @@
 +.stats.velodirbtuve.lt
 +.stats.victor-giroud.fr
 +.stats.vidalytics.com
++.stats.vidbolt.pro
 +.stats.video.globo.com
 +.stats.videodelivery.net
 +.stats.videoseyred.in
@@ -104011,6 +104031,7 @@
 +.t.fuzeon.com
 +.t.fyndable.online
 +.t.galtuer.com
++.t.games.gg
 +.t.gardslunden.se
 +.t.gazyva.com
 +.t.gene.com
@@ -111029,6 +111050,7 @@
 +.tracklabs.zenkkoshop.store
 +.tracklabs.zenviaahome.com
 +.tracklabs.zenvorafit.com
++.tracklet.prod.tech.as-nmt.de
 +.tracklog.58.com
 +.trackmarketing.staubli.cn
 +.trackmarketing.staubli.com
