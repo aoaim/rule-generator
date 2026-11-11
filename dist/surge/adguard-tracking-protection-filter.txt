@@ -214,7 +214,6 @@
 .api.datahub-srgssr.ch
 .statisticslinks.com
 .metricslinks.com
-.gjirafa.net
 .siteperformancetest.net
 .convertiser.com
 .bidr.io
@@ -110538,6 +110537,15 @@
 .tagman.britishairways.com
 .ct.pinterest.com
 .incoming.telemetry.mozilla.org
+.ip-info.ff.avast.com
+.ncc.avast.com
+.ipm-provider.ff.avast.com
+.shepherd.ff.avast.com
+.analytics.datacite.org
+.tracklet.prod.tech.as-nmt.de
+.stats.vidbolt.pro
+.analytics.redflix.ac
+.t.games.gg
 .visor.sbrf.ru
 .visor.sberbank.ru
 .fluid-player-analytics.sky.it
@@ -115253,6 +115261,7 @@
 .essential-apps-analytics.herokuapp.com
 .d10vy5gom1ed53.cloudfront.net
 .um-public-panel-prod.s3.amazonaws.com
+.pisano.com.tr
 .o11y-proxy-otel-frontend.meli.com
 .mon.avito.ru
 .analytics-fe.digital-cloud-west.medallia.com
@@ -115402,6 +115411,8 @@
 .int.vlancaa.site
 .int.vlancaa.fun
 .tok.vaicore.xyz
+.pp3-sdkdata-v2.profilepassport.jp
+.lw-c-log.lastwarapp.net
 .mkt.supercell.com
 .collector.snowplow.supercell.com
 .api-abtest-cdn.learnings.ai
@@ -117591,6 +117602,7 @@
 .incomehippo.com
 .incompetentjoke.com
 .inconclusiveaction.com
+.indieskills.com
 .indscout.com
 .infamousstream.com
 .infinityhedge.com
@@ -117604,12 +117616,14 @@
 .insectmacros.com
 .insideinspire.com
 .insidepsych.net
+.insidercorp.net
 .inspirebees.com
 .insulatech.com
 .intelligentscissors.com
 .intentlens.com
 .internalcondition.com
 .internalsink.com
+.intobuddy.com
 .intricateberry.com
 .introjava.com
 .inventtango.com
@@ -117720,6 +117734,7 @@
 .lilydreamer.com
 .limecodesign.com
 .limepeal.com
+.limitowl.com
 .linksoutside.com
 .linkstable.com
 .littlegeese.com
@@ -118250,6 +118265,7 @@
 .rangecake.com
 .rangeplayground.com
 .rangergustav.com
+.rankaddict.com
 .rarelyfans.com
 .raresummer.com
 .razzweb.com
@@ -118283,6 +118299,7 @@
 .redbricksoap.com
 .redexecs.com
 .redmillgroup.com
+.reelcombat.com
 .reflectpaint.com
 .refundradar.com
 .regenergize.com
@@ -118293,6 +118310,7 @@
 .reignfans.com
 .relationrest.com
 .releasepath.com
+.relexpert.com
 .rememberdiscussion.com
 .remixbistro.com
 .remixslot.com
@@ -118344,6 +118362,7 @@
 .rockagainst.com
 .rockcarving.com
 .rocketmonitor.com
+.rockspreading.com
 .rockstarwriter.com
 .roguephilosopher.com
 .rollconnection.com
@@ -118358,6 +118377,8 @@
 .royalsbagels.com
 .royalsweeper.com
 .rubouthunger.com
+.rubwonders.com
+.rubymoonwinery.com
 .rubyswinehouse.com
 .ruralrobin.com
 .rusticfrench.com
@@ -118427,6 +118448,7 @@
 .screenphotos.com
 .scribblestring.com
 .scrollservice.com
+.scrubchi.com
 .scrubswim.com
 .sealtravels.com
 .seamlesssalon.com
