@@ -27688,6 +27688,7 @@
 +.events.petcamp.com.br
 +.events.petcshop.com.br
 +.events.plumbv.com
++.events.plus.yandex.net
 +.events.plutus.ninja
 +.events.popinfo.jp
 +.events.prd.api.discomax.com
@@ -70463,6 +70464,7 @@
 +.rocket.bubble.dk
 +.rocket.fadenkreuz-bobbel.de
 +.rocketmonitor.com
++.rocketserver.net
 +.rockspreading.com
 +.rockstarwriter.com
 +.rodent.covisitor.app
@@ -77702,7 +77704,6 @@
 +.sggqj.drakes.com
 +.sgh.schweighofer.com
 +.sghug.jonesroadbeauty.com
-+.sgimage.netmarble.com
 +.sgimo.gimofirst.com
 +.sgkazt.xlmoto.de
 +.sgm.kingz.co.uk
@@ -80921,6 +80922,7 @@
 +.silkworm.preventingsuicideinsussex.org
 +.silkworm.waspexpert.com
 +.silkworm.westwoodmbc.org
++.silkyslumber.com
 +.sillyscrew.com
 +.silverfish.djordjevanjek.com
 +.silverpop.com
@@ -86866,6 +86868,7 @@
 +.sparrow.carol.gg
 +.sparrow.uitvaartzorg-vanraemdonck.be
 +.sparrow.workingincontent.com
++.spasmgame.com
 +.spc.personalcreations.com
 +.spc.sparrods.com
 +.spcfl.belongdesigns.com
@@ -106128,6 +106131,7 @@
 +.tagging.woodtex.be
 +.tagging.work21.nl
 +.tagging.worldvision.nl
++.tagloyalty.com
 +.tagm.uneedcomms.com
 +.tagman.billiga-dammsugarpasar.se
 +.tagman.billige-stovsugerposer.no
@@ -107036,6 +107040,7 @@
 +.taxel.jp
 +.taxfvo.mamaloesbabysjop.nl
 +.taxisubsea.com
++.taxiwear.com
 +.taxkob.equestrianstockholm.com
 +.taylor.gladspring.com
 +.taz.met.vgwort.de
@@ -107462,6 +107467,7 @@
 +.templates.velpa.pl
 +.tempo-client-metric-prod.s3.amazonaws.com
 +.tempo.checkmate.live
++.tempowraps.com
 +.temptation.ad.nl
 +.temptteam.com
 +.temsys.temsys.fr
@@ -108581,6 +108587,7 @@
 +.topthrowbacks.com
 +.topu.rangdhonubd.com
 +.torbit.com
++.torhosting.net
 +.toro-tags.com
 +.toroa.merchnow.com
 +.torogoz.optimumketo.nl
@@ -112403,6 +112410,7 @@
 +.training.indigobusiness.co.uk
 +.training.thunderhead.com
 +.trainingreality.com
++.trainyourlab.com
 +.traka8.crypto-mall.org
 +.traker.fundacoessemcomplicacoes.com.br
 +.traker.karenrosebusiness.com.br
@@ -115960,6 +115968,7 @@
 +.view.trendwiseai.com
 +.view.truecorepanels.com
 +.view.zijieapi.com
++.viewanalitycs.org
 +.viewresource.com
 +.views-dual.hulu.com
 +.views.2222.ro
@@ -119419,6 +119428,7 @@
 +.yerbalist.velvetcannabis.com
 +.yes.kazistorebd.com
 +.yesss-a1at.mno.link
++.yetiminis.com
 +.yeumii.neoness.fr
 +.yewrcd.govoyages.com
 +.yext-pixel.com
