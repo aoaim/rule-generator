@@ -9350,6 +9350,7 @@
 +.ax.dailyhelplocal.com
 +.axacqy.henderson.ru
 +.axb4.vivabox.it
++.axcii.com
 +.axddzs.camping-and-co.com
 +.axdtpea.drmarino.ch
 +.axdxpa.finn.auto
@@ -9668,6 +9669,7 @@
 +.backuplanding.ubm-events.com
 +.bacon.getcarro.com
 +.baconbags.com
++.badge.dimensions.ai
 +.badgeboat.com
 +.badgerabbit.com
 +.badgevolcano.com
@@ -10056,6 +10058,7 @@
 +.bendavenportpic.net.mydays.de
 +.beneficios.davivienda.hn
 +.beneficios.davivienda.sv
++.benefitboys.com
 +.benefits.aon.com
 +.benefitssense.com
 +.bentengine.com
@@ -10444,6 +10447,7 @@
 +.bi.concordesolutions.com
 +.bi.manhuaren.com
 +.bia.brightinfo.com
++.bianopixel.com
 +.bibglj.timberland.fr
 +.bicp-analytics.postscript.io
 +.bid.ctv.house
@@ -11639,6 +11643,7 @@
 +.ca.video-cdn.net
 +.ca4r3auto.veseywear.com
 +.caamcs.julipet.it
++.cabstrategy.com
 +.cac.runna.com
 +.cache-ldschurch1.net.mydays.de
 +.cache.prebid-server.com
@@ -13974,6 +13979,7 @@
 +.co8386c3.eulerian.io
 +.co932.coloradopolitics.com
 +.coalkitchen.com
++.coalmerchants.com
 +.coastersim.com
 +.coatfood.com
 +.coavpecq.sklep.hellodogs.pl
@@ -14008,6 +14014,7 @@
 +.coffeefire.net
 +.coffeesidehustle.com
 +.cofs.partscentre.co.uk
++.cognitivlabs.com
 +.cogxmr.travelplanet.pl
 +.cohbjtqd.parfium.bg
 +.cohfp.chairish.com
@@ -14026,6 +14033,7 @@
 +.colad.au.willpowders.com
 +.coldbalance.com
 +.coldcallpro.com
++.coldcrucible.com
 +.coleta-autoridade.cursosdoportal.com.br
 +.coleta.curcura.com.br
 +.coleta.suplementosgolfeto.com.br
@@ -14440,6 +14448,7 @@
 +.comms.hello.global.ntt
 +.comms.services.global.ntt
 +.comms.supplychain.nhs.uk
++.commswap.com
 +.communicate.apcerls.com
 +.communicate.cision.ca
 +.communicate.cision.co.uk
@@ -14685,6 +14694,7 @@
 +.connect.labcorp.com
 +.connect.lavea.de
 +.connect.leadmagneten.dk
++.connect.liblynx.com
 +.connect.link.boone.health
 +.connect.lionsclubs.org
 +.connect.louton.com
@@ -65263,6 +65273,7 @@
 +.outdoorthingy.com
 +.outerwords.com
 +.outletpeople.com
++.outpro.net
 +.outreach.bilh.org
 +.outreach.connectednation.org
 +.outreach.crossref.org
@@ -69352,6 +69363,7 @@
 +.rain.franzy.com
 +.rain.journey.com
 +.rainbow-prod-jdlog.ldoverseas.com
++.rainbow.sheepesports.com
 +.raintwig.com
 +.rainyhand.com
 +.rainyrule.com
@@ -117773,6 +117785,7 @@
 +.webvitals.luxnet.ua
 +.webwise.com
 +.webwise.org
++.webworksworld.com
 +.weco.gasteo.de
 +.weco.ilon.de
 +.wecount4u.com
@@ -117978,6 +117991,7 @@
 +.wildpetalfarm.com
 +.wildwoodavenue.com
 +.wiley.met.vgwort.de
++.willcollect.com
 +.willow.thethompsonmethod.com
 +.wimi.aviendo.dk
 +.win.tanglego.com
@@ -117995,6 +118009,7 @@
 +.wioaavu.enkay.com
 +.wipe.de
 +.wirecomic.com
++.wiredcarts.com
 +.wiredforcoffee.com
 +.wiredminds.de
 +.wirenewsletter.com
@@ -118135,6 +118150,7 @@
 +.woodpecker.ember.ly
 +.woodpecker.mikehalliday.com
 +.woodpecker.uc.cn
++.woodstockcustom.com
 +.woof.psi-lekarna.cz
 +.woofweather.com
 +.woolstapler.com
@@ -119623,6 +119639,7 @@
 +.yolo.philipbjorge.com
 +.yoochoose.net
 +.yottlyscript.com
++.youanonymous.com
 +.youborafds01.com
 +.youcandrawanything.com
 +.youguess.stdseek.com
@@ -119650,6 +119667,7 @@
 +.yourhealth.wellness.providence.org
 +.yourlifedream.com
 +.youronestopshop.themagnetgroup.com
++.yourownexpert.com
 +.yourporscheimg.nabooda-auto.com
 +.yoursolution.electrified.averydennison.com
 +.yoursolution.tapes.averydennison.com
