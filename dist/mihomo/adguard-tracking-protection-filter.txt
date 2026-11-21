@@ -701,6 +701,7 @@
 +.a.medtronic.com
 +.a.meinmpp.de
 +.a.meloja.com.br
++.a.menards.com
 +.a.mercuriurval.com
 +.a.mi-clos.com
 +.a.mi-imc.com
@@ -14408,6 +14409,7 @@
 +.collserve.com
 +.coloradoserves.com
 +.colorandnoise.com
++.colorfilter.net
 +.colorfulneon.com
 +.colorfulpet.com
 +.coloroptimizer.com
@@ -27366,6 +27368,7 @@
 +.event-dot-learning-piano.appspot.com
 +.event-dot-procolor-backend.appspot.com
 +.event-gateway.data.karrotmarket.com
++.event-ingestion.yazio-analytics.com
 +.event-log-api-data-platform-data-lake-prod.gryphline.com
 +.event-log-api-ipv6.gryphline.com
 +.event-portal.dailyinnovation.biz
@@ -29391,6 +29394,7 @@
 +.forter.com
 +.fortnitechat.site
 +.fortunatemark.com
++.fortyninemaps.com
 +.forum.euvou.events
 +.forum.rottne.com
 +.forward.footballcamps.com
@@ -39140,6 +39144,7 @@
 +.hotlog.ru
 +.hotpotato.karmawellnesskitchen.com
 +.hotrank.com.tw
++.housewheels.com
 +.houston-content.cresa.com
 +.houston.advgo.net
 +.hoverfly.cdengine.co.uk
@@ -39743,6 +39748,7 @@
 +.idbnbt.strasburgo.co.jp
 +.idbus.trupeer.ai
 +.iddkr.portmeirion.com
++.ideamornings.com
 +.ideas.nanawall.com
 +.idehe.tlfapparel.com
 +.identity.algomoneo.com
@@ -45061,6 +45067,7 @@
 +.licensinginsights.ascap.com
 +.lida.entyrecare.com
 +.lida.pflegewegweiser.ch
++.lidsmarket.com
 +.liecso.e-himart.co.kr
 +.lieudetravail.ricoh.fr
 +.lif.madimelive.com
@@ -55835,8 +55842,10 @@
 +.mas.hronboard.me
 +.mas.protecmedia.com
 +.masau.audivorce.com.au
++.mascguys.com
 +.maschine.bengs-modellbau.de
 +.maskedadmin.com
++.masondown.com
 +.masseurexpress.com
 +.massivemark.com
 +.mastatic.yayoi-kk.co.jp
@@ -63275,6 +63284,7 @@
 +.nisii.resiliencelabo.com
 +.nitcnn.deai-sp.com
 +.nitoleecrai.anunciojuridico.com.br
++.nitrojiveband.com
 +.njbhp.promixnutrition.com
 +.njbrwf.pilatesshop.it
 +.njcchu.flowercampings.com
@@ -65090,6 +65100,7 @@
 +.order.workweargiant.co.uk
 +.orderdata.tryorder.com
 +.orderjumper.com
++.ordinalzero.com
 +.ordpmx.victorianplumbing.co.uk
 +.oreab.mycubesafe.com
 +.oremark.com
@@ -69408,6 +69419,7 @@
 +.rannat.varusteleka.com
 +.rapid-cdn.yottaa.com
 +.rapidcounter.com
++.rapidscraper.com
 +.rapidstats.net
 +.rapidtrk.net
 +.rarelyfans.com
@@ -104806,7 +104818,6 @@
 +.sxvkhq.downlights.co.uk
 +.sxwxswg8z1xe.www.arnowebtv.com
 +.sxyemx.micollarconnombre.com
-+.sy.ameba.jp
 +.sy.nicdecor.com
 +.sy1.nicdecor.com
 +.sydcxk.epipla1.gr
@@ -119369,7 +119380,6 @@
 +.yawsyi.freedomliftsystems.com
 +.yawxae.footpatrol.com
 +.yaxlek.dandy-house.co.jp
-+.yazio-analytics.com
 +.yazzuf.joyn.de
 +.ybczal.bitterliebe.com
 +.ybenbo.larachristie.jp
