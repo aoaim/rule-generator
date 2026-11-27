@@ -4,6 +4,11 @@
 .ib.snssdk.com
 .xlog.snssdk.com
 .log.snssdk.com
+.adcanvas.com
+.clerk-telemetry.com
+.ghtinc.com
+.download.gameanalytics.com
+.stmtag.ru
 .dataplane.rudderstack.com
 .api.rudderstack.com
 .cognitivlabs.com
@@ -318,7 +323,6 @@
 .static.terratraf.io
 .matomo.stackvaults.com
 .cdn.moengage.com
-.rapid-cdn.yottaa.com
 .rum-ingress-coralogix.com
 .elitebidder.com
 .adstk.io
@@ -113462,6 +113466,11 @@
 .tagman.britishairways.com
 .ct.pinterest.com
 .incoming.telemetry.mozilla.org
+.ap-prd-edge-clientlog.nexon.com
+.toy.log.nexon.io
+.pan.pazarama.com
+.dsh-otel-collector.deepseeksvc.com
+.tag.atom.gamedistribution.com
 .ingest.t3.codes
 .stats.proxypurity.com
 .cast-imp.jtbc.co.kr
@@ -113705,6 +113714,7 @@
 .aura.fairyaura.com
 .b.csquaregrc.com
 .b.dora.work
+.beam.denikn.cz
 .beats.churchdesk.com
 .bhs.alpha-peptides.com
 .blog-analytics.hskl.me
@@ -119725,6 +119735,7 @@
 .int.vlancaa.site
 .int.vlancaa.fun
 .tok.vaicore.xyz
+.appmetrica.sovcombank.ru
 .pp3-sdkdata-v2.profilepassport.jp
 .lw-c-log.lastwarapp.net
 .mkt.supercell.com
@@ -120887,6 +120898,7 @@
 .awaybound.com
 .awzbijw.com
 .axcii.com
+.axedint.com
 .axiomaticanger.com
 .axonsite.com
 .azuremystique.com
@@ -120941,6 +120953,7 @@
 .benefitboys.com
 .benefitssense.com
 .bentengine.com
+.berrytots.com
 .berserkhydrant.com
 .bestboundary.com
 .bestclimbers.net
@@ -121165,6 +121178,7 @@
 .chipperisle.com
 .chivalrouscord.com
 .choicebump.com
+.choosehobby.com
 .chubbycreature.com
 .chunkycactus.com
 .cicdserver.com
@@ -121427,6 +121441,7 @@
 .dollardelta.com
 .dollarpuzzle.com
 .dollarthrill.com
+.dolphinplate.com
 .dolphinsrule.com
 .domaincolumn.com
 .doomhedge.com
@@ -121607,6 +121622,7 @@
 .figurehunter.net
 .fileshareengine.com
 .fillthemap.com
+.filmcomm.net
 .filtercutter.com
 .finalizeforce.com
 .finalleague.com
@@ -121848,6 +121864,7 @@
 .healthyclad.com
 .heartbreakingmind.com
 .hearthow.com
+.heathstyle.com
 .heatrave.com
 .heavydetail.com
 .heavyplayground.com
@@ -121895,6 +121912,7 @@
 .hostchutney.com
 .housewheels.com
 .howdoesthislook.com
+.howglam.com
 .hubcapcafe.net
 .humbleroots.net
 .humdrumhobbies.com
@@ -122071,6 +122089,7 @@
 .littlesun.net
 .livelumber.com
 .livelylaugh.com
+.livingoff.com
 .livingsleet.com
 .lizardslaugh.com
 .llamavoice.com
@@ -122150,6 +122169,7 @@
 .marriedvalue.com
 .marsnextdoor.com
 .mascguys.com
+.maskdomains.com
 .maskedadmin.com
 .masondown.com
 .masseurexpress.com
@@ -123265,6 +123285,7 @@
 .tiltonbots.com
 .timecrossed.com
 .timelessyes.com
+.timeprince.com
 .tinybluewhale.com
 .tinybodega.com
 .tinyswans.com
