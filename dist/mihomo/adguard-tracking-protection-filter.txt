@@ -3047,6 +3047,7 @@
 +.adc.api.nine.com.au
 +.adc.nine.com.au
 +.adc.xxxlshop.de
++.adcanvas.com
 +.adcct.advancecctvbd.com
 +.adcfj.chocomize.com
 +.adchemix.com
@@ -6750,6 +6751,7 @@
 +.aowaat.elfadistrelec.fi
 +.aozmpm.jwell.com
 +.aozwsa.scotthotel.com
++.ap-prd-edge-clientlog.nexon.com
 +.ap.absoluteprotein.in
 +.ap.alphaplatform.net
 +.ap.app.mixvariado.com
@@ -8636,6 +8638,7 @@
 +.applytics.os4work.com
 +.applytics.zwyr157wwiu6eior.com
 +.appmetr.com
++.appmetrica.sovcombank.ru
 +.appmetrica.yandex.com
 +.appmetrica.yandex.net
 +.approach.wise1-golf.com
@@ -9448,6 +9451,7 @@
 +.axddzs.camping-and-co.com
 +.axdtpea.drmarino.ch
 +.axdxpa.finn.auto
++.axedint.com
 +.axentis.arclogics.com
 +.axf8.net
 +.axhlxshmej.knowledgecottonapparel.com
@@ -10078,6 +10082,7 @@
 +.beafdf.restaupro.com
 +.beagle.prod.tda.link
 +.beam.bereach.ai
++.beam.denikn.cz
 +.beam.ecomms.beamconnect.com.au
 +.beam.koddi.com
 +.beam.remp.impresa.pt
@@ -10173,6 +10178,7 @@
 +.berliner-zeitung.met.vgwort.de
 +.berninischulz.anunciojuridico.com.br
 +.berry.strathberry.com
++.berrytots.com
 +.berserkhydrant.com
 +.bersq.theadventurechallenge.com
 +.best-casino-malaysia-reviews.net.mydays.de
@@ -13437,6 +13443,7 @@
 +.chomp-staging-pay.net.jumia.com.gh
 +.choose.405dentalaesthetics.com
 +.choose.adelaide.edu.au
++.choosehobby.com
 +.choymp.pooldawg.com
 +.chpspb.bubbleroom.fi
 +.chqte.suncloudoptics.com
@@ -13678,6 +13685,7 @@
 +.clearviewcrm.softrek.com
 +.clebez.paprika-shopping.be
 +.cleedm.pittmandavis.com
++.clerk-telemetry.com
 +.clesor.uoecollection.com
 +.cleveritics.com
 +.clevi.com
@@ -24479,6 +24487,7 @@
 +.dolmxo.workport.co.jp
 +.dolphin.brandname.tech
 +.dolphin.sfelc.com
++.dolphinplate.com
 +.dolphinsrule.com
 +.dom.123zap.com.br
 +.dom.domorebetter.ie
@@ -24547,6 +24556,7 @@
 +.download-stats.mozilla.org
 +.download.createyournextcustomer.com
 +.download.dnv.com
++.download.gameanalytics.com
 +.download.mail.net.zooroyal.at
 +.downloads.advancedtech.com
 +.downloads.coface.com
@@ -24709,6 +24719,7 @@
 +.dsgigk.pocketsalad.co.kr
 +.dsgsvc.eneto.com
 +.dsgsvc.wattano.de
++.dsh-otel-collector.deepseeksvc.com
 +.dshcej.aosom.co.uk
 +.dsifi.toms.com
 +.dslji.haleolabs.com
@@ -29141,6 +29152,7 @@
 +.film.karada-tukuru.com
 +.film.netabare.wiki
 +.film.usuge-stop.com
++.filmcomm.net
 +.filmmkt.inmueblesanzuz.com
 +.filtercutter.com
 +.fimil.meatnbone.com
@@ -31508,6 +31520,7 @@
 +.ghp.adp.ca
 +.ghrnbw.avocadostore.de
 +.ghrzlu.skechers.com.tr
++.ghtinc.com
 +.ghupv.lascana.com
 +.ghvha.thunderlaserusa.com
 +.ghwkuv.lagirl.co.kr
@@ -39081,6 +39094,7 @@
 +.heartbeats.prd.data.s.joyn.de
 +.heartbreakingmind.com
 +.hearthow.com
++.heathstyle.com
 +.heatmap-events-collector.instapage.com
 +.heatmap-tracking-do-to-s3-worker-prod.flipdesk.workers.dev
 +.heatmap.emma.tools
@@ -39663,6 +39677,7 @@
 +.hovnec.biovancia.com
 +.hovxns.dehen1920.com
 +.howdoesthislook.com
++.howglam.com
 +.hoxha.nieuwspaal.network
 +.hoxsin-ad.hoxsin.co.jp
 +.hp.taboola.com
@@ -45858,6 +45873,7 @@
 +.livetrafficfeed.com
 +.livewebstats.dk
 +.living.chartwell.com
++.livingoff.com
 +.livingsleet.com
 +.livkjl.recea.pl
 +.livlnpnd.goteam.dk
@@ -56249,6 +56265,7 @@
 +.mascguys.com
 +.maschine.bengs-modellbau.de
 +.maserati-info.p06.elqsandbox.com
++.maskdomains.com
 +.maskedadmin.com
 +.masondown.com
 +.masseurexpress.com
@@ -66353,6 +66370,7 @@
 +.pamelarandom.com
 +.pamvc.sexymodest.com
 +.pamzqm.yitechnology.com
++.pan.pazarama.com
 +.panda.kasika.io
 +.panda.khadi.de
 +.panda.khadi.es
@@ -70214,7 +70232,6 @@
 +.ranklink.de
 +.ranlq.homedics.com
 +.rannat.varusteleka.com
-+.rapid-cdn.yottaa.com
 +.rapidcounter.com
 +.rapidscraper.com
 +.rapidstats.net
@@ -105843,6 +105860,7 @@
 +.stms.53.com
 +.stms.newline53.com
 +.stms.transforminglives.co.uk
++.stmtag.ru
 +.stmuyqht.smiletrain.org
 +.stmzj.pelicanhydration.com
 +.stnt.express-scripts.com
@@ -108311,6 +108329,7 @@
 +.tag.aromatico.de
 +.tag.atasunoptik.com.tr
 +.tag.aticdn.net
++.tag.atom.gamedistribution.com
 +.tag.aumago.com
 +.tag.b-sync.ch
 +.tag.beyondcarat.com
@@ -110330,6 +110349,7 @@
 +.time.net.anwalt.de
 +.timecrossed.com
 +.timelessyes.com
++.timeprince.com
 +.timexmetric.talhatonmoy.com
 +.timing.whenandhowagency.com
 +.timit.mno.link
@@ -111105,6 +111125,7 @@
 +.toweringanswer.com
 +.toxic-writer.xyz
 +.toy.libaasfashionmart.com
++.toy.log.nexon.io
 +.toyotacf.net.mydays.de
 +.toys.kongessloejd.be
 +.toys.kongessloejd.ch
